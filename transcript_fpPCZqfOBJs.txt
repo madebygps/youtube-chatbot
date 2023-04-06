@@ -1,0 +1,262 @@
+How I Successfully Study for Cloud Certificationshey everyone today i want to talk to you
+about
+why i think certifications are useful
+this is actually just going to be more
+of um
+like an extension of the blog post that
+i wrote on the acg blog
+so if you'd rather check that out i'm
+going to link that in the description
+with that being said hi welcome to
+another video i'm gps and let's get
+right into it
+also say hello to my dog
+alright so this is the study setup that
+i use
+whenever i'm learning really anything
+i'll have my study material
+so i'll go into a little bit as to what
+i have here on the left side
+in a second but let me go over to the
+side first i'll have my notes up here
+and i just use markdown i used to use
+notion but now that i'm
+moving my workflow over to open source
+no software i'm just using markdown and
+github to keep track of my notes
+so that stays up there on the top right
+and then
+here i'll have either like as
+sshed into my vm that i'm working on or
+maybe i'll have the uh some azure cli
+commands that i'm running here whatever
+it is that i'm studying
+um that's the hands-on portion will be
+down here and then
+again back to this side on the left i'll
+have my actual study material
+and this is my first tip for y'all find
+material that works for you
+you can see i have this book open which
+is linux basic for hackers i talked
+about this book
+in my previous video and then i also
+have this course python 3 scripting for
+sysadmins
+and this is on the a-cloud guru platform
+all right so right off the bat i'm the
+first one to tell you from personal
+experience that certifications have been
+beneficial for my career
+because i got aws certified back a
+couple years ago i landed an interview
+which led to a job which led to a cloud
+engineer promotion
+and most recently i took another
+certification at the beginning of this
+year
+linux essentials linux linux essentials
+and that's led me to uh you know just
+really enjoying this linux world and
+open source world and and creating more
+content around that
+that's been fantastic as well on
+linkedin on twitter it's easy to find
+people who bash certifications
+who think they are a waste of time you
+know i guess that's a fine opinion i
+have there's also people who love them
+and
+are obsessed with collecting all the
+badges and such
+and i guess that's also an okay opinion
+to have frankly my way of learning and
+my way of living
+doesn't fit either of those models i'm
+somewhere more in between and
+i know when to study for a certification
+and when to kind of just
+wander off on my own way and figure
+things out now
+um for me i kind of have like this
+framework that i apply to each lesson
+to whatever i'm learning but i'm just
+gonna use it in the context of studying
+for certifications
+i actually wrote about this on the acg
+blog go check that out
+and if you enjoyed it could you share it
+please and tag me
+all right anyway uh so it's kind of like
+the seven step thing i like to call it
+my don't
+use study material like a netflix show
+checklist
+first i'll watch any lesson or read
+whatever chapter i'll highlight any
+concepts that i don't understand
+second i will go through that list of
+concepts that i didn't understand and
+look them up
+this is a great time for me to visit
+official documentation
+because you know knowing how to use
+documentation and how to you know
+find what you're looking for is a good
+skill set to have three
+i'll watch the course the video the
+lesson the individual lesson or i'll
+read the chapter again but now since i
+have this new understanding of the
+concepts that i didn't know in the first
+place
+things started to click and it's pretty
+magical feeling step four is to just do
+any on-screen demos that they're doing
+if they're running through some sort of
+example or exercise deploying a service
+to the best of my ability
+i'll do that on my own sometimes i get
+there sometimes i don't but it's
+additional hands-on and especially since
+uh for example now i'm learning linux
+and i'm not doing too much hands-on
+with that kind of stuff at work any you
+know extra
+help or ways that i can get hands-on i'm
+definitely going to take advantage of
+that
+so five is just the right notes you know
+bullet points just stuff that i can
+reference to
+and stuff that kind of keeps me on track
+because when i stop studying and i
+resume
+the next day or the day after whatever
+it is um i know where to pick up and i
+kind of it it serves as like a refresher
+for myself
+uh after that i'm gonna do any live labs
+or any exercises or any bonus points any
+anything
+that they have assigned sometimes at the
+end of a chapter they'll have like bonus
+points implement this or
+um like the course i'm using on a call
+guru has
+labs that i could use and i could do as
+well um and i'll
+do those so yeah that's the step six and
+the last step is the most important one
+for me and this might be
+optional for yourself but again i'm here
+just talking about what works for my
+um and it's synthesizing my learning
+online i'll turn my notes into a youtube
+video or to a blog post or
+uh you know i'll find ways to share the
+knowledge online
+and this really helps because i'm taking
+my notes and turning it into
+like a cohesive piece of content so it
+builds my technical portfolio but also
+might help someone else out and that's
+the reality is you might not look at
+yourself
+as a teacher but you really never know
+who you're going to be able to help
+so that's kind of my mindset i just put
+it out there um
+yeah those are like the steps i take for
+each individual lesson
+and you might be thinking wow this might
+take you forever to learn something if
+you do all these things
+and yeah you're absolutely right
+studying for my first aws cert took me
+like
+six months i believe and then studying
+for the linux one um i would say cider
+back in december so about three months
+or so
+uh but it's worth it you know um i'm
+building hands-on things that i can put
+on my github and i'm building my
+technical
+content portfolios and and i'm you know
+resourcing resourcing researching and
+looking things up
+in the documentation and yeah uh it's
+worth it and it's been
+quite beneficial for me uh i also know
+when to take breaks or when to explore
+other things right it's not always for
+me like i just have to
+learn a certification i could go and
+pick up something else like with linux
+it's super easy to want to
+go out and just try all these open
+source projects that are fun
+well documented and that's what i've
+been doing like building modules from my
+magic mirror
+or building a nas or deploying a ghost
+blog on
+an ubuntu server or finding open source
+or open source alternatives to all the
+programs that i've been
+used to using and it's been great um
+i'm still studying for my next linux
+cert which is the linux foundation
+certified system
+administrator but i'm taking my time i'm
+really enjoying it and i'm not forcing
+myself to do anything again i know
+that's because of where i am in my
+career and it might be different for you
+you might have to take a cert right away
+or whatever it is uh but yeah
+this is what works for me um one thing i
+will say
+is there's not one course out there that
+will 100 answer everything that you want
+it to answer you
+and it won't teach you everything but
+this is a good thing you got to look at
+it in the way of like
+it'll get you half of the way there to
+some extent
+obviously there are material that are
+terrible like all exam dumps are
+absolutely terrible and you shouldn't
+use
+but the majority of content does teach
+you something um
+and it's up to you if it works for you
+or not right um we all have different
+ways of learning and that's why it's
+also hard for me to recommend any study
+material to anybody
+because what works for me may not work
+for you but
+as long as it enables us to learn and
+well back to myself
+as long as it enables me to get like
+some momentum
+i can try to fill in the gaps and you
+know go and search on search for things
+that i don't understand
+and this is quite powerful because
+oftentimes you'll be on a team that are
+they're open to helping they're open to
+questions but
+you know i've also been on teams that
+aren't quite as open and it sucks but
+it's a reality
+so learning how to figure things out for
+myself has been
+uh it's been great and i think courses
+in
+study material do that because none of
+them get you all the way there
+but anyway yeah that's it for this videoi'll see you in the next video

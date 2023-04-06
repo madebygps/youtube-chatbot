@@ -1,0 +1,217 @@
+Ace Your Cloud Interview: How to Whiteboard Elasticity vs Scalability!I was in a cloud engineering interview a
+couple years ago I remember being so
+embarrassed because I felt like this is
+a concept I should have understood
+before going into the interview but I
+really didn't I was asked to explain the
+difference between scalability and
+elasticity and if I could diagram it out
+or anyway to visually represent it and I
+couldn't I remember answering it just
+saying a whole bunch of like buzzwords
+or something like that and I remember at
+the end of my answer I just thought to
+myself oh boy there's no way I'm getting
+this job I didn't get the job so yeah
+now with a couple of years experience
+since then let me explain it to y'all in
+case you ever find yourselves in this
+situation right so let's switch over to
+the screen on my left side we're gonna
+display scalability on the right side
+we're going to display elasticity and
+I'm gonna show on my y-axis I have
+traffic and resources traffic and pink
+resources in blue and on my x-axis I
+have time we can say this is like 30
+minutes so it's the same time frame on
+both left side and the right side here
+okay
+so I got my pencil tool here we'll make
+sure we're set to the right color and
+let's draw some traffic so let's say we
+have some traffic like this we have a
+little bit of a peek goes back down
+and then we have a bigger Peak sustains
+there goes down
+and then goes back down here okay
+so let's say this is traffic these are
+users uh these are you have a sale or
+something I don't know let's say you
+have an e-commerce app or something like
+that and then your resources which we
+are representing in blue
+so the resources you have allocated for
+your infrastructure just to handle the
+traffic uh on average you'd probably
+perform around here right
+and these are sort of manual rules
+actually it's probably going to look
+more so like this hold on let me grab
+the eraser uh just Ctrl C that
+it's probably going to look something
+more so like this it's uh probably gonna
+perform like here and then
+no actually oops probably gonna perform
+like here
+and then go up the hereand then
+probably something like this okay this
+isn't it 100 accurate like this isn't
+like a scientific graph or anything like
+that but
+what I'm trying to
+to convey here is that roughly the
+resources will follow the traffic uh via
+some like generic or some general rules
+like
+let me grab this tool here and let's
+grab another color let's grab like a
+green and you see here we have a peak
+here
+then we have a peak here
+but at this point right here
+and then at this point here so what we
+end up having here
+is so these are our peaks in the traffic
+and suddenly this starts to go up
+so here is where the
+infrastructurelet's make this a little can I make this
+larger how can I make this larger like
+this here we go
+so here it could be a rule like when
+above 50 percent
+CPU
+utilization
+scale out something like that right so
+we are going to respond to an increase
+in traffic with this scaling rule
+and the same kind of happens up here
+except it's the other way around right
+uh
+we start to notice that actually this
+might be closer to here we start to
+notice that the traffic is going down so
+when
+below
+50 CPU utilization scale down okay right
+so you're gonna get your resources to
+either scale out
+um scale up scale in in this case it
+should be scale
+scale in
+because we're doing scale out and
+scaling right
+and we are in this case we can say that
+we are
+engineering and Engineering for Peaks
+and we can grab this we're going to put
+this in
+a different color here we're engineering
+for Peaks here nothing wrong with this
+so workloads that work perfectly fine
+when you find when you are just
+utilizing this type of scaling
+elasticity is also a type of scaling but
+it's different we're going to see it in
+a little bit
+but right you you have these sort of
+upfront rules that you put into place
+maybe you've analyzed your traffic
+before and you just know that okay
+whenever we have Peaks our resources
+tend to require this type of scaling
+Behavior so let's put those we'll Define
+those rules up front
+overall it can seem like a very
+like you're making like assumptions and
+like very manual types of rules being in
+place
+and it works of course uh for different
+workloads right
+but in let me copy this exact
+line of traffic here and we're gonna
+move it over to elasticity actually I'm
+going to switch my camera also this way
+what it would look like what our
+resources would look like when it comes
+to elasticity is wait no this is pink
+and then I need to grab
+another one that is blue
+it aregrab this again but I want to do this
+here okay
+uh resources would closely follow the
+traffic
+scale out sustain scale in sustain
+scale out sustain
+scale in sustain scale in sustain right
+I'm going to erase this little dot here
+because that has something to do with
+anything
+so here you can see that the scaling of
+the resources is a lot more Dynamic and
+it's a lot more sudden
+and this is heavily based on metrics
+logs if you're using Azure it's probably
+something like Azure monitor application
+insights those those types of logs and
+metrics that are available to you if
+you're using AWS probably cloudwatch you
+might be using data or New Relic there
+are a bunch of different sources you can
+utilize right
+so here what we end up doing
+engineering for sudden and dynamic scale
+right now this is obviously going to beway more pricier well I guess way more
+depends on what your scaling situation
+is up over here
+but generally
+we'll just put like two something like
+that generally elasticity can be more
+expensive than your standard scalability
+now elasticity is scalability
+you are scaling but it's more sudden and
+dynamic like I mentioned so it's kind of
+like a higher level a higher tier
+when you think of scalability you're
+thinking maybe things like scale sets
+um like virtual machine scale sets when
+you think elasticity you're probably
+thinking something like a traffic
+manager uh like a load balancer
+um things like that right where you are
+matching the traffic suddenly and as
+soon as possible this is a lot more
+automatic it's more so putting in place
+like grabbing the right metrics and the
+right logs and putting them into uh
+where they're available to your
+resources so your resource like sees
+like oh I got this
+um I got this metric from the virtual
+machine that says well from the from
+Azure monitor that says our traffic is
+starting to go up let me scale myself
+out oh I got this new metric that says
+our
+our traffic is going down let me scale
+down right so there is a
+slight difference and it's important to
+understand when you would use one over
+the other
+you know for critical workloads probably
+something on the right makes more sense
+but again you always have to keep in
+mind the cost as everything in cloud
+like you know you have your pros and
+cons and the cost is always going to be
+one of them right so yeah I hope this
+better explains these two concepts for
+you I have a couple other ones that I
+remember doing really really bad out
+that I want to make more videos on I'm
+going to export this diagram and put it
+somewhere for y'all to be able to
+reference if you need to
+but if there are any other Concepts you
+want me to cover let me know and that's
+it for this video

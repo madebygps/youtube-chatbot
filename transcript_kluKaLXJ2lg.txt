@@ -1,0 +1,226 @@
+How I became a Cloud Engineer with no college degreehi everyone welcome to a new video it's
+gonna be a little bit different this
+isn't a tutorial or a study notes so if
+you interested in that skip to the next
+video or don't watch this one if this is
+more of a life update kind of thing I
+want to do reflect on the journey of how
+I actually got into the cloud
+engineering space and my background is a
+little different as you see the title I
+had no experience I had no degree I
+still don't have a degree and going into
+the field so I figured if anyone else is
+out there and they kind of find
+themselves in a very similar situation
+providing a little bit of transparency
+and insight into how I got into it might
+be able to enable you I've broken it
+down into five sort of tips three are
+for getting actually into the field and
+then two are once you are in the field
+what could enable you to take the next
+step or take different risks and such so
+the first one is going to be try to lean
+on resources that you already have a lot
+of people are in already like a
+developer role helpdesk role a sysadmin
+role and networking role and want to
+move into cloud sometimes at the places
+that you are already in they'll have
+someone who is working on cloud maybe
+there's an infrastructure team maybe
+there's a cloud engineering team already
+see if you could maybe like negotiate
+some downtime with your supervisor maybe
+you can get an hour a week to just see
+what they're working on and it's like
+the cloud seems to be what the cloud
+team is working on I was at I helped
+this job it was like an entry-level
+helpdesk job and I when I had downtime I
+was able to sort of shadow any team I
+wanted to and my only interest really
+was the infrastructure team because I
+got along with them and they were moving
+some stuff into AWS so they allowed me
+to really see what was going on
+that led me to getting AWS certified
+which I would also recommend doing get
+certified in whatever cloud platform you
+want to become certified in and I got
+kind of an introduction to how it works
+thanks to certification and thanks to
+being exposed to AWS with this team then
+this rules into my second tip which is
+widen the pool of areas that you are
+applying to everyone wants to work at
+Facebook in Google in Amazon and
+Microsoft and Apple and those are great
+if that's your goal definitely go for it
+but that was completely off the table
+for me because I didn't have a degree I
+don't have a degree I I didn't even go
+to high school here I was living in
+South America I did two semesters there
+I dropped out of school and moves back
+to to the States so I barely had any
+work experience really on paper
+so I was like all right let me try to go
+for these smaller mid-sized companies
+maybe a little work better for me and I
+heard back from a lot of these I will
+say that I was sort of at a time where
+getting certified and getting at the
+cloud computing was still very very
+niche so this was about three or four
+years ago
+so yeah I had that going for me but
+definitely applying to smaller mid-sized
+companies worked well for me and I feel
+like it's a little less competitive and
+they're a lot lighter on what
+requirements you need to even get into
+the field and what se experience you
+need and sometimes they're willing to
+take a bigger risk on people just
+because they need Talent
+so yeah give that a try my third tip is
+be open to what roles you're going for
+maybe not your next step isn't
+necessarily a cloud engineering
+computing role but maybe it's like cloud
+adjacent like it'll give you exposure
+into it I know for me I help desk job
+got certified and then I was applying to
+roles I was applying a bunch of cloud
+rolls but I was also playing - any roles
+that would give me exposure to cloud and
+I landed on the role that I'm in now
+well the company that I'm in now where
+there it was a sysadmin role obviously
+would have to do sysadmin and some IT
+stuff but IT Help Desk things but they
+also mentioned in the bullet points
+there and in the pith in the listing is
+if you have any interest in cloud we're
+currently migrating and you'll have
+exposures to that as well so for my
+highlight I landed the job I actually
+did like really well in the interview
+and that could be a whole video on
+itself but I you know did Welling
+interview I landed the job and then for
+the first year I was not only taking
+care of all the roles them I all the
+tasks on my roles
+defined but also I was volunteering to
+be on any additional project that would
+give me exposure to cloud and I remember
+working a lot like that lot that year or
+time on the weekends obviously I'm in a
+privileged position where I don't have
+kids depending on me or like a partner
+or anything depending on me so I really
+had all my time to myself and I wouldn't
+necessarily say it was a healthy
+behavior because I remember gaining like
+a lot of weight and being anxious but I
+learned so much and I got so much
+exposure and and sometimes there's that
+sacrifice that you do have to make in
+order to make the next up in your life
+so that was definitely worth it but I
+would have not landed in that position
+or not gotten exposure if it weren't for
+me
+open to not necessarily landing a cloud
+role but getting into a role that would
+get me there eventually and that leads
+into my what is this fourth tip well I
+guess this is kind of like the same is
+sometimes you don't need to move the
+company sometimes you can move up
+eventually I was promoted into a clown
+engineering role but that happened
+within the same the same company so that
+might be a possibility too
+my fourth tip is once you're in your
+role and this is I guess for any rolling
+any and not specific to engineering is
+be smart with your money I was never
+like literate when it came to personal
+finance up until a couple of years ago
+where I started making some money enough
+to save and I was like maybe just saving
+isn't enough so I started learning about
+like retirement accounts and investing
+in stuff like that and you know now I'm
+in a position where if I take risks I
+have a great cushion to catch me in case
+I become unemployed or something or I
+stop making money but yeah that's kind
+of just like that's more like a life tip
+but I would say just because sometimes
+these engineering roles come with
+salaries that are pretty big yeah it'd
+be smart with your money that's number
+four
+and number five also is like once you do
+land your role lean on your community to
+continue to educate yourself I'm not
+telling you to be studying constantly
+every single day learn every single new
+tool but be in the know stay updated
+you know chat with other people who are
+in the field or chat with other newbies
+or chat with other professionals
+whatever it feels work feels good for
+you utilize things like LinkedIn and
+social media in general are great ways
+to tapping into the community but
+network and and you'll never know what
+opportunities come from that I speak
+from my own personal experience I
+tweeted about this as well as like since
+starting this channel I've built an
+amazing network and so many
+opportunities have popped up for me in
+order to say take a next step of maybe
+being employed as a college and you're
+doing it completely on my own which is a
+step that I'm taking at the moment so
+you'll never know what comes from
+networking and building yeah those words
+those are my five I guess bullet points
+us too
+how to get into the field and once
+you're into the field how to keep
+growing don't be afraid to go for it
+apply for apply for anything really I I
+applied to a lot of things and I got
+rejected to a bunch of things but you
+know becoming comfortable with rejection
+is a skill set on its own so go for it
+just go for it um anyway reach out to me
+on Twitter if you'd like to chat or if
+you need to talk about really how you
+know some struggles or anything really
+hundreds of cloud is still going on I
+think I mentioned that in my previous
+video if you are looking to get hands-on
+with a couple of projects or the
+community or talk to us we're over 230
+members now and you know we're dialing
+the code of conduct right now to make
+sure it's a safe and open environment
+for everyone and you have my word that
+I'm fully fully committed to that and
+it's an open source project so no one's
+making money off of it it's really just
+a bunch of volunteers putting in the
+time and resources to grow it so yeah
+hundreds of cloud comm if you want to
+learn more cloud things as always you
+can find me on Twitter at me by GPS and
+I will see you in the next video

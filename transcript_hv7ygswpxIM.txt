@@ -1,0 +1,3779 @@
+Talking tech layoffs and getting into DevOps with @KunalKushwaha and @rishabkumar7yeah seven people waiting
+uh I saw ten
+wowlong daybut
+I have a new toyuh what up everyone
+uh let meforget that like button let's set a goal
+I like to set goals early
+let's set for a hundred last time we
+almost hit we ate 84.85 I believe last
+stream so let's see if we can hit 100.
+how we doing everyone uh wild week wild
+wild week
+how are you worship
+I'm doing good yeah doing good
+hello from Brazil I have to turn my sign
+onfrom Brazil what's what's time what's
+the time there my ummy my dimmer the one that I recommended
+I don't know if you bought it but don't
+buy it because it stopped workingit just showed up today
+I think so
+I bought it because
+a few days ago and like uh they were
+parcel lying in the front door I haven't
+opened it yetyeah well at least only you're plugged
+in because I left mine plugged in and it
+stopped working so
+it's like a it overheats and like melts
+maybe something like that I don't know
+what up everyone do me a favor hit a
+like let's try to hit 100 people to
+stream so share with people let's hang
+out for a little bit let's talk all this
+crazy stuff
+what is 343 rip 343 stuff
+what is
+three four threeI still have to get a new keyboard this
+one I'm I just I'm so sad I don't want
+to let it go
+you have to get a new keyboard or you
+got a new keyboard no I have to my cat
+um
+messed it up
+uh um spelled something or yeah yeah
+so after a new one I just don't know
+which one to get because I can't find
+the one that I like a lot
+like remember I was saying that I should
+just buy two of these or something like
+that like stop okay you did send me I
+thought you did stock up
+I did not I was like
+the chemistries yeah it's very
+appropriatevery appropriate for the week
+um the University of industry is an
+American video game developer located in
+redern Washington part of Xbox game
+studios
+crazy
+so there was
+uh what's the number for gcp 12 000 laid
+off today yeah 12 000 laid off at gcp
+twelve thousand light off at a Amazon
+not just AWS Amazon
+and then obviously the 10 000 not sure
+yeah I think ten thousand
+uh Microsoft but
+I
+don't know if everyone's been
+like told or I don't know really but
+that's like remember that they're
+they mentioned
+um
+what a week it's like personally it's
+like
+every time Outlook makes a sound
+it's very
+it's very use a lot of anxiety anxietyso there's thatuh I just discovered this discover that
+I have to rebuild my entire VMware lab
+setup including a new domain controllerum
+is this like a work thing yeah I'm
+assuming this is working yeah and like
+what happened I'd love to know some
+backstory here
+because I build an entire VMware it says
+VMware lab so that's why I feel like is
+this a personal setup kind of thing
+could be
+what up HC how you doing Lucas oh
+there's two Lucas's in there there's one
+Lucas Henderson and one
+just Lucas
+Eric how you doing Alex how you doing
+Lucas asks what is the reason for these
+layoffs pleaseuh probably I don't know they say like
+you know economy and all that kind of
+stuff so that's
+really all I know
+Alex this year they were looking for an
+excuse to play copycat huhyeah
+I think they all have been saying that
+you know we
+have been hiring so
+much over the last
+five ten years
+um and that was not sustainable
+and they're realizing it now with the
+economy collapsing so that's the same
+kind of sentiment I've been hearing
+around from like leadership and stuff
+I got a fantastic question let me bring
+it up
+hold on I got this really good question
+I was like I want to answer this on
+stream I don't I didn't even really
+think about it I said I want to think
+about an answer on stream
+okay
+okay it says here
+uh wait hold on where is it uhuh okay uh
+if Microsoft were to lay you off
+obviously with Severance but then want
+to rehire you in say six months would
+you go back regardless of the job you
+did or did not acquire in the interim do
+you love the culture at Microsoft or any
+company enough to trust them again
+company loyalty versus modern corporate
+model are protect profits and sharehold
+interests at all costs no I don't think
+it's a right answer but I'm curious
+so the question is
+would I return to Microsoft if I was
+offered a job after being
+after being laid off so Saget laid off
+then six months later like hey we want
+you back would you come back
+and then there's other kind of questions
+about uh company loyalty and stuff like
+that
+um so let's break that down that first
+answer is I guess it depends on what I
+was doing the
+the next like my natural
+I think I'm in a position where I I
+would would most likely
+take a lot more to decide on what my
+next role would be so if I do join
+another place I wouldn't probably be
+looking to leave right away
+um because you know you know I think it
+probably takes a couple months to land a
+role in this again actually I don't
+really know but you know six months is
+relatively short
+to like leave a place especially if it's
+one that I've made like a very Mindful
+and aware decision to join nowthat means that doesn't mean like I
+wouldn't go away go I was just thinking
+like most likely that's the situation
+that I might find myself in so probably
+not but that doesn't have anything to do
+with that like I'm upset at Microsoft or
+anything like that no absolutely not
+it's just probably I'm at a job that I
+I enjoy or something like that uh
+what about you what if you were laid off
+would you go back
+I was going to ask you like a follow-up
+question what if they reach out to you
+in a yearagain it depends on like what the role
+is what I'm currently doing I think this
+person is more so trying to ask me like
+if I'm going to hold some kind of grudge
+against the any company that lays me off
+and
+if it's done in a respectful way in a
+way that like they did their best they
+absolutely could to handle it then yeah
+so be it
+um
+yeah I don't think I would hold any
+grudges unless it was done in a way that
+like humiliated it me or made me uh made
+my my job search for like after that
+more difficult than maybe but
+I don't think so they
+the second part to that is like company
+loyalty
+I don't necessarily think I have loyalty
+to
+any company or or brand or anything like
+that
+um I know I like YouTube and a lot of
+stuff that I do is like there's a lot of
+azure and stuff like that but that's
+mainly because that's what I was working
+with before I worked at Microsoft and
+that's obviously what I work with now if
+I left and was at a shop that like I got
+reached out for like an AWS developer
+role the other day and I'm not
+necessarily opposed to it but
+yeah I don't really think that I'm tied
+to certain technology I like I truly do
+like Azure I truly do enjoy working with
+Microsoft products but if another
+opportunity came along and uh then you
+know you'd probably see more of that
+stuff in my channel I think I would want
+to stick to Cloud but the loyalty to a
+company isn't necessarily
+like massive that doesn't mean that I
+mean I guess the other the flip side of
+that is like I really enjoy the role
+that I do I enjoy the team I enjoy the
+work
+um I enjoy the culture and that
+um so I would like to see here but if it
+doesn't happen then you know you're
+gonna you gotta move forward you gotta
+find whatever the next the next thing is
+hold on my
+girlfriend close the door and then the
+cat is in here
+the cat wants to get outum let's see
+how how do you feel what do you think
+about company loyalty
+yeah I know
+um I think it's pretty much same
+sentiment that you know it's the tools
+like I use both AWS and Azure I
+use twilio to build the stuff the
+content the talks I still use Python
+right
+and if it if there is a rule that aligns
+with all of thatafter twilio so saying that if I get
+laid off and I go work somewhere else
+where maybe I have to learn gcp which
+was the case a few months ago right or
+like last year
+um yeah I don't believe that
+I would leave a company within six seven
+months where I was on boarded and
+also being the role that I needed
+desperately or not desperately but you
+know when I was laid off like I don't
+think I would leave that role within the
+short amount of time to go and like
+bounce back to
+uh tulior
+Microsoft in your caseone thing I will guarantee you is that
+and I was talking to Richard before so
+this is why it's relevant it's if I did
+get laid off
+I would make
+videos up until I found my next thing
+because I'm looking for a job without
+having a job is something that I haven't
+experienced
+for a couple of years
+so now that I have way more years of
+experience and a way different mindset
+that I did when it originally happened
+to me I'd be curious to see how I would
+handle that so my channel might turn
+into like unemployment Vlogs for a
+little bit until I find whatever the
+next thing thing is so
+yeah but ultimately business is business
+uh layoffs are going to happen and it
+sucks it really does but it really does
+make a difference how companies handle
+it and I think that is what matters more
+for me in making a decision if I wanted
+to like come back or not
+umumgave up on company loyalty years ago
+perhaps my company just made me jaded
+though there are companies that
+definitely suck that's for sure one
+thousand percent
+yeah I wouldn't know ever go back to a
+company that laid me off
+uh
+uh malix's just Malik's is just like
+dubia said how they do says more about
+the company than the staff restructuring
+by itself
+yeah I had two companies call me back
+after they quarterly feelings I said no
+thankseven if they offered more compensation
+as form of apology
+I move forward no sense in looking back
+so this is
+this is kind of interesting becausea lot of people being laid off it's like
+you know these are people who are most
+likely very like productive great
+employees greater what they do so
+it's not necessarily that they're being
+laid off because they're not worth it or
+something like that soI don't really think it's like if you
+were in that role and then you go back
+like it's because you're not taking
+steps forward in your career
+so I don't want this this there to be
+the stigma that people being laid off or
+because they're not good at what they do
+because that's not the case
+yeah yeah and especially in this like
+the in this I guess wave of layoffs
+umso yeah but people will make different
+decisions based on their own their own
+life for sure
+you two are very talented have you
+thought about making your own business
+as a contractor if you got laid off
+someone said this the other day I can't
+remember who mentioned this I think it
+was on the stream that I did I think I'd
+consider it
+um
+I think it might be difficult between us
+both because worship is based in Canada
+and I'm based here in the US so
+building a business or starting a
+business yeah we're both in different
+countries might be leave to like have we
+will have to read a lot of paperwork
+yeah and there's probably a lot of stuff
+that would be maybe limitations or
+something like that um
+but I mentioned that I would want to
+turn learn a cloud into something that
+could make money I was going to say that
+we already like kind of work on
+something together so that's my my
+loyalty is to learn the cloud that's the
+only loyalty I'll have when it comes to
+some sort of cloud entity it's to learn
+the class why we both have signs here
+uh I was a high performer with bonuses
+still got laid off yeah yeah no one is
+no one is safe when it comes to layoffs
+there's no way of being layoff proof
+oh yeah
+it's just if you're if your whole team
+needs to go you're you're they will take
+your whole team off and that's why I
+think your point about you know it's not
+the talent or the skill that people are
+being laid off uh based on their like
+you know skill or Talent it's not that
+currently at least because if you think
+of it in a way that you know they were
+still engineers at Google they were
+still engineers at Microsoft so they
+have been working at least
+majority of them have been working for a
+year or more right yeah um so they got
+to be like good skilled uh individuals
+it's just a business need that has
+changed now and it's caused
+to be laid off
+yeah there's a bunch of different
+reasons why it's like it's hard to
+it's hard to pinpoint and it's like a
+lot of science either yeah uh someone
+said okay conspiracy time people are
+making too much money so fire everyone
+because inflation isn't working
+I've heard this a lot
+like they're just gonna have to fire
+people until I mean and it's just not in
+Tech this is in general
+fire people until uh this inflation
+situation gets uh situatedit was looking something up I haven't
+been laid off before but I've returned
+to company slice after leaving themI don't think I've ever been in a
+position where I've wanted to return to
+a company that I've been at but if I did
+want to I'd reach out that's why it's
+important to not burn Bridges
+yeah yeah
+um I think yeah you know about this
+story about me considering the
+counteroffer that I was given at UCI to
+stay yes but I definitely blowing the
+bridge there with the company that I was
+hired at yeah yeah but
+yeah I've never been in a situation
+where
+like I was laid off or fired and then
+later reached outum that's the closest I've been is given
+a counter offer and
+um to join the devops team in the state
+yeah no I get it
+maybe to monetize learn to Cloud you
+could have more advanced projects
+paywall so this is the vicious circle
+that I was talking about the other day
+if we turn
+monetization like a goal for learning
+cloud and content that means we turn
+into course makers that means we have to
+create courses and as they need to be
+updated we need to update courses and
+then we kind of fall into the circle of
+like well how do we make up skill how do
+we you know
+foreign
+yeah like how do we maintain our skills
+relevant if we're focused on making
+courses
+um
+so that's why I really haven't perceived
+that it's also why I don't want to
+become a YouTuber full-time or make
+courses for a living or anything like
+that it's just because it's not really
+what I'm interested in
+um just the issue with like when you put
+something behind a paywall it's like
+people have expectations
+so
+it's tough that's not something I'm
+personally interested in doingI want to learn to be an entrepreneur
+and using cloud or somewhere on cloud
+related business don't know how or what
+yeah but it's my goal I have um this
+interest inuh moving to South America and opening a
+cloud consultant the consultancy agency
+consultant agency there like later on
+umbut not here
+uh
+they often lay off high salaries staffs
+and new projects initiatives that aren't
+the main Revenue generating yeah but at
+the same time they
+they I saw there was some layoffs in
+azure
+soit's like there's no real there's no
+real rule here I feel like if they just
+want to lay you off they will lay you
+off and they'll try to make up a rule to
+say like to justify it but ultimately
+anyone can get laid off I don't like
+that people try to like
+I think it's I I think it's natural
+human
+uh like attitude to be like oh what can
+I do or like how can I
+justify or how can I I make sure it's
+not going to be me like oh like okay I'm
+in a very like high Revenue uh
+generating project I'm gonna be fine
+because I found myself doing this it's
+like
+I performed very well I got a great
+bonus I got a promotion like I'm totally
+fine but then that kind of gives I feel
+like that sets you up for more
+of like a like stress or more of like an
+expectation if it does ultimately happen
+to you I think it's better to just
+accept the fact that like they're gonna
+lay off no matter what so
+you can leave it open if you wantyeah
+um
+I don't know if it was set up this way
+but this microphone seems to have an
+echo
+do you have an echo do you hear me with
+an echo not you I think it's meum you know how you have that monitor
+saying where you hear yourself
+yeah I don't have that on but I still
+hear you like hear my voice
+coming into my headphones I don't know
+if it'sdo you have like the tab open somewhere
+in YouTube and you're sharing desktop
+audio no
+no okay who's whose audio is is it is
+this his repeating or is it mine that's
+repeating it's you I feel yeah I can
+hear ithold on let's seeyeah someone just confirmed this it's
+mine yeah his mic has an echoodd is it pulling
+it's not a bad Echo it's his his his
+uh
+[Music]
+but it's not that bad so it's like a
+delay like you're hitting my voice twice
+I guess no thank you for letting us know
+Mark I just don't know what it is
+because mine is set to audiolet me see because yeah I can definitely
+hear my voice
+in my headphones which I don't
+it's like I don't have monitoring on
+wait so let me mute myself and do you
+still hear yourself like continue
+talking okay
+yeah I don't hear myself
+okay so it's me
+all right let me figure stuff out
+continue answering questions in the chat
+okayand yeah thank you Chad for letting us
+know
+um yeah I definitely not hear myself so
+let let me know if it is good now so if
+there is no Echo let us know so that
+means it's something going on
+um Gwen's new
+tool
+if not then I'll try some other audio
+devices how about now do you still hear
+yourself yeah I can hear myself again
+what is it
+okay yeah so the audience did confirm it
+was fixed
+umso when you're muted
+I don't hear myself and the audience is
+not hearing an echo
+and then you unmute yourself which means
+your microphone is picking your voice
+but how does it replicate mine it's
+weird
+like I've never seen that ughum Malik says really appreciate that you
+all have that perspective
+many just want to sell courses so let
+Gwen get back and probably
+she also has some more
+um
+a good opinion on this but yeah
+the
+I think the idea when you know go and
+started streaming and like started
+YouTube and same for me I know we shared
+this in the 2022
+oh
+live stream we had with day and Kev was
+that
+for us it's like the engineering mindset
+like we love doing what we do we love
+working
+um like for me it's you know devops and
+Cloud for Gwen it's cloud and a few
+things of devops similar interests and
+then they it was cyber
+um and then Kev Works in it
+I hear myself again damn it
+a lot of people are saying that
+um ohum a lot of people are saying it's not a
+bad act it's like they can understand
+hear and understand both of us when we
+are talking
+back and forth yeah distinct though
+oh it broke the bottom of thesorry the poster thing fell in it like
+chipped the thing there was a security
+deposit
+it's a displayed right so it's like
+metallic yeah yeah that's why
+I'll leave it open it's too hightoo how's my girlfriend
+Channing she wants to talk on the phone
+but she doesn't want to be heard on
+stream like they're not gonna hear you
+yeah
+we could barely hear the
+displayed falling
+oh really it was not too loud so yeah oh
+my goodness this thing is amazing if I
+figure out why it's routing your voice
+to the main thing
+let me seeyeah
+so yeah Malik
+um that being said you know we are
+always love creating
+uh good Cloud Solutions good devops
+Solutions
+yeah I don't hear myself you're good now
+yeah I'm goodyeah now we'll see uh some comments in
+the chat we should at least but yeah
+that'll be sad yeah we don't we don't
+have the goal to sell courses and that's
+why I learned Cloud exists that's why
+it's open source that's why it's free
+that's why it's Community Driven and all
+of the other stuff that we have been
+advocating for and it's gonna stay that
+wayokay I think we're good now I just said
+you're it was it was routing your the
+the PC audio to the main channel so
+that's why oh so we're good now I got
+this really fancy it's called a rode Pro
+Caster uh and it's what gives amazing
+quality to this thing but it's also like
+it's way more complex than what I'm used
+to so I'm still trying to understand how
+everything works on it but it has cool
+effects which is how I did that thingy
+okay cool let's see South America let's
+go yeah I am
+when I lived in Ecuador I saw that there
+was a lot of
+uh Microsoft presence in terms of like
+tech there so I have a feeling like
+having
+um something like it AWS based or Azure
+based company
+that would Implement that kind of stuff
+would be
+uh
+yeah lucrative and have lots of
+opportunitiesokay all these are echo echo echo I
+think Owen's room is haunted oh my
+goodness I'm like I'm more upset that
+the thing chipped I wish I could show
+you guys but it chipped the you know how
+the bottom of the walls have I don't
+know what this called
+oh I see yeah like it's like a wood
+detail or something like that yeah like
+a slab thing like a long slab
+shipped it so now I'm sure like when I
+move out of here
+it's gonna I had I had a similar thing I
+had a it was not a displayed but it was
+like a Ronaldo's uh wooden like it was
+painted on a wooden piece
+um
+yeah and my brother had it behind the
+monitor like on the monitor resting on
+the monitor it fell down broke the same
+thing in my apartment I'll send you a
+picture like it chipped it yeah really
+bad yeahum bad moments
+I'm telling you
+it's the layoff energyyep
+power voice carries inevitable power
+voice carries and inevitable I don't
+understand that
+how's the back end project for learning
+cloud coming from my iPhone yeah let's
+see how much learning cloud costs let me
+bring up the portalumso let's move this over here
+to go to all right sopresent
+your screen share screen is your screen
+all right
+uh hiking comment all right cool
+so last 24 hours we've had oh no this is
+last five minutes 700 787 sight hits
+let's take a look I always like to look
+the last let's do this last seven days
+cool oh I'm also pulling up like actual
+visitor data
+we've had 141
+000 sight hits maybe we can have more
+like last 30 days because we've been
+live for like
+two 200 800 no 283 900.
+site hits okay so that's just you get a
+feel of kind of for the traffic but
+we'll have actually visitor data when we
+should pull set up
+uh learn a clown
+is
+I feel like because we had that second
+Azure static web app for like a like a
+day or so like it might have given like
+thrown off our estimates but
+it's totally fine let's seeI I was uh saying that we were gonna hit
+like 30 a month but I think we're
+already our forecast is already
+passing yeah our forecast is 38 dollars
+I was going to say 48 oh my goodness I
+said 15 yeah you did say 50. so we're
+probably we're gonna go above that but
+you're right that we added a second
+static web app did you clean that up
+like did you delete it or no yeah yeah
+yeah yeah okay cool
+oh no do look our grafana what VM are we
+using we are using a B2 it's a small one
+it's not it's supposed to turn it off
+no we should use container apps
+yeah yeah insteadoh
+oh did I turn it off I'll I'll take a
+look let's look because it's like
+already we've had that for like what
+less than a week like a couple of days
+it's already a couple of days yeah
+compared to
+yeah
+okay that's see
+yeah Richard what the heck let's look at
+thatumyeah it's on the top favor hit a like
+hit a like on that stream so we can hit
+100 people watching
+B2 I that's on rishab
+I'm firing you right now
+but hey I was using it almost daily I
+was trying to figure out how to get yeah
+I was trying to figure out how to get
+the
+like the Azure stuff but they also have
+a plug-in for Google analytics now so
+like we were like this was a solution
+like everything would be solved because
+we can have Azure app insights and like
+the cost Monitor and also we could have
+the Google analytics that we use for you
+know user stuff
+but yes it's a three dollar one can we
+do this one no no it's fine it's fine
+we'll I'll create a container and we'll
+use container apps yeah yeah
+um because you know we here we are all
+about Cloud native
+if I want to run the grafana I could run
+it on Raspberry Pi which would be a cool
+project butcool so then that's going to save us
+some money there yeah look at us
+stay in that fifty dollars
+okay so I have last seven days of data
+we had two point
+4K userswhich is
+68 percent more traffic
+compared to any other seven days in the
+last year
+so that how that's how the percentage
+Compares 2.7 K in the last seven days
+yesand I'll tell you last 28 is which means
+like since we
+when did we go live January 9th
+uh but I guess the Google analytics we
+turned it on on so that was a couple
+days after
+a week after January 13th so
+January 13 to January 19th yeah
+that is the last seven days the last
+seven days two point oh my goodness
+we're like a successful small startup
+except we don't make any money
+yeah
+4.3k sessions
+damn we have nine people that are on
+learn to Cloud right now all organic
+traffic people no ads no marketing I
+mean I guess social media kind of counts
+marketing but the fact that this thing
+still gets this much traffic a year over
+a year
+since lunch
+but well we can say organic marketing
+like we haven't run ads on Twitter we
+haven't run ads on YouTube right
+um correct correct correct okay we are
+using our personal brandsyeah I mean I guess that shows like if
+someone want to task like what's the
+power of your personal brand you could
+just show show these kind of metrics
+right because you know there's like
+people out there there's influence out
+there with like millions in audience and
+then they can't sell like 15 t-shirts oh
+yeah yeah like so
+um a few of you may know that I want the
+developer 30 and the 30 world right
+yeah I forgot you you won that
+doors like they they look at public
+contributions
+what are my public contributions
+95 of them were to learn to Cloud
+so they looked over into Cloud they're
+like oh this is free so like I feel like
+learn to Cloud played a huge role in me
+winning that award
+um because they look at
+the free stuff you do for the community
+like that award specifically looks at
+the free stuff that you do for students
+for community
+kind of thing so
+yeah like from personal Brands
+perspective yeah like it it is a really
+good
+like we have great numbers
+which comes from the value that it
+provides
+yeah
+like
+all these vanity metrics like retweets
+and likes and stuff like that I don't
+really mean much in my opinion
+yeah and like someone who said if we
+think
+like if learn to cloud or like if Gwen
+and I get laid off and we still want to
+keep this runningI think
+like I I don't know I'm just gonna put
+this out let me know what you think what
+we would have banner ads
+probably something like that two
+generator revenue and it will generate a
+lot of Revenue yeah at least much that
+could cover our hosting costs
+because of the amount of traffic we haveyeah if um
+we have a road map for issues and stuff
+that we're implementing so for example
+create status dashboard
+uh create API that will show Cloud
+definition on the home page enable app
+insights Implement search feature oh we
+got the configuration for this by the
+way so we should get on this
+oh we did yeah we got the email with all
+the details that we need for this cool
+oh yeah approved
+um Hospital Azure with dashboard with
+monitoring metrics implement this is
+done isn't this
+yes
+all right we forgot to move this over oh
+because we were having issues with
+merging to the main thing that was weird
+Okay cool so that's done
+we're probably we we have a weekly stand
+up where we add or remove to this uh and
+then we we put this on the home page in
+case anyone wants to get some Hands-On
+Cloud experience like in production this
+isn't like some tutorial or some course
+you're actually going to build something
+that and we have it in a way that as
+soon as you
+you know you'd have your PR you submit
+it we can generate a URL for you to
+actually see it live it's not going to
+be like learn a cloud.guy but it's going
+to be like a like a staging like so you
+can actually see your contributions
+in real life so if anyone wants to work
+on anything that we have here you just
+can't you know go into your GitHub
+account go to the link of our backlog
+and then comment hey I want to work on
+this I know someone had mentioned they
+want to work on which one is it this one
+the status dashboard no no no
+um the other one
+no it's this one these are
+oh I almost work on this one and then
+someone Works to work on what works on
+the search one the search feature I'm
+pretty sure we could find someone who
+would want to work on this one too app
+insights because it's all JavaScript
+stuff
+yeah
+um for me the focus was the dev
+container
+so I have a branch oh
+sum it up here
+um Dev container support so oh sorry
+GitHub code spaces support so that
+people can they don't have to worry
+about
+gonna see I don't see an issue in here
+for that I'll create one
+damn it rishab itI need this I need this now we need
+tickets for all this stuff you know yeah
+so that we talked about it and you're
+like
+so these are the tickets that I have oh
+I'm like okay you're still here yeah
+these are the tickets we have this is
+what we are welcome we are going to work
+on then we were towards the end of the
+call we were like oh by the way the dev
+container stuff is like old and we would
+have to support you know docusarus
+instead of doxify
+oh and that reminds me since I mentioned
+docs I'm gonna create a ticket because I
+will forget we have to clean up doxify
+Branch it's still running on GitHub
+Pages for no reasonI'm gonna do that yeah add that ticket
+and add the the dev container.json which
+is what enables code spaces yes yeah add
+that too and I'm gonna go through some
+of these questions here the baseboard I
+got some Frosted Flakes y'all
+that's my girlfriend's favorite cereal
+Frosted Flakes
+is Linux Survivor a good program to
+learn Linux on I just went through basic
+commands and file name structures and
+now I'm on Linux security it seems
+intuitive and very easy to like I don't
+think I've ever heard of Linux Survivor
+it's pretty good all right
+um Kev I think I heard it from Kev
+Tech yeah yeah shout out kevtech it's
+it's pretty good I recommended it to my
+brother-in-law because he was he's
+preparing for Linux Essentials and he's
+not
+um like he needed some practice with
+like actual uh command line
+terminal like he has installed stuff but
+he needed some challenges like a gaming
+like gamified method to learn command
+line so Linux Survivor is pretty good
+nice
+I also plug myself I have a bash for
+beginners course coming out soon in the
+next couple of weeks we wrapped up
+recording yesterday
+uh editing is in the works I gotta do
+all the the marketing I gotta write a
+blog post got to put in all the metadata
+all that kind of stuff but you know
+that's halfway done so
+uh that'll be out soon we're covering oh
+we're covering a lot we're covering
+permissions recovering setting up your
+environment we're covering Loops
+functions uh variables what is your bash
+script uh what else did I do oh my
+goodness case statements conditional
+statements redirection Pipelines
+viewing files making files making
+folders and there's a bunch of stuff
+there so
+be sure to check that out that'll be on
+YouTube uh free for all
+in a couple of days not a couple days a
+couple of weeks I'll if you if you
+follow me on YouTube I always Post in
+the community my community tab updates
+to that because everyone seems to be
+excited for that onehappy hey gangs everyone what up Daryl
+how you doing
+look at that smash that like if you
+haven't please smash that like button do
+it for a bit bit is the Azure advocacy
+mascots
+he's
+he's pretty cool I think he's one of the
+coolest mascots
+we got these plushies here and even the
+tag says
+the tag is custom Microsoft Azure tag
+attention to detail yeah it's like the I
+like the oh also the backpack the back
+thereum where's your beep the beep featurethere we goyeah so yeah hit that like button
+thanks for the stream Lucas said how
+yeah you're quick with that
+I couldn't even find that if I had to
+comment it
+um that's that's good I have the the
+YouTube window open on the right hand
+side and you you know
+so I'm mod for Gwen's chat and I'm like
+it popped up it's saying oh the message
+is held for review because it contains
+something something I'm like what and
+then I click on show
+that was quick that was quick
+okay so I have the one issue in
+creating the second one
+uh and get startedit's a really good unorganized page that
+it's impossible not to share with your
+friends who also want to learn about
+cloud services thank you I appreciate
+thatreally do I
+to be honest I don't really remember
+putting it together
+because it was kind of a blur because I
+just tweeted it out and then I was like
+okay now I have to make it and then over
+the next two days I was just like
+non-stop wrote it
+but it's definitely evolved since thenbut we did put a lot of work into the
+organization so it's like a neat
+progression as you go through it
+so thank you for that feedback
+smash that like if you haven't alreadyupdate Dev containerto supportdocusauruscool coolthat's a long-term goal of mine to learn
+now and one day be able to give back as
+you both do give back at any stage that
+you're at I would say
+I really I regret and I regret because I
+didn't know about it but
+if I could have gone like helped us days
+and started documenting my journey then
+that would be the coolest stuff I think
+that's the only regret like if close to
+regret is like
+starting that process sooner than later
+that would have been so cool to just
+have like my first help desk gig and
+then now then like like eight like a
+year ago joining Microsoft I think that
+would be really freaking cool to see
+that progression but
+I kind of started to like halfway
+through my I guess current career so not
+that bad but it would have been cool to
+have
+like earlier earlier stuff for sure
+yeah
+Raspberry Pi exists
+are so possible to get one now it is
+impossible they're so expensive so so
+expensive I remember we got them for
+bulk in 2018 or 19 and I'm glad I hold
+like a hell to one of them this was also
+given to me by like ECI it's a shout out
+for paying for a Raspberry Pi
+but we like both ordered a few of them
+and they were like thirty dollars each
+because it was a bull Carter and now if
+I try to get one first of all it's not
+in stock yeah if it is it's like 150 or
+200 dollars
+crazyI remember I got one to make a video
+game emulator at my cloud engineer got
+job because that office was pretty cool
+they had like a projector ping pong
+table and whatever so and on the end of
+Fridays we would play it just video
+games
+so my boss was like oh I want to play
+the classics
+so I was like we should get a Raspberry
+Pi and he was like okay get it expense
+it so I bought one I think I got one
+with like I think the packet the whole
+product is called like a canary because
+it comes like with a case yeah it was
+like a white case and like it's really
+nice
+I think that was like 40 bucks
+oh something like that yeah
+but this was 2018 so
+big difference now
+banner ads
+what up Anna
+wait this is different and I thought
+this was
+that this was the Anna that I knew or is
+it the Anna that I know maybe not I
+think that's that's Anna with two ends
+but hello Anna but she's also from
+Brazil so
+hello Anna from Brazil
+oh I know who you're talking about yeah
+yeah Anna AWS Anna hey um keeping mine
+docked for the for the win doc waitthank you my doctor for the win
+like you're using Docker on yours
+yeah could besee what else did I
+think one's room is hauntedI'm scared of ghosts I don't say stuff
+like thatyou play the
+how do you play so many zombie games
+I think I do it because
+I want to face my fears
+yeahface your fearshey y'all just wanted to know that I
+just applied some advice they gave me
+during a liveduring a live message for Caldwell just
+started a software just started a role
+as a software product manager with a
+cloud Focus ah good for you
+congratulations congratulations do we
+have some kind of
+no claps oh come on
+I'll have to load it for the next one
+um that's awesome Omar I I'm sure I've
+I've seen your name multiple times
+before and we we've been in I guess
+uh you've been on our streams for a
+while now so that's awesome
+I'm curious what advice it was because I
+can't remember but
+um that's awesome software product
+manager with a cloud Focus
+congratulations we're very very happy
+for you keep us umkeep us updated with how it goes for
+sure
+yeah I think I see his face a lot on
+LinkedIn too
+and it's been like a year or more that
+I've seen
+pretty active
+snaps
+Lucas Lucas H says snaps for Omar love
+it
+what up Ciscomany thanks what you do is important oh
+thank you some days we I want to quit
+YouTube
+so I mean all the time I want to quit
+YouTube so
+it's stuff like that that keeps me going
+I I constantly tell rishab I'm like I
+don't really know if I want to do this
+anymore
+so I I have those days
+lately I've been having it a lot more
+but
+thank you I appreciate it
+uh what else okay on Raspberry Pi three
+so I was replying while you guys were
+discussing piottagespeaking about pies
+there's this Organic Market
+that sells the most delicious
+apple pies I've ever had oh okay and
+they have
+and they're there every Saturday morning
+I was just telling Gigi this I'm like oh
+my gosh we have to go tomorrow to get a
+piece of that pie because so good with
+some coffee oh my God
+it's so freaking good
+I I keep coming back to this because
+this is amazing this is amazinghere's a question for you if land to
+Cloud had a mascot what animal it would
+be
+a robot that's not an animal though
+it has to be an animal oh my goodness
+for real
+don't say crocodile
+no I want to say something like a wolf
+mm-hmm can it be a dinosaur
+it can't be a dinosaur they existed
+right so that counts yeah yeah yeah
+dinosaur Maybe
+like a T-Rex so badass
+I'm wearing like a hoodie with yeah
+Cloud would be nice
+uh yeah oh someone said an eagle
+it's called a cloud barfing a rainbow I
+feel like someone has that as like yeah
+I've seen the sticker somewhere like it
+reminds me of a sticker that has like a
+Silver Cloud and like rainbow coming out
+and like the the
+yeah super shiny eyes
+barfing rainbow I've seen that
+yeah yeah apple versus pecan
+Apple
+all day I'm like a such a classics
+Classics type person
+here's the question rishab do you do you
+ever drink soda
+yeah so Coke or Pepsi
+it's a million dollar question
+youcan I go out of the way and say a thumbs
+uphave you have you ever had thumbs up the
+the drink the the drink thumbs up
+yeah it's a it's a really close to Coke
+and Pepsi but we used to have that in
+India it looks like Pepsi though it
+looks more like maybe because of The
+Branding yeahum I'll say I'll say Coke yeah you're
+done
+foreignyeah just like blocking you I'll block
+your number yeah I'll remove you from
+the GitHub repo and yeah made a pull
+request resha was removed because he
+loves Cokeyeah there's a right wrong and the
+answer to this pecans are classic like
+Coke okay so okay I I would agree
+but there was I just I watched this
+documentary on Netflix that was like all
+about how Pepsi and the like I think 80s
+or 90s they said that you could win a
+jet
+oh yeah yeah the documentary is the
+where's my million dollar jet yeah
+something like that where is my jet
+Pepsi something yeah yeah
+oh my gosh someone says nobody drinks
+Pepsi that's a lie it's a lie I it's a
+lie I don't drink soda often but when I
+do it's either Pepsi or
+um Seven Up
+oh that's a good one
+dude begins dwarfs no
+no no this is
+this is not oh someone asked a good
+question here how do you guys make your
+coffee and how many cups do you go
+through in a work day one I drink it
+black with a little bit of sugar
+and restaurant is a monster so he just
+drinks it black with nothing see now I
+need that effect that rishab drinks
+black coffee like really deep voice but
+yes
+um I used to drink
+I I think you know this but I used to
+drink like two or three cups yeah in the
+day
+uh in like nine hours of my day
+and I have dialed it down to like just
+one cup in the morning and that's it
+um and I yeah I usually I got this new
+machine
+like the Nespresso something it makes a
+really good coffee
+uh but yeah no sugar no cream I can't I
+don't think I can handle cream because
+it gets like
+I feel full
+the beginning of the day and I can't do
+that like it I don't knowwhen people say pecan instead of instead
+of pecan pecan big secret who the hell
+says pecanNoah says pecan
+pecan
+pecan
+I don't think I've ever heard that
+Aeropress see sometimes I'm like I want
+to get super fancy with my coffee but
+then I'm like I don't have the time for
+this I also drink one cup that I barely
+finish
+that's true I like I'll sip it through
+the morning and then once it's like four
+o'clock I don't allow myself to have
+anything with caffeine because if I do I
+can't sleep so
+then I just like if it's there I just
+have to like put it away or something or
+you save it and then the next morning
+you can make iced coffee
+yeah the only reason I got that machine
+is
+I'm gonna be honest here like
+if if people say I'm cheap that's fine
+uh the Black Friday event was on the
+coffee machine usually goes for like 180
+dollars and with taxes it's 200 and like
+I'm never getting a coffee machine
+that's 200 but then I saw people getting
+800 worth of machine so I'm like okay
+this is justifiable because I love
+coffee and I want to make it at home but
+I'm going down this Rabbit Hole so like
+bear with me
+um the Black Friday deal they said the
+machine is for sixty dollars plus you
+getum you get like 50 capsules free for
+that machine nice I'm like this is a
+steal
+so I bought it right off the bat yeah
+you can and they also gave me a frother
+to
+fraud the cream which I don't drink so
+it's just sitting there collecting dust
+but the coffee machine is being used so
+that's great
+so it's one capsule per cup
+yeah
+okayI feel like that's a good deal it is
+could do if I'll do for years and you're
+disappointing me more and more in the
+Stream let's go more hot takes Coke
+sucks
+if you canum
+what's another really hot take
+tabs versus speciesuh
+uh now now I will end the end the
+Friendship here let's see no no I don't
+have a preference it's whatever the
+convention is for the language because
+it's like some language what is the
+convention on learn to clouds code okay
+there you go we have a lot of yamlers we
+have yaml isn't that spaces
+are you sure isn't yamo like four spaces
+or something like that so you could use
+Taps right because you're saving
+clicking the spaces four times
+but what it because languages have like
+oh you're supposed like they're they're
+best practices
+no no usually not yeah it doesn't pythonlike I have my own preference I don't
+know what people use
+uh Max or better than PC no ew what I
+use I use whatever I use text yeah yeah
+I used tabs I used tabs yeah I just do
+Ctrl shift p and I do format and then
+whatever it puts it at that's what I use
+you can change that too to be honest
+whatever the default is yeah
+safe answers Glenn I need a hot take
+from you never mind HTML is not a
+programming language that's a hot take
+that's like the the generic Twitter HOT
+take
+why though
+uh question is why no no I don't think
+so I'm just joking I don't really care I
+never really thought about it to be
+honest yeah I have not but then I
+realized when I was in high school it
+was considered like not considered but
+if you tell like what are some electives
+you are taking it came under
+computer programming yeah so like if
+it's not a programming language like why
+are you even learning it like in that
+curriculum is what I'm trying to say so
+if the education system thinks that
+like
+who are you the question
+yeah but Twitter is a different you know
+world uh so
+someone's gonna claimed thatcome at metry to cancel me
+Mountain Dew switch let me hold on I'll
+be right back I'm just gonna switch this
+desk down
+keep answering your thoughts on Mountain
+Dew
+you can see
+yeah we can still hear you
+it's a good it's a good soda
+won't lie
+um but yeah it's not the one that I pick
+I don't know why
+like if I'm given a choice I don't pick
+Mountainum but if I'm given wanting you I won't
+say no
+if that makes sense
+this is the cloud God
+foreignis here what's up love it sounds like a
+like a Tony Hawk combo
+yeah I was gonna say it sounds like a
+Azure certification but
+I just took the no skills 900
+[Laughter]
+there's a hot take no
+um Mac only has the terminal going for
+it
+there you go Rodney I don't know but now
+with WSL like what's the what's the
+answer there
+see
+you won't get like a hot debate out of
+me and Gwen because we have Windows
+users
+really good custom PCS and I know Rodney
+you're also a custom PC person
+so like don't start this debate here but
+we do also have personal Max so like for
+laptops or portable systems we do have
+M1 Max and we are completely happy with
+them
+um so yeah whatever works for us we try
+to use it to our advantage to be fair I
+don't use it often that often
+like I might use it like once yeah yeah
+it's more for like you know if you're
+out and you're staying somewhere else
+for like longer period and you need a
+personal system I love this this setup
+that I have here like custom PC cam 4k
+monitor other monitor mic like this is
+just perfect for me when I work off a
+laptop I just find like I don't know
+what to do with the display of the
+laptop
+because if I close it then I feel like
+I'm wasting the retina display that the
+Mac has if I open it it's this is such a
+first world issue and I hate myself for
+saying this but it's just true if I open
+it and I'm like oh I'm just trying to
+focus on looking at the screen but it's
+so darn small
+so
+I just like PC setups better
+um
+the only thing I like about the Mac is
+you can program App application that's
+so true
+now to do there's no way to build Mac or
+iOS apps at least that I know of yeah
+you need a you need a Mac machine to
+build
+the entire directory structure of how
+you submit and stuff which is weird
+Mr Muffin that's a cool name I wish PCS
+were able to do that somehow yeahis the command line code
+um no it's
+like every operating system have their
+own kind of version of command line it's
+a cool hacky thing that you see in
+movies and documentaries like black
+screen white texts and Landscaping green
+text and someone's like oh what are they
+doing they're like oh I'm hacking into
+the system so command line is uh it's a
+text-based program that allows you to
+you know run some kind of actions or
+interact with a machine or like for
+example
+you know when you work with AWS you have
+the Azure command line when you work
+with m i mean when you work with AWS you
+have the AWS command line Azure Azure
+command line Docker a bunch of programs
+have command lines
+um
+so it's not necessarily
+a language or anything itself it's just
+a text-based program
+then the
+depending on how like what the Oink the
+command line is usually
+um
+abbreviated by CLI
+uh and then depending on how your CLI
+works like you'll have to have different
+commands like you know different
+functionality
+um but the majority of clis if not all
+of them
+integrate very well with bash which is a
+shell and also a language and
+essentially a universal language when it
+comes to working with servers because
+the majority of the cloud runs on Linux
+and the like a lot like I don't even
+know the percentage but of the majority
+of Linux servers will allow you to use a
+Bash
+so yeah that's that's I think someone
+asked us about hold on
+oh my goodness yeah so that's what the
+CLI is
+do you think like technically else would
+have happened if you didn't fire anyone
+yes
+guys what programming language would you
+recommend to get into devops python yaml
+this is Richard's Channel now yes it is
+Richard's Channeluh you say you wanna you want to quit
+YouTube but lately I've seen a lot of
+GPS content via YouTube we do appreciate
+it
+the more I make content it's because the
+more I want to quit so the more I'm
+convincing myself to not quit by making
+more there's a little tidbit
+laughs
+start with bash follow them yeah
+everyone needs to know the baby oh yeah
+that's it that's it don't argue with me
+Richard
+Cloud the cloud gods have spoken
+change the voice
+you must learn bash to become one with
+the cloud
+there we go
+I have said this so many times that I
+was so fortunate my college diploma had
+Linux and advanced Linux as a course
+because when I entered help desk like I
+was people would think I was so smartand type in the name of the directory
+not only that like I was really
+comfortable with grip and stuff and like
+I remember some yeah some Engineers
+seeing me like going through log files
+using grep and they're like oh you know
+grab and I'm like yeah
+um so yep it's like it's a cheap like it
+it really helps and if you try to avoid
+it
+I'm gonna say this you you will have to
+come back and learn it um yeah you
+definitely will I today Caroline tweeted
+something like you don't need to know
+Linux to get into Thai tea you don't
+need to know Linux to get into
+this admin and etc etc and I was trying
+to understand her point of view I think
+a lot of people when they say like you
+should learn Linux they just mean that
+you shouldn't know how to use a command
+line
+and it's one of those things like if
+you're a beginner
+um
+becoming comfortable with the command
+line is like super important but it's
+more so like oh which one do you learn
+like you could do like command prompt
+Powershell uh or bash but ultimately
+bash is just more popular so that's why
+I recommend people learn it and nowadays
+you know with Windows having WSL and and
+like all these Cloud platforms having
+CLI it's like I just really don't see
+why someone wouldn't want to learn it soWSL is great as well different
+stokes-stricken folks yeah
+yeah that's what we use
+um
+for like the windows term in the lab
+where can you find your bash course
+which you recently finished when did I
+say that I finished this course tell me
+this is what like gets to me sometimes
+when I say I give people constant
+updates let's yesterday I literally
+posted
+I finished recording and it's off to
+editing so where did I say where did
+this misinformation come from
+but anyway the recording is done it's on
+to the editor so it's going to take a
+few I don't know maybe like two weeks or
+so and then we'll figure out
+a launch day around the time
+learn get up get ups for Bash what the
+heck is get Ops for bash it will help
+with structuring your codeyou mean GitHub sorry get UPS like get
+UPS is a thing like GI g-i-t get UPS
+oh no
+um get ops command in Linux with
+examples
+it's a very convenient best scripting
+utility which helps you to conveniently
+and gracefully handle the passing of
+flags an argument in a clean
+standardized manner instead of having
+the developer manually handle the flags
+passed to a script this provides a handy
+way of handling this when iterating
+through a while loop
+interesting well get Ops
+I mean no colon the dolet go check if how do I andah poor hosting okay interestingway
+yeah I've never heard of this no same
+here
+good to know yeah good to know I've
+heard of get UPS yeah that's that's why
+I was like get UPS
+apps warp terminal on Mac is the only
+thing I'm jealous of I've never heard of
+that either yeah I've heard about it but
+just on
+like social media[Music]
+I see CLI commands I have a whole
+session on that on my channel I don't
+know if it's on my channel but you can
+find it yeah it is
+uh using yeah how to become proficient
+with the Azure CLI in bash something
+like that it's on my channel you can
+find it I did a whole hour session on
+that
+how much of a role does intelligent play
+in a high position that you guys are in
+or do you believe anyone can do it I'm
+not in a high positionthe audience expecting that you're gonna
+say I'm not intelligent
+no I'm intelligent I'm not in a high
+positionI feel like a lot of people like to
+downplay and say like oh yeah yeah you
+can
+you don't have to uh study you don't
+have to be super smart you don't have to
+be like you know I like I'm like dumb as
+rocks and I can do this no
+you have to have a skill set an ability
+for sure definitely
+but you don't have to be a genius
+but it's not like people go and throw
+rocks at like some random person but
+like okay you can come be in this role
+like it's not that's not the reality
+either but you don't you don't have to
+be you know you don't need a PhD for
+this stuff either definitely not
+uh how much does all intelligence play
+in a hype job position that you guys are
+in or do you believe anyone can do it
+I believe anyone can do it but not a lot
+of people have the
+I guess I don't know what it takes to
+like face the amount of rejection that
+it takes to get into like
+um
+like a tech role not even just in like
+big Tech just like get a tech role in
+general you because it's so competitive
+like you're gonna have to go through a
+bunch of a bunch of rejections sometimes
+people can't do it I think there's a lot
+more of like people skills that go into
+landing a role like resiliency patience
+yeah um how emotionally mature you can
+handle yourself in like with rejection
+and interviewing and stuff like that so
+can every can anyone do that sure can
+everyone do it probably not
+um but if if you're willing to put
+yourself through it then I can see yeahuh
+would you define Bash
+I think I just did right yeah
+y'all got to have me on here come on
+come on right now let me
+how do I send you a link are you on
+Discord
+uh yeah or you want to learn to Cloud
+Discord if you want to learn to Cloud
+Discord I'll send you a link right now
+and come on you just one you need to
+make sure you have decent audio and
+Camera uh two you need to make sure
+you're not going to be disrespectful and
+come on here with like conspiracy
+theories or anything like that
+uh that's pretty much it so if you're on
+a Discord
+do you like at register at maybe a GPS
+hey I'm here tell me the link and I'll
+send you a link
+and that goes for anyone who wants to
+come on
+I I all the time I offer people come on
+stream it doesn't really matter to me
+to become a devops engineer to be
+comfortable not knowing everything
+instead of being an engineer become a t
+oh and I have engineer yes yes yes yes
+so that's why we love help desk help
+desk lets you develop like this high
+range of like a bunch of random skills
+and then you figure out which one you
+like the most and you go deeper in that
+but you carry all these like like
+like there's a wide range of skills and
+you have you keep like upskilling in
+them upskilling upskilling whatever but
+you're you're proficient in one thing
+but you're very aware of the other thing
+the other day someone was saying like is
+it important for web developers to know
+Cloud I would say yes because ultimately
+your stuff ends up being deployed in the
+cloud
+and then you are aware of it right yepuh hi from San Francisco to use for
+technical illustrations I use escalidraw
+yep same tools I used to use draw.io a
+lot
+um in my cloud engineering gig and I
+also realized like there was a python
+pack you could use to
+um draw
+technical illustrations which was really
+impressive
+but yeah excally draw for like anything
+that you see on learn to cloud or on our
+streams or videosthat question or phrase that dude what
+question is this did I miss something
+I'm not looking at the YouTube I'm just
+looking at the story mode so
+um if you go to learn to Cloud dot guide
+on the top right you can hit Discord and
+that should take us to your Discord I
+mean take
+you to our Discord yeah what question is
+thatum
+let us know is I think it's the one that
+you need to be intelligent to be in the
+high okay so here we go you did say that
+you have 180k salary when you have a
+videos yeah
+uh I live in Canada oh okay okay so high
+paying position
+okay I thought you meant like seniority
+like are you loving yeah you know I'm
+level 62 at Microsoft so that's
+technically not
+um
+like the highest level that you can get
+to I don't really know what the highest
+level is obviously CEO but I'm talking
+more about like and individually
+individual contributor I see that they
+call ituh so yeah
+this is your cousin right yepthis is when we need to get a VPN
+sponsor so we could be like and nordvpn
+yeah I use a VPN service I'm not gonna
+name it until I get to sponsor our
+stream
+smart uh okay so this is you did say you
+have a 180 salary one of your old videos
+I remember correctly I live in Canada so
+that's considered a high position here
+okay
+which part of Canada sorry yeah I'm
+curious I'm from Canada too so no um
+that's why I'm curiousI'll say it
+we got let me send this invite over
+to this personI swear if you come on here talking
+crazyI'll kick you out with the god Boy sign
+Ottawa okay
+so yeah I'm based out of I don't know Mr
+Muffin if you're familiar with like
+um but I am often on Gwen's Channel Mr
+Muffin I
+I was so serious you've hit me now
+it's so professionally like
+you know Mr Muffin I gotta tell you
+oh
+no offense
+um yeah but Mr Muffin
+I can't say it with a straight faceum yeah I'm in Kitchener Waterloo and
+like around GTA area and like I've
+talked to a few folks and like I think
+the average kind of salary and I could
+be wrong like let me know
+um the average salaryis
+150 150 to 1580k or 190k in some cases
+for a medium
+um level engineer
+and this is in Canadian dollars
+um so like 150 190 is the sweet spot for
+five year four to five years of
+experience working in let's say we're
+talking about Cloud Engineers like
+that's a medium level cloud engineer who
+has four to five years of experience I
+believe
+um
+but yeah
+I do know that Ottawa has
+pretty low salaries I do know that damn
+I did some research yeah
+is is
+Ottawa like a city or what it's a it's
+the capital
+of what Canada
+so it's a city
+it's a city yeah I thought Toronto was
+the capital what no Toronto is not the
+capital
+otherwise where all the government stuff
+is
+um otherwise where the parliament is uh
+DC yeah yeah
+so so a lot of government jobs but that
+also means a lot of
+less pain
+makes sense makes sense why an average
+would be lower there
+uh all right so do you need to be
+intelligent to get a high paying job
+I think it's 50 50. I definitely do
+think it's 50 well no no so 50 50 skill
+set and then 50 like people skills but
+that also involves luck there's a lot of
+luck to Landing a lot of being at the
+right place at the right time a lot of a
+lot of knowing the right people like
+that like there's there'slook at this Toronto's the budget New
+York
+it is not anymore it's so expensive I
+get it New York is expensive but Toronto
+is also really expensive
+um okay now we are getting into hot
+takes what have you started Gwen wait
+hold on what's your take on this
+LinkedIn healthy argument what
+many companies are expecting devops to
+write all day while we do I saw this
+before we help spread the word and clear
+up the confusion many companies are
+expecting devops to write code what the
+heck is devops like a devops engineer
+yeah yeah
+like many companies I saw this post many
+companies are like when they post or are
+interviewing an engineer they expect you
+to write code during those interviews
+but
+um
+usually we do like scripts and like
+grammal and python here and there and go
+coding is not the main focus so help
+spread the word and clear up the
+confusion was this person
+who I can't name because I don't know
+like I read this post
+um
+I would say coding zero percent is not
+true
+in devops when I was in devops
+I did wrote like I see
+modules and if you use palumi they have
+Python sdks and that's how you write IC
+so you need to be familiar with how you
+define a function how you define a class
+how to write Loop right and all of those
+for me they come under programming I
+won't say those are scripts right
+um
+so I don't know like it's not zero
+coding
+but it's also not like
+I think it's the narrative is changing
+now
+um some companies are expecting you to
+at least understand what the code is
+written right and even if you don't
+write itI think it goes back to the fact that
+just rolls in Tech in general are never
+really accurate like that's why that's
+why Cloud engineer everywhere is
+different that's why solution architect
+everywhere is different and the
+expectation is like
+so my issue with this statement is like
+you this this was clearly made for
+engagement instead of actually trying to
+make a difference because
+you're just not going to change it
+that's just a reality the only thing we
+can do is
+pay attention more to the descriptions
+and
+you know not go for the world title
+itself
+yeah
+but yeah it's just like it's because the
+people who make the rules and just and
+aren't usually not like an engineering
+team
+it's also like the other thing right
+um
+so I I was talking to my non-tech
+friends and the idea is if you're a
+Content at a company X you'll probably
+do same time
+so my brother is an accountant if your
+accountant a company X and if you go to
+accountant like same position at a
+company why it's gonna be same like it's
+gonna it's probably gonna be like pretty
+similar I can imagine yeah in Tech it's
+really subjective to like each company
+um yeah same thing with like doctors and
+stuff like if you're a doctor you're a
+doctor it doesn't matter if you work at
+a hospital X or it doesn't matter if you
+work at a hospital why if you're like a
+cardiologist like you you work with hot
+right kind of thing can you imagine if a
+doctor at another place was expected to
+also be the dentist
+Jesus is hereJesus hey
+we pronounce it correctly that's easy
+yeah
+first of all don't come up here with
+some culture theaters no no I've
+actually like I've been following your
+guys content for a good minute and uh oh
+welcome yeah welcome
+tell us about yourself give us your
+elevator pitch oh yeah yeah oh man oh
+man
+uh let's see
+um well I have a very diverse background
+so uh I was actually in the military for
+uh for a few years so I did five years
+and then three years reserve uh
+came out went to Community College got
+an associates and the entire time I've
+been in technical support I was a
+technical support engineer for a good
+minute went and became a technical
+support manager and then made the the
+transition to devops as I was actually
+watching you guys content uh like a
+while ago like a long while ago and uh
+yeah but I've been a devops engineer now
+about a year and a half or like a year
+six months whatever but yeah wow so
+you've been watching us for a minute if
+you yeah
+very cool well thank you for for being
+in the chat and hopping on I'm sure
+people have a lot of questions about
+that transition I get a lot of questions
+about like hey I'm in the military what
+how what should I do I can get this I
+can do this and I'm always like I have
+no idea I actually have I actually help
+a lot of my uh veteran friends or better
+connections nice uh you know understand
+and navigate the whole GI Bill thing the
+loopholes uh the programs out there for
+us to get into Tech
+um like what so I got out uh from active
+duty I got out 2018
+and at that time they you know there was
+programs so I came out of the Marine
+Corps so the Marine Corps we didn't
+really have a lot of programs to begin
+with the Army the Air Force Navy does
+um but at that time they started uh
+bringing in what is it the uh Microsoft
+systems Academy I had a lot of friends
+that actually went through there were
+very successful didn't land a job at
+Microsoft of course uh but they went on
+to work at startups uh and from this
+working at startups they moved up like I
+came from a startup and uh that's how I
+kind of got it into this
+very cool what you got certs uh uh Azure
+search no so but I do have like asserts
+outside of like Azure so
+um I have a
+let's see I have my the the CompTIA
+Triad right so like second close a plus
+okay everybody has that one right um I
+have my ITIL uh V4 from third I have my
+scrub Master cert uh product owner cert
+um I have a cyber security cert from the
+local Community College I'm currently
+doing a
+what is it a secure programming cert uh
+through local community college students
+again it's like it's not just one class
+it's a multitude of classes that I've
+had to take so uh for this class
+currently right now the last class I'm
+doing C programming and Java so we're
+doing a lot of security stuff
+but the the cool thing is it's like I've
+only been a devops engineer for for very
+little compared to a lot of people but
+because I came from a startup
+um I had to learn a lot and yeah
+fortunate to have and still have uh
+senior members on my team that have been
+guiding me since the beginning and like
+like you've seen the tools that I've
+mentioned like I'm using tools that a
+lot of people do not know about or have
+seen yeah because we're doing a lot of
+like cool stuff like again a lot of
+security like I know a lot of devsecups
+uh secops stuff that people don't know
+um you know like one one of the tools
+that I put on there I don't know if you
+guys heard of Sops uh you can decrypt an
+encrypt in place in the pipelines in the
+automation so that way you don't have
+secrets or uh stuff like that in your
+code and you're nice
+see that's that's what I love about like
+working at you know small medium-sized
+companies is if you're lucky like I know
+there are you know horror stories too
+but
+um if you're like if your culture is
+really good like because you set up a
+lot of things you're wearing multiple
+hats even though your rule might be just
+devops engineer
+um but that just builds like a really
+good foundation when you want to ramp up
+and you know move somewhere bigger yeah
+in terms of uh devsecops like so on the
+in the CI builds you can do a lot of
+like static code analysis right so I'm
+very familiar with like sonar Cloud nice
+there's other stuff like armor box or
+some or armor no idea what you guys
+should talk about so yeah and all it is
+it's it's basically it's just again uh
+static uh code analysis
+um you know it's not going to execute
+the code and it's been a little longer
+like you know uh code smells and things
+like that and you can set up things so
+that way developers are not submitting
+code
+uh that can cause a vulnerability or or
+you know a misconfiguration and and
+again you're doing the whole shifting
+left right you're you're you're scanning
+it and it gives them feedback right away
+so that way you don't even touch it it
+automatically pings them let them know
+like hey hey Jesus is telling you that
+your PR has these three code smells and
+according to the gate that they place
+you this cannot be submitted until you
+fix this
+yeah um I've I've heard about sonar
+cloud and like the the sdks they provide
+because you can just build right into
+whether it's python they support a bunch
+of language Gwen are you familiar with
+code ql or the GitHub I've never I've
+never used it though so yeah one of the
+tasks that I do want to work on is have
+code ql integrated into our pipelines in
+learn to Cloud what it does is it's like
+just you know it scans the code that
+gets committed to any of the community
+PR's and looks for vulnerability so
+maybe there is a
+python package that's out of date that
+has security vulnerabilities that are
+you know known to code ql so it'll let
+you know that this PR cannot be merged
+because it has this security
+vulnerabilities which is good to have on
+an open source project right um so that
+is the idea of what sonar Cloud does it
+runs in an action yes yeah okay and then
+so that that covers like and you know if
+we kind of switch and put on our
+security hearts that covers the whole uh
+called uh static what is it it's like S
+I forget static code now like S C A or
+something like that
+which is dynamic application security
+testing and I do that with uh zap and
+what it does it it does like some kind
+of uh
+like uh what's the application security
+testing while it's live so you give it a
+URL and it will throw different types of
+uh like test penetration tests you can
+get very intricate with that and you can
+put that in the CI build you put that in
+the CD build
+um
+yeah it's it's a there's a lot of Cool
+Tools um I also do a lot of uh uh
+testing so I do help put in tests and CI
+builds and the CD builds
+I've been dabbling with the Azure load
+testing preview
+um and it's really awesome
+um you know I I actually was working
+with a lot of the QA Engineers to see if
+this would fit uh some of the things
+that they wanted and I mean it was a
+great session we all learned a lot um
+you could set that up by yourself but
+you have to manage kubernetes and all
+that and I'm pretty sure you know
+one gear small devops team you don't
+want to be managing stuff like that if
+it's a self-managed service and you can
+train people to do it
+that's you know best case scenario
+because you put the responsibility back
+on the developer
+yeah those are like some really good
+like innovations that I've seen in like
+the devops spaces because one of the
+challenges we had back in 2018 19 ish is
+we were trying to figure out how like we
+had stating environments right but how
+do we load test an app that has millions
+of users in production but you can't
+replicate that at a smaller scale where
+you're just a startup and you don't have
+even with like you know blue green or
+rolling updates it's it's hard we only
+had like four QA engineers and they're
+like that's four users like how do we
+load test this with the the actual
+traffic that will hit so yeah I think
+yeah that space is gonna grow a lot like
+I've seen like sonar Cloud growing
+um there's another one where
+I think it's called Pangea Pangea Cloud
+um they're doing something similar
+um pretty interesting
+but yeah yeah but yeah the plans for
+Gwen I think this will integrate really
+well with
+um
+the learn to Cloud CI part where maybe
+Jesus can help us out with that I just
+created an issue so yeah free yeah like
+I'll take a look around the Discord like
+I just never yeah yeah like most of the
+time like a lot of the time that I like
+followed your guys's content when it
+first started like again I just wasn't I
+was kind of busy learning how to do it
+right
+doing the stuff and watching us I like
+that yeah I like that yeah
+that's the mindset but now you can help
+us yeah definitely absolutely we got
+some questions here also first I want to
+say shout out to Canal
+yeah I saw that hey let's go what up if
+you're still watching
+uh I want to get your take on this here
+what do you think about this here any
+companies are expecting devops to write
+code all day long while we do script
+automate coding it's not the main focus
+help spread the word and clear up so
+this was some LinkedIn take I don't know
+if you saw this uh no yeah I could
+definitely give my insight so yeah
+you know it's it's to me it's like if
+you have one additional skill like
+whether it's security if you are eat
+because well let me backtrack so
+devops Engineers from what I've seen we
+all were you know from all walks of life
+we have some people who are software
+Engineers we have some people who are
+security people or people like myself
+right
+um that being said we all bring our own
+like you know experiences views and and
+off the table right yeah so having
+additional Tools in your belt makes you
+that much better right whether you code
+or don't code if you do know how to code
+it helps because sometimes as a devops
+engineer you're presented with
+situations where nobody knows how to
+implement something and they bring it to
+you right so you got to go read up on
+the documentation is there an SDK is
+there an API is this a custom solution
+um you know I've had to write a bunch of
+serverless functions to to find
+solutions to things that have not
+existed so for example
+um you know I'm not I've never been in
+cyber security or anything well we had
+to integrate a malar scanning tool
+um you know I don't I didn't know
+anything about it but because I learned
+how to code I went learned the SDK
+learned the API
+figured out how to integrate that rotor
+Services serverless function because of
+the only solution they offered out of
+the box for Azure was a VM and as we all
+know VMS can be pricey so we wanted to
+uh
+so we went through serverless functions
+container apps I'll get it deployed
+trust me what language do you primarily
+use as a devops uh so uh again bash uh
+Python and then because of the different
+types of apps that we support uh
+majority are in Ruby and c-sharp and
+then for my personal like side projects
+I I do go and then
+um python for for personal what's uh
+what's your experience with with
+learning Go versus python I feel like
+those two get compared a lot
+um especially in the devops space yeah
+so
+I will say
+um go has really great error handling
+um so I remember one of like my first
+projects as a as like when I first
+joined the team
+um you know you a lot of people write
+scripts and you know people who write
+bash right very like procedural code
+like step one step three right but they
+don't do error handling or anything like
+that so when a pipeline fails you don't
+really know what's going on so I had to
+write like my own little like package to
+do error handling with go it's already
+built in and that that that saves you a
+lot of time because you can check right
+then and there at the time and place uh
+for the error
+if um
+if someone wanted to learn devops now
+what would you recommend like just bash
+and python
+it oh man it just really depends on like
+the industry and your company right like
+that's just my experience right like
+giving the people that I have I've had
+on my team and and what we do but uh you
+know for there yeah I would be I would
+say bash and python
+um
+and and you know with with bash you can
+that there's more things that you can
+learn in bash that are open to make you
+look more better devops engineer right
+like those those tools that I would
+suggesting yeah
+get Ops JQ or yeah dot JQ
+which is a uh uh like a pattern
+replacement
+uh tool that you can use and you can use
+that a lot like it accepts yaml Json do
+a lot of stuff like that so just
+learning bash and python to start off
+and then you can go off from there
+um and with python the one thing you
+know if if like say already somebody
+already knew how to code with python I
+would recommend
+learning how to create serverless
+functions
+good take
+because yeah you become that much better
+because now you can build Solutions in
+the cloud for your team and because your
+devops engineer you're going to build
+the whole CI pipeline the whole CD
+pipeline The Continuous you know
+process of all that so you can continue
+to update it and then you can just pass
+that back on to the engineers
+I've got a question for you how was the
+learning curve going from the knowledge
+you had in bash and python to go like I
+know it's just a
+it's just not the syntax thing because
+it's it's different on how it handles
+certain things yeah
+um
+I mean I'm
+I'm a very big believer because again I
+don't have a bachelor's degree I don't
+know I don't have a masters like you
+know a fancy University or anything
+right but yeah I'm a big believer in
+YouTube University you know what I mean
+you know things like that so my learning
+curve wasn't that great like you know
+steep or you know or however that goes
+right I went on udemy I purchased the
+course
+burn through the course and again like
+as you start to learn how to program
+you you learn the structure of
+programming right every language is
+going to have different syntax and
+you know it just really depends on how
+bad you want it I mean I've burned
+through that course like in a week
+because I was like all right I'm trying
+to build a solution and because I've
+code I've you know I've coded and see
+it was pretty quick per se you know the
+syntax is pretty similar right but good
+is your skill set with cyeah proficient
+um but but again it's just I I see the
+patterns in the in the programming
+languages it's just learning the syntax
+really so I can context switch pretty
+quickly like I've like this week that's
+impressive Ruby stuff never touched Ruby
+before see Ruby go Python's yeah
+impressive skill set there like but that
+is that is the the trade-off there is uh
+and and this is what I I struggle with
+at times is like
+you know the phrase uh what is it uh
+jack of all trades or what is no not
+that one yeah
+the Jack of all trades master of none
+master of none but still better than a
+master of one yeah facts people forget
+that last part and the people forget
+that last part right
+and and you know again my I'm you know
+very t-shaped type of person where I
+I've dabbled a little bit here and there
+where I can you know learn some stuff
+pick it up run with it right
+but the thing that that people like that
+like myself struggle with is that we're
+not very in-depth in in into one
+specific language so like if they talk
+to me about like you know threading in
+Python
+um I probably have to go learn it I'll
+pick it up but like I'm not too just
+asked chat chat gbt right yeah someone
+asked uh this is a good question here
+the last part here your your ideal
+asserts pathway for cloud devops let's
+just say devops because cloud devops is
+different there so if someone wanted to
+come in and upskill in devops do you
+have any search that you recommend
+umI mean if if they have no knowledge of
+of devops I mean certs can definitely
+help and in my in my experience it's
+like certs can get you you know based
+knowledge but they're not a really good
+like indicator of how successful you're
+going to be it's really their HR filters
+like they're it's just
+a really good way to put it like what's
+what's gonna get you like in the door
+your foot in the door are your projects
+can can you speak to you know
+what a CI pipeline is like what what is
+a devops for dinner to you like how you
+know what what skill sets do you bring
+to the table
+um certs help and again like if they're
+looking to like specialize in like one
+thing like Azure right you know
+definitely recommend like starting with
+the AZ 900 again I don't have it um I
+kind of just you know went through the
+fire flames I didn't learned it on it's
+the best way though yeah it's the best
+way uh but yeah like if they're looking
+like you know of course Azure 900 but
+then in terms of like outside of certs
+like that can build your general
+knowledge CompTIA asserts are very very
+useful just because it's uh you know
+what is it vendor neutral knowledge
+identify
+um and you know that'll help you
+anywhere right if you know networking
+you can pick up networking in Azure you
+can pick up networking and idws gcp
+versus just being specialized in just
+Azure right
+yeah yeah no I think like so it's this
+has been like a really long going debate
+on both of our channels is
+we get questions about hey what do which
+should I do when I think Gwen nailed it
+in her like previous videos that
+and your response was really good
+about you know how they're like a good
+filter for HRS yeah how they're really
+good if you're just starting out because
+I think they're good
+way to get like structured learning
+because think of someone who is really
+new
+um they don't know where to start I
+think so like let's say easy 900 or
+Cloud practitioner kind of teaches you
+like hey start here like learn what
+cloud computing is the next thing would
+be the pricing models the next thing is
+this and this so there is a structure
+way to learn which can get overwhelming
+for someone who is just beginning yeah
+so that structure is really good part of
+it but if you just do the search for
+like for just the passing sake
+and like getting badges on LinkedIn yeah
+yeah I'm definitely gonna create a video
+because Gwen knows this I did 12 Subs in
+11 months in a year
+um and some of them are just sat and
+like passed I didn't even have to study
+but they didn't bring me anywhere like
+not much value only two or three search
+brought like the actual value to me
+because I sat down and learned things
+um yeah for devops give me a second I'm
+just going to turn on the heater I'll be
+back it's a big call where I'm at
+yeah for devops yeah you just gotta like
+even in Cloud it's just gonna be like
+get Hands-On get packs your hands dirty
+and come learn to Cloud uh we have a lot
+of issues open
+we have good amount of documentation
+we have some devops tasks though could
+they we have some devops tasks yeah and
+it'll be nice because look at the
+traffic look at the numbers we shared uh
+it will be nice to put on your resume
+that you submitted to three PRS to yeah
+Cloud yeah I've been looking to to like
+again give back to the community or like
+you know help other people
+to you know break into Tech because it's
+hard it's I mean I'm gonna be honest
+it's hard especially like if yeah you
+don't have those connects right like if
+you didn't go to a prestigious
+University that has all those events for
+you the networking the people right it's
+kind of hard to just kind of show up and
+hey you know you guys hiring
+like they don't know who you are
+um and yeah so definitely I'm always
+looking to help do you so this person
+asks what's your info on Discord can you
+be my mentor do you do mentorships I
+don't know if that's um I mean I I have
+uh I work with two interns that we have
+that really they're really great um I'm
+I don't know if I could be a mentor I
+mean I'm still learning myself yeah but
+I could definitely you know help answer
+questions you know when if when when
+available right you you got a Twitter or
+something like what like what what's the
+best one LinkedIn like I I have I'm
+working on my LinkedIn and I was
+actually even thinking about uh because
+I remember I started seeing some of your
+content on Tick Tock and I was actually
+yeah and you know I was like I was like
+maybe I should post but most of it is uh
+you know I do I'm I'm part of a Discord
+server that uh is for students of the
+local Community College where I'm from I
+do I do a lot of help through there with
+like other students or
+um you know people that just need
+General help with with if we're doing
+the same sir or or class
+got it got it so
+um what I'm gonna do later is in the
+description of this video
+um like at the minute that you come in
+I'm gonna drop like I don't know some
+kind of link that you would be like the
+best way to reach you like you can give
+it to me on Discord because we're we're
+on Discord now
+um we're gonna have someone else on so
+it was great having you yeah I would
+love to have you on another time like to
+talk a little bit more about oh I
+personally have more interest in knowing
+about like like the military experience
+what would the transition like like all
+that kind of stuff because I feel like
+those stories in Tech aren't shared that
+much but I feel like we need to dedicate
+a whole session to that yeah
+um but yeah I'll be in touch with you
+and I really appreciate you hopping on
+like out of nowhere
+we'll talk to you soon all right take
+care bye cheersthat was awesome we gotta get that
+awesome yeah we have a another guest
+that we want to come on I I wish we
+could have kept talking but
+um
+did you get a link
+yeah I have a feeling people are gonna
+know this this dude
+we're all still learning learn to do it
+teach it facts
+uh this this doesn't work
+what yeah I deleted it I don't know why
+it's still showing
+um
+hello
+what country are you in now hello
+I'm in London nice
+for like what a day until you travel
+again or like two weeks I'm going to U.S
+this one
+what part are you coming to New York
+I am going to be in New York yeah
+you gotta you gotta meet him come on
+yeah
+I'll be in Florida then New York like a
+week and then L.A
+all right La nice so there's an event
+there I'm speaking at yeahwhen is thatseventh and eight right canal yeah
+seventh and eighth oh February or
+February they're running a conference
+yeah it's in Temple how big is the
+conference like well how many attendees
+expecting it uh around you know
+1000 and we have Steve Wozniak coming inall right wait for I feel like you came
+in and we didn't even introduce you some
+people most people probably already know
+you but this is Kunal devops go if you
+go on YouTube just try probably type in
+just Kunal he'd probably come up there
+um I've never spoken to you I think
+we've spoken maybe on DM but I haven't
+spoken to you on like voice face chat
+anything you and rishab kind of know
+each other right
+yeah we we met at hackcon in per like we
+have been I've known him from YouTube
+and Twitter and all of the social
+networks but then I met him in person uh
+we went out on dinner and played some
+bar games and stuff really
+um at hack on yeah it was it was fun
+time good event yeah
+very cool right after the week I saw you
+going when I was at your place
+oh that was this summer yeah yeah
+wow my camera looks so
+bad compared to yours what camera do you
+use it's I I use the this is the good
+one
+but that looks nice and crispy it's it's
+running out of battery so you have a
+dummy battery power
+what what camera do what's the good one
+which one is it
+that's the a6400 nice that's the one you
+have for sure
+no yeah mine is 50 yeah 5100
+I think so
+nice same thingI can't tell the difference between life
+this and full-frame cameras and Eddie
+has like really big heavy one Kai can't
+tell the difference I probably like mine
+my thing like The Lens comes out like so
+it's like right there it's like so bad I
+don't know how the arm thingy is holding
+it I feel like it's gonna like come
+apart in a little bit but
+yeah Canal what certifications so people
+get if they want to get into devops well
+actually how do you what do you think
+about certifications I don't know your
+opinion yeah I don't have any
+do you think they're a waste of time no
+I think um
+I'll tell the truth no I don't think I
+don't think it's mandatory
+um
+and it's just not just me I I spoke to
+like a lot of people and this is guys
+you know I work with Siam he has a lot
+of like he has like every equivalent
+certification and he himself told me
+like that you know it's not really
+mandatory uh sometimes like there are
+job requirements you know let's say you
+have to have AWS certifications because
+AWS is very complex soI know
+um hot takes yeah it is fun I don't know
+you don't have you don't have any
+certifications not even expired ones
+uh no I don't have any wait did you go
+to college I don't know I don't know a
+lot I graduated yeah from what what
+degree camera signs
+um still waiting and this isn't the guy
+who used to work uh look at you while he
+was a a VP he worked at Microsoft as
+well and he also had like
+so I asked him why he's like just you
+know
+I don't know
+but I I I don't on the other hand I know
+people who have a lot of certifications
+and
+in the end I think it's just about if
+the job requires it or whatever I'll
+think I think like certifications
+provide like for some people like a
+structured roadmap that helps everyone
+learns differently
+um so if you need that structured
+roadmap that feeling of accomplishment
+yeah you can do some nice certifications
+yeah yeah I don't think it's mandatory
+I'd be in trouble if it wasyeah that's that's how I feel and I know
+going YouTube because remember like we
+were talking about this on like when you
+did your CDA like the certified
+developer associate like
+the and it was not for just getting the
+certificate like our real purpose was to
+learn this new technology to learn cloud
+and like have a structured path because
+there was not a lot of content that was
+available at the time and not a lot of
+guidance that was available for free
+and like I'm glad I did those
+certificates like no regrets but then
+the purpose shouldn't be just getting a
+new badge to like showing your signature
+or show on your resume
+um because those get like caught so
+easily in in an interview
+um and yeah I feel like people miss the
+purpose of why you need to get
+certificate and that's also the reason I
+hate content that says get Solutions
+architect and own six figure salary like
+that's not the reality I get it it gets
+great numbers it get people's hopes high
+but you need to show the reality that
+there is a lot of hard work that's so
+good to go in yeah yeah clickbait
+content I just remember I have one but I
+it's so irrelevant I forgot about it
+well you have a video like that no no no
+no no no oh I was like I was like wait
+whatit's a Google Cloud associate Cloud
+engineer nice
+because I don't even remember when I got
+it
+20 20. that wasn't too long ago okay
+yeah three years agooh someone says the dod sector requires
+base level certificate like so the
+government yeah but who wants to work
+for the governmentI know guysjust kidding just kidding I know some
+people enjoy it I yeah personally
+wouldn't but
+that's fine what are the hot takes Kunal
+you always have hot takes come on there
+is this Friday afternoon
+I don't know what I just I I just share
+like what's already out there some
+people don't like it yeah that's why
+that's that's why yeah yeah we'll
+consider it as a hot take and like
+yeah no we're talking about layoffs you
+tell me like how how's it going I'm not
+much like I haven't really checked I
+just saw some news like Google laid off
+12 000. yeah so like in total this week
+I think we lost
+30 what 30 to 40 000 engineers
+just in big Tech then we I don't know
+what the other the other ones yeah
+that's a good amount of Engineerstech people yeah I should rephrase it
+yeah yeah tech people that we lost
+why do you think that is happening we've
+got too much hiding during koi
+yeah yeah definitely
+um I have that personal opinion I think
+I shared it during the start of the
+stream is I know a lot of companies are
+saying that but I also saw that
+happening there was too much hiring
+um pre-covered too like in 2019 I I knew
+like how much hiring was going on for
+each like role they were like you know
+500 2
+000 people lined up for interviews not
+applying lined up and like
+that's that is a really big number
+um for
+just a year and then once I got into
+Google I don't I won't share anything
+that's like in my end here or stuff but
+I I could see like how the hiring
+process is and how much
+like fast they were increasing the the
+count
+the head count
+um
+and with the recession I think it just
+made it worse like
+the the the thought okay now we have to
+like lose some numbers
+um we had really rapidly in
+now we don't have uh like we just have
+to be safe for the future right so
+yeah
+to be honest that's what I think yeah
+Microsoft the CEO said we want to do
+people should want to do
+like they're looking to do more with
+less
+um
+which I think is
+yeah understandable
+it's a business you know yeah business
+is business
+cost cost efficiency is going to be
+really really important for this year
+especially with Cloud yeah
+I'm going to keep on I saw like four
+startups that were just doing like
+cosmosis yeah it's a big thing I heard
+about it he's a good question
+technical skills becoming obsolete by
+automation future will be more focused
+on Vision ideas and implementation
+what do you guys think
+I think
+yeah definitely like Char gbt will
+uh
+replace some stuff
+I definitely think so not just in Tech
+but like uh my you know my colleague
+told me about this lawyer he met
+uh not a lawyer like a person he met who
+works with lawyers and he was like you
+know what like you know you don't know
+what this chat gbt thing you know it'll
+be like lawyers will be replaced real
+estate stuff will be replaced and he was
+like very aggressive about it
+um
+but yeah I think it's interesting like
+imagine you know lawyers being replaced
+with child gbt but the other thing is
+like would you trust her you know charge
+equity for your legal stuff uh it's an
+interesting question and then how do you
+make up for it like all these jobs being
+replaced like you know if you talk about
+for example content content writers
+right uh if you want to gonna get some
+piece written and you just can either
+give it to one person and pay them and
+then they will give it to you after a
+few hours or you can just give it to
+like a chat GPT like tool and um it can
+do it for you
+so obviously people would prefer the
+chat CPT one because everyone wants you
+know that efficiency and if it if it can
+get the job done people will you know
+prefer it the real question is can you
+really tell that if it's you know
+written by a a an AI or a person if we
+reach that level where you can't tell
+I don't know and I would use it but then
+the question arises what do we do like
+to replace these jobs which is new jobs
+being created or whatever
+um I don't know maybe maybe not in five
+years maybe not in 10 years maybe not in
+20 years but in 30 years come on like
+it's coming I think it's called yeah I
+have
+sorry go ahead it's not the first time
+this has happened in the world like
+think about when we used to use horses
+and then the car came along like I'm
+sure people who used to
+I was about to drive the horse like ride
+the horse they were like oh what am I
+going to do with my job and then they
+found something else to do right like
+we've as a society or I guess as
+Humanity we figure these things out but
+AI is like completely different than you
+know a horse so in a car so there's that
+too
+servos and then kubernetes came along
+people like we'll use our job to Gates
+automation but it's created you know
+more jobs more certificatesI think it's also the about like it's
+it's also the thing about adoption like
+if how rapid is the adoption to how
+rapid is people utilizing that tool in
+their lives
+the reason why I say that because I have
+a I have a bit of an observation
+about
+because it was being used at
+um The Institute that I teach at
+so it's already seeing like chat GPT
+like being used to write essays and to
+write assignments
+um to write
+uh
+which is fine because at the end of the
+day it's a tool right but then there's
+a thing about you know plagiarism
+there's things about like who gets the
+credit of
+um this piece if it's written by a
+student or does it Con like would you
+consider it cheating because now they
+didn't
+like you can still consider it research
+but
+like if they really don't understand the
+underlying
+article that they read and the copied
+like what's the point of you know having
+um
+like these assessments
+but then again I know that people will
+come at me and say like education is
+already very behind like we shouldn't
+have treason papers right
+I alone cannot change that
+and I don't like I don't have the power
+to change it it's like a really big uh
+you know organization and it like you
+need several
+um bills that needs to be passed before
+Um this can be changed and chat GPT can
+be included as a tool rather than a
+cheating material
+um but yeah I I really think it will
+depend on adoption and the efficiency
+and like just what Canal said about like
+how great at it like how great it will
+be at writing stuff or creating stuffthe most
+immediate opportunity is to become
+efficient at asking chat yes questions
+so you can get a more efficient answer
+so if you can utilize it then utilize it
+to your favorite because it's not going
+away no it is not
+it's it's like those things you have
+seen those videos where the like I've
+seen few you know where they're they're
+really Advanced users who know how to
+use Google like with kiwis and stuff
+yeah
+so they have just you know gained an
+expertise on like using their Curie
+language that Google uses and they get
+really good and streamlined results and
+same thing is with chat gbt like if you
+can get the answer you want
+um yeah
+is talking to someone who used to work
+at Google AI and then you told me that
+um
+what Google has in comparison to charge
+GPT it's much much stronger where is it
+yeah it's like I can't I I even I don't
+know it's internal stuff yeah they're
+gonna kill it after three months though
+just like stadia and all that kind of
+stuffthat's a hot take that reminds me of a
+page they have like Yeah by Google right
+yeah something like that guys
+I keep hearing platform engineering what
+the hell is platform engineering I keep
+hearing that it's going to take over
+devops but I'm too lazy to Google what
+it isI think it's only going to just rename
+fancy stuff you know I think it's only
+I think it's only like
+like the next phase but basically
+encouraging more of what devops is so in
+terms of like you know uh you you you
+talk about the so in the software
+development life cycle we have the you
+know deployments and the monitoring
+stuff and the continuous feedback and
+then management and you use Automation
+and stuff and that's what basically you
+know devops stuff and platform
+engineering is about you take these
+processes and the best practices and
+it's basically it is you're using the
+the devops burnout this thing devops
+burnout
+um and using these you know the things
+that I just mentioned about deployment
+management monitoring you know these
+tools and the processes and all the best
+practices so you make this into like a
+like a service
+then you can use it across various teams
+in your organization like various
+engineering teams for various use cases
+so initially so basically the idea is to
+reduce the burnout that folks may be
+having with devops
+um
+and even with devops we talk about many
+people have their own like you know
+terms like some people say okay they're
+off to engineer some people say I have
+no idea what a devops engineer is devops
+is not a title so
+I I get it like it's fine you can get
+into jargon but um I I don't think it
+will take over I think it's only if
+something is
+formed out of like enhancing a
+particular thing it's not like taking
+over it it's just it's just
+yeah it's elevating it a little bit
+um
+yeah
+yeah I think yeah you're the previous
+debate I saw people doing was like SRE
+versus devops but then people realized
+that it's two different things
+um but yeah to be honest I remember
+being Cloud engineer and still doing
+devops things even though my title
+didn't say that
+so at the end of the day it's just how
+you want to Define it and how companies
+want to define a certain rule even
+though you might be doing same things
+that
+um
+someone at company X is doing as a
+platform engineer and you are doing that
+as a devops engineer at company yEP taking a more
+productization View
+Ed I'm not gonna lie I still don't get
+the difference
+like I feel like it's just like a
+buzzword or like it's over complicating
+or like I feel like there's not a need
+for it but then again I'm not very
+versed in the devops space in general so
+I'm still like I don't know maybe I'll
+Google it later or something probably
+won't
+wait what does it say here hold on a
+platform engineer will create the
+program do all the cicd do all the SRE
+work and devs so you're literally trying
+to get one person to do everything this
+sounds like they're trying to save money
+versus over here having to consult with
+a devops engineer about how to take this
+to the cloud than needing and necessary
+to set up monitoringsorry yeah I was the devops engineer I
+did set up
+rapid seven data dog
+um pager Duty and I was one I was the
+one who was being paged I was no SRE
+um so like platform engineer that's why
+um
+we figured it out
+they took advantage of started it this
+sounds like they're trying to get a
+whole team with one new run they just
+created a new role like oh and then
+they're they're pushing it it's a
+conspiracy they're pushing it to replace
+platform yeah Icarus wizard it equals
+like rocks you know how they call it
+like 10x developers 100x developers yeahyeah I'm a 1X
+no no that there was a nice quote by
+Kelsey oh no we haven't heard
+so it said that uh 10x developer is not
+uh someone who works 10x harder it's who
+makes 10 other Engineers you knowbetter okay okay okay that's a nice spin
+to it
+hold on here's a good one coming from it
+managed services do you think SRE would
+be an easier environment to adopt since
+you're coming from infrastructure
+management
+what what's the question here coming
+from it managed services do you think
+SRE would be easier environment adopt
+since you're like to get into that role
+I don't understand yeah I can tell you
+this it can get stressful for some
+um I remember receiving an alert at 2AM
+3am and I've talked about it several
+times on the podcast I've done with
+Grant and streams
+um like I my sleep is terrible now
+because I get up to like the lightest
+noise because that's how my brain is
+wired for being on call for three years
+so
+yeah it can get stressful and I told you
+when towards the end I was like on call
+every alternate week so it is not fun
+especially if you have too many outages
+uh but then again it's your duty to make
+your infrastructure more reliable and
+available
+um so yeah
+if you're fine with getting up at 3M
+looking at Linux server in the command
+line and going through logs and figuring
+out what's going on while you sip your
+coffee that's fine but I find it really
+hard if you have family and stuff
+um to like have that kind of
+responsibility so I don't miss my
+on-call days but I learned a lotThe Villages an example of platform
+engineering you're creating a
+self-service automated solution
+but even that product is not pitched as
+platform engineering I'm gonna maybe
+they should I'm gonna go hit up Savannah
+this is product lead like hey you're
+missing out on some buzzwords here you
+should slap platform engineering on that
+and you're good it's just pitched us a
+developer tool really yeah oh I think I
+might I could be wrong I haven't checked
+their marketing stuff lately
+hi can we convert terraform
+configuration to a diagram I don't know
+yeah use the data from graph command
+s chat GPT it probably knows how to do
+it for you
+that is so bad for your health oh the
+sleep yeah umwhat what else is here it really depends
+uh hold on
+the other day someone told us that they
+were trying to hire remember rishab they
+were trying to hire a cloud engineer
+with oh yeah to 20 something years of
+experience
+that was crazy
+freaking crazy
+thank you guyswhat would you accept as a salary if you
+had 20 years of experienceum I don't know ask me in 20 years come
+on man we can't get anything out of you
+yeah it's like sipping his water in
+super chill he's like no I'm not getting
+into these baits
+yeah because they're gonna clip it
+they're gonna clip it's gonna go viral
+on Twitter I think until I was gonna
+because I was gonna get canceled 20
+years
+I don't know if money would still be
+there in 20 years okay how many Bitcoin
+will you accept
+now he'll say well it depends on the
+value of Bitcoin in 20 years we'll see
+in 20 years right
+the the only reason I asked is because
+yeah as Gwen was saying we saw like some
+chatter in our Discord Channel like a
+company trying too hard like a mid-level
+or senior level
+Cloud engineer with 20 years of
+experience and the pay range was like
+not great I think
+or something so that's why like I was
+just trying to get your opinion
+yeah I know people who like
+umthis guy he got offered 450k at Amazon
+to lead their Europe region
+450k base yeah 450k he was going to lead
+yeah I feel like that's kind of low
+yeah to lead a team perfect team or
+something yeah
+how many years of experience did this
+person have
+quite a lot yeahthere's a lot of money
+there there is and that's why like I
+think Gwen said it's less
+um because you can never feel like yeah
+yeah no not saying that we like would
+like I don't even imagine what I would
+do if I own that amount of money but
+the reason why I said that is I've seen
+data that there are like some especially
+like if you see staff level or you know
+principal level Engineers who are
+earning
+550k to like 600k and they're not
+leading a team they're just like
+individual contributors right so that's
+why I was like if he's leading like a
+few like a whole like you know
+engineering department and it's it's a
+more tedious work I guess what I'm
+trying to say
+it's not for Canada or sorry yeah
+strictly U.S strictly U.S how are Europethat's that's uh setting pound or
+something
+uh yeah
+450 I guess in Europe is significant
+significant and it's also significant
+not only in Europe because you know
+against like us I believe is kind of
+expensive in certain terms right well I
+know yes specifically
+Europe are less in general than the US
+yeah so
+do you recommend Discord and why
+do you guys recommend Discord
+is discard sponsoring us
+I'm just kidding yeah we do recommend
+this code that's why like our
+communities are in this code
+I like how this is free
+on slack you have to like pay inside
+yeah for like history and things
+whatyou no longer need to get into
+management to get more money is Kunal
+are you a manager are you I'm a messy
+yeah wow
+how do you feel about that do you like
+it
+it's good too much uh
+I'm trying to travel less
+um
+but overall it's good I'm doing a bunch
+of things because we are like a small
+team which is what I like uh get to do
+everything uh how big is the whole
+company
+like 40 people
+um so like multiple hats it's good
+um especially I graduated last year so I
+have the freedom to like experiment
+build my profiles Gloria lore
+um especially if you graduated last year
+that that thing is what amazing wait so
+what you're like what 20 years old
+something like that yeah
+so see that is what like amuses me every
+time is like you met me at hack on he's
+like
+I lead the devil team at sibo and I'm
+like didn't you just tweet that you were
+going to graduate in like October or
+something I was like yeah
+I'm like an eel after
+becoming one
+so you were working in your third year I
+was a student for more than a year how
+did you get that job as a student I
+started as an intern uh
+in my and like in my third year or
+something
+and then I
+um
+so I I got uh I got one at Google
+it didn't depending and then they sort
+of like revoked the offer because of uh
+coed
+um so I got one at c1n and then um
+yeah I started small like as an intern
+and then after two three months uh Mark
+was like doing good give him gave me
+some more stuff to do
+um and then uh one year went by then he
+was like you can you should join full
+time and join full-time
+um in September last year
+so it works for like 1.5 years what time
+ish or something while I was a studenthow did you manage yeah I just didn't go
+to universitybut I don't recommend doing that if
+you're if your University is nice then
+um and make the most out of it was yours
+not nice mine was not good so I didn't
+go I just went to like give exams and
+get the degree but I didn't really
+attend lectures or anything because it
+was finally
+finally got a hot take out of him yeahI'm not saying it worked Gwen it worked
+it's not every University is not today
+it's just like it's just weird like
+we don't get together okay then just
+don't go there definitely yeah I'm a bit
+familiar with and that's that's the
+that's the primary reason you know I ran
+or not ran I moved to Canada
+um after my like ran away I ran away I'm
+like
+if it's not good qualities like you know
+I'm gonna spend the same amount of money
+on my education in India which
+might suckum some like better spend the same
+amount of money where I can at least you
+know
+have good career opportunities which I
+guess I'm doing better than I would have
+been so
+in India if you if you don't go to a top
+school
+you're like you have like little chance
+of Landing a job I think you need to
+work hard like you need to
+yeah yeah like you like Canal is a great
+example I guess in that case like he's a
+perfect story here
+um that you need to be
+you need to get out of your comfort zone
+go out and create opportunities for
+yourself
+even study at certain points by yourselfis it expensive
+umI don't think so compared to the states
+it's not very my my entire University is
+a private one but funded by government
+um I mean there's one main University
+and then mine it has multiple colleges
+in it colleges in it so it's pretty
+average stuff uh it was like
+wait I'm doing a conversion ofit's like four thousand pounds for four
+years
+okay yeah it's not yeah that's like
+like you can't even get a year here yeah
+I was gonna say that's like a semester
+and the Very premium colleges in India
+if you want to go to like premium
+premium ones
+um
+20 000 pounds for the entire year but
+compared to what people make there is it
+expensive uh
+I would say it's yeah it's a relative
+relatively okay yeah like people in U.S
+make a lot more money and that's why I
+think the but tuitions are still really
+high and that's why I think it's hard
+for
+like us as International students to
+move to us and that's why like I chose
+Canada and also like a college instead
+of a four-year degree
+which can be really expensive if you
+consider you know the household income
+is in Indian rupees yeah
+India is the only country one of the one
+of the countries where the term
+degree is not mandatory it does not
+apply you need one
+yeah really yeahin the U.S you don't need a degree if
+you want to get a tech job
+your skills and network and everything
+India you need one
+it's like
+it's like any other I would say Asian
+country Canal like that's my
+understanding of it
+like you know if you see
+China or South Korea
+um like you need like I've heard people
+say that yeah you in in any profession
+you need a degree you need four years of
+college education too
+pursue a career
+um whereas I see that it's changing it's
+a lot different in the west right
+not okay not doctor and like accounting
+stuff I know they that those professions
+still need degrees but in Tech it's a
+different thing
+um but yeah and also I think when it's
+like really a household thing too in
+India like
+it's like written down like okay it's
+like you do high school high school yeah
+you're gonna go to college like pick
+what you want to do
+oh so the option to not go is not even
+it's not even an option like you you you
+have to go like the option is what do
+you want to go for it's a it's a norm I
+would say yeah
+um I won't say there are not Exceptions
+there are definitely exceptions but
+in a normal
+yeah it's very rare that your family
+would allow you not to go to college
+here either so there are two reasons why
+you would not go to a college in India
+for like after a university for
+engineers either your family is very
+rich or your family is very poor
+I think that's a really good video wow
+that's a tweet right there
+yeah so that's there are two reasons
+yeah
+we don't have any like football
+scholarships like no one cares oh yeah
+we don't have any extra calligraphy like
+the national level player they don't
+care really yeah you won't get
+scholarships you okay
+just a like bit more context on that you
+can be
+in government jobs like you will be
+given preference if you're a national
+level player or like you're good in some
+kind of sports you can get government
+jobs easily but education wise no
+and government jobs are good it's all
+right it's stable but it doesn't have
+like a very good
+I don't know
+um
+image
+people want it it's it's like because
+they never get fired with condoms even
+if they don't do their jobs that's why
+government banks are very like slow and
+everything you know because people just
+don't care
+um
+so that's why most people are like in
+the like rural areas or whatever they're
+like we want government job because you
+know the stability and perks you know
+you get the perks for government jobs
+pension and
+free like you know house quarters and
+yeah all the benefits Essentials you get
+umbut um
+yeah it's just like the bare minimum
+yeah yeah it's not exciting like it's I
+think it's same here too yeah
+here too the government is boring but
+stable
+yeah Davis yeah very stable you won't
+see like rapid growth in your career too
+like it'll be slow growth but it's
+stable no kubernetes in the government
+no platform Engineering in the
+government
+they still call it tech consultants yeah
+like no way you're on like I said you're
+on C sharp one done it framework
+whatever the first one was no golang no
+rust none of that kind of stuff
+wait I didn't share about this stream
+let me do that from
+come on yeah get us get us to like your
+numbers make us famous like youwait someone asked what role was Moe's
+hit by the layoffs
+recruiters
+someone commented that toowell yeah because they'd obviously they
+don't want to hire as much so I guess
+that makes the most senseumyeah give us some fast kuna famous as a
+service
+[Laughter]
+how do you like London how long have you
+been there now
+uh I moved on 7th Jan where I was I was
+traveling before then uh quite a lot so
+it's good it's very nice lots of things
+to do
+um it's one thing people say it's
+expensive
+I think
+it's a very important it's cheaper to
+compare like compared to India it's
+cheaper that's a very controversial
+opinion I'll explain why I understand
+that expensive right I understand that
+um
+the energy bill is expensive water bill
+is expensive I get that that's fine but
+the tax is low
+right houses are cheaper as compared to
+India compared to compared to the money
+you are making here
+compared to India as well if like if you
+want to buy a villa
+I see that in India is like in Delhi
+where I live let's say GK greater
+kailash is a very popular area yeah you
+want to buy a villa over there it's 100
+crores easily same thing if I look
+around London it's just like 10 crores
+one day yeah I checked the prices and
+everything
+one more thing is the cars in India get
+a lot of import Duty so because you get
+really cheap uh the same model of a car
+if you're getting in India for two
+hundred thousand dollars the same you
+can get in UK for ninety thousand same
+exact configuration
+especially like if you're into luxury
+cars they're really cheap when you
+compare it even though like groceries
+are expensive and everything uh
+I I still think it's it's nice it's it's
+a for the long term if you're gonna buy
+a house and one main thing is like the
+weather is very nice like no pollution
+air pollution still like India a lot I
+love India but I think
+for me it's not I'm like I'm not like
+bound to UK If I miss India I'll just
+book a flight and I'll go tomorrow my
+work is completely
+um so there's there's no I I'm not
+bounded to a country uh I can go
+anywhere I want did you move did you
+move forward
+yeah I I moved to like uh I'm gonna work
+more closely with the team because I I
+really even though I promote remote work
+I really like the hybrid culture
+and uh yeah I wanted to work more
+closely with the you knowum and I wanted to go to uh so I was I'm
+going to travel a lot during like a few
+years and London is just like the right
+spot Europe all the countries are near
+the flights are not too long us is near
+so if I'm traveling every month
+it's from India doing that it's it's too
+much yeah yeah travel time yeah yeah
+isn't it like from New York isn't it
+like what 12 hours or something or more
+to London no no no India 14 or 15 hours
+16 74 14 15 hours yeah
+that's what I'm doing in September
+from Toronto to like Delhi it's
+I always hate it but you know you have
+to do it that's really smart too like
+yeah I think if you if you thought of
+that already that you're gonna travel
+and like you chose London like that's
+like right in the middle of the East and
+the West I guess
+I had the option for you else but I I
+don't like the laws
+what loss just like immigration laws
+it's very tiring like getting a Visa and
+then you know
+um getting a permanent residency permit
+very very too much wait times and
+um
+that the lottery system or whatever yeah
+something I didn't want to do is
+London well I guess the UK better yeah
+very easy with immigration so easy got
+my Visa in five days uh you can get a
+permanent like residency permit if not
+you if you don't want citizenship you
+can get permanent residency permit very
+simple
+very super easy yeah how about Canada
+like what's your take on Canada it's too
+cold
+I know that Gwen
+uh with Canada uh
+I I didn't I did no research but I know
+Canadians are nicest people on earth
+see
+you gotta represent
+um I'm at Marino uh I was in Canada I
+met Andrew and Tara from battle snake
+metricia
+so you you can tell a Canadian and you
+really know you see a Canadian you'll
+know they're from Canada
+because of how they talk and how kind
+they are
+I I think I heard you say that you don't
+like New York
+yeah
+um
+no I like New York
+you want to live here though
+I I think living in New York is a
+different thing and you know visiting is
+a different thing I wouldn't know what
+it's like to live until I've lived there
+um but um from what I did like with my
+visits it's it's okay but
+yeah it's uh it's too many blocksyeah
+I remember walking no the New York is
+great uh I enjoy every time I come but
+um
+yeah just I it's not it's I'm neutral so
+it's not you know like you visit New
+York and you're like oh my God New York
+City wish I could you know live there or
+whatever I didn't feel that I was like
+okay not even the first time yeah very
+good no not even the first time okay New
+York very nice good food great people
+very good very good uh but I didn't get
+the urge to like Okay so let's move here
+but it doesn't mean it's not good it
+just means that it's uh I'm not the New
+York type maybe yeah but I really love
+it because if I didn't then I wouldn't
+you know visit again and again visiting
+again
+um
+yeah
+but the one the thing would use me I
+think it's it's more about people than
+the place you know and uh I think that's
+what it is
+yeah maybe maybe one day I'll come for a
+monthin the summer you gotta come like June
+is the perfect perfect month to be in
+New York perfect weather July is all
+right but like the lit the last half of
+July and then August is too hot too
+you should be a politicianuh the same I mean I I was there in uh
+November
+and now I'm gonna and then I was there
+when was hackcon whenever hakon was and
+then I was I'm gonna come in like
+I want to see New York snow I want to
+come to no snow yet yeah no there's
+still snow there no it hasn't snowed at
+all
+what what
+okay hasn't snowed yet you can come to
+Canada go to Canada for like
+from what the member to like
+February or March and you'll see see
+snow so there's a lot of time you can
+seek snow
+yeah it was like super sunny here today
+it was warm like it's snowed in London
+after two years
+yeah
+I was going to ask like how do you
+because I know it was it was not a big
+challenge for me because you know I was
+just
+like a 17 year old so I could eat fast
+food a lot at that time but like how do
+you deal with like Indian food
+now I'm cooking myself nice
+yeah that's the only way that's how I
+learned this I started cooking myself
+and London has incredible Indian
+restaurants nice yeah some are better
+than India
+so good another controversial thing but
+it's true
+I gotta visit London yeah dishoom I had
+pav bhaji there I was
+so good and I had a Dosa near my like
+this is just like a is an Indian family
+they have a dosa restaurant
+it's like a local second best dose I
+have had what what is a a dosa
+um it's like uh you know how you had
+none with me yeah
+it's a really thin version of it but
+it's also not wheat so it's like right
+it's really healthy for you but it's
+also really lightweight like it's really
+thin it's like like a tin pancakepotatoes and then yeah
+very goodNew York dosa so
+a DOTA man of New York
+is very popular I'll have to try the
+thing with me is like I can't handle
+spicy food so it's not it's not so
+you'll also get like a coconut chutney
+thing it's like
+that's really good for like soothing
+your
+you know gut and stuff
+so it's it's the opposite of
+what we tried Gwen
+so Kunal I made her try like the
+traditional Punjabi Cuisine you know you
+have your Dal you have your butter
+chicken and chicken and for that like
+for her it was a bit spicy
+um
+and it was also was like a lot of
+quantity I guess we were not able to
+finish it yeah we had a couple of things
+we thought they were going to be smaller
+but they gave us good portions yeah and
+how easy it a lot
+keep that in white
+the one thing with the UK is that some
+restaurants uh make the food based on
+the taste of like britishers it's not a
+big Indian food and um it for someone
+who is from India it would just taste
+like really
+different and not very good mediocre
+yeah but yeah that was authentic
+restaurants
+that was true for like
+some of the restaurants that I visited
+early on here in Canada too it's like
+really
+um
+you know for Canadians so that they can
+consume it and then now I think I have
+found some good places that are like
+really authentic and like the good thing
+is the ones that are good are usually
+like local restaurants there no not
+chains and stuff they're like a
+family-run restaurants they cook
+themselves and you know it just reminds
+me of my home
+butter chicken was considered more a
+dessert in India not true
+it is considered sweet
+but it is not considered a dessert like
+it's a main course dish at least what I
+know of
+yeah it's main course yeahhere says
+intake butter chicken pizza
+yep we have that here too it's good you
+gotta try itleave it to the U.S to make or North
+America to make anything Pizza wait what
+is this
+yeah that's also like a paneer dish
+just like we had butter chicken there's
+butter paneer but then
+there's also sharpeni it's again like
+previous cottage cheeseit's like tofu
+yeah it's like alternative to meat in
+India
+I see I see oh yeah that's right because
+wait but you come on do you eat meat
+because I Know Rich of you dude no Canal
+doesn't yeah okay I do you do yeah yeah
+I remember that but Canal doesn't do the
+majority of people in India don't yeah I
+would say soum well I'll come back to this statement
+um in North
+and in like South
+but in the mid I think there are a lot
+more people who don't eat meat but yeah
+North and South I think people eat a
+good amount of meat like also in South I
+think people are good with red meat like
+beef uh and a lot of seafood
+and in North it's majority chicken
+but like I have in my family no not is
+also like uh
+like the cold region so yeah we meet
+stuff over there in the in the west if
+you go to like Gujarat and stuff there
+people don't eat meat no yes like in the
+midwest yeah if you go to West Bengal
+and you go to Mumbai Goa and stuff yes
+people eat a lot
+um I think majority people do yeah
+yeah
+there's lots of people in my family do
+but then there are also exceptions that
+don't
+is it a food blog yes
+today on Fridays we talk about food
+how are we going to afford all this
+delicious food without jobs are you
+worried about getting laid off no no
+really
+no
+is it just because you're confident in
+your skill set or is just something you
+don't care about
+um
+I I
+um so there's multiple things
+I haveI really
+so this the one thing is like I really
+trust the people I work with because we
+know you know what we're doing and
+everything
+um but even though if there's let's say
+a one percent chance I know that you
+know I'll find another job okay it's all
+about staying relevant
+um someone was asking me how do we
+prevent to get laid off well you can't
+you know you can't prevent because there
+was this one guy worked 16 years at
+Google got laid off without a reason he
+made a tweet 15 years it's a lot of yeah
+yeah
+so I I don't think you can prevent to
+get laid off if you're getting laid off
+your company has made up their mind yeah
+they will they will you know just fire
+you but the good thing is if you just if
+you're relevant you have a good
+connection of you know Network people
+have the skills and you'll find another
+job and I know I have the skills and
+I'll find another job
+um that's why I'm not worried and I
+think
+I I it's not just about laying off I I
+never worry about anything in lifeyou can't name one single thing that I
+would be worried about
+really nothing yeah yeah because I think
+it will be ironic because
+you're earning the earning you know all
+uh nice and you know comfortable living
+and then you're you know
+um
+you you work so hard you know in
+University and uh even after you know
+doing all the work and the hard work and
+the you know getting a nice job and you
+know being able to afford you know food
+and all the things and traveling the
+world even after all of these things I
+am worried about stuff then
+you know better than the
+like folks who can't make decisions you
+know like like animals for example
+animals don't have the ability to like
+make decisions but we are humans we have
+the ability to make decisions so even
+after having all of these things and you
+know what's the point of so much hard
+work if in the end I'm still worried
+about
+anything in my life right I've worked
+too much I work too hard to worry about
+things like that's basically my way of
+putting it another point is that I don't
+worry about things that are out of my
+control
+which is something that most people
+worry about so if you stop worrying
+about things that are out of your
+control you yourself will realize that
+you are not worried about anything
+because people mostly they worry about
+things that are out of their control
+because you can't do anything about it
+you know so example when I was giving my
+interviews right so there's let's say
+it's a good example let's say we take
+two people as uh
+um hypothetical people
+um so we take John Wick and Spider-Man
+so John Wayne and Spider-Man they're
+they're like applying to a job right and
+then they're preparing for the job and
+John Wick is like spending 100 of his
+time preparing for interview right he's
+doing lead code and you know projects
+and just studying and Spider-Man what
+Spider-Man is doing is he's spending 50
+of the time uh
+studying and preparing for the interview
+and he's spending the rest of the 50
+worrying about the outcome like okay
+what what would happen what what would I
+do if I don't get the job and you know
+all these other things so now if we
+imagine that both of them are on the
+same level in terms of like mentality
+and who's going to get the who's going
+to prepare and who's gonna who's gonna
+give a better interview it's going John
+Wick right
+so
+even if you want to worry about like
+there's obviously some things that are
+inevitable that you get to worry about
+but
+if you don't worry about things out of
+your control then I I I just never worry
+yeah that's a great way to end the
+stream with some positive deep
+philosophical knowledge we've been doing
+this for like almost three hours so I
+gotta go take a break Canal we gotta do
+this again it's nice to chat with you
+you're filled with knowledge at such a
+young age
+uh but all right everyoneum oh yeah it was it was great to have
+you Canal um yeah we're gonna do this
+like as a dedicated thing I know it was
+all random but yeah that's how we do
+this
+as always it's in New York uh when
+you're in New York yeah yeah maybe I'll
+be there and Russia will see you in
+Canada yeah sorry about Florida first
+Florida first Canada as well yep
+definitely
+all right bye everyone

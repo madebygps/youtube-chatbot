@@ -1,0 +1,794 @@
+Migrating @LearntoCloud to Azureforeignokay cooluh all right cool we're left what up
+everyone
+last minute live stream as per usual
+uh dude if I turn my sign on my camera
+flickers because it's too close
+the good thing about yours is you're
+just like in the back
+yeah there's enough space for it to not
+impact your camera Oh you mean like the
+LED flicker thing yeah yeah because it's
+too bright look
+you see
+yeah
+it's doing the like the low light stuff
+yeah so
+I bought a dimmer that I'll that should
+make it
+a lot more nice
+honestly it's good enough
+uh all right so where are we at what's
+going on
+so
+um let me move the stream yard
+to another
+monitorokayshare my screen
+what up everyone Maxime Joshua
+ring I'm supposed to just set up a
+domain on Azure Cloud super
+straightforward now I need to set up an
+Azure domain
+nice is this for your Cloud resume
+what up everyone happy Saturday worship
+and I are migrating learn to clone to
+azure
+previously it was on GitHub pages but
+kind of last minute we we talked about
+this like a couple days agoyeah the we did the 2022 catch up
+and that's when I think we just said I
+think we saw the numbers I think I saw I
+saw the numbers I'm like we have to
+migrate this to Azure because
+primarily it's going to be an
+opportunity for us to have something in
+production that we can use to one help
+other people get like Hands-On
+I like actually work on something that's
+Hands-On and in production but two just
+use it for demos like oftentimes I want
+to like create demos or tutorials around
+like monitoring or stuff that needs
+actual metrics and kind of showcasing a
+real use case is difficult when you
+don't have something in production so
+having this is gonna be perfect
+yeah yeah
+so we we ran someum Google analytics so I have we did set
+up Google analytics for a GitHub page
+and when I went through the numbers
+I was in shock and then I think when to
+some point you were expecting those
+numbers
+um but we didn't know the actual numbers
+until we saw it on on the dashboard and
+we're like oh you know this is
+we shouldn't Host this on GitHub Pages
+do you do you have the numbers handy we
+can share share with people I think I
+tweeted something pretty basic out about
+it
+um we didn't do like a very involved
+retro on we kind of just chatted
+like you took like a day to kind of go
+through the numbers and whatnot but it's
+very yeah in my opinion for what it for
+zero marketing budget for zero anything
+it's like you know
+it's kind of just like social media the
+numbers that we have or can you zoom in
+like a lot let me know
+more
+okay and then scroll down to yeah I
+think this is good yeah yeah yeah okay
+sookay here is the website and this is
+like what our focus is the the website
+basically means the learn to Cloud
+platform where
+um all of the community members go and
+learn about you know the six month or
+just the entire guide is is the website
+right I do know some some users uh
+prefer it using on GitHub but I think
+towards the end it was more people just
+starring it on GitHub rather than
+or reading stuff yeah because I think it
+it looks really good on the mobile even
+our doxify stuff looks really good on
+mobile it's more readable uh more
+structured than GitHub so this is the
+guide this is the numbers we had for
+2022
+and I don't even think
+we were live for the entire 2022.
+like this is not a 12 month data is what
+I'm trying to say we didn't start it in
+January
+as far as I know
+We Didn't Start uh I can't remember when
+we started doing I can look it up
+because this is doxify stuff yeahum
+I can look it up
+um yeah when the traffic started hitting
+but yeah these are the numbers so you
+can go through the numbers
+no it could be it could be a year
+because I remember talking with oh wait
+no no no I don't think you look at it
+here all right so for 2022 for what
+however long we were actually
+sort of more than just a GitHub repo we
+had a 71 000 users and over 148 000
+sessions zero dollars spent in hosting
+average of
+6415 users a month
+October was our highest month in usage
+with you it disappeared okay 10 526
+users
+average of 400 users a day
+on October 3rd we saw 2500 users oh my
+goodness
+uh social referrals 1.4 000 direct 1.2
+what is direct like
+directly going to The Domain
+uh in the browser so like learn to
+cloud.guide okay going straight to
+these numbers are just for October like
+for social referrals so YouTube was a
+major one and Twitter because I think
+October was also the month where both of
+us posted something about learn to Cloud
+uh and then directors just people
+looking up learn to Cloud
+so this in this 10 traffic was through
+organic search that's for the entire
+time that's for the entire time yet
+so like you uh Google
+uh or other search engines and this is
+with terrible SEO we have we have never
+put in
+any care for marketing SEO ads or
+anything whatsoever and we're not really
+gonna do we're no not we're not it's not
+we're not really we're not doing any ads
+ever or we're not doing any paid SEO or
+anything like that moving forward right
+now the focus is to just move it to
+Azure so we can have an in production
+application to use for more educational
+purposes which I think is going to be
+fantastic the only downside I see here
+is this is actually going to start to
+cost us money
+yeah
+um we're aiming to I mean we're aiming
+we're using serverless platforms so
+consumption-based uh app services so it
+should be relatively give it everything
+the majority of things are
+Statics are not Dynamic content it
+shouldn't be too expensive you know I
+I don't I don't know I mean I I see it
+sorts very somewhat similar to like
+hosting like a resume challenge
+um
+because you know static content
+but we'll seeuh yeah
+dream team in action the stream looks
+good what's up angel
+it's 140 in India
+oh my God what's up Nelson I saw if I
+sound sick it's because I am sick so
+yeah I was gonna say
+how are you feeling today well I'm
+significantly better than the last time
+we spoke but um
+yeah still very much like recovering it
+sucks because it was like I have so much
+stuff to record and be on camera for
+coming up so
+hopefully I get better soon but I think
+there's something going around
+um it doesn't help that I'm such a heavy
+heavily populated areayou know so
+we'll see but yeah how's everyone doing
+happy Saturday do me a favor hit a like
+on the stream I always like to do these
+challenges at the beginning of of the
+shames where I was like I want to hit a
+certain amount of people so let's try to
+hit 50 people live and y'all can help us
+by just liking sharing with anyone
+um
+so yeah Vaz does Texas hi going to talk
+Russia what up
+um okay yeah so we did start in February
+which was
+good I guess 22.
+yeah because it shows
+5837 users for February which is like an
+awesome number just to start with so in
+11 months these are numbers from 11
+months yeahthat's pretty impressive for no
+marketing no SEO no ads nothing
+especially no SEO like I don't even know
+how
+Casino SEO and we still reached 148k
+sessions
+148k session 70 78 71 000 users
+startups
+they had these numbers
+of like essentially all of it is organic
+true no it's not essentially all of it
+is organic because there's nothing paid
+there's no paid ads there's no paid no
+it's direct from your YouTube stuff
+um yeah
+no SEO that's that's one thing like I
+can't figure out like no SEO and still
+like 10 traffic was through organic
+search like imagine after docusarus goes
+live and people start searching you know
+how to become Cloud engineer or
+how do I learn cloud and I'm pretty sure
+the the numbers we have with doxify like
+docusarus numbers will still be great
+because we still have those 71k users
+that are visiting this site every now
+and then like a little bit ranking
+really good
+um
+on on these searches whether it be
+Google inductor go or Bingjacked
+act monitoring data directly via like
+sdks into in this case it'd be
+typescript so leveraging oh yeah the
+monitoring the Azure monitoring sdks
+into that and then pulling out some
+information some interesting information
+that way and then overall infrastructure
+monitoring data will get via just Azure
+monitor which would be cool too
+yeah moving forward yeah I don't regret
+having this a year on GitHub pages but I
+sometimes I look at the numbers and I'm
+like oh my goodness the amount of just
+cool stuff we could have been able to
+um
+the Creator yeah the other thing is I we
+don't have any insights into the
+performance yeah that's what I care
+about I don't care about like people or
+users data or or like demographics I
+don't care about any of that I care more
+about we have an application in
+production like how do we make how do we
+optimize it like what's the difference
+between having it as like a monolith or
+a micro service oh how easy is it to
+implement like a serverless feature on
+top of it stuff like that that's what I
+care about yeah and that's that's what
+I'm excited about too is now being able
+to not only like this stuff is cool okay
+yeah we get a lot of users
+um but like with those users like how
+are we performing what is the
+performance of the actual you know
+static web apps in production and
+um like what's the response time and
+yeah all of the cool stuff yeah all
+right I want to build a dashboard
+a dashboard like I would like to build a
+public dashboard exactly yeah yeah like
+something like uptime.learn to Cloud dot
+guide exactly and people can see all of
+our metrics from different regions and
+then people can use that for their own I
+don't know tutorial inspiration on
+whatever yeah or you know go and like
+create a Hands-On lab or something like
+that maybe we can build an API around it
+I think that would be really awesome
+more so just leveraging
+because I I remember talking about like
+I want to create projects for learn to
+Cloud but the hesitation was always what
+what's the project
+and who's going to maintain it so at the
+end of the last year we were just like
+oh let's just make learn to Club the
+project
+and then yeah yeah and like Community is
+benefiting from it we are benefiting
+from it because we're getting this
+experience
+yeah we've gotten to flex your umsaw your Tweet your typescript your
+devops things I haven't done any
+engineering this is all worship I'm sort
+of just
+giving my opinion
+um
+and that's why we had to do this live
+stream because I'm stuck
+yeah let's let's take a look at what
+that's going on hold on let me see yeah
+when you guys talk about static web apps
+you mean html reactor view based apps
+right yeah so Azure static web apps has
+essentially static front end and then
+serverless API backend yeah uh we don't
+have we're gonna I'm gonna definitely be
+implementing some stuff as an API that
+will integrate with our front end we
+don't have anything at the moment
+because everything is static
+um but this is react on the front uh
+sakusars for the duck because learner
+cloud is heavily just documentation so
+for the documentation purposes we're
+going to be using docusars at the front
+end and that's react and I don't really
+know what else is part of the front
+yeah so yeah and we're we're using
+typescript
+um
+or react and then
+what else yeah nothing else
+um I don't even know what CSS stuff
+they're using so I'm not gonna talk
+about it
+uh but yeah
+so
+I used
+so I'm gonna catch you up you're pretty
+familiar already with because you paste
+the link of the yeah yeah the action
+running and just put in the chat and
+people are going to see what's going on
+tooso when was pretty caught up with with
+what's going on
+um but just to recap I have so we have
+our docusara stuff it has been merged so
+I've been working on the
+main branch I'll Zoom this in so that
+it's readable
+let me know when it's good
+uh yeah do one moreyeah you're good there
+okay
+so
+um
+so I've done two things now
+one is I use the Azure extension which
+is awesome uh to deploy a static web app
+right through vs code what it does is it
+gives mean action
+right and you can see it in the vs code
+extension on the on the right hand side
+so under static web apps you have learn
+to Cloud your production you have
+actions and this is the action that it
+addedthis
+is Main Branch okay that's why I feel so
+bad because now it's all messed up and
+by messed up I mean you know failed
+actions different commits over time kind
+of thing the website is still live
+because we moved toxic fire away yeah
+so this is the action
+um this was
+the default action that uh the extension
+generated so it asks you a few things
+you know the application which for us is
+root so this is the root of the
+directory you have Source you have
+static no modules and stuff and then the
+main thing it looks at is the
+package.json to
+uh identify what kind of project this is
+so packet.json usually means some
+JavaScript framework and then in that
+you have scripts and stuff to build
+right so start build deploy clear serve
+um and what doxy docus RS uses since
+it's based on react you just do npm run
+build it'll give you a build directory
+in this
+and that build directory can be served
+statically by
+uh static web apps so that's what we are
+trying to do
+so going back to that action that we
+have that was created by
+the extension right so you can see the
+application is root which is fine API
+allocation doesn't matter because we
+don't have an API yet we will have it in
+the future
+output location as I said it creates a
+build directory after we run npm run
+build
+so this is the default action up until
+this point but then I was going through
+some documentation and you can have you
+can specify a app build command and in
+my case I know it's npm run build Okay
+so
+I don't have to
+um it it will run this by default if
+it's a you know node or
+react view is it everything even if you
+don't have this yeah so that's what it
+was initially like this didn't existed
+uh it ran it failed
+I tried it again by changing the API
+location because I'm like we don't have
+an API so maybe that could be reason and
+I saw a lot of uh
+stack Overflow stuff and GitHub issues
+comments saying oh I removed the API uh
+setting and it worked so I did that it
+didn't
+and then I moved it back into the
+configuration and then added this and it
+still didn't and now I'll show you what
+the error is so the error it says is it
+finds the app directory location
+right
+um it's starting to build the app with
+can you make this largertwo yeah that's good scroll down more
+all right cool there perfect
+yeah so it starts building it it has
+identified the root location and the
+Eric is it gives is could not detect the
+language from repo
+and it says finish building up with
+O-rings and faint to fi fail to find the
+default file in the app artifacts folder
+like I don't know why it's looking at
+the root it should be looking at the
+build directory
+um no API that's fine because we don't
+have an API yet
+and I have been going through
+um
+a lot of you know stack Overflow and
+GitHub issues regarding the same error
+message
+and people have posted about itum and I tried doing the the exact steps
+that they did and might have fixed it uh
+but this this issue is still open so I
+made a comment with my
+um
+the issue I'm facing is you know hey
+this is the action that the static web
+app created it's a docusaurus project
+using react
+um I did specify the app build command
+I've tried removing you know the API
+location and it hasn't helped and I also
+posted the repository structure so that
+you know
+they have all the details if anyone
+looks at this issue
+but the GitHub action fails with the
+following errorso that is what I have tried right
+um the other thing I wanted to share is
+I looked atthisokay I'll zoom in let me scroll up yeah
+so
+excitingly Nita I think yeah he works
+for Microsoft she has a shout out shout
+out Nita she has a whole project on on
+docosaurus yeah she has a lot of sites
+created with docusar she's like an actor
+exactly so I'm like
+she would know how to deploy this with
+Azure static web apps and that's exactly
+what she did in this 30 days of static
+web apps
+um so she has the site that she
+customized a bit just like us you know
+we customize it for learn to Cloud
+uh tutorial sources GitHub so I looked
+ahead of every GitHub code and also went
+through the entire demo just to you know
+see where did I do things wrong
+so this can be skipped because this is
+just customizing the site but this is
+where the good part is about deploying
+it to
+azure
+so you can do it through the Azure
+portal and that's what I did today so
+all of the vs code extension stuff I did
+it yesterday and I called it a day and
+today I did it through the portal and
+same thing is happening
+foreigncode extension and we'll go through this
+so you need to make sure you have the
+web apps extension installed
+and this is the exact thing I went
+through like I clicked on the little
+plus icon in the vs code it asks you you
+know
+should
+Azure perform actions for you
+um in nvs code and then you enter
+some details about the static web apps
+so in our case this was learn to Cloud I
+picked East us2 because that's the
+closest
+specified project name which was react
+and then for
+their particular reason the the site
+exists the docusaurus
+um configurations and the project itself
+exists not in the root but www inside
+root
+and then you also have to specify where
+the output will be which is the build
+directory
+so in my case the only difference was
+not having www here and instead have
+just a slash which would represent root
+of my app
+and that was it
+and in her case it deployed it
+but in our case it failed
+can you do you have their link to her
+repo yep right here so this is the repo
+and this is uh the root of the repo
+which is
+fine because she has all the docusara
+stuff in www
+and this is how exactly are
+uh root looks like
+so we have Source static we don't have
+tests but we have everything else placed
+her into the private chat I'm gonna open
+oh yeah
+oh
+okay
+too many tabs I have to figure out where
+stream yard isokayall right let me open this
+look at our actionscode GitHub or close
+it's which yaml is it
+it's the Azure static web apps Lively
+tree yep
+have you compared this to ours
+yep
+and like nothing is different
+uh apart from the app build command but
+I have tried removing that toocould be
+uh let me look at ours[Music]workflows which one is ours
+so you should see two now because I did
+create one through the portal now uh-huh
+so you could look at the portal one too
+like theForest
+s uhuh let me look at this uh branches
+branches main open me yeah agreeable
+Forest yeahuploadapp location app location
+so our app is in root
+app isn't root
+and an API location we don't have one
+yeah output location build
+output location app location okayfails to detect the language
+all right let me see her
+[Music]
+www
+uh on a clouduh
+uh blah what is it used to detect
+configurationlike package yeah for node projects as
+package.json yeah
+where is our package that
+it's in the root
+hopefullyicts config sidebar docosaurus Babel
+readme license contributors your code
+name I don't see it here
+seriously static sorry I'm at root like
+oh you're right I don't see it either
+wait what ha ha
+why do I have it in in my vs code and
+not there let me check the get ignore
+yeahthat is so silly it's right it's it's in
+your getting ignored ah come on
+so yeah remove that and then try itwait a second
+I want to do get blame now
+Jose I think that's the person who did
+Spanish translations ah I see okay just
+so yeah remove it I mean just comment it
+out actually
+you don't need this
+let me see it from the tophit that like button people skip to 50.
+we hit 40 at one moment but we went down
+uh how's everyone doing we're trying to
+figure out we're doing some
+troubleshooting on our CI CD pipeline to
+deploy uh learn to Cloud to Azure static
+website I should have done a good pull
+post
+yeah definitely
+uh and we we figured out something we're
+hoping this will
+fix it
+okay uh now I see
+package.jsonpackage.log Jason what will
+be posted out awesome
+okay
+um uh removedpackage
+uh Jason fromthat's a good commit message what up
+Lawrence T bohowill this be saved yet uh not on my
+channel uh Richard Are You Gonna Keep
+the recording live
+I mean available public
+yeah I'll see yeah could keep it keep it
+on go watch it on Richard's Channel if
+you want
+uh
+uh yeah cool
+okay is it there now now is the
+nicely time but like check check the
+route to see if it's there
+I think soyeah yeah see that wasn't there before
+so now check that cacd and see what's
+going onthat was sopretty sure it'll build it now
+let's hopeokay it went past that this deploysum
+this is a place straight to the what's
+in the research group right like you
+already created aesthetic web app and
+then I can go and click the URL
+Associated to that static web app and it
+should load learn a cloud exactly yeah I
+have it open here so we'll seeforeignright nowtold you dude it's got to be something
+small it has to be something small yeah
+becauseI think it's easy to catch something bigI don't know I just have a feelingwhen you're also when you're like super
+involved in something exactly you tend
+to like look over the simple things like
+it can't be that no way it can be it's
+like when you when you have issues in
+your code because of like a semicolon or
+something like that it's like yeah yeah
+I was like you know packet.json has got
+to be there
+like I and I don't add it to you know
+because I knew to get ignore
+for docsify that when I created it
+I didn't include package.json to be
+ignored right yeah someone else yeahoh this is the worst part about cacd is
+waiting
+foreign
+yeahand I think we could really use those
+custom commands like the app build
+commands especially with this stuff like
+we were talking about today in in
+Discord
+um you know about having Dev and prod
+yeah yeah yeah staging environments
+stating environments yeahcomply compiling client yeah I know I
+have to resolve these
+markdown link cannot be resolved yeah
+these these are the ones that where I
+told you about they included absolute
+paths instead of relatives
+so once it's once the CI CD Works what's
+left
+once the ICD Works nothing is left and
+you can work on the API
+um what I'm doing tonight what I'm doing
+tonight is migrate not migrating
+pointing the domain to these static web
+apps
+before we do that let's let's make sure
+the monitoring data that we want is in
+place first oh sure yeah so I want to
+send any traffic without having like
+absolute basis oh you see what you mean
+cool
+yeah so once oh there we go our static
+web app is live um so once yeah once I
+have a go from you I can I can do that
+um translations are working
+yeah I have to remove that
+I had a note on the top saying
+translations will be coming soon
+um but yeah then yeah I talk to you and
+you're like no let's ship this when
+translations are in yeah absolutely
+so I have to I have to go in and edit
+some of this copy here did you remove
+the links down from down
+nope I'll be doing that let's clean that
+up too yeah yeah I think that those
+should be easy but yeah Portuguese
+Nepali French
+English
+nice Okay cool so I'm gonna go and pull
+this and then I'll make the edits and
+then I can just push and I'm good right
+yeah oh yeah let me also clean up
+because I have two actions right now
+yeah clean that up and then let me know
+yeah I'll let you know I will pull and
+then make any edits and then I will and
+then you can go and edit you know links
+all that kind of stuff
+uh I'm gonna Implement Azure monitor
+first and then ideally we should be able
+to go live either tomorrow or the day
+after
+cool so tomorrow's Sunday right
+yes uh so probably yeah let's aim to be
+live by Monday
+do a do a little uh Lighthouse yeah yeah
+yeah yeah let's see yeah let's see how
+we're doingcool coolokay so performance is 86 but everything
+else so accessibility and best practices
+are 100.
+I see
+um let me do it in private
+it says Chrome extensions negatively
+affected this page because I have some
+blockers for
+stuffum
+forgot to copy the URLohokay there we go
+let's try that againdesktop navigation
+surethere we go
+awesome nice so we score 100 on almost
+everything except the SEO
+and that is also a huge Improvement by
+what we had before yeah and I can show
+you what we had before if someone is
+um interested
+in the chat
+oh I see
+oh this is this is that stuff we were
+talking about
+what is it umso the link text says this uh
+um yeah we do have some
+you do have some
+like typos and stuff in place so we'll
+fix that and that is the only thing
+um that was in
+the SEO so I think that should bring us
+up at least 95 maybe 100 I don't know
+um it is not a progressive web app so it
+doesn't it didn't do anything
+there
+but yeah I'm pretty happy about this
+cool cool all right so yeah do you clean
+up pipeline stuff now and then I'll pull
+and then I'll do
+no do all your copy do all your your so
+your pipeline your links and any other
+kind of stuff and then I can pull and
+then make edits to I don't know any
+spelling errors anything like that I'll
+go over yeah uh and then I'll work in
+Azure to implement whatever monitoring
+data we need to dosounds good cool uh we're gonna go do
+that offline because it's very async we
+don't both need to be on it yeah but uh
+yeah I hope to have this live
+sooner everyone
+um but yeah we're gonna end this oh
+which extension are you using to be the
+metrics
+what do you mean
+that's what this person's asking here
+I'm assuming these are like the the
+light the numbers yeah oh the the seos
+stuff yeah
+this it's built in into everything yeah
+like Chrome and Edge and Firefox has its
+own version of this so you should be
+able to just to inspect
+um and then
+go up on the top it should say
+lighthouse
+you click on Lighthouse and you click on
+performance or do a testand it should do it for you
+all right
+cool thanks everyone for hanging out uh
+cash recording on Richard's Channel and
+be back I don't know
+peace out
+peace

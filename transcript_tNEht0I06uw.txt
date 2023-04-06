@@ -1,0 +1,188 @@
+My Effective and Simple Note Taking Systemalready so I'm going to show you how I
+take notes but before I show you I want
+you to keep two things in mind I think
+studying from other people's notes is a
+massive waste of time and if anything it
+makes the process more confusing
+understand that the process of making
+notes is synthesizing information in
+that process of synthesizing is where
+you learn you take the I don't know 10
+pages you synthesize it down to
+something smaller one page something
+like that but you understand it because
+you went through the material and you
+went and you wrote up the notes that
+work for you if you try to go grab
+someone else's notes you're missing all
+the context from where they grab the
+notes from so I think is a poor way of
+studying also what works for me won't
+necessarily work for you what works for
+someone else will necessarily work for
+you so if there's something here that
+you've seen that feels valuable but it
+doesn't work for you it doesn't mean
+that you don't know how to study it just
+means that this might not work for you
+okay so keep that in mind all right so
+there are essentially three things that
+I use I use excally draw for diagrams I
+use notion for absolutely everything
+text based where I'm writing things down
+and I also use pen and paper I guess
+journals and like you know handwriting
+stuff like that okay
+uh so I'll use this how Linux works as
+an example I've been writing down some
+notes on a book that I am reading and it
+is called
+uh wait let me see where it is I have to
+bring it up how Linux works this one
+here and right I usually have this open
+on one side like this let me move this
+here and one side like this and then
+I'll have my notion open on the left
+side and as you can see I have a page
+depending on it really depends on how I
+wanted to break it down right so I
+wanted to go through this first chapter
+for example the picture and then just
+take some stuff from here and just
+really synthesize some stuff in here so
+I kind of created a sub page for each
+one of these and there's notes in here
+uh it I really don't have exactly a hard
+line as to like this is a division this
+is a title this is I need another page
+for this I don't it's kind of just as I
+go I like the flexibility of notion
+because I can just you know do
+oh I want to make a H1 title oh I need
+an H2 title I can you know kind of put
+anything in there too but these are
+really quick bullet points I don't try
+to write full on essays or blog posts or
+anything these are just quick ideas for
+me to grab from the text and later on
+when I read it again I can understand it
+better because I wrote down notes okay
+I read stuff
+three four five times again and again
+and again I'll write notes and again
+because I I am just terrible I don't
+know if I'm terrible it's just the way
+that my brain works I have to reread
+things multiple times in order to really
+understand the idea in order to
+understand the idea to the level that I
+want to be able to understand it so that
+is a key for me so this one this is why
+this is a chapter but it's taken me four
+or five days to grab all the notes that
+I wanted to uh but yeah again I have
+individual pages so I have just sort of
+this one page and then individual pages
+in here I have more about the file
+system in here I have more about uh
+devices and I'll I'll have screenshots
+of all those kinds of things right but
+very text based okay
+lately what I've been doing is all right
+once I'm done with like the source
+material you know I I've read through
+this book I read through a couple blog
+posts I watch a couple videos and then I
+kind of Gap all my notes that I have
+inside of notion I've been experimenting
+and it's been working very well actually
+for me is to use visual diagrams to
+further build out and synthesize the
+information for myself and I think this
+is also a great way for me to improve my
+content because in the last video that I
+did talking about elasticity versus
+scalability me being able to explain
+something through a diagram was a lot
+easier for me to make my idea come
+across than just using text or just
+using just speaking straight here I
+think it's a fantastic accessory so I've
+been sort of experimenting with that and
+I've already realized that this is a way
+better way for me to take notes and it
+takes more time but it's way worth it I
+already have so many additional ideas
+that are coming out of these notes for
+things that I want to learn and want to
+talk about later on
+but for example if we go to I have the
+whole the whole thing here so what I
+ended up doing is just coming into
+Escalade draw and essentially each one
+of those notion Pages turns into one of
+these in like high level titles I have
+one two three four and five and those
+you can see correspond to these one two
+three four and five pages here as well
+and we're gonna zoom in here right so I
+have like the high level of components
+and some of these notes are actually
+just blatantly taken from my notion page
+like if we go to here we'll see like
+okay we have oh Linux system has three
+main levels well how do I represent that
+visually well here we go here at three
+main levels and then I added my notes
+there also like oh when I'm talking
+about the the kernel then I have like
+process management management and that
+is sort of similar to the information
+that I put in where we talk about the
+kernel I think we're talking about the
+kernel in here too yeah and here so
+Process Management memory management a
+whole bunch of other things in here as
+well and you get the idea I grabbed
+these notes that I wrote down and I kind
+of speak them and as I speak them I
+write them through this this diagram and
+it ends up looking a lot like this now
+you're I'm probably not gonna be able to
+do notes like this for every single
+thing that I want to study but I just
+thought it was something that was gonna
+be because I make this this talk that
+I'm doing about how Linux Works be a lot
+better so it is something that's
+becoming very useful for me but that's
+what I use I highly recommend ocean I
+highly recommend this Cali draw I use
+excally drop rust so I pay six dollars a
+month for that I use notion the pro I
+paid yearly I think it was over I think
+100 or something like that but since
+these are these tools are that I use
+every single day I would more than
+happily pay double the price for them
+because they really have changed my life
+like I've done a couple of other things
+uh I look a lot of my architecture
+diagrams I also do an excali draw and
+it's just worth it I love it I have an
+affiliate code for notion if you want to
+sign up for it I get a little bit of a
+commission off of it
+um but if you can also get a free
+account there are some limitations I
+believe to the free account but if you
+want to pay for a paid one you can use
+my affiliate code and that contributes
+to continue the efforts on making this
+YouTube Channel free
+all right
+if you want to learn more about how
+Linux Works check out my talk I'll have
+a link for you to register in the
+description I will see you in the next
+video

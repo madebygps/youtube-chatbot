@@ -1,0 +1,91 @@
+Which programming language you need to learn | Cloud Engineerto answer this question the how much
+code do i need to learn to get into
+cloud computing
+your best bet is actually for any
+technology that you want to learn to get
+into cloud computing
+your best bet is to hop on linkedin jobs
+zip recruiter
+uh indeed things like that look
+up cloud engineer set it to entry level
+if the website allows you to
+and take a look at these the listings
+and let's see what they ask you
+i'm gonna do it for myself i'm going to
+set it to cloud engineer new york
+entry level and full time you might be
+interested in contracts or internships
+and things like that
+it's totally up to you but i'm going to
+take a look at this so let's happen to
+indeed
+and let's take a look at what these
+listings are asking us
+i'm gonna try to stick to the ones that
+actually have cloud in the
+role uh sales commerce new cloud
+security engineer all right so let's
+scroll down here
+and right off the bat it is asking a
+scripting experience in python in our
+bash
+so keep a note of that uh so let's
+scroll down
+into another one uh aws cloud developer
+sort of we need experience with python
+right
+up right there right at the top of the
+description okay
+and let's scroll down to cloud
+infrastructure engineer
+this is very very long uh do i see any
+languages being mentioned off the topoh here python there we go systems
+engineer not really
+again i'm sticking to the ones that say
+cloud though
+there aren't many cloud engineer entry
+level gigs from what i
+am looking at here junior cloud network
+engineer
+three to five uh years experience
+no no programming
+here public
+experience okay here it's asking for
+azure experienceterraform okay terraform scripting okayso i uh terraform really isn't
+programming uh it's smart infrastructure
+as code
+but i guess if you're focused in on like
+the devops aspect of things
+then terraform would be a solid option
+here's another cloud engineer one
+python bash and python is asked for in
+this one
+so another point for that one let's
+scroll into this cloud
+software engineer uh python again
+uh i want the ones that just say cloudcloud infrastructure engineer let's take
+a look herepython again software nopeall right let's go into indeed uh cloud
+engineer
+let's scroll to requirementuh there we go python bash mentioned yet
+againuh basic dev skills is a plus but what
+does that mean
+what does that mean all right uh
+let's scroll into did we click on this
+one yes we did associate cloud engineer
+this one is asking for i see a lot of
+help desk and azure so i would be
+surprised if it didn't ask for some
+powershellno hey here we go scripting powershell
+the real advice here is
+go into these job listing sites look for
+cloud engineer
+or the cloud that you're interested in
+and then make a note of the languages
+that they're asking for you
+in those listings which are probably
+either going to be
+bash python powershell
+because scripting is very important
+because at the end of the day
+the cloud is just linux servers
+all right see you later

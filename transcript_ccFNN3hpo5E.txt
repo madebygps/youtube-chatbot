@@ -1,0 +1,140 @@
+I made a Smart Mirroreverybody i'm going to show you how i
+made this magic mirror it's not a
+tutorial because there's plenty of
+documentation it's an open source
+project
+i think it's magic mirrors.builders but
+i'll link all that stuff
+in the description this is mainly just
+kind of like a vlog style video of how i
+built this
+uh yeah i have a lot of cable management
+to do and such uh
+basically i just have vga and then power
+connected to this power strip that's
+mounted
+and the raspberry pi is also mounted
+onto the door and it's just a single
+cable going up
+to like an outlet uh i want to clean it
+up more
+and the mirror i want to put some
+material on it
+that makes it darker because you can
+still differentiate
+the display from the actual gloss
+and the modules i have are just my
+calendar and then
+whether the pokemon daily pokemon and
+then one that i made
+which is daily so quote and then spotify
+whenever something's playing it'll
+display on here
+i want to create another one that will
+go like in this section
+that'll show me some azure uh like my
+monthly azure bill here
+and then maybe something else here i
+don't know but uh that might be a
+different video
+uh so this is a raspberry pi 4. you're
+most likely familiar with this
+little thing it's basically a tiny
+computer and this is an old display that
+i have
+that i don't use anymore because it's
+just vga and it's really old
+it's not that great quality and i've
+just got it hooked up to like
+a keyboard and a mouse and actually vnc
+is on this so i can use vnc viewer and i
+have it on my main laptop
+which is you know i just remote into it
+but uh what i want to do
+is take the guts of this of this like
+display so basically just have the panel
+and then i'm gonna put it behind a
+two-way mirror
+material and i'm gonna make a magic
+mirror um you might have seen a bunch of
+posts
+about this tons of people have done it
+alright so probably first good step
+would be to maybe load on
+like a built-in module[Music]all right so i'm gonna open up spotify
+we see
+it's loaded on here and if i changed it
+to like this one
+it's pretty responsive nice like most
+things in my technical toolkit i've
+learned them by
+looking at other people's examples that
+are online and googling stuff so
+since i have very little experience with
+node.js that's what i'm going to do so
+shout out to the people who
+make their work available online for
+others like us to
+learn from this is i'm just looking at
+someone else's repo
+that is a great way to
+you know learn stuff just looking at
+what other people have built
+[Music]all right it looks like i had a few
+typos but now let's go
+and run it again and
+let's go thereoh it's still oh it worked holy sh isn't
+it it workedoh my goodness i was about to lose my
+mind there let's go full screenthe mirror has arrived so the display is
+kind of i didn't really take it apart
+you can see that
+the still like the front border is still
+on it
+um but this is mainly just for like
+testing purposes so i rotated it
+um originally i had it like that way and
+it was going to be you know
+the other um orientation but this kind
+of looks cooler
+because i feel like i can just mount
+this and i get more of like a
+full body view um so just picked up this
+case
+well it was just delivered to me uh i
+think this was like 10
+on amazon it actually looks pretty neat
+like has a nice clean look to it and it
+comes with a little fan that you can
+attach to the pins that are on the
+raspberry pi
+and it keeps it cool so now what i'm
+going to do is take off this
+frame from the display if you guys do
+take a part of the display
+there's a lot of these ribbon cables
+that are connected like some of them
+might be hidden so you want to make sure
+to disconnect them all like for example
+i have this one and this one
+and this one here just connecting before
+he actually takes off apart
+our little change of plans i'm actually
+going to go ahead and see if i can put
+it in the door
+i've recruited some help
+what are you thinking dude you think
+it's gonna worknicethis is what
+let's seeand here we have the finished project
+again i want to put some tint on
+the mirror because since the display is
+a lot darker and the mirror is actually
+quite clear
+you can see the display pretty heavy
+through it but if i tint
+the mirror it should uh should look well
+also the back needs a lot of work cable
+management and such
+but again just to get it mounted and
+start actually like building some cool
+modules uh
+does the trick looks pretty neat

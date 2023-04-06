@@ -1,0 +1,235 @@
+How I got a job at Microsoftwhat's going on everybody today we're
+going to talk about how i landed my job
+at microsoft welcome to a new video i'm
+gps
+that was the wrong way but anyway you
+get it uh all right so it starts in 2019
+towards the end of the year in december
+the azure advocates were hosting this
+thing called 25 days of surveillance and
+it was basically you would submit like
+solutions using github uh that of these
+problems that they they've sort of
+proposed uh using serverless technology
+and i met uh simona coten who used to be
+a microsoft advocate and now has moved
+on to a different team um through that
+just on twitter kind of like back before
+like submitting and then she would reply
+to my tweets like oh great work and
+things like that i hold simona so near
+and dear to my heart thank you so much
+simona for the impact that you've had in
+my career um
+i don't think i would be here without
+you so thank you um but anyway uh yeah
+and and and so that happens is you know
+it's about a month and then i realized
+like oh i really want to keep doing this
+i i really like like showcasing my work
+to to to the community and things like
+that and i got a lot of help and support
+like it feels great like it feels like i
+i can learn better this way um fast
+forward to 2020 in march the quarantine
+happens and i find myself with more free
+time because no commute so i was like i
+want to start a youtube channel and i do
+i start making weekly videos sometimes
+twice a week on azure functions because
+i was utilizing that at work as a cloud
+engineer to build uh solutions i started
+making videos um and like bunch of bunch
+of videos fast forward to a couple
+months maybe around the i think june i
+think it was around my birthday remember
+that i made two videos that have gone
+since then viral i have like almost 100
+000 views each
+the how i became a cloud engineer with
+no club with no degree and the how to
+become a cloud engineer and then scott
+hanselman
+scott hansen is probably one of the most
+famous technical people out there
+he's like such a great teacher such
+a solid person as well like um he
+invites me on to azure friday which is
+the show that he's been doing for years
+uh and inside the microsoft azure
+channel and we just talk about the video
+we talk about like what i'm doing with
+youtube and like creating cloud
+computing content and things like that
+and yeah and it really was just like he
+just danced hey you want to come on
+azure friday i saw your videos fantastic
+that's literally it um
+so i mean i guess the biggest thing for
+me has been
+one putting myself out there putting in
+the work but also just people willing to
+lend a hand because they felt like i
+deserved it for whatever reason it might
+be um
+so yeah after after that i also got
+nominated for microsoft mvp which i got
+in august and then the azure friday
+thing happened also in august for me it
+was like so many things like just
+aligned and
+um a lot of it i was in control of and a
+lot of it was just i wasn't right it was
+up to like everyone else who helped me
+out so that was fantastic
+fast forward to september uh the
+advocates were doing this serverless
+september thing uh and you might be
+familiar with christian wamba his he
+goes by code beast um he's moved on from
+microsoft since then and we're still
+close friends which is fantastic um and
+i guess my biggest tip here is like when
+you
+sort of build relationships or you
+network make sure you're doing them with
+proper intention and not just to get
+something out of people because you
+never know what they're gonna turn into
+um
+so yeah simona introduces me to to to
+chris and then chris is like hey you
+wanna you know we're live streaming
+these things on friday we're sort of
+just walking through some azure
+functions exercises and then we're gonna
+end with doing this conference on the
+last day and the last week of september
+and it's gonna be all serverless kind of
+stuff i'm like fantastic i knew i knew
+serverless i was a big fan of it
+and this was going to be my first time
+actually doing something like a proper
+microsoft event on their channels and
+stuff like that so i was like yeah let's
+do it it was a lot of fun like we would
+play music we would just like do
+functions things we would chat we would
+laugh just like a bunch of stuff um i'm
+still very close with chris we talk
+about music production we talk about
+video games we talk about um you know
+code and things like that um
+so yeah i made a great friend out of
+that i had the experience of
+participating in that event and fast
+forward to november of 2020 i joined a
+cloud guru and i was doing a lot of like
+different kind of content in terms of
+cloud there was also some devops linux
+kind of stuff thing things like that but
+the biggest part of a cloud guru that i
+gained was hosting the azure resume
+challenge
+which was this community project kind of
+thing in which it was building your
+your resume with azure services um and
+just seeing like lots and lots of people
+sort of build their own solutions uh and
+and and sort of leading the way for that
+i think that was great and it was a
+really big talking point that i used uh
+when interviewing for my current
+microsoft role
+uh so yeah that was great and and and it
+was april and rishab you all might i've
+seen richard on my channel he's one of
+my closest friends um he sends me the
+link to the job that i have now and then
+i talked to chris and
+and simone about the role they both were
+able to recommend me for the role
+uh again because they've had examples of
+my work my youtube channel my blog but
+also we've worked personally together
+and and then i you know land a
+conversation with the hiring manager oh
+here's a fun fact again this is why i
+tell y'all you never know who you're
+going to meet or what you're going to
+end up working in
+my hiring manager now justin garrett we
+actually had a like a session together
+for the microsoft reactor back in march
+and i think was during international
+women's
+uh day like around that week and we were
+talking about uh the topic was
+championing for change that's a hard
+word to say championing for change
+and also uh sarah guthols who's my
+colleague was on that conversation too
+and it was just such a great
+introduction to my colleague and and my
+manager uh because we were just talking
+about something that had nothing to do
+with any technical skills it was just
+like how to be like you know how to how
+to speak up for for change and and sort
+of how like what initiatives you take
+and just things like that was fantastic
+so anyway i had already had a
+conversation with justin without knowing
+that he would eventually turn into my
+manager i don't know this world is such
+a small world anyway we have our first
+conversation then he remembers like oh
+yeah we had that convo during
+international women's day and that kind
+of thing um
+and yeah it takes like about a month of
+interviewing and and stuff like that but
+then i received an offer and then
+three months later actually yesterday
+the 21st is three months at microsoft
+um yeah i it's been a heck of a journey
+and and though i'm only talking from
+like 2018 to 2019 until now everything
+that i did prior to that has helped like
+they helped us experience this admin
+experience the retail experience all of
+it has helped um
+and and yeah i'm very grateful for
+people who have like given me a hand
+which is also why i try to be that for
+for the people hopefully i'm doing a
+decent job at that
+uh but yeah it's really the how i ended
+up here um i'm cloud advocate now um
+i guess like a super super simple
+simplified explanation what a
+classification we sort of sit between
+the engineering and then the people who
+use the stuff that we make and we
+provide like hey uh this is how this
+thing works here's a demo or what kind
+of things would you like to see like we
+advocate for
+not only for obviously our products but
+also for like what what people want to
+know what people want to see about those
+things too um you all have been seeing
+i've like do these youtube sessions
+these live sessions um everything's sort
+of online now but i can't wait for us to
+go back in person and then i keep
+touching the microphone i'm so sorry
+and doing sessions and live and then if
+you're ever in new york city you can
+catch one at the the microsoft reactor
+here um but anyway that's that's my
+story um
+yeah if you have any questions comments
+and things i i feel like i was battling
+but anything you want me clarify let me
+know i'll see you in the next video

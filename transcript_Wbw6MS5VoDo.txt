@@ -1,0 +1,343 @@
+Azure Functions HTTP Triggerhi everyone welcome to a new video today
+we are taking a look at
+azure functions specifically the http
+trigger a lot of you have been asking
+for me to go video a video explaining
+each trigger and binding
+and that's a lot for me to do by myself
+luckily my good friend mark zoiker who
+is a absolute wiz with azure functions
+especially durable functions
+and has way more experience with c and
+net
+um decided to add me to this project
+that he's got going on called azure
+functions university
+it is a github repo so it's open source
+and available to anybody
+of different lessons and homework
+assignments and live streams and videos
+and
+a bunch of great content for you to get
+hands-on and learn
+azure functions if you're brand new and
+maybe even if you
+already use functions you might find
+something of use there so i'll link
+everything you need to know in the
+description box and i think it's an
+absolute great
+resource for you if you are looking to
+get started with functions
+this video is sort of a summary of the
+http lesson that is already published
+there's also a live stream that's about
+an hour and a half that covers
+prerequisites to get you going to
+actually develop
+azure functions locally on your machine
+and it goes to
+the http function like it does a
+walkthrough through that lesson as well
+so it's about an hour and a half every
+lesson is going to be less than an hour
+but i'll also try to make these summary
+videos all right uh first thing i'm
+gonna do
+is do ctrl shift p and we can
+select create new project if you need to
+search for it you can just do
+azure functions create new project and
+hit that
+there and i'm already in the directory
+that i want to create it but if you have
+to create a subdirectory or something
+you can just hit browse
+i will be doing this in c sharp i'm
+going to select the http trigger
+and i'm just going to call this get http
+triggerwe'll keep the namespace simple we'll
+keep it as company.function that's fine
+access rights we'll set this to function
+and we'll let it create
+all right that is done creating we're
+going to close this here and let's take
+a look at the files that get generated
+for us
+we have the actual c sharp class where
+the function method exists we have the
+dot cs proj this is specific to dot
+net and it just uh tells us which
+version of dot net we're using and which
+version of azure functions hosts.json
+and localsettings.json are
+files that will be used on the global
+level so for every
+function app that we create inside of
+this function project
+the settings inside of both of these
+files will apply to both
+or to all of those function apps host
+app is more for like global settings and
+then local local.settings.json
+is for your app settings and
+your connection strings and any secrets
+and such local.settings.json
+is meant to be used for local
+development and never to be pushed to
+production so keep that in mind
+we can go ahead and inside of the
+run option here on the left we can go
+ahead
+and start it and we'll pay attention to
+the output in the terminal because it
+is going to give us a url in order to
+access our http trigger and you see here
+it says functions
+and right now we only have one get http
+trigger which was the name we defined
+when we were creating the function
+and then we have get post because those
+two
+methods have been set and then we have
+the actual url
+let's go ahead and click it and see what
+happens
+so you see the terminal says that the
+c-sharp http trigger function processed
+a request
+and then it said executed so let me move
+the browser over here
+and you see we get this http triggered
+function executed successfully pass a
+name in the query string
+or in the request body for a
+personalized response
+so if i provide a namekey value pair named gwen it says hello
+gwen this http
+triggered function executed successfully
+if i use something like postmen we can
+create a
+post call here
+and provide the key value pair in the
+body so we'll create a new one
+[Music]
+copy the function url and
+inside we'll say post
+and headers you can make sure content
+type
+content type is json
+and the body wayjust provide the nameand we'll say hps and we'll hit send
+and there you go hello gps fantastic so
+again though it's a very very simple
+http trigger you could
+deploy this to azure
+because it is a fully working function
+though i don't know why you would want
+to do that
+so let's stop this and let's take a look
+at what's going on so the
+uh declaration here of the trigger it's
+http trigger because that's the one we
+selected authorization level was that
+access right
+that we selected and we selected
+function so it's here
+again this is enabled for get and post
+method and the route is
+set to null so what is the route value
+so that value after the slash
+api here that's the route value so if we
+were to
+change this attribute of this value here
+to
+something else then that would also
+change this here
+and by default it is set to the name of
+the function so that's why it's set to
+gate http trigger
+then we have this rec object here that
+will allow us to actually access the
+information that is provided to us
+via either the query or the body
+and then remember the console said hey
+the c-sharp http trigger function
+processed a request
+and this string name is just going to
+query this rec object here for the
+value name and we create this response
+message
+if we find the name is provided to us
+we'll give this message and if not we'll
+give this message
+now this function is always returning an
+okay object result which
+in production might not be the best
+thing to do
+also this function is doing both get and
+post which
+when you think of a microservices
+architecture you'd want it to do
+just one specific task so we're going to
+create a new function
+that'll take care of the post and we'll
+change this one to just use get
+so that's actually really easy to do we
+just erase posts in there you've had it
+here's a best practice tip in c sharp
+that my friend
+mark doinker taught me and if you say
+name of
+http methods http
+methods.get this is a way of
+strong typing uh that value so instead
+of the string which can
+introduce like you know typos and such
+we can just use this
+and we won't have to worry about titles
+fantastic all right
+so let's save this and we're going to
+create a new functionctrl shift p instead of create new
+project we're going to select azure
+functions create function
+http trigger and then we're going to
+call this post
+http trigger
+and hit enter that same default
+namespace is fine
+access right set to function make sure
+the namespace is the same
+okay that got created for us again it
+just creates
+the same exact function that got created
+with the previous
+uh wizard that we did for the get one so
+before we even dive in here we're going
+to need to create a class that describes
+our person
+so say person.cs we'll say namespace
+is the what is it company dot and we
+need to make sure it matchesthere we go and then we'll say public
+public class person
+and public string
+name get setgreat we're going to close that and and
+we can actually
+oh first thing we have to do is change
+this here
+so we're going to say name of
+http
+methods dot post
+now keep in mind that you have you know
+post
+put delete all those but we're going to
+use post here
+and we're actually going to change this
+type from
+http request to http request message
+that is because it has a method that is
+useful when working with the post method
+and we probably have to add yes using
+system.net.http go ahead and add that
+all right since we made that change you
+see we are getting
+a couple of errors but that's fine
+we are gonna do a couple of changes here
+so we'll say string name
+since we no longer have access to query
+we'll just say this is
+default and we want to save that
+the key value pair that we're sending
+via the json body
+into this person type so what we're
+going to do is save ourwhoops
+person equalsawait rec.content which is the method
+that we are
+able to access because we're using http
+request
+message instead of http request
+dot read as async and that let's use a
+type
+and then we'll say person bingo
+all right but remember that i said
+no matter if value is provided or not
+it's returning an ok
+object result we don't really want that
+so we're going to change
+all of this actually and we're going to
+say
+object result
+result and we also need a string
+response message equals default for now
+and we can say if string dot is null
+or empty oh hold on we forgot to
+assign name
+equals person.name there we go
+right so now when we send a value
+that has name it's going to assign that
+to this
+string name so now we can say hey is
+there actually a value
+so if it's null or empty we'll say
+please provide a value
+there we go and then we'll say result
+equals new bad
+request object
+results with that response message
+fantastic and if it's else
+that means we do have a value for name
+and then we can do
+almost the same just change
+the string that's returnedand we'll say hey there nameand i will say hey from body that way we
+can distinguish them hey from body
+and we'll say new okay
+object result and then we'll returnoh goodness return result
+there we go so now we should be able to
+execute this so let's take a look at
+what happens when we run this
+now we have two functionsthe terminal output now gives us
+functions the get http trigger
+get is only here it's not getting post
+and then we have that url and then we
+have post http
+trigger only post and then the url for
+the post so if we open
+uh postman we should see that the get
+one still works
+the same so let's set this to get
+and then obviously there's no body
+params will be
+name equals gps that'll say send
+and say hello gps so you know we'll
+change that a little bit hello
+gwenperfect but what if we change this to
+we'll create another one here
+oh let's copythis and we'll set this to postand we will say oh we got to say this is
+content
+type this is just some stuff we have to
+set for postman
+uh we'll say json and then the body
+we will provide the json we'll say name
+and the name value will say gwen
+and then we'll hit send you see hello
+there gwen from body
+so we now have two different functions
+using two different urls
+one is receiving information from the
+url and then one's receiving from the
+body well what we're getting
+and then we're posting right and that is
+a very brief overview of how the http
+trigger works with azure functions again
+if you want a more
+in-depth and informative lesson you will
+find that in the azure functions
+university repo
+uh follow mark he has like great
+like tips and tricks that he shares on
+on twitter uh a bunch of like azure
+functions content.net development
+content as well
+i'll link everything you need to know in
+the description box besides that i will
+see you
+in the next video thanks for watching
