@@ -1,0 +1,158 @@
+thank you all for asking me these career
+questions
+it makes creating videos a lot more
+sustainable because i can fit them
+throughout my day a lot easier
+than the very technical
+focused tutorials and it's a nice mix
+with all that being said hi i'm gps and
+welcome to a new video
+in terms of networking certifications
+that you need for cloud
+there aren't really any and that's
+because
+a lot of the networking certifications
+that exist
+the more popular ones network plus
+ccna
+certifications of that nature
+are very very network engineer focused
+and in the context of a ccna they're
+cisco focused
+not to say that they're not useful
+but when it comes to landing a role in
+cloud
+especially at the beginner level when
+we're thinking like cloud admin cloud
+support
+uh cloud analyst whatever it might be
+whatever
+role entry level role it is
+it's more about understanding your
+fundamentals in terms of like how do you
+create a vpc or a v-net how do you
+segment that into subnets how do you
+secure it using acls network security
+groups
+how to make sure you have the right
+traffic flow how to troubleshoot when
+something isn't flowing the right way
+things like that
+when it comes to these networking
+specific certifications you're going to
+learn a lot more because they're
+tailored to network engineers and yes
+there is cloud networking which is a
+specialty very lucrative very high in
+demand and if you're interested in
+networking already or already do
+networking
+highly highly recommend you sort of
+bring your skills your networking skills
+into cloud and you can potentially make
+a lot of money and very in demand right
+but as a beginner
+that much
+like expertise isn't necessary and i
+know you know i hear people is telling
+me all the time that studying for ccna
+takes them months and months and i've
+even heard years for some people they've
+required years of experience plus
+studying things like that right
+and for a cloud beginner it's just not
+necessary
+keep in mind that a lot of these
+services in cloud and this is for every
+single platform
+they're they aim to abstract security
+the aim to abstract networking all these
+things so you can simply focus on your
+business logic and this is good of
+course because you save time and when it
+comes to the context of a company saving
+time means saving money but when it
+comes to troubleshooting or building
+custom solutions understanding the
+nitty-gritty of securing and networking
+is going to help you
+because not having that level of
+abstraction
+means you got to figure it out on your
+own
+but there are sort of more and more
+services that come out all the time that
+will abstract this for you and it kind
+of makes it feel like oh do i really
+need networking or secure or security in
+the first place it's like well yes you
+need an unders to understand the
+fundamentals
+because
+there's going to be a day where it's
+like why is this not working and if you
+didn't know how to find the answer it'd
+be a lot easier than you trying to
+figure it out from like scratch right
+uh i'm currently
+upskilling myself and working i'm
+following a lot of the az i think it's
+the 700
+or 500 i can't remember but they have uh
+in azure a lot of the certifications
+have learning paths it's like
+pre-content on microsoft learn that you
+can just learn about these things
+i'll probably throw up a screenshot or
+something like that uh i'm following you
+that because i'm planning to do a
+series with my good friend liam he's a
+colleague
+who actually has a network engineering
+background and he's also a go developer
+so if you're interested in those kinds
+of things
+he's also very skilled in devops and
+cloud native
+i'll make sure to link bam somewhere but
+we're going to put together a nice
+series for april
+all around deploying a network
+infrastructure into azure with bicep so
+i have to upskill myself right but how i
+had more of a networking foundation when
+i came into cloud it would have been a
+lot easier right
+um but yeah that's my recommendation in
+terms of networking certifications you
+don't really need ccna network plus none
+of these to get into cloud
+but the sort of basic foundation of
+networking that you will be exposed to
+in every associate level certification
+that you go out take for cloud will be
+more than enough just make sure you
+really really learn whatever it is that
+they're asking you
+i know when i when
+i studied for something like even the
+az900 like you have aspects of
+networking in there something like the
+az104 will also have that for you when i
+studied for my aws certified developer
+associate there was networking aspects
+there too
+so make sure you take the time to fully
+fully understand
+the networking aspects that are
+introduced to you in when you're setting
+for your cloud certifications but having
+a network specific certification
+isn't required isn't necessary
+to be honest no certifications are
+required but when you're getting started
+they do help all right all right
+that's it for this video feel free to
+ask me more questions because i am
+loving answering them and i will see you
+in the next one

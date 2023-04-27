@@ -1,0 +1,1872 @@
+mm-hmmoh yeah I'm on the I'm on it already I
+thinkyepthank youyeah sounds goodoh okayall right everyone hi uh so sorry I know
+everyone could hear us before I'm trying
+out this new like streaming uh sort of
+like back end
+and uh
+sort of last minute I tested it a little
+bit yesterday I'm not 100 familiar with
+it but anyway hi uh take a few minutes
+to come to the chat tell us where you're
+checking in from all those good things
+but yeah I have uh Lucy here Lucy I've
+been wanting to talk to you for a long
+time
+um so I'm very happy to have you here
+but why don't you give us like I don't
+know a 30 second introduction before I
+start just hitting you with questions
+yeah first of all great to be here uh
+yeah for those watching welcome and this
+is actually the second time
+um I've met Gwen
+um and so it's like a lot of people just
+assume we kind of like met before
+already but yeah today we're going to be
+talking about you know all things
+related Solutions Architects but just
+having a chat as well
+um around like YouTube and things like
+that as well but yeah so
+um a bit of an introduction I'm Tech
+with Lucy otherwise you know Lucy Wang
+and uh I started off my Journey on
+YouTube around 20 around two years ago
+so that's when I started off
+um also my Solutions Arctic role at AWS
+so bit of background I worked at AWS for
+two and a half years and last week I
+actually quit my job to do YouTube
+full-time uh but yeah today as I
+mentioned happy to chat about all things
+related to what it's like being a
+Solutions architect at AWS any YouTube
+questions as well or just like you know
+any questions around cloud in general
+happy to help answer
+I we started our YouTube Journey around
+a similar time I'm I think I might have
+started before you
+and and I I told you this because full
+disclosure to people in the audience
+we've our the first time we actually had
+a proper conversation like actually just
+you and me talking was was that two days
+ago or yeah yeah two days ago right we
+sat down for like 30 minutes just to do
+a little bit of a tech check and then
+um and I I remember telling you that I I
+saw you like you started your channel
+and then everything just kind of like
+took off for you for the last couple of
+months and now when I think of cloud and
+like specifically AWS you're just like
+the person to go to in my opinion so
+congratulations that is a lot of work as
+someone who does YouTube as well and and
+you know doing it with a full-time job
+that takes a lot
+um it's not like you know you get to do
+it on the job or
+um it's something easy to do you know
+people will see like an eight minute ten
+minute video but that's probably on
+average what two to four hours maybe
+even more depending on how much research
+you had to do and all those kinds of
+things so you know I'm not surprised
+considering how smart and disciplined
+you are that you are at where you're at
+and I know you made this big change in
+your career too I would love to talk a
+little bit more about that I'm sure
+people have questions but let's start
+from the from the from the beginning
+when when did you Lucy know that you had
+an interest in cloud computing or how
+did that happen
+was it like earlier on in school or is
+it something that sort of came later on
+or did you get into AWS first and then
+you were like oh this seems kind of cool
+yeah definitely not in school I didn't
+really hear much about the cloud in high
+school or university uh I think yeah it
+is when I actually started my internship
+at AWS because I joined in a
+non-technical role so I didn't really
+know too much about the cloud side of
+things I kind of joined because I found
+the role to be interesting
+um and so yeah it didn't really get too
+much Cloud exposure and as a lot of
+people know as well Cloud isn't really
+taught in University
+um I think it's decided to introduce it
+to the curriculum now uh but yeah my
+journey with text started off pretty
+much with AWS I did study information
+systems in University so it was a degree
+at combined business and Tech and got to
+learn about the applications of
+Technology like you know for businesses
+but yeah like at the time I was just
+keeping my options open looking at
+Consulting companies looking at tech
+companies and just
+um where I could you know find like you
+know a career to build within that kind
+of space but only Niche down into Cloud
+I would say yeah after joining AWS and
+you know like being architect did you
+have any
+certifications prior to coming into AWS
+no no certifications before AWS I would
+have done certifications I think if my
+role was a technical role but my
+internship was a non-technical role so I
+wasn't working with like Cloud at all
+um I did do four certifications before I
+started my Solutions acting role because
+at the time I wanted to you know like
+improve my cloud skills right and then
+just help make the transition easier so
+did four sets uh before starting the
+full-time role okay awesome so but I
+want to talk a little bit more about the
+search but before that I think something
+that there I feel like people always ask
+is landing internships while you're at
+school can you can you talk a little bit
+more about like how that happened for
+you and what kind of things you felt
+helped you stand out or help you like
+land actual internships at like a
+massive company like AWS
+yeah uh I haven't talked about this in a
+while now because people usually just
+ask me about how to get into the
+full-time role um but this is something
+I'm really interested in as well
+um I think what helped me stand out was
+just the work I was doing with the
+university so I was pretty involved in
+the student Society space doing case
+competitions just trying to improve
+myself skills and just like problem
+solving skills because I knew that you
+know that not only helped me build up my
+skills you know things that I wouldn't
+be able to learn through University
+classes but also just help increase my
+network of people as well so
+um met a lot of incredible mentors as
+well throughout my time at University
+and I think that just came from getting
+involved wherever I can in the student
+clubs and things like that
+um specifically for getting into AWS
+that was actually I didn't end up just
+you know applying through the job portal
+I saw a job posting or like you know the
+hiring manager shared on LinkedIn that
+they were looking for an intern so I
+literally just I like the post and then
+I just messaged the hiring manager is
+awesome yeah and then that whole process
+just started with like putting me in
+contact with the recruiter and then just
+starting this interview process pretty
+much the next day the next day was when
+the phone interview was
+um so I would say like think about
+unconventional ways like you know like
+not the typical ways to like learn an
+internship because I think at this point
+it's pretty hard to stand out in a way
+like because there's so many people
+interested in the same roles and
+especially with that kind of freezes and
+things happening yeah it is quite
+Limited in the positions
+um so yeah like things like reaching out
+to recruiters posting on LinkedIn like
+okay that could also work be before
+landing your internship you didn't have
+a YouTube channel because you said you
+started that while you were at uws
+correct
+so in terms of any kind of online
+presence where
+um were you doing anything else or did
+you have sort of anything uh that you
+would say help you stick that or was it
+like primarily LinkedIn and the stuff
+that you were doing at school
+yeah I think mainly at school um I
+started a student Society it was called
+the unsw Digital Society so all I know
+about people helping people get into
+Tech so naturally that got me pretty
+involved in um kind of so my role was
+co-president but also I was working with
+those companies recruiters to host
+events together for the University
+campus so I think that was quite a
+interesting role and I think that took
+up a lot of time as well so that I
+didn't really have much time to do
+things like YouTube or stuff stuff like
+that but yeah I can't imagine that was
+kind of like my main starting point
+um or like things that something that
+made me stand out but yeah everyone like
+just needs to find their own thing like
+whether that be posting on YouTube
+creating a Blog
+um getting involved in Societies in so
+many ways so it's it's good advice do
+you have any LinkedIn advice like any
+any tips you have maybe on the top of
+your head that you feel people should
+take more advantage of or Implement in
+their own profiles
+um yeah
+um I realize on LinkedIn the posts that
+do well and just like people who have a
+large presence on LinkedIn don't
+necessarily have to be like the subject
+matter expert in what they're talking
+about a lot of them just documenting
+their Journey so let's say
+um you start your study for a cloud
+certification or you'll build a car
+project I think just making a post just
+documenting what you build listing out
+um the steps you took and just providing
+some like advice to students who are
+also Journey can really go a long way as
+well okay so just having that mindset
+that you don't need to be an expert
+before you start posting on LinkedIn
+like I I love that advice
+um you know you're talking about
+projects and certifications and I when
+you think cloud you think um sort of
+getting into Cloud
+um everyone thinks certifications is
+such a popular topic and I know you have
+you have a lot of videos on it I've done
+some videos on it as well uh but I want
+to hear more about sort of your journey
+with certifications what was the first
+one what was the last one you got what
+which one do you feel like was the most
+useful let's start with that first let's
+start actually let's let's take it one
+by one because I have a lot of questions
+here and I'm sure the chat will have a
+lot of questions here as well but what
+was the first certification you got and
+how long did it take you to study for
+that one
+yeah so first one was the AWS Cloud
+practitioner certification uh that one
+took me about three weeks to do
+part-time so I think around two hours a
+day
+um
+you know go through the course material
+and also the practice exams as well
+um yeah that was the first one
+what was the study approach for you like
+because I I'm that was your first Cloud
+certification right
+yeah and
+was it significantly harder sort of
+because you're coming out of school and
+at school you're sort of kind of know to
+study like a certain way and do you feel
+like the way you study for your
+certification was a little different
+what was that approach look like how was
+that learning process for you
+yeah I actually found it easier because
+in University there's a few courses that
+just aren't interesting and you're like
+why am I learning this
+um a lot of studying in University was
+kind of like studying for the sake of it
+whereas this one I knew that all the
+knowledge that I'll gain from
+personification will actually be quite
+useful if especially if I was to stay in
+AWS so I was a lot more motivated to
+study for that so that's why sometimes I
+always recommend to people like always
+know your why like before you even study
+like why what's your end goal like why
+do you want to study for certification
+is it to land a job in the future is it
+build your technical skills things like
+that
+um so yeah the learning approach was
+quite similar to University because
+quite similar
+um you study the theory you watch video
+courses and then you take an exam same
+with University so I think the process
+like quite similar but yeah is more
+enjoyable studying for this because I
+was actually working towards something
+for for that first so um for those
+aren't familiar the cloud practitioner
+is uh not the entry level
+um but it's the one before the associate
+level I don't really know I guess
+practitioner level would be the correct
+term
+I don't in my opinion um so I've taken
+the equivalent in Azure so that the 900
+so the fundamentals it's not easy it's
+not simple I think a lot of people will
+I heard the opinion of like it's like a
+certification that's not worth it
+because it's just entry level et cetera
+et cetera but I remember taking the
+fundamentals with two years of azure
+experience and barely passing so it's
+definitely not a walk in the park
+um but did you find yourself like the in
+as you were studying for that
+certification were you already like
+deploying things in AWS where were you
+getting Hands-On
+um or was it more just like a theory
+kind of like studying
+type for you
+yeah compared to the other
+certifications I've done this one was a
+lot more theoretical um but the Hands-On
+that I did was through the video courses
+so the video courses that I bought
+um they had some Hands-On things that
+just even started with basic things like
+setting up MFA and like launching um ac2
+instance just basic things like that I
+felt like I would like doing I could
+easily just like you know Skip the
+Hands-On and things like that and
+probably still be able to pass but the
+Hands-On just helps like you know retain
+the knowledge so much better and it
+makes it feel like you actually learned
+something instead of like you memorize
+something so uh yeah like with that
+point about you know like skipping
+straight to associate certification I've
+gotten those questions as well like
+should I skip straight to Solutions
+acting associate
+um but I think if I was to go back I'll
+probably do the same approach to
+studying for cloud practitioner because
+in hindsight I could but it's just like
+doing that foundational certification
+help build up my confidence and just
+gave me the encouragement to take a step
+further and like do another
+certification whereas I might have to
+support like oh Solutions after
+Associates it's too hard I don't want to
+do this anymore so that could have been
+the potential so I always recommend
+doing the foundation one first I like I
+like that approach because even if maybe
+you don't gain the most AWS knowledge or
+Cloud knowledge in general from
+foundational certifications you are
+learning how to study for certifications
+and it's easier if you're you're not
+like familiar with something like that
+it's easier to do that with I guess
+content that is more entry level
+friendly
+um that it's not because
+it's it's another it it almost becomes
+like uh a challenge itself to learn how
+to learn these things because being
+self-taught can be difficult and sort of
+like the the when you set yourself up
+with like for success and with the least
+amount of obstacles and resistance
+um which something like a foundational
+certification will do for you it's it's
+like you're building a habit of learning
+and studying which I think is fantastic
+do you remember well the hardest part
+for you to learn about that service
+oh this is two years back let me try and
+think
+um
+hardest part might have been just
+Concepts that oh because you know like
+with the courses they try and be like as
+accommodating and inclusive as possible
+as in like um if there's any I.T
+fundamentals that they introduce they'll
+try and just give a summary of it
+um there was some stuff that I've just
+never come across before like I didn't
+really know too much about the
+networking side of AWS like how disease
+work and stuff and then so that I think
+some sort of Concepts took me a while to
+learn because I had to just take a step
+back and just yeah do a bit more you
+know study on the I.T fundamentals
+um but sometimes yeah it just depends on
+the video course that you take and
+things like that because sometimes the
+more detailed courses actually help you
+cover the initial fundamentals as well
+true I I like that and that also Builds
+on the point of you know their learning
+material
+um you know you mentioned you use this
+course you were using courses video
+courses and I think sometimes people get
+frustrated because they try to use
+content that's worked for other people
+that may not work for them
+um so that's also important something
+that you find along your journey of
+studying it's like oh this type of
+content I've learned that it doesn't
+really work for me and maybe I can learn
+better with like a different kind of
+approach for me
+studying for that Azure fundamentals the
+hardest part for me to stick was all
+like slas because you get asked about
+like what's the SLA for this service and
+then you're supposed to know the
+difference between like 99.99999 versus
+like
+99.997 like like I don't know so that
+part for me was was
+Maybe
+a little bit boring which probably made
+it harder to study for
+learning memorizing like yeah I don't
+know like I probably forgot that after
+like right after I took the
+certification I most likely forgot about
+that one
+um so after the practitioner what was
+your next cert
+uh Solutions Arctic associate yepI went a month after sitting the
+chiropractitioner um but I think that
+took about three weeks so like I just
+took a week off after doing our practice
+started studying for it about three
+weeks there was a lot of overlap between
+the two sets okay
+similar services and everything but just
+from the perspective of like if a
+Solutions architect were to like you
+know um architect things on AWS like how
+that would look like so the questions
+were kind of around the perspective of a
+Solutions architect
+okay yeah you did three weeks for the
+practitioner one week sort of like a
+break and then three weeks studying for
+the art the solution architect and did
+you pass it on like first try
+yeah that one first try
+um there was one that I failed twice I
+think I think that was when um I first
+got to know your channel as well because
+you commented on that one uh it was the
+assist of certification that that's a
+tough one I've heard yeah it's pretty
+tough and I think that made it tougher
+result it introduced like Hands-On Labs
+now within this test
+um but yeah we can talk more about that
+one later
+yeah um
+you you this I want to dive more into
+solution architecting in a little bit
+but let's I want to continue talking
+about this certification Journey you you
+take the solution architect and then
+what do you take after that did you take
+another week off before the next one
+oh that one I think it took a bit of a
+longer break I think two months after I
+did the developer associate exam okay uh
+so I think I think I took a longer break
+for that one but that one I think
+probably took another month of studying
+as well okay did you feel that
+because of that month that you took off
+that uh you might have lost anything
+that like or do you feel like maybe it
+would have been more beneficial to take
+it like sooner or like how do you feel
+about that time that you gave to
+yourself between the two
+yeah
+I definitely would have um uh had like
+been a memory retention and things like
+that if I did a singer I don't think I
+needed that break
+at the time I was doing certifications I
+was studying full-time in uni and I was
+also interning part-time at AWS so I
+think I just needed a bit of a lotsociety as well so yeah
+I'm actually more free these compared to
+like you know two years ago
+yes I I commend people who do who work
+and then go to school or go to school
+and work to any capacity because the
+amount of things that you have to be on
+top of and then also I feel like we tend
+to forget that we are also all human
+beings that have just full
+responsibilities of so many things
+outside of work outside of school and
+some of us have may have more some of us
+have may have less so to handle all of
+that at the same time it's just it's a
+lot so I'm glad you you did give
+yourself a Break
+um between those two did how did you so
+the only AWS certification I've ever had
+was the developer associate and that was
+the one that I took when I was up from
+my helpless job to into my sis admin job
+I took that one it took me six months to
+study for that certification
+six months because I was they didn't
+have the practitioners or fundamentals
+or any like associate was the I guess
+the first level
+um back then so I was like I was like so
+obsessed and back then there was did you
+ever use Linux Academy
+did you ever hear Olympics Academy
+I heard of it
+wait I forgot who acquired who like yeah
+a code grew acquired Linux Academy and
+then plural plural site acquired a cloud
+Guru so I guess Linux Academy is now
+part of I don't know but I used Linux
+academy uh and back then they were
+probably like one of the only learning
+platforms to to learn this type of
+content
+um
+but I remember they had like a couple of
+different a court maybe I think they had
+like two but they were really long and
+then and then they had Labs at the end
+of each like the way they divided
+everything was like essentially like
+modules like module one had like six
+videos a lab and then you had to pass a
+lab before moving on very much like what
+a club Guru is like now that kind of
+style but it took me six months and I
+remember like passing for that and I was
+like
+I think studying for that
+um was one of the most fun funnest
+things that I've done in terms of like
+studying in general because you know we
+go to we have school middle school high
+school I did like one year of college
+and out of all the things that I studied
+that entire time studying for that six
+month certification was the most fun
+that I've ever had so I wonder what was
+your experience with it
+um did you like it and over tell me how
+did you how do you feel about that sir
+yeah oh wow that's a sign right it's
+like if you really like it then you know
+you should probably be doing something
+similar as a job exactly exactly so yeah
+develop I don't think I was super
+excited for last time it was kind of
+like because I've already done like uh
+two at that point I was like okay this
+is my third one
+um a lot of overlap as well for with the
+solutions I think Associated it was just
+from the perspective of someone who's a
+developer um building on AWS for example
+um I think that one had more like Ci CD
+and like a few other like developer
+Services as well I think that was like
+the main difference but overall quite
+similar
+um but yeah good experience with the set
+um yeah that one didn't feel too bad
+about pass on the first go not like okay
+yeah quite okay after that you got this
+up sys UPS one and do you do you
+did you take a break or was it like
+immediate into it
+I think it was immediately into it
+but I think at that point I just kind of
+cut my I had a mindset that like I've
+already done like the other associates
+that's already like this one would be
+quite chill like I can probably just
+study a little bit and then pass it
+um but then no like yeah solutions that
+like the CIS of swan uh it does take
+more time because yeahpeople definitely always say it's like
+the hardest out of the three sides and
+it does need a lot more Hands-On
+practice as well to be able to answer
+those questions because there was a lot
+of like monitoring troubleshooting
+questions like what happens if this goes
+wrong so it's like you can only kind of
+get that experience if you've like
+actually been Hands-On and like taken
+time to do all the labs okay um so yeah
+kind of learned it the hard way because
+even the second time I was doing it I
+didn't do too many Hands-On labs and
+then the final time I'm like I can't
+feel it more than twice uh so I actually
+put in profit effort for the third time
+okay do you do you remember which one
+you got the best score onum I'll probably just the first one like
+yeah that would make sense yeahyou're right you're right you're right
+do you
+have out of the four which one was
+your your least favorite to study for
+eignif you could only have taken one which
+one would that be
+[Music]
+um
+good question yeah yeah
+probably Solutions Arctic associate okay
+because I think that would be the one
+that I probably could try and do without
+cloud crack knowledge and also I think
+that's the one that's
+um it's the most popular one like I
+think that's the one that most the most
+people have taken
+um that one and then yeah because for my
+Solutions are acting role I think that
+would have been the most helpful as well
+anyways uh but it will depend on what I
+would what what role I would want to get
+into as well okay after my internship so
+okay and and
+looking back also at like the approach
+that you took for the certifications is
+there anything that stands out to you
+that you think you could have done or
+changed so it would have gone better or
+just anything you would have changed
+about that whole processyeah I think more Hands-On
+um and more hands-on experience and also
+probably I'll tell myself not to rush it
+too much and just like get a set done
+every single month I'll take my time
+because as I was studying for the
+certifications of the services sometimes
+I just really wanted to just like check
+out the service in the console build
+some things but then yeah because I had
+already booked my exam for the month
+after I was like okay I need to kind of
+be smart with my time and just study
+what I needed to study in a way so I
+think yeah I would have taken my time
+especially if there was no particular
+rush in like you know doing those
+certifications all right do you have any
+interest in certifications outside of
+the AWS ones to to take now
+um or do you have any plans for new
+search that you want to take
+I'll have to look into it um but people
+have like recommended some sales
+especially on the I.T fundamentals I
+think that's something I would love to
+just get strong at just learning like
+networking security and just I've had
+things like you know CCNA like the
+comptr sets
+yeah it'll be interesting
+yeah but I think so it's not the top
+priority at the moment because I think
+uh it was really quite the start to snap
+your a learning plan but then I think
+now I know what specific areas I want to
+dive deeper into that's that's actually
+a great pivot into into sort of
+answering some of the questions we have
+in the chat because
+um I search a very popular topic uh let
+me take a look here
+uh here's a question from ar8 were you
+working in cloud while taking the
+practitioner certification
+I was working at AWS uh but not in a
+cloud role so I don't think it really
+helped too much it was it was cool to be
+involved in like the AWS culture I was
+doing it because other people like my
+colleagues were also studying so that
+Community was nice but I didn't really
+get to apply any of that during my
+internship like the actual Cloud skills
+and everything okay awesome uh let's see
+it's here's one from Steven it's Cloud
+practitioner important or should I go
+straight to learning Cloud solution
+architect I think we touched a little
+bit on this but I maybe if you have just
+like a straightforward answer for this
+go ahead
+um
+yeah we talked about this so
+um star practitioner I think it's like
+both our personal recommendation because
+we're always recommend to start off with
+the foundation one you know build
+confidence and then go on to Solutions
+architect
+um but then if you feel like you can go
+straight to it that's fine as well
+um yeah if if you feel like especially
+with people with like previous Cloud
+experience or I.T experience going
+straight to Solutions I think associate
+um I don't see too much of a problem
+especially if they feel like it's not
+too much of like a learning curve going
+straight to that yeah yeah exactly I
+think
+um
+people I usually recommend people to
+stop seeing certifications as something
+that you just need to get to put on your
+resume and more so as like like a
+complete experience you're you're giving
+yourself a curriculum curriculum you
+have guided learning there's so many
+resources out there that you can use to
+learn and take your time but it's also
+an opportunity for you to discover how
+you learn when it comes to like
+different Cloud things because like you
+know once you stop take your
+certification you're done studying
+that's not where the end of your
+learning
+like that's not where it ends like that
+is just the beginning and if you you if
+you really yeah you you put the work
+into really understanding how you can
+learn new things like the next time or
+the next couple of months if you need to
+learn containers if you need to learn
+serverless if you need to learn
+orchestration if you need to turn on say
+ICD like a bunch of other things you'll
+be able to take the foundations from
+studying from like guided or not I guess
+outlined things and going into uh
+different topics and I just I just I'm
+just a big fan of learning how to learn
+inserts are a great ways to to test that
+out and try that out and don't just do
+it for
+to share on LinkedIn in order to share
+on your resume and things like that
+right uh all right let me take a look
+here what else we got before we dive
+into different topics
+um
+so you need both developer and sysop
+certifications for AWS devops cert or
+one out of the two I don't really know
+how AWS certifications work to be honest
+I'm pretty sure if you go to that AWS
+certification page it'll tell you the
+prereqs right it'll outline what you
+need to get
+I think just from memory they removed a
+lot of like the previous prereqs they
+used to have I'm not sure if that's a
+prereq though um yeah it might be good
+to double check on the site yeah the um
+the information will be there and also
+the one thing I've learned about
+certifications is that uh especially
+with the Azure ones they're always
+changing the number the name sometimes
+change the pre-works changed how to
+renew the process chains so your best
+bet is always going to be just go to the
+page and see what what is like the
+latest outlined uh there let me take a
+look here what else do we got uh Richard
+says definitely the sysops was the hard
+hardest of all the three Associates but
+it is fun so is this this Ops
+what is it more focused on like I I've
+never looked at the the content of it um
+is it like
+I guess what would the CIS Ops
+certification translate into a role
+because like you know you think
+developer associate be the cloud
+developer solution architect solution
+architect what about this this apps one
+potentially sis admin
+okay yeah I guess I was thinking that I
+was thinking like maybe Cloud admin
+sysadmin
+um so I would imagine it it's probably
+like a lot of networking
+um
+is there like some security stuff in
+there too
+security monitoring troubleshooting yeah
+all of that okay almost it could
+potentially be a prereq to like devops
+too or like an intro or a primer to
+devops as well uh cool so people are
+saying like you don't need the prereq
+you can go straight to that one awesome
+all right let me see there's a bunch of
+other questions people keep adding them
+in there we'll try to take a look at
+them uh but yeah so anyway we're talking
+about certifications and and now you
+feel like
+along did you take you that that
+all right actually you took four
+certifications uh what cert did you land
+like move into like the cloud role at
+AWS
+uh I think so right after um but I I had
+already known that I was going to join
+that role so I got the off I think back
+in September of 2020 and then that's
+where like I was studying for search so
+I started for my cloud practice August
+and then wrapped up with systops in
+December so I had already known that I
+was going to be a Solutions architect at
+AWS I received that return offer
+um but then yeah it was only until
+January the next year in like January
+2021 did I start um the actual Solutions
+acting role okay okay so these were in
+preparation for that role so you were
+doing all this to sort of kind of hit
+the ground running and successful yeah
+because I was yeah that was like like
+yes
+um it's quite scary just going straight
+into that kind of role without some prep
+um especially because my cohort they all
+study like computer science in
+University and when I study information
+systems it was a lot next
+so I just wanted to just like you know
+brush up with the skills Cloud skills
+and everything beforehand just so I can
+you know
+do the role absolutely the the that
+change from because you mentioned your
+internship wasn't necessarily Cloud
+related and then going into your
+solution architectural it was like how
+did you how did that happen how did you
+manage to to get you know the role from
+The Internship yep
+oh it was a pretty like kind of
+case-by-case situation at the time
+because two years ago in Australia AWS
+interns were still quite new like the
+idea of having interns and graduates was
+still quite like you know like they just
+introduced the program so they had
+absolute like full-time associate
+Solutions acting roles but at the time
+they didn't have many solutions Arctic
+interns so they had to find interns from
+other teams who were interested and then
+they saw that I had somewhat of a
+technical background so they asked if
+you know if I were to return would I
+want to be an associate Solutions
+architect in that techu program or would
+I want to consider a different role
+potentially in like sales so I kind of
+was given two choices whether to kind of
+be a sales rep or be a Solutions Arctic
+and had a lot of conversations with like
+both people and I think in the end
+people were like it's easier to start
+off in a technical role and then move
+into a non-tech role if you're
+interested online rather than the other
+way around yeah
+interesting
+and it's interesting how things
+tend to work out and and a lot of people
+will say like oh it's just luck but I
+think it's just like the fact that you
+were like the right person with the
+right enough of the skill set to be able
+to take that opportunity to like all
+right yeah if you need like these types
+of interns I mean these interns for
+these type of kind of new thing that's
+going on uh and that landed you to that
+I think I think that's awesome it's it's
+because oftentimes people will ask for
+like oh what's the advice to to like
+land a role or whatever it is and it's
+tough to say that sometimes it is
+like just things that you have no no
+control over like you didn't have
+control over the fact that this program
+was somewhat new in the area that you're
+in that you're in right um I remember I
+landed my my sis admin gig which had
+which is where I learned Azure
+um because I had just moved from one
+city to another city and my old job my
+help this job was going to be over an
+hour and a half one-way commute so both
+ways over three hours with traffic and I
+was like there's no I'm doing it I'm not
+gonna do this and then the company that
+had the sysadmin role happened to be
+closer to the newer city and happened to
+be hiring at their side on the same time
+and then I I applied and it worked out
+but if I had never moved I would have
+never been like looking for a new role
+right yeah
+yeah I and I had no control over moving
+because it was like a thing with my
+parents it's like oh I had to go with as
+they were making the move I would have
+to move to so it's like a lot of times
+it's there's things that you have no
+control over that make an impact in your
+career too but how do you you can't
+really quantify that or provide advice
+over that too except for like oh you
+just got to be ready for whatever
+opportunities kind of you fall into or
+fall into your lap and whatnot
+um but very cool I I you you were
+talking about projects and getting
+Hands-On and where that that's more of
+your focus now and then I think that's
+that's very true as like as you
+specialize you go Niche you gain more
+experience in whatever role you're in
+you kind of
+like certifications kind of like take
+maybe like the back burner
+um not as important as when they are
+early on so can you can you talk about
+like what's like the you remember being
+like the first Cloud project you did
+um and what are some things that you
+feel like you want to work on now or
+you've been working on now
+um
+so yeah this is probably not the very
+first car project but one thought was
+that really stood out to me that helped
+me the most is probably uh because in
+AWS all solutions Architects have to go
+through something called the awesome
+Builder program that's just something
+where there's like three sets of
+presentations you have to do the first
+one is just around explaining to a
+customer like the AWS messaging like
+benefits of the cloud uh why AWS and
+things like that the second one is like
+drawing an architecture and then doing
+like a whiteboarding session
+um and then the third one is building a
+proof of concept like a demo and then
+showcasing that um so all three of them
+is kind of like a fictitious uh company
+and then you have like a panel of more
+Senior Solutions Architects that can
+kind of assess you and then yeah so once
+we pass all three then we're kind of
+like qualified to be able to actually
+speak to customers because I was kind of
+like done like standardized that like
+you know you've you know the messaging
+you know how to whiteboard and you know
+how to build a proof of concept yeah I
+think that one taught me the most
+um you can get get to choose like
+whatever build whatever but I chose to
+build like a three team web application
+you know um hosted with like ec2 RDS and
+then just like linked a lot of the AWS
+core Services together and then I think
+that was time where I could just really
+see how companies can just really
+benefit from AWS
+um I think yeah the points before where
+a lot of it was theoretical but I'll
+like build like half of something or
+like but that was the first time I think
+I built like a proper full application
+um so yeah I think that was the most
+defining one and I recommended that in
+my recent video as well around yeah car
+project beginners because I think yeah
+that's one that I think everyone should
+start with especially after getting
+certifications that should be like a
+good Next Step do you
+so I know this is a very
+like unique question for everyone and
+everyone's going to have like you know
+their own answer but do you feel like
+there's a sweet spot for certifications
+like at what point do you feel like all
+right at this point it's time for you to
+go in and build something or do
+something outside of certs like do you
+have a number in mind
+um
+done a lot of like mentoring calls if
+people ask me this kind of just have a
+question and then I always like like
+work backwards from the job that they
+want to become like let's say like
+Associates architect
+um if you work backwards of the job then
+you have to think about what kind of
+resume you'll need to have or like what
+skills you need to have in the interview
+and then work backwards and then go like
+okay what certification should I get
+what kind of projects should I get so
+yeah it's very like Case by case and it
+depends on like uh the like everyone
+will give different like advice but I'll
+recommend getting Cloud practitioner and
+then starting your first car project and
+then studying for the solutions Arctic
+associate afterwards and then
+um I think applying to the role you
+don't have to apply after you've done
+all three you can do it right after
+getting the car practitioner because
+for the resume I just recommend if
+people are in the middle of studying for
+it just put Solutions Arctic associate
+and put brackets like in progress and
+then okay chances are online an
+interview you would have you know gotten
+the knowledge and probably the
+certification as well so that you can do
+on the interview
+um so yeah so it's I think overall two
+sets Okay and then maybe one or two
+power projects and I like the advice of
+like take one
+do go do something else build something
+then take the next one and then you know
+maybe maybe even you continue building
+on that additional Pro that for initial
+project but with the new things that
+you've learned I have a I have a
+colleague he created this project called
+the Azure pet store and he built it
+using all the services that he was
+studying for the the Azure 204 the
+developer certification so there's a lot
+of like
+um active directory there's like um
+containers there's like container apps
+uh there's like logic apps there's
+there's like so many different things I
+highly recommend it people go Google
+Azure pet store and he has it all
+documented he has individual steps of
+how to implement it and he keeps it up
+to date and as he learns new things it's
+like his hero project and he also uses
+that project to uh like speak at
+conferences but also to explain he's a
+he's a solution architect as well he
+also uses that to explain to his
+customers about like certain different
+workflows different solutions and it's
+like a bunch of things so I just the the
+impact that that one project and setting
+for that one certification has has been
+like has brought him like so much more
+and and in his career because of that
+one well done project which I think have
+you done the cloud resume challenge or
+I'm sure you've heard of it but I'm not
+sure if you've done it yeah I've come
+across it a lot but I know there's uh I
+haven't done it before but I know
+there's Azure and AWS version right I
+wonder if there's like a pet store AWS
+pet store then someone needs to create
+it because that sounds like creative
+yeah get it get in touch with his name
+is Chris the the author of the project
+that would be an awesome
+um yeah just like project experience for
+anyone uh the AWS gcp uh or whatnot but
+yeah there's there's
+different Cloud resume projects but it's
+also one of those projects that you
+it'll you can like always add more to or
+or try different types of things like
+once you've built it out in one way and
+it's originally asking you to work with
+like a serverless database and a
+serverless function but you can go and I
+don't know replace the the serverless
+function with something inside of a
+container or uh maybe try a different
+database technology it's like a bunch of
+different things that you can sort of
+make modifications off of it but it's
+like one hero project so I can see
+someone doing like you know and I think
+actually Forrest who is the original
+creator of the cloud resume challenge he
+recommends doing fundamental
+certification then the cloud resume
+Challenge and then doing potentially
+another certification after that
+um so yeah and like also like maybe if
+maybe your Niche is like Cloud security
+maybe you put an emphasis on security
+services in the types of projects or no
+there's like a lot of potential out
+there so anyway
+coming back to to your sort of like your
+Learning Journey
+what are sort of like some resources
+that you've used that you that you
+recommend for the people to check out uh
+this could be free this could be paid
+any type of resource really
+yep I could do some shout outs um the
+ones that just taught me a lot um but I
+just want to mention as well like I
+think same with you when you were doing
+the certifications a couple years ago
+and you know when I did my
+certifications two years ago there
+weren't as many
+um I think free roast resources and
+things have like changed a lot since
+then
+um because like first one I would
+definitely recommend to people now is
+like especially for AWS courses
+um is AWS skill Builder back then they
+were just starting out with it there
+were too many courses but AWS now they
+even have like Hands-On labs they give
+you like a Sandbox environment where you
+can do tutorials and things and they
+have like a six hour free course for a
+car practitioner
+um so I'll recommend AWS skill Builder
+as just like the free resource for
+everyone to use
+um the ones that have personally helped
+me is tutorials dojo for practice exams
+um Neil Davis the fan Merrick I don't I
+don't even know if people would be like
+joining this stuff but you know like I
+have them in my videos I have like yeah
+you know certification videos and I talk
+about each of them
+um but yeah the ones I I tend to like
+are the ones that are just really
+concise and then have a lot of Hands-On
+Vibes as well as well okay awesome I I'm
+not an AWS person but I've heard Stefan
+Merrick and uh what is this Adrian yeah
+those two names I feel are just like
+Staples when it comes to learning at AWS
+I've even like again I've I've not
+touched anything AWS in
+let me see maybe oh no when I worked at
+a cloud Guru never mind so that was just
+two years ago
+um or like a year and a half ago or
+something like that but uh yeah those
+are just names that I feel like I hear
+them every single week people recommend
+those so I'm sure I'm sure it's a great
+great quality and whatnot so do you find
+yourself
+using
+um
+like documentation a lot too
+for me or you mean like studying for
+certifications or just in general yeah
+and and when it comes to like trying to
+build something
+oh yeah for sure yeah documentation uh
+because a lot of the courses
+um even when they're just like tailored
+towards building things you would need
+to just write the documentation because
+sometimes like things aren't updated or
+like sometimes you want to make a trick
+to your projects and things like that
+documentation definitely helps and
+definitely as a Solutions architect back
+then as well like it that was I just
+always had to rely on like documentation
+because that just had the most
+up-to-date information as well for
+customers for My Cloud Learning Journey
+not so much I relied a lot on video
+courses but yes we both mentioned it
+just
+I think take all this advice like you
+know for everyone watching take all this
+advice with a gram of salt because yeah
+some people that I've talked to they
+really like ebooks and then they really
+like just ready documentation white
+papers for their study
+um like sometimes people just can't take
+in information if they're just like you
+know listening it to work passively so
+yeah definitely figure out which one is
+right for you like what's kind of study
+resource uh absolutely I whenever I tell
+people this they always get surprised
+but I cannot learn something watching
+videos it does does it work I can't I I
+but I think it's also because in my
+day-to-day I don't really watch a lot of
+video like I don't I'm not really one to
+like watch Netflix or things like that
+um or like consume video content but I I
+have to read because like I'll read a
+sentence and I'll have to like read it
+like multiple times before I can fully
+understand what's going on and with
+video I find
+trying to have that is difficult because
+then you kind of like rewind rewind and
+it's just like not as straightforward as
+like readings something over and over
+again
+um so that's probably why it doesn't
+work for me but but I remember at the
+beginning I was getting so frustrated
+because I remember Kali had recommended
+a course and he's like check this out
+you're gonna learn it was on um
+there's this web technology called
+Blazer which is to to create web
+applications with net and he he was like
+a senior software engineer like 25 plus
+years developing in in.net and he's like
+watch this course it's fantastic like
+you'll learn like the basics and then
+when I hand over this project like
+you'll understand how to take it over
+and I could not I just could not take it
+I was getting extremely frustrated and
+then a boss of mine in that same role
+like said like why don't you try like
+reading something out like I don't know
+try something else maybe it's not it's
+not you
+and then once I did it's like was so
+much easier for me to like intake that
+information but
+these are the sort of lessons that you
+learn as you go as well um but big fan
+of reading reading documentation
+um and it now has more become sort of
+like the first place that I go to uh
+because a lot of people put in there's
+entire teams dedicated to building
+proper documentation uh and you know no
+one really knows a product more in and
+out than
+like that well I mean it's supposed to
+be the actual services that provide the
+certain like the companies that create
+the services
+should have the best documentation it's
+oftentimes not oftentimes but sometimes
+they don't so maybe it's not the best
+but I feel like it should become like a
+like maybe a first step for most people
+like hey just check that out first and
+then kind of supplement with other
+things or supplement your courses with
+documentations because when you're in
+like actually working
+it's going to be a requirement you want
+to be a requirement for sure uh there's
+some questions herebecause a lot of people kind of look at
+our videos as like a guide and then I
+don't think I've mentioned documentation
+too much but then I could be like you
+know if you if you prefer reading or
+like just understanding through like
+what like yeah reading something then
+maybe check out this resource instead
+yeah because everything I think it's all
+been video
+yeah I I ca I can't which is funny
+because I make like weekly videos so
+people are like but like like that
+doesn't make sense I'm like I don't know
+it just it works it works that way for
+me
+um
+Point them to the documentation yeah
+yeah absolutely absolutely
+um all right let's take a look here uh
+let me see what do we got I'm currently
+in high school and very interested in
+cloud computing do I need experience to
+take certifications is there do you know
+if there's an age like a age do you have
+to be to take a certification I don't
+know like you don't have to be
+I've seen on 18 like 14 years yeah like
+14 year olds I think they're taking
+certifications there might be some
+guidance that you need like I'm just
+randomly guessing but like some sort of
+approval a parental approval Guardian
+approval or something like that to take
+the exam I'm not so sure but
+um we have AWS Academy and AWS educate
+which is programs and like self-paced
+things just for high school students
+that might be something to check out
+I would also recommend
+um like the student programs like for
+example we have the student ambassador
+program and
+and the Google has the campus experts
+I can't remember but there's a lot of
+most large tech companies have
+Ambassador Ambassador programs that are
+specific for students that I highly take
+it like highly well we both highly
+recommend you you look into because
+you get like resources sometimes you get
+credit sometimes you get like mentorship
+with people who work at the company swag
+a bunch of cool things like that
+um but yeah you don't you don't really
+need experience like like like Lucy
+mentioned like your first certification
+was sort of just I want to learn some
+cloud and
+let's take the practitioner that's why I
+love the practitioner level
+certifications it's like it just opens
+the opportunity for really anyone like
+you don't immediately have to go to
+associate level like you can you can
+take a step back and start at the
+practitioner level which is fantastic
+and then you get people who maybe would
+have never done it
+um and you're like enabling them to to
+study for cloud and those so I think
+it's awesome wait here's the Canadian
+ages 13 to 17 are permitted to take AWS
+certification exams with the consent of
+their parent or legal guarding okay so
+you're spot on there with having needing
+permission also you'll probably need
+like a credit card which maybe some
+students don't have so that might be
+something else that you need to consider
+yeah uh here we have another one
+any advice on a scrum Master agile coach
+wanting to Pivot into your field any
+free search courses skills Etc so this
+opens up another
+question that I wanted to ask you
+um mainly because this person said like
+pivot into your field well just because
+we're both in Cloud doesn't really mean
+that we do like the same thing or or
+like our upscaling or what we spend our
+time like working on or working towards
+day to day is going to be the same so do
+you want to talk a little bit about what
+the solution architect
+role is like what would your day-to-day
+and just just quickly answer this person
+I would say before you try to Pivot into
+the field have like a really good idea
+what role you want to do and once you
+have that role sort of reverse engineer
+like Lucy was saying like go find like a
+just like a role description that
+matches the role you want to do get get
+the description and kind of use that as
+like a study guide and then you'll find
+like what you need to upskill in but
+yeah do you want to talk a little bit
+more about what a solution architect
+does at AWS
+um and what your day-to-day kind of
+looked like
+yeah uh so Solutions Arctic I'll just
+give my channel a pitch so we like to
+call them at like you know trusted
+technical advisors for customers as they
+go along their Journey reducing the
+cloud so that's what we call like how we
+Define Solutions how we Define Solutions
+Architects are AWS
+um what we do day-to-day really varies
+and depends on yeah there's a lot of
+things and like the customers that you
+work with but generally I could be
+spending my time talking to customers to
+understand like the situation on like
+what they'd like to build on AWS
+um what their Technical and business
+requirements are and then after getting
+those requirements I can then go back
+and map out a solution for them so that
+solution could be like an architectural
+diagram it could be approval concept
+let's just show them what it's actually
+going to be like and then
+um once they're happy to move on to the
+cloud and just like happy to go forward
+with using the service I would then
+either direct them to the AWS
+Professional Services team who do the
+implementation or introduce them to our
+partner or Partners so AWS has like a
+large partner network with companies
+like you know Deloitte essential iTalk
+there's quite a few so depending on the
+scale of the like you know
+implementation or like what they want to
+build and then I'll then work with you
+know the sales team to find out like
+what the next step is
+um but Solutions Architects are quite
+involved more in the early stages before
+customers actually like want to actually
+Implement and build it so you know we
+don't really necessarily code like
+things out for the customer
+um we don't do things like you know
+super detailed like troubleshooting for
+them it's more like mapping out a
+solution for them
+um I think there's things I'm missing
+about the solutions that I think well
+there's just so much to cover about the
+role I I would also say and you and I
+were talking a little bit about this the
+other day that a solution architect at
+different companies will look
+differently so if people are targeting
+the role
+um it's not sort of like this Universal
+or generic sort of study guide or
+perhaps like even like a solution
+architect uh certification wouldn't
+prepare you for a social architect role
+at every single company because we
+because you were you and I were talking
+about how
+um
+like I
+my potential next role would be a
+solution architect and then you were
+saying you were asking me like oh do you
+still feel like that would be your your
+thing and I was sort of giving me giving
+my my Outlook on it
+um but then that's when you and I
+discovered like all social architect at
+Microsoft uh can potentially be
+different than like a solution architect
+at AWS even at that scale so we have and
+then there's solution Architects that
+are at Microsoft that are sort of early
+focusing on the that early phase uh very
+similar to what you were mentioning and
+then there are ones that are focused on
+implementing and then I think you were
+saying that those are more like Cloud
+Architects at AWS
+yeah I've done a bit of thinking like
+just over the past few months I've
+realized that I think Azure specialist
+is kind of like our Cloud Solutions
+Architects at AWS which is gcp's
+customer Engineers
+um that's like the correlation and then
+like AWS Cloud Architects are Azure
+Solutions Architects I think and then
+who has like their Professional Services
+Consultants as well so yeah like the
+best way to just go about it is just to
+like not really look at the role but
+just the job description and have a look
+at what
+is then you can see like what role that
+actually is yeah I also tell people who
+are wanting to get into Cloud don't
+focus on the fact that if cloud is in
+the role or not in like the title like
+that really doesn't matter as you grow
+you spend more time you specialize your
+Niche like your your role will become
+more and more specific of course but
+like 2022 tons of like um I've even seen
+helped us grow sis admin roles
+networking roles uh sock analyst roles
+that have exposure to cloud and you
+might be missing out on opportunities uh
+because you're just so focused on it
+having like clout in the role itself
+um so yeah like don't don't don't limit
+yourself
+um it's like there's so much out there
+and it could potentially also be
+like progression like maybe you don't
+immediately go into like a cloud
+engineer role but you start at like sys
+admin but you get a solid foundation in
+sysadmin and then you take those skills
+and you move into
+uh like like a cloud role after that
+like with you know a good foundation and
+you've got like your year and it's also
+easier to move up or move into having
+like some sort of experience before
+which is why I say like if you have like
+one year of any type of of experience
+it's always going to be better than
+having nothing uh for people who are
+trying to get into the field do you have
+any other advice we're coming up here on
+the hour and I want to answer as many
+questions as we can but so do you have
+any other like advice for people trying
+to get into to the space I mean you have
+tons of videos that's probably the best
+advice people go watch Lucy's Channel
+there's so much good content out there
+you've talked about certifications
+projects oh here's a good one
+skills outside of technical skills you
+feel people like should work on
+the land role that's actually a new
+video coming up um
+yeah because everyone's always like you
+know what I.T fundamentals should I
+study what areas of clouds I need to
+know uh but yeah I could talk about it
+more specifically with Solutions arctics
+like Studio because it is a customer
+facing role which means that you need to
+have customer facing uh skills
+essentially like things like being able
+to listen to customer requirements is
+just really understand what the
+customers are asking and what their
+requirements are less so than just
+pitching them a solution based off of
+like your assumptions
+um there's things like having empathy as
+well just knowing like like when talking
+to a customer
+um I think stakeholder management as
+well just not because you won't just be
+working with customers you'll also be
+working with the sales teams but
+different people within the organization
+like other Solutions Architects there's
+just a whole bunch of those
+interpersonal and soft skills are quite
+important to develop as well
+um aside from those technical skills one
+thing I want to mention this actually I
+haven't covered it in a video yet but I
+think it's just something yeah that
+would be good to talk about is that like
+there are different Pathways into
+becoming a Solutions architect
+especially like these things because
+um I think one way a way that like a lot
+of people know about is you know
+starting off with let's say like help
+desk this admin you know Cloud engineer
+and then Solutions Arctic but I think
+the industry has really changed a lot
+over the past couple of years in that
+like especially in the past two years
+they've introduced AWS themselves and I
+think other companies will have
+introduced the more associate level
+roles and submissions Arctic internships
+as well and that's just really like I
+think it's just been like a big industry
+shift because in the past like
+submissions Arctic so people with like
+many years of experience in it as a
+software developer as a consultant and
+then they want to kind of like take all
+those years of learning to become a
+Solutions architect right whereas a lot
+of people you know straight out of
+University or like you know straight off
+like maybe studying like in a boot camp
+or potentially just like self-taught
+like you know studying for
+certifications they can go straight into
+this sort of role so I think just
+getting people to just keeping the
+options open is that like there are
+multiple Pathways you can take now and
+then that you can actually start up your
+career as an associate Solutions
+architect
+awesome yeah there's no like one
+template that you have to follow and
+also the way that once someone went into
+it doesn't necessarily mean it will work
+or won't work for you but then that's
+also the beauty of it and and that
+should enable you to not feel frustrated
+if something isn't like working for you
+like maybe it might be your role your
+journey is going to be completely
+different and then you can later go on
+and document and help someone else with
+like your own uh yeah there's like
+there's so many different ways to to get
+into space I want to answer a few
+questions just before we we tap out here
+um you said boot camp someone did ask
+opinions on boot camps uh what are your
+views on cloud boot camps have you done
+a video on this or is this topic that
+you well you have an opinion on
+I want to do a video on it
+um but then I think I would need to do
+more research because like I haven't you
+know I haven't done a vocab myself and I
+haven't looked too much into it but
+recently I've been talking with a few
+students who have done a boot camp and
+they felt like you know they felt like
+it was really helpful for them but then
+I kind of want to compare that to like
+you know that experience with like
+versus if they were to do a
+certification themselves like just
+breaking down the things like the cost
+that added benefit there's a whole bunch
+of factors the community aspects because
+I know there's pros and cons of each uh
+but yeah I've got to do more research
+into it and I think I want to do things
+where I can like maybe conduct like a
+like a quick interview with like people
+who have been through some of those boot
+camps and see like maybe there are ones
+that you know like they do have like a
+lower cost but they offer like the same
+amount of value as like maybe like a ten
+thousand dollar boot camp so yeah yeah a
+lot of things out there but it's hard to
+give any advice right now what about you
+I think yeahI I have this reputation of going off
+from rants on Stream So and I've done a
+few on boot camps
+um but I've also done a fair amount of
+research because when I was sort of
+getting wanting to get into the space
+um so back
+27 16 2017 uh boot camps was one of the
+options that people were telling me
+about and then I kept like like reading
+like first of all a lot of them don't
+have
+like results like just like a lot of
+testimonials and things like that so
+that was kind of like shady to me
+um but so then I went like the
+self-taught route because I was like I'm
+not I think the one I was looking at was
+like 27 000 and I was broke when I tell
+you that I had like I had like a
+negative 200 in my bank account there's
+no way I could afford this and I also
+have didn't have like great credit which
+credit is very important concept here in
+the US
+um
+you know that's a whole different type
+of live stream
+um but I didn't I could I just couldn't
+afford it so I went to self-taught route
+and then like now I continue to look at
+boot camps because it's like something
+that people ask me questions about and I
+still feel like if you you think of like
+a six-month duration I really do feel
+like if people put in the time to fully
+understand how they learn best that they
+most likely can teach themselves what a
+boot camp will teach them because a lot
+of people get out of the boot camps
+still needing to put in several months
+of just upskilling on how to interview
+on how to speak to your own skill set on
+uh building like credible projects
+having well-documented projects
+um just like a bunch of things that you
+need for like land interviews tailoring
+your resume tailoring your couple little
+that some boot camps do cover some boot
+camps don't so I just feel overall it's
+like very hit or miss with that being
+said it's still something that people
+should research and people should look
+into for themselves because I do
+understand the structure of camp like
+the guided learning is sometimes
+something that people need or like
+prefer so that's you know that's up to
+them but I just personally think that
+everyone is capable of learning on their
+own
+um and I don't know I just it's like a
+lot of money it's just a lot of money
+um
+Fork out the money now like it just
+doesn't seem worth it right like let
+alone as a student like 27k for like a
+boot camp that is a lot um yes that's
+like a brand new car that is no that is
+the down payment on a house
+[Laughter]
+um oh here's all right here I feel like
+this is probably the best question to
+end this on but what is your second
+favorite Cloud role and why besides
+architect
+oh yeah this is something we were
+talking about I was like my dream role
+was always to go back into the tech
+industry we'll probably be what you're
+doing now develop an advocate role or
+like Cloud Advocate uh I just I never
+knew this role existed when I first
+started out like even at AWS and it just
+seems pretty cool in that like you get
+to make videos get to speak at events
+I'm sure there's you know there's a lot
+of other things that are part of the
+role
+um but yeah like from what you've seen
+as well like I think just you just get
+to spend a larger percentage of time
+doing this kind of fun stuff so I think
+that'll be yeah quite a cool role to try
+out um but yeah probably I would like to
+like if I was to go back and take it I
+should probably work overseas as well
+um like Australia I just think that
+sometimes a text saying is just not as
+fast-paced
+it's all the Summers and everything
+happen in the US and then I want to be
+where the cool stuff is do you have like
+a a Dream City you would want to work
+out of
+Oh either New York or SF like you got a
+company when if you got to come to New
+York
+I'll show you around all the good spots
+all the good food
+um oh that'll be good yeah
+we do like an in-person live stream next
+time yeah absolutely or maybe we'll do a
+meet up or something like that
+all right
+um Lucy thank you so much for hanging
+out I got to have you on hopefully maybe
+the next time it'll be in person somehow
+um but this was awesome uh very very
+happy that we have people like you in
+the space that are educating uh just
+like you're such a nice person I think
+that is so important like people take
+that for granted but it is so important
+to have a nice person to look to look up
+to and I think that's very important
+um yeah it's just also just
+representation you know you being uh
+such a like a strong figure in the cloud
+space like uh you know you're a woman
+like I just this is like so many awesome
+things about you and I'm just so proud
+of you as well
+and so is everyone in that everyone in
+the chat
+yeah I realized I haven't been looking
+at the comments right but I was like
+quite a few people were asking questions
+like being supportive so yeah hopefully
+we'll get to do this again and yeah
+um absolutely all right yeah
+I thought it was like 20 minutes
+all right I'm gonna say bye to everyone
+in the chat and I will see you I don't
+know if I'm gonna stream next Sunday
+um I got a lot going on I gotta work on
+a course but anyway see y'all

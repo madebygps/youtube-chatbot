@@ -1,0 +1,345 @@
+so even though tutorials will help you
+learn and improve your skill set they
+don't really help much or at all when it
+comes to Landing a job or improving your
+resume no one will ever recommend you to
+just put on your resume tutorials or
+courses that you've done but they will
+recommend
+that you put projects
+that comes down to the fact that you
+just struggle when you put a project
+together from scratch
+and you don't really struggle as much or
+encounter that was as many challenges
+with tutorials because tutorials lay
+everything out for you step one step two
+step three step four and whatnot
+so today I'm going to tell you where you
+can find ideas on projects to build
+and then I'm going to show you sort of
+some best practices and some things you
+should include in your projects
+once you have built them or as you're
+building them and why not
+with all that being said hi I'm GPS I do
+Cloud things at Microsoft and here on
+YouTube and welcome to a new video so
+what I recommend people is to just go to
+the architecture Center I'm going to go
+into the Azure one now every cloud
+platform has them
+architecture centers are essentially
+a collection of a bunch of different
+architectures that are put together by a
+variety of people who will work at that
+cloud for different reasons if maybe
+it's they got it from customer feedback
+uh examples of things they've
+implemented
+yeah a bunch of different reasons
+so the best way I think to go about this
+is to kind of just look up a service or
+a technology that you want to become
+more familiar with maybe it's something
+that you've done a course on maybe it's
+something that you're studying for a
+certification on whatever it is right I
+always give the example of the Azure pet
+store which was a colleague Chris who is
+a solution architect at Azure he was
+studying for his 204 certification and
+decided to create this project called
+the Azure pet store all using services
+that he was studying for that
+certification and he has a awesome
+project because of that
+now for example I've I've searched here
+for container apps and then there's a
+bunch of options here I'm going to pick
+this one here because I think this is a
+great example
+now not all of them will be as well
+documented as this one but there are a
+bunch that are like this so you're gonna
+have to go and kind of filter through
+which one you like the most and which
+one interests you the most in general
+but for example here we've got deploy
+microservices with Azure container apps
+and dapper sounds like a pretty
+interesting project container apps
+serverless applications serverless
+containers microservices Dapper these
+are all very very
+popular services in the last couple of
+years so would be a great project to get
+hands on
+the cool thing about this specific
+scenario is you have information on
+potential use cases you've got a diagram
+data flow you've got what components and
+Technologies you'll need to use some
+Alternatives scenario details here as
+well consideration for liability cost
+optimization performance efficiency
+deploy the scenario contributors oh and
+they even have the code that you can use
+to deploy now
+this is fantastic because I constantly
+tell people it's not just about the
+technical skill set it's not just being
+able to oh I know how to create this
+application it's understanding why you
+have to create that application in the
+first place what matters how much it's
+going to cost oh just all these bunch of
+things so a lot of these architectures
+and examples will have
+these um
+you know additional resources and you
+can see there's a bunch of links in here
+right so if we looked for I don't know
+another one let's look for functions
+um there's a bunch in here I liked I
+think I saw one that was pretty
+interesting at one point that I wanted
+to do because I come in here all the
+time to grab ideas for demos that I want
+to build for uh events and whatnot uh
+this was pretty cool instant
+broadcasting with serverless code but
+you can see some of these are for
+example this one just says it's a
+solution idea so it's a solution idea as
+in it's not as fleshed out as these
+other ones but it gives you kind of an
+idea of data flow components and AO
+details potential use cases and whatnot
+so depending on your level of expertise
+this might be more than enough for you
+to get started or you might need a more
+developed and fleshed out concept like
+the one we saw before right
+so yeah go into your architecture Center
+find something and start from there
+it's not supposed to have everything
+laid out for you you need to struggle
+and piece the things together
+but the good thing about piecing things
+together and sort of you know doing
+something more challenging than
+following a step-by-step tutorial is
+each step that you try to do and you
+fail at that is a piece of information
+that you should document
+because for example let me show you I
+have a project here that I feel like is
+something that I would showcase on a
+resume if I needed to
+in my this is a serverless crypto
+tickers uh just to finish this point but
+then we'll go through everything I have
+a section that's known issues and so for
+example if I was trying to create a list
+of things of like uh bugs that I've
+worked on that I've encountered things
+that I'm actually fixing in this
+specific project I would put it in the
+section and any challenges that you
+encountered I would also highly
+recommend that you have that section
+inside of this project or not
+so for example my read my the readme for
+this GitHub because for this GitHub repo
+contains all the information that I
+would like a potential employer or just
+anyone who comes across this to have and
+I highly recommend you to have all your
+like projects that were not on GitHub
+and well documented readme too and then
+if you have you should have your Cloud
+resume you should link to this mine
+doesn't because I don't use it as a
+resume but I'll update it at some point
+all right so anyway
+here we have the title of the project of
+course and then just a brief just one
+line two line description and then I
+have the link to it live here if you can
+have it deployed highly recommend it a
+lot of services out there have free
+tiers or run for you know a couple of
+bucks especially the serverless the ones
+that offer serverless plans and when it
+comes to learning I always tell people
+like if you have to end up paying 20 30
+bucks a month to have your stuff running
+that's worth it that's like a Netflix
+subscription is like 20 a month like
+come on you can afford to put in the
+money to learn with an actual Cloud
+account right so anyway mine's deployed
+there
+I have my architecture diagram here the
+interesting thing about this is this is
+out this is actually two architectures
+because the project is taking it from
+the starter project to the completed
+project so I've included both of those
+in here so there are diagrams for each
+one of those so not super complex or
+anything straightforward get the picture
+across then I have a little bit more of
+in-depth information on the starter but
+you can see I have a lynx Galore there
+are links to absolutely everything
+because these were the documentations
+and just references that I used when I
+was trying to put the thing together
+because you are going to build things
+from scratch by piecing information
+together from other places again nothing
+is brand new you're not inventing any of
+this but if you can sort of document all
+of these things the next person is going
+to come and maybe build on your solution
+or needs to understand more deeply Your
+solution or you need to better explain
+your solution you'll have the
+documentation that you reference right
+so I talk a little bit more about the
+starter architecture the completed
+architecture and whatnot then
+and this is a part that I really like
+that I did here
+the steps to go from starter to
+completed now if you clone all my code
+and you adjust your local dot
+settings.json to include the connection
+strings and keys and whatnot that you
+need from your created Azure resources
+you can have it going on on your on your
+own like you don't really need to build
+anything or whatnot you just need to
+edit that right however I've provided
+guidelines and advice and steps for
+anyone who wants to take my start
+architecture and turn it into the
+complete architecture because this is
+going to get you hands on with Azure
+functions with Cosmos DB with signal R
+Azure blob storage and a couple of other
+services in a lot so I wasn't included
+those things here so some docs that I
+found helpful when building the project
+and sort of just some steps now here I'm
+not telling you put this line of code
+here put this line of code there put
+this line of code there I'm not I'm
+telling you things like oh create a
+class that will describe your object
+mine is here create a new function Azure
+function with a timer trigger I set mine
+to 60 seconds but you can adjust your
+occurrence or whatever you'd like
+mine you can find here and then other
+color other guidelines that you need
+here too create an Azure function
+relationship your trigger that will act
+as your signalr negotiate
+minus negotiate that CS now I'm just
+telling you this is kind of what you got
+to do you're going to go and Google how
+do I actually do this and maybe you'll
+probably use the documentation that I've
+linked above here which are pretty long
+like this one's pretty long like it says
+here two minutes to read but there's a
+bunch of other things that you need to
+like go through as you walk through
+these like for example
+the stuff down here right
+so I'm giving you guidelines and I'm
+doing that for the API part and then for
+the client part as well so I'm not
+telling you step one step two step three
+step four and one now right but
+essentially it becomes likenot only a project for myself but a
+project for other people which I think
+is pretty cool
+finally I have included steps on how to
+run locally uh again links to everything
+that you need here and another thing
+that I like here is I say all the
+prerequisites from this documentation
+which is again another longer thing that
+people will have to take some time to go
+through
+another important thing that I feel like
+people should include are debugging
+steps now this is a very developer
+focused type project and I know a lot of
+you may not be interested in developer
+type projects but debugging isn't
+specific just to code and development
+like you could use this in a bunch of
+different scenarios so whatever
+debugging is for you
+include those steps in here so for
+example I've I've got some custom uh vs
+code tasks and have links to learning a
+little bit more about what debugger
+debugging and the launch.json and
+task.json files would do but then I tell
+you which tasks will do what and what
+not and then I've got some known issues
+now for example
+I know that mydevcontainer.json which
+will enable codespace's support and Dev
+container spaces uh get Dev container
+supports locally
+I have the file there but no it's not
+working though it's not really
+a major like it doesn't block the
+project from working so it's sort of
+just a work in progress but it's a known
+issue I also know that I don't have cicd
+I've also noted that in here and there's
+also a couple of other code performance
+enhancements that I want to do and I
+want to document in here first so this
+could potentially even be like someone
+will be like oh hey and I encourage
+anyone here if anyone wants to implement
+a CI CD for this project and then do a
+PR I would highly recommend you give
+that a try and then I will
+have you on my channel we can talk about
+the project and whatnot uh but yeah this
+is also could potentially be come into
+like if you open source a project tasks
+that other people could do and then any
+other additional resources that I find
+useful I will have in here as well
+so documented well project I think this
+is a good example
+not to to my own horn but hey I've seen
+a lot of cloud projects in my day
+I've done a lot of cloud projects in my
+day
+and I've done a lot of speaking to my
+cloud projects in my day as well so it's
+kind of like what I recommend the bare
+minimum if you want to do absolute more
+go ahead and do it but just remember
+it's all about the sort of piecing
+things together from scratch where you
+get the value and where you can actually
+develop that skill set so yeah anyway
+that's all I got for this video I will
+see you in the next one oh and don't
+forget to check out my Vlog Channel if
+you like behind the scenes and just
+lifestyle and living in New York kind of
+stuff all right bye

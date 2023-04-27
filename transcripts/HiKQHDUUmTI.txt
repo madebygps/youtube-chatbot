@@ -1,0 +1,338 @@
+hey what's going on everybody so uh
+we're doing this series with chloe
+condon who is a senior cloud advocate at
+microsoft we're on actually the same
+team which is pretty great
+and we're doing this whole series where
+we're covering resumes and cover letters
+and all that kind of stuff that you need
+to apply for jobs it's called how can i
+help i'll have a little link
+information so you can attend as well
+in the description but the point of this
+video is to sort of react or roast my
+resume from 2019
+because uh i don't know i feel like it's
+it's it's it could be like a therapeutic
+activity that i could do and maybe if
+anything stands out
+for you all it'll help you perfect um i
+did sort of go into this on stream on
+our first session for the series that i
+just mentioned so i can link to that so
+y'all can watch that as well
+but yeah let's let's dive into it oh hi
+i'm gps and welcome to a new video
+for initial thoughts when i opened this
+and i was like blurring things out i'm
+like wow this is super short
+but i've always liked one pagers because
+um and this was an assumption i had
+before i actually knew it was a fact
+people really only take less than a
+minute i think chloe on stream was
+mentioning it's like the first 10
+seconds they look at your resume and
+they're like is it worth looking into or
+not
+and if they see like a bunch a bunch a
+bunch a bunch pages it's pretty much
+gonna it sort of comes off as like
+there's a lot of fluff right
+i used to think that i was very arrogant
+for having a one page resume but it's
+worked in my favor so here we are
+name nice and big and then i had my
+youtube channel right away i also have
+my email and my phone number here
+but i knew at that point i had a bunch
+of videos and tutorials and all that
+kind of stuff on my youtube and a lot of
+those showcased my not only who i am as
+a person and my ability to communicate
+things but also my technical skill set
+because a lot of my videos were on azure
+functions and azure in general
+then we have certifications yeah i get
+this question a lot like which search do
+you have at this point i was already a
+call engineer that was my current role
+and i had only had the aws certified
+developer associate
+that's literally all i had
+and then we dive into employment history
+again i don't have any
+i guess substantial
+college education or educate or like
+boot camps or any programs or anything
+like that besides certifications so i
+just have certifications and employment
+history in here too
+oh let's start from the bottom of
+employment history because usually you
+go in like um
+like a timeline like the most recent one
+you put on top but let's go from the
+bottom because
+that was my first gig i guess ever like
+legal job on paper was the the the one
+at the apple store i was a technical
+specialist
+and i guess i summarized my entire time
+which was about a year and a half there
+um in three bullet points so resolved
+mac os ios and icloud issues repaired
+replace installed mac desktops laptop
+mobile device components answered apple
+product technical support questions in
+english and spanish looking back i would
+have added one more here that's that
+would have been like
+documented issues or or created tickets
+of like customer issues
+uh for every single
+i don't know like
+encounter whatever every single customer
+that came in because
+i remember at the apple store gig
+every person who would come in and we
+would have like these appointments like
+oh i need to fix this every single issue
+was a ticket and there was a lot of
+documentation and triage that would be
+put into those tickets and that was
+extremely extremely valuable for for my
+help desk gig so i should have put that
+in there uh but yeah that's overall that
+some sums it up pretty nice and maybe
+things like um
+participated in training or something
+like that would have been great too but
+uh i mean i guess didn't hold me back
+then we got my helpdesk gig that i was
+there for wow two years
+provided frontline technical support to
+end users on time according to sla
+assisted in relocating facilities
+setting up most i.t infrastructure
+office 365 administration and documented
+it tasks of general interest for
+internal users so i think what was key i
+mean all this was key for my sysadmin
+gig later on but really this office 365
+administration um
+like popped out for
+for my the person who hired me for this
+one and i know this because i asked this
+person so
+uh the the certification i know uh like
+helped my resume at that point um
+but keep in mind that was like
+2018 yeah 2018. so a couple years ago um
+and
+actually hold on where are we yes right
+here so office 365 administration
+because these were things like
+uh creating users updating
+permissions and all kinds of things
+and then also the frontline technical
+support to end users according to sla
+was important to this sysadmin uh gig
+because again since it's an operation
+role and you're sort of
+uh working for be like vr requests and
+things like that
+being familiar with those kinds of
+things in terms of like
+how to handle when people approach you
+or how to handle requests over the phone
+and things like that
+it definitely helped here
+uh and again document documented it
+tasks of general interest for internal
+users
+and then the doc if i had added that
+here you can see that there's a
+consistent
+like very important thing that i've been
+doing for years since this gig 2014
+which is documentation
+um all right so that was this that's the
+helpdesk gig then i landed the sysadmin
+gig and this is where i was exposed to
+azure in my life to azure
+my life was introduced to azure or azure
+was introduced in my life whatever um
+here at atlassian suite administration
+so this was things like creating
+workflows in jira
+creating custom reports and dashboards
+uh using jira for you know my own
+ticketing system
+um
+uh what else was done there oh using
+jira for also for like
+like
+agile and sprints and things like that
+yeah so
+uh not only was i using it to document
+my work uh with confluence but also
+to
+you know
+for the ticketing system and then also
+for the sprints and stuff like that so i
+had like a lot of jerry experience in or
+at lasting sweet because the last scene
+is confluence jira and i think like a
+bunch of other things
+but yeah
+office 365 administration this was uh
+even like creating users and onboarding
+and all that kind of stuff but i
+remember i was personally like automated
+that it was done being done all manually
+and then when i got here i automated it
+with a powershell so it was great that
+was like my first
+actually i might have done some
+powershell here but i think it was like
+definitely solidified up here
+provided frontline technical support to
+end users again this is consistent here
+and then here scripted manual tests
+using powershell and python yeah see
+again that's the office 365 and then
+python i used later for some um azure
+stuff that i
+that i uh had created we can dive into
+that a little bit later
+documents i t tasks of general interest
+for internal users actually just copied
+this
+over here uh assisted with cloud
+infrastructure tasks i think in here
+um i would have like erased these two
+and then gone a little bit more specific
+into what tasks
+i worked on or maybe like projects
+but overall not too bad
+uh cloud engineer currently primarily
+use um
+net and serverless tools to write cloud
+applications that save the company money
+and colleagues time
+deploy architect administrate and
+monitor solutions and infrastructure and
+azure shortened development life cycles
+and time to market by building and
+maintaining safety and pipelines and
+azure devops create documentation on my
+work and present company present company
+wide participate in daily scrum meetings
+and weekly check-ins with my supervisor
+tricksters okay so not bad but i think i
+would have removed so i would have
+removed one
+i think i would remove these three and
+actually provided examples of projects
+that i implemented because at this point
+actually i don't remember exactly when i
+created this resume but i'm sure i would
+have had like some solid projects under
+my belt by then and i would have more
+like written something like um
+created
+application or or architecture solution
+whatever it might be project
+with uh
+azure functions that save the company
+this month this many hours this much
+money and what i've dived in a little
+like an extra bullet point there that
+would have said like
+implemented with this technology and
+that kind of stuff so so at this point i
+think it would have been more valuable
+to share
+the projects themselves than the actual
+like sort of these just like generic and
+general things
+um i also don't have an area here for
+projects that i've done on the side i
+don't think i had many like the amount
+that i have now
+uh like on my github and things like
+that but
+for example i would have had like let's
+go to my github right now
+and let's go to my repos
+and i would have added something like i
+think
+a good project would have been that's
+probably a little too
+oh like the resume my resume challenge
+thing i would have added this thing here
+and then of course i would add my
+uh like my my my self-talk guide and
+then
+what's another one that i have
+maybe yeah let's use those three so like
+my
+uh resume challenge how i like you know
+because there's architecture here
+prereqs that you need all those kinds of
+stuff all those kinds of things are in
+here
+and i would have added that one i would
+have added this daily positive news sms
+serverless project that i made because i
+remember documenting this well how to
+set up your code environment api
+credentials package use set up all the
+kinds of things that you need to do to
+run it um it's all in here as well so i
+would have added that to my projects
+section of my resume
+and then
+my self-taught guide to cloud computing
+also
+this more speaks to like i guess my way
+of documenting and commuting commute
+yeah communicating things right so i
+would have added that to my resume so i
+probably would have removed so if i had
+to update this resume now which i don't
+i'm surprised i don't have an updated
+version or maybe this is something we'll
+do on stream that would be great
+i would probably remove this last one um
+maybe even this service desk analyst one
+these last two and just put projects
+there
+but besides that i think it's pretty
+solid all right so um yeah that was my
+resume back in 2019
+i don't necessarily think it was great i
+don't think it's too like it's hideous
+or bad it's terrible um you can tell
+that i'm just like straightforward i'm
+there's not a lot of fluff i'm like kind
+of what you see is what you get and i
+think employers like
+have value that
+um
+yeah there's not like a lot of buzzwords
+or things like that or like you know
+people will put like skills like
+uh hiking or something like that for
+whatever reason um yeah so that i enjoy
+uh there are now things that i look back
+i'm like i could have done this way
+better um but maybe we'll get my resume
+makeover on stream or something like
+that
+anyway uh
+yeah if you have any questions let me
+know and i'll do a video on them or
+something i don't know alright see you
+on the next one

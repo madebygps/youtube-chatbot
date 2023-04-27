@@ -1,0 +1,179 @@
+High availability and fault tolerance
+both use redundancy and services that
+Implement redundancy
+to help you achieve
+The Continuous functioning of your
+architecture right but they're
+implemented in different ways they have
+different objectives
+and of course different complexities and
+different costs because obviously when
+something is more complex it's going to
+cost you more
+but we can summarize this in one line
+I'm going to actually use some diagrams
+to explain the concepts and then at the
+end they'll give you the one line
+summary but let's let's dive in and talk
+a little bit more about each one of
+these Concepts with all that being said
+hi I'm GPS I do Cloud things at
+Microsoft here on YouTube don't forget
+to like And subscribe so I can keep
+making all this awesome free content and
+welcome to a new video the objective of
+high availability is to minimize
+downtime and provide seamless experience
+to users it uses an active passive
+configuration
+less complex which also means less
+expensive okay
+and we are not aiming for a hundred
+percent uptime because that's not
+achievable with high availability
+when we take a look at fault tolerance
+we'll we'll talk a little bit more about
+that
+and again just keep in mind it's
+minimized downtime right
+so for example here we have an
+architecture in the east us2 region
+ecos2 has three availability zones but
+we're utilizing easy one here
+and I have a pretty much a duplicate of
+that architecture also an easy two but
+you can see it's grayed out because
+these are components on standby and this
+is what we mean when we talk about an
+active passive configuration we have our
+active configuration and our passive
+configuration that kicks in
+if we were to experience or fall an easy
+one
+so you see we have a load balancer
+Distributing to our web tier and then a
+load balancer Distributing to our our
+data tier
+so in the case of high availability
+what happens well when a fault occurs we
+have again that architecture but there's
+a switch
+and now our active configuration becomes
+what was passive previously so our az2
+kicks in and our az1 becomes the
+unhealthy components so feeling needs to
+kick in maybe using a skill set it needs
+to add more instances whatever in the
+architecture needs to do to put itself
+in a healthy State again and then it
+becomes the passive configuration and
+then if you need to do the switch again
+then you'll do the switch again
+but the key here is within that time
+where there's a switch there is going to
+be downtime
+but the objective is to minimize the
+downtime
+so I'll deal your architect your
+components in a way where that downtime
+you can achieve 99 points
+of 0 or 9 or 999 whatever you can
+because you know you have slas to to
+meet with your clients okay
+but that that switch is what is the key
+when it comes to high availability
+okay so if we switch intofault tolerance well what is the
+objective here
+the objective with fault tolerance is to
+maintain correct functionality in the
+presence of component failures right
+so it uses an active active
+configuration no longer active passive
+active active more complex which also
+means more expensive
+I also have a diagram here and we can
+take a look we can already see this is a
+lot more complex we're utilizing all
+three availability zones available to us
+in Azure East us2 we have az1 az2 and
+az3 essentially replicated architecture
+across all these availability zones and
+we have traffic that's being distributed
+I probably should have added a let me
+see here
+um
+anotherload balancer
+probably would have been somewhere here
+so if we move
+this higher up probably would have been
+something here right
+so you're you know you have 100 of your
+traffic being distributed amongst these
+three different availability zones
+within your region if for some reason
+here this would turn into
+like if this were to stop working so
+we'll just actually use a pencil like if
+this were to stop working then load
+balancer would know okay now I can
+distribute the traffic in az1 and az2
+and there would be no down time there
+because the architecture to take care of
+that and handle that load is still in
+place and it still works so ideally your
+your architecture deployed in easy one
+could handle 100 while your az2 and az3
+come back up or maybe az2 is down easy
+one and az3 are available
+well one of your architectures would be
+need to be resilient and redundant
+enough to take care of that
+until it kicks back in
+now let's move actually over here right
+so that's what I'm explaining here so
+error detection picks up the faults and
+then the traffic is divided between the
+available infrastructures in this case
+easy one and az2 and then self-healing
+kicks in to put this
+availability zone or the infrastructure
+in here back into a place where it's
+healthy and then the the load balancer
+can come and say like oh okay the health
+checks will tell the little balancer are
+like oh this this availability Zone the
+architecture in here is available to now
+pick up
+traffic once again
+but obviously you can tell like between
+the complexities just by looking at
+the diagrams themselves that this
+compared to this there's a lot more
+going on here
+essentially you end up with well more
+than one instances of your architecture
+that are active
+so it's not necessarily that you're
+paying three times as much
+it could end up being that but the fact
+is it's just going to be more expensive
+so keep all on that in mind
+but now you know the differences between
+these two okay so one line summary
+so you can really sound like you know
+what you're talking about would be
+highly available systems switch to
+backup resources when failures occur
+fault tolerance systems continue
+functioning without requiring a switch
+keep that in mind and it makes sense
+like we saw in the diagram you have an
+active passive configuration when it
+comes to high availability and when it
+comes to fault tolerance you have an
+active active configuration right
+because there's no switch there
+let me know what other Concepts you want
+us to talk about clear up
+I hope you learned something and I'll
+see you in the next one

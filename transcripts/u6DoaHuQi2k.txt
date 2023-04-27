@@ -1,0 +1,116 @@
+what's going on everybody happy 2021 i
+wish you a year filled with
+opportunities
+um and you know all the goals that you
+want to accomplish
+i hope you do so so i figured i'd start
+a series where i talk about
+books that have in some way impacted my
+career they're not all going to be i t
+slash tech cloud related a lot of them
+are but not all of them
+like i have some ideas for some personal
+finance books that have really helped me
+psychology public speaking etc but we
+are going to start off with my absolute
+all-time favorite tech book which is
+the phoenix project without giving away
+any spoilers
+it's a story so it's fiction about
+a company that has an i.t project that's
+been
+delayed several times and it's over
+budget and
+the person who's in charge of that
+project quits or gets fired i can't
+exactly remember
+and then a new manager comes in takes
+over the project and the cto tells this
+person hey
+if you don't get this thing back on
+track i'm going to outsource it and
+we're going to fire everyone who works
+in i.t
+so that's hundreds of people and the
+story just goes on
+and tells how he manages that and i was
+working in helpdex
+when i read this book and it just hit
+home and
+the one thing that this book helped me
+realize was
+that it kinda is a mess everywhere
+so that's also why i say like no matter
+what level you're at in your career
+you'll find some kind of use if if only
+just like an entertaining story
+um i think this is a fantastic read
+there's also another part to this book
+which is called the devops handbook
+which is
+a nonfiction it explains the technical
+aspect
+of the concepts that are being explained
+to be a story in the phoenix project
+um and as you read the devops handbook
+you're going to
+there's certain pages and certain
+concepts and chapters that you'll read
+and
+it'll remind you of concepts that were
+explained in the story
+and it becomes like a full circle it's a
+little harder to get through obviously
+because
+it's you know technical stuff it's not a
+story but i think those two are a great
+combo
+to to simply read i mean you don't
+necessarily have to learn anything
+um but it's entertaining and if you do
+pick up the devops handbook it is it is
+there's some things in there that that
+um will help you
+especially if you want to see like a
+or if you want to be in more of a
+manager position there's a lot there
+that that would be quite handy for you
+um but yeah that's uh my my favorite alt
+all-time technical book anywayi wanted to introduce two new segments
+to
+my videos one is going to be new content
+of the week
+and that's just covering content that
+i've released on the a cloud guru
+platform
+this week we have two new azure videos
+i'm going to link them in
+the description one is azure this week
+which
+is a series that covers just the new
+news and updates on azure every week and
+i was fortunate to be on the first
+episode with my colleague laura clint
+um again link in bio link in bio link in
+the comments sorry
+um and the other one oh is the another
+segment that i'd like to introduce is
+question of the week so i'll just grab a
+question from one of my youtube
+comments and answer it this
+week's question of the week is how much
+money did i make
+in my first cloud roll 75 000
+plus full benefits
+keep in mind that i'm based in
+connecticut usa
+um because you know 75 000 can be
+a like a lot or a little depending on
+location all that kind of stuff
+so yeah there you have it that's the
+answer to that question anyway
+uh if you have any books you'd like to
+recommend or or books like you'd like to
+see
+covered in the series let me know and
+i will see you in the next video

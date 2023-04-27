@@ -1,0 +1,2402 @@
+I'm gonna go back here pull this up here
+let me refresh my YouTubedamn we got nine people waitingall right I did a command like a custom
+command for your stuff
+um it's like exclamation day so let me
+see if it actually works yeah there we
+go and then people can get all your
+links I grabbed your like your solo dot
+two
+from your Twitter that and it looked
+like that had everything in it so
+yeah yeah so we got people coming in so
+what up everyone
+uh welcome settle in settle in they and
+I were already talking but then we we're
+like oh we gotta go live so we hit live
+I'm trying something a little different
+I'm using collab cam on streamlabs I
+don't know if you've heard about it Dave
+it's like this new feature that
+streamlabs came up with and hopefully it
+doesn't like bug out on us in the middle
+of the stream yeah but we're here to
+talk all things
+cyber security Cloud work
+social media YouTube monk mode all these
+kinds of things I we haven't really
+spoken since
+when it was it you were in here in New
+York like July ish no August no Julyokay around that time yeah around that
+time and then we talked a little bit
+after you did the learn to Cloud stuff
+which was
+like a couple weeks after that
+yeah yeah yeah and then
+we've been like I don't know I I always
+reply to your Instagram stories and your
+reels because I think you're one of the
+realest person everyone is the realest
+people in the game
+um which is cool and whatnot but yeah
+people come in uh we're here to talk
+where should we start manfrom the beginning
+like what like okay let me start by like
+the craziest thing you're are you 21 yetyeah so you can't you still can't drink
+illegally you still can't drink for all
+legal intents and purposes
+um
+he is uh hold on let me check the volume
+it says can't hear Dave via YouTube Let
+me see
+you're coming in here good
+uh let me see
+ah we don't have audio for day let me
+see let me see oh hold on let's do this
+all right how about now can you say
+something oh check check can you guys
+hear me
+yeah I think they can hear you now
+uh yeah yeah I think I had to configure
+your
+you're just about you okay all right
+good get in my bed
+um
+what what was I gonna say oh yeah so
+you're still you still legally can't
+have a drink with me
+I remember like when you were in New
+York I was like yo let's go get a drink
+and you're like I'm 20.
+no I'm still 20.
+um till uh February of next year are you
+gonna have a big big party
+honestly I don't think so it's not your
+vibe I don't really like parties
+um I'm just I don't know what I'm gonna
+do yet
+um
+I don't know last this year I went to
+like I did a getaway I just like went to
+like the woods for like two days by
+yourself yeah that's how you celebrate
+yeah that was no that was literally
+that's really what I did and I was just
+like chilling there alone
+um I don't know I don't I really don't
+know how to like celebrate like stuff
+like birthdays or like things in general
+so I feel you I just tend to like just
+you know do it alone or just like I
+don't know do something random so I
+honestly don't know yet I feel like my
+maybe like my my friends or my family
+might try to like do something so we'll
+see 21 is a big uh
+a big a big age I feel I feel like it's
+one of the last
+ages that you want to celebrate actually
+I do agree because after that what 30
+and then you know it's all downhillI do think like for me like I do things
+like 25 is going to be a big milestone
+age for me because I have a lot of
+things that I've been working towards at
+25 from like when I was 19 like when I
+was like 19
+before I turned 19. before I turned 20
+like I have I have this board where I
+have things that I want to get to by 25
+So like
+um and they started from like you know
+being 20 So like
+um I think that's going to be a big
+milestone age because like I'm gonna
+look back and like really be able to
+like point back to those things that I
+you know I'm working towards because
+like
+I'm I've not I've not reached my final
+form yet oh definitely not with like
+with the amount of things that you do
+and we'll get into this I just and
+already what you've accomplished so
+you're 20. uh what's your official title
+at datadog I am a detection engineer
+that's what my title is detection
+engineer at datadog you're still in
+school
+and you're also in like like a teacher
+right I don't know what your official
+title is yes it's a cyber security tutor
+cyber security tutor at a like local
+College yeah at a community college
+Community College you're also a YouTuber
+and you're also killing it on Instagram
+with the reels and whatnot and you're I
+don't know there's overall it's like
+like a fantastic person and we met back
+in the summer and then I was just so
+like floored by how much you've
+accomplished
+by 20.
+like and you had yeah because I was back
+in the summer so it technically just
+have turned 21 up but I wanna I wanna
+talk to you a little bit about first
+certification so we can dive into other
+things later but certifications first
+you and I both I feel have like a love
+hate an interesting relationship with
+certifications and I want to ask you
+because a lot of your your reels are
+like in like short form content is
+centered around certifications and sort
+of how you feel about them so yeah give
+give the people like an overview of
+course like what certs do you have which
+ones are actually useful and are you
+working towards any any certifications
+in the context of like Cloud security
+um okay there's a there's a lot to
+unpack there yeah I know because because
+like certifications are
+very controversial
+um I don't think they need to be I just
+think like they're either oversimplified
+or over complicated yeah um so
+um I was I was in a like a podcast with
+like another
+um uh content creator like a while back
+and we're talking about certifications
+and he asked me like what has been the
+most important certification you've
+taken
+um in your career so far and I there was
+this particular one I you know talked
+about but I I the main thing I wanted to
+say was that
+I don't think any of them was
+particularly important okay like at the
+time that I took the certifications they
+made sense for that time and they were
+good for that time right it was like at
+that point in time where I had this
+certification I took the certification
+it was
+um it was needed I needed to take that
+certification at that time yeah right
+now I have about 12 13 certifications
+that are active
+um and each of them had a purpose um
+which I took them yeah so I initially
+started as someone who was getting into
+the industry and like I didn't really
+know much and I didn't have much
+experience or skill so I needed
+something to like push my credentials
+right okay and this is someone this is
+like as a college freshman right I'm
+still trying to figure out stuff so of
+course like when it comes to it like the
+Holy Grail of like entry level
+certification wait wait wait hold up let
+me pause it you said College freshmen so
+you mean like last year
+um two years ago two years ago
+two years ago a long long time ago two
+years ago all right all right cool
+continue yeah this was uh this was 2020.all right all right all right so
+um come to like you know Holy Grail of
+like entry-level certifications come to
+your a plus right
+yeah that's the one that's gonna change
+your life that's the six figure one
+right there no it was it was it and like
+the way it did it in a really really
+interesting way because I failed it the
+first time it was my first ever
+certification and I failed it the first
+time right and like I was like I was
+like it like that really like I was down
+by that like I was like dang I literally
+paid like you know like 300 for two
+exams and I failed both of those two
+exams right yeah so like I was like
+really devastated I was like you know
+because I was just getting into the into
+the industry I was like I can't pass
+this exam right but like that's the exam
+everyone talks about like if you go on
+Reddit like the a plus yeah the a plus
+like when you if you want to get to it
+okay yeah like literally everyone says
+go get the A Plus at least at least you
+know looking back two years three years
+ago right that's so that was the Holy
+Grail of like if you want to get to I.T
+Network and cyber security whatever it
+is go get the a plus all right
+um and then do the countier trifecta a
+plus number plus Security Plus okay so
+um I was like you know I'm gonna start
+from the A Plus and I was also looking
+for like a help desk job or like an I.T
+technician job and I felt like it would
+you know help me with that so to help
+desk girl
+because I didn't have
+any specific skills or anything you're a
+freshman at WGU at this point or is this
+another another school no so I was a
+freshman at the school I currently tutor
+out right now oh
+um yeah so WG wasn't until last year
+okay okay cool cool all right cool
+so you know but I you know after my
+second uh attempt I passed the exam and
+then it was just like like that like the
+experience of like just like passing the
+exam like really taught me a lot so like
+that was really when I started like this
+like journey of like just being a a word
+I just recently learned about a Didact
+so like you know learning on your own
+self teaching yourself stuff yeah
+exactly that self-taught uh Journey yeah
+um and um I that was like you know the
+beginning of like you know constant
+studying you know like self-improvement
+both in like you know career and like
+life in general so yeah this was a
+period also when I was like you know
+really just like cutting out of
+different things like
+um you know video games social media
+friends all about that right you know
+maybe we can talk about more about that
+later on but um so a plus um and then I
+started studying for the number plus and
+this period I was applying for like a
+bunch of internships um entry level
+positions uh help desk positions and I
+got the opportunity for my first cyber
+security internship
+um after like various field um
+internships and attempts and stuff like
+that
+um so I got that job and right before I
+got the offer for the internship I
+passed my number plus so like a couple
+of weeks before I was gonna start I
+passed Network plus um and that really
+helped me with like learning networking
+for them tools and all that okay and
+then first day of my internship
+um the security Engineers shadowing was
+like Hey take the security textbook
+Security Plus textbook study it it will
+really help you with this internship
+like help you understand what you're
+doing here and really security stuff so
+I took the book ready cover to cover
+took a bunch of udemy courses passed
+that so that was like the whole journey
+for how long did that one take you
+um security so I passed never Plus in
+September
+um of 2020 and I passed the Security
+Plus in November so it took me about
+two months ish to pass the Security Plus
+was there any overlap or completely
+different content so if you go the a
+plus nerd plus Security Plus route there
+is a lot of like overlap across each
+three so it's like okay number plus
+boots on the a plus and the Security
+Plus Builds on the never plus and the a
+plus okay so like they and also like
+once you've done that many computer
+exams you kind of have to understanding
+of what you're looking for or what
+you're looking for okay in their exams
+so that was kind of like the journey and
+then afterwards my next uh certification
+was the
+um I'm actually looking at my LinkedIn
+right now it was the Splunk course
+certified user
+um that one was because
+I was learning Splunk on my own I was
+building labs and stuff like that and we
+talked about Labs later on
+um but I was you know work I was
+building one of labs of my own with
+Splunk and learning about Splunk and
+stuff like that and I was like I want to
+work in a company that uses Splunk right
+because like that's like kind of like
+the de facto Sim
+um in the cyber security industry at
+least at that time
+um so I you know went ahead and got the
+certification
+um and then fortunately around that
+period I interviewed for
+um my the threat analyst position my
+last job yeah um and um got the position
+and I started working with Splunk was
+that in are they sort of internship or
+full-time role
+uh that was a full-time role my
+internship was like
+that was like uh my internship ended
+March of last year
+um and then I had an I then immediately
+after that my first full-time role
+started March of what of that much of
+that same year yeah but it was a
+different job so that was I was a suck
+analyst in that role I worked there for
+about three months before I got my last
+job as a threat analyst
+so
+um okay um so right before I started my
+last job I was three analyst um I failed
+the cyc plus from CompTIA
+um I I quite frankly wasn't ready I
+would say the exam is a beast of an exam
+okay
+um and um I failed it um but I took it
+again past then
+um August of 2021 which was last year I
+got the AWS Cloud practitioner this is
+part of a wgu's
+um
+shout out to WGU yeah uh that was part
+of the network operations and security
+program and that um also kind of a
+little bit um picked my interest in
+Cloud a lot more than I had had in Cloud
+um also I took the Azure fundamentals
+this was May 2021
+um and then I took the ITIL
+certification in August 2021 took the
+Linux Essentials I know that that
+certification has a special place heck
+yeah I love that love that so yeah that
+was also part of the WGU program as well
+yeah then
+um this year I have taken three
+certifications the first one was in
+February of this year um that was The
+Blue Team level one total Beast of an
+exam one of the best certifications is
+that the 24-hour one yes yes that was
+like that that one is like there's a
+level two I'm considering taking it that
+was like a 72 hour one a lot more
+advanced
+um but I don't know where I'm gonna take
+that one
+um and then I took another one the
+offensive Azure one that was also 24
+hours that was also that's also like a
+newer certification like Azure pen
+testing um definitely valuable enjoyed
+that one as well and recently just took
+the come to your project boss um because
+I had to take it for WGU yeah for my
+program so I I did not enjoy that
+certification at all like it it it did a
+lot to me like mentally
+um but I've got I I cut out of it but
+yeah that's kind of my entire
+certification Journey with timestamps
+all right we we got sort of the context
+of the certifications you got now I'm
+gonna ask you some tough questions first
+of all
+do you think you'd be where you're at
+without any certificationno okay okay no no
+um I think
+so I I don't think I would be wearing my
+without those certifications because
+they thought they they taught me how to
+learn on my own
+um and I think that is a lot more
+valuable than the actual certification
+itself
+all right like because like I didn't
+like I didn't have like any like you
+know I didn't go to any you know
+bootcamp or instructor or like you know
+anything I've pretty much touched my
+taught myself all of this stuff so like
+the ability to like you know go out
+there and just like learn something on
+my own
+um has been a lot more valuable than the
+certifications themselves yeah um but I
+wouldn't say like I could have done it
+differently
+um but no okay I wouldn't all right yeah
+so going back to that Trifecta right A
+Plus Security Plus network plus to where
+you're at now if you could if you could
+only you go back and take just one which
+one B would be the most useful for you
+um let's contagious one yeah
+I would saythe most useful the number plus to be
+honest I think it's like the web balance
+between the a plus and Security Plus
+okay Security Plus I could learn
+the security plus stuff from a lot more
+other things like labs and like books
+um like I could definitely learn that I
+could have just read the security plus
+book like a couple of times and a bunch
+of other security books
+um you know done a bunch of labs and I
+would you know pick up all of those
+Concepts over time
+um and also with my experience like I
+could have gotten those things but like
+a plus
+um I don't think it was as necessary
+yeah um but still valuable
+um I mean to me you know at that time
+and then Network plus was like the
+really good balance between the both
+like I taught you some a level of
+security stuff but the networking stuff
+you learn from Network plus is also
+really valuable because like you just
+can't trade that you know like the the
+networking stuff just always comes back
+right yeah you always have to like you
+always have to you know know like you
+know IP address and you have to know
+your DNS you have to know like your
+routing and stuff like that like somehow
+it comes back and like if you are Gonna
+Go Far in your cyber security career or
+you know um even like a technical career
+in general you have to kind of stuff
+like the different protocols like
+understanding like the you know OSI
+stack even if it's like deprecated or
+whatever but like really understanding
+that stuff like at each level is really
+important and like it's still I still
+use it to this day especially cyber
+security because like each layer of that
+um you know stack has different attacks
+um associated with them so like when
+you're analyzing logs or analyzing
+different activities and stuff like that
+like it's it's it's very valuable just
+having like that framework or that
+Concept in your head um and also just
+the knowledge so I would say the network
+plus
+um definitely and in hindsight I wish I
+had to spend more time on it but I did
+have a really strong networking uh
+background from like some of my classes
+and you know that definitely helped me
+yeah no I feel you the
+I
+when I was applying to help those gigs I
+saw a lot of like a plus as like
+requirements and I was just like I'm not
+taking this exam because I was like a
+very cocky and arrogant 20 like 20 year
+old like 19 20 year old maybe 21-ish at
+that time and I'm like because I was
+reading through the content and I'm like
+this thing is like this is a mouse and
+I'm like why would I need to spend
+months and like this much and I was also
+broke I didn't want to spend 300 on exam
+so I'm like I'm just not gonna take this
+but I was I was technically Savvy and
+then I also had like like the Apple
+Store job kind of experience so I knew
+how to like take
+um tickets and whatnot so I landed like
+interviews and whatnot and they were
+like yeah whatever like we I feel like
+they use that a lot as like to filter
+out people
+um and to filter out resumes and whatnot
+but I would still say like even if you
+don't have a plus like go and apply to
+these roles because if you I mean if you
+know the stuff if you don't then
+obviously go and learn it and then a
+plus could be a potentially good way of
+learning it but yeah I I yeah I remember
+I bought that book The a plus book and
+it was like freaking so thick
+all right oh my goodness I don't even
+want to like do this so luckily it
+worked out for me but yeah I do also
+think that um sometimes like the
+pressure of the exam makes you lose out
+on like learning
+um and I think you can really relate to
+this um from like the Linux Essentials
+like you really spend a lot of time
+studying like the Linux Concepts and you
+still hold a lot of them like you still
+use them on a daily basis but like when
+there's like a pressure I have to take
+an exam and pass the exam yeah from what
+I'm learning sometimes you tend to like
+limit your self you tend to like rather
+you you tend to sacrifice long-term
+knowledge for like a short term like
+okay I'll I'll I'll just remember this
+for the exam right and then like you
+know you lose that you know in the long
+the long run so something I do advise
+people these days is like just like do
+the course or like just you know read
+the book and like learn the concepts and
+you don't necessarily have to take exam
+like just know it for the sake of
+knowing it
+I I like what you said at the beginning
+where like certifications are either
+over hyped or undervalued and I think
+the overhype part comes a lot from like
+Tech influencers
+and we I don't want to get too ranty on
+it because you and I have spoken about
+this but it's like you know you see so
+much content of like top 10 paying
+certifications and it's like you know
+having been on YouTube you kind of get a
+feel for how these people are and it's
+like they they don't even work in Tech
+or like oh how like you need this
+certification roadmap but like that they
+themselves didn't go through that to
+like actually get a job and whatnot and
+then there's the other people were like
+certs have absolutely no ballet so when
+you did your when you did your reel of
+like
+oh do you need search or projects and
+you were like you need both that like
+that balance is kind of like what I want
+to ask you next is
+say I'm like I don't say I got like a
+level like a year of help desk
+experience right and I'm trying to like
+upscale in security because that's what
+I I want to get into what two
+certifications would you recommend I go
+and study for and like take my time uh
+to really like learn what I have to
+learn to get like an entry-level
+security role or a role that has some
+sort of aspect of security in it
+um so I would say that so I would assume
+right from the help desk like you're
+familiar with like some sort of
+networking
+um you know some sort of like
+um I.T stuff right I'm pretty sure maybe
+like you're working with active
+directory all the time so like you're
+probably like you know pretty decent at
+some things here and there right so like
+at that point I would I would point you
+to two certifications
+um two of which are not necessarily like
+industry standard um in terms of like
+you know if you're looking for a job or
+whatever but I think these two are like
+the Holy Grail of like you know you'll
+it opens you up to limited options right
+because I was gonna say it depends on
+like you know what kind of security rule
+you want to get into which is sometimes
+hard to make a decision on yeah but
+um so these two are actually on two
+opposing ends so in security would
+typically look at things sometimes from
+like the defensive side and the
+offensive side so defensive side is like
+you know people who are monitoring the
+networks detecting different activities
+you would consider you consider me as a
+detection engineer on a defensive side
+the offensive side are like people who
+are trying to emulate like you know
+actual attacker activity you know pen
+testers you know and ethical hackers and
+things of s word so
+um the two certifications I recommend on
+that being said is
+uh the Practical Network penetration
+tester from the from TCM security
+um
+and The Blue Team level one from
+security blue team yeah like which is
+one I've taken myself
+um the reasons behind this is because
+Bluetooth level one is practical there's
+no multiple choice
+um I know the exam is different but it's
+actually a practical exam you're thrown
+into a compromised environment and
+you're asked to investigate you know the
+malicious activity that has happened in
+this environment
+um and create a report from that
+activity so that's you know first reason
+why because like it's practical and they
+give you the you know resources you need
+to
+um
+oh I think Morgan
+okay all right thank you for the
+resources to
+um everything everything you need is no
+resources right now and with the price
+right so it's about 500
+um but you don't you don't need like
+there's you don't have to go out there
+to like source for extra resources right
+yeah so it's like you pay 500 for four
+months of access to the material they
+teach you everything and you're and then
+you do the Practical exam okay um and
+this is on the defensive side and you
+learn a lot like that exam is like a lot
+of new organizations now that are like
+hiring like security analysts entry
+level analysts they're making
+requirements for those people or they
+make their analysts take that training
+as part of like their onboarding where
+they start so it gives you you know
+knowledge on that side
+then the other one is the Practical
+Network pen tester from TCM security
+that was around like I believe like
+around two or three hundred dollars
+depending on like what package you pay
+for which is very affordable in terms of
+like certifications and what you get out
+of that that one gives you Insight from
+the
+um uh from the offensive side and what
+these two have in common is you're
+dealing with Windows or active directory
+on both ends one way or another so on
+the pmpt side you're you know you're
+compromising the active directory
+environment
+um and you know uh creating a report on
+you know how you did that on the TCM on
+the Bluetooth level one side you're
+investigating an activity against like
+you know what sort of active directory
+environment but not necessarily an
+active directory environment but there's
+there are windows environment there are
+windows devices in the environment so
+you have to do you know that as well so
+having knowledge on these two ends makes
+you a
+RockStar at least at the entry level if
+you have like that Knowledge from both
+ends because like a lot goes into
+learning the material and doing the exam
+and passing the exam but if you have
+both I am very certain that if you go
+into any Fair interview as an
+entry-level stock analyst I don't know
+about pen tester but for as an entry
+level stock analyst you would be able to
+answer a lot of the questions that
+they're going to ask you and actually
+succeed at the role at the entry level
+because you have the understanding of
+like what you're most likely going to be
+doing as an analyst so those are my
+recommendations so
+can if if you study for those two
+certifications
+and I'm just gonna tell people like
+these aren't things that you can
+memorize this and this is what I love
+about the security space it's like
+certifications actually test your
+knowledge and the CL and which is why
+they're valued more than how
+certifications are valued in the cloud
+space and the cloud space you can
+memorize everything and that's why you
+see people on LinkedIn sharing like
+iPass certifications every single week
+it's like yeah because they're not hard
+like you can go and like buy like the
+packet of like
+um the questions for like 20 off some
+website and then you memorize everything
+and then you go and pass like it doesn't
+really prove but in the security space
+like these are Labs these are things
+that you actually have to do you
+actually have to Showcase your knowledge
+so this isn't something that you can
+spend a couple of weeks on like I mean
+unless you spend like all every day all
+day studying for them but it's going to
+take a good amount of time so do you
+think with like those two shirts taking
+a lot of time but without any technical
+experience someone can go and land like
+a sock analyst role
+yes because those two certifications
+come with training that gets you up to
+speed right so like this is not these
+they're they're targeted at entry-level
+people right for The Blue Team level one
+it explicitly States on their website
+and actually even did a video about this
+recently that it's targeted for students
+I.T personal you know very entry-level
+people right so like all the content you
+need is on there and they're like
+supplementary Labs you can do so this is
+even if you gain all the knowledge from
+like the material they they're extra
+Labs like they point you to that you can
+do to enhance your knowledge you're not
+just doing like the
+um you know the course material there's
+extra Labs you do to practice and
+actually you know prove your skills yeah
+um or um build on those skills you're
+learning in the actual course so yes you
+think people can land it all right all
+right people so that's yeah I I'll Stand
+to that like good news anytime I like
+that because I mean so usually what I I
+tell people to get in cloud is like
+you're gonna spend six months kind of
+like you know work support and then
+spend six months kind of upscaling these
+areas that I usually recommend and then
+with that I feel like you could go and
+land a cloud role essentially the amount
+of time that people would take to study
+for these classes these security
+certifications would be somewhat similar
+um and you can go and like land these
+these entry-level security rules so I
+like that it sounds like people also
+need to kind of figure out what they're
+aiming for like what roles they're
+aiming for becausepeople are like I want to get into Cloud
+security but from what I've learned from
+you it's like well what does that mean
+like there's so many different like
+spaces like security is just essentially
+just like saying Cloud now because you
+can secure so many different things so
+it sounds like people need to be able to
+First do research on like what role and
+security they want to get into but do
+you think no matter what role like a
+good like kind of like get into the
+space it's just two these two certs and
+then go sock analysts and then kind of
+figure out what Niche you want to go
+into
+yeah I do think like
+um you know like stock analyst
+um which is typically like the the entry
+level type Pros
+um or maybe Junior during your instant
+responder like um even like
+I've seen like the pmpt being put out
+for like Junior pantester roles so like
+um I don't know I'm not too you know
+privy with like the pen testing space I
+do think like it's also like a it's it's
+accepted in that space as well yeah so
+like it could also help with like people
+who want to get into like Junior
+contestant roles um but those are a lot
+more competitive
+um but I would say like most entry-level
+security roles even like like if you if
+you're if you're like a college student
+and you apply for internship and you do
+that one of those two like you're gonna
+be a rock star like literally like
+you're gonna be like you're
+no literally like you're gonna be like
+greater than me I'm telling you like and
+and getting that start dog like you know
+like it's it's like that's but like for
+entry level like I definitely think like
+it is it is both are like the pmpt is
+definitely getting a level accepted in
+like the pen testing space all right so
+along the lines of studying for these
+certifications I don't think so from
+what I've seen from you you don't just
+study for them you you create projects
+you create like posts on whether that be
+on like short form or long form like and
+you have like you've written stuff and
+whatnot like
+what do you recommend people do while
+they're studying for these things or in
+in addition to studying for these
+certifications to kind of like just
+improve their skills but also have like
+stuff that they can show off on their
+resume
+so I think
+um like different aspects of
+certifications can be projectized but
+you also have like there has to be like
+a sort of balance between
+how much how deep am I going to go into
+this Rabbit Hole of this project for
+what I'm trying to put it for this yeah
+right the goal is to learn and to learn
+um to retain and be able to use this
+these skills when you're working in the
+industry yeah um but also you also have
+the goal of trying to pass certification
+um which you probably have like a
+deadline you might have said for
+yourself so I do think like pick him
+maybe picking one thing or you know a
+couple of things from that certification
+and just doing like digging deep into
+them and making products out of them so
+for example
+um like say the
+these two exams I just talked about
+right perfect like let's say you've
+taken like you've you've done you know
+one of these exams right and you're
+trying to you know do the other one
+right you've learned a lot a lot a
+little bit about like
+um fantastic and stuff like that but now
+you're you're going into like the
+security analyst space right well like
+now you have the skills to like test
+different attacks right all right then
+you know
+deploy a Splunk instance in a virtual
+machine okay document how you did that
+try one of the attacks you did on the
+Peterson exam against you know your
+vulnerable environment and walk through
+what you found on the logs like that's a
+perfect project to do first you you're
+going to show how you deployed Splunk
+how you set up the login you're going to
+show how you use how you propagated the
+attack and then you're gonna investigate
+how that attack happened and then also
+how you would remediate that that's the
+entire project on its own and imagine if
+you do that for like you know maybe one
+or two attacks like you don't have to do
+like you know so much right yeah the
+thing about security is like show like
+showing that you have the skills and
+understanding of like what you're
+learning right and like you know even
+Beyond just like doing it as a project
+like you don't know who that thing would
+be helpful to yeah like I literally have
+my blog like being featured on like
+articles that I would have never taught
+like it would ever be like featured on
+to this day so it's like you know just
+like do it and like just bring Knowledge
+from like what you already know and what
+you're learning together
+um and it doesn't have to be anything
+elaborated right so like
+um it could just be like a quick walk
+walkthrough of like how to like fix and
+it uh remediate like a vulnerability and
+like a Windows system
+um that you're able to find uh through
+like an attack you learn and you know uh
+dependent social certification right so
+or even one thing one of my friends um
+that recently passed the oicp has been
+doing he's been creating videos on this
+channel his name is Teddy um about how
+to make vulnerable machines right like
+if the the machine like it's like okay
+everyone's talking about how to like
+actually break these different things
+how do you actually create the
+vulnerable machines right okay it's like
+that's a project idea it's a good take
+yeah yeah so it's like there are
+different angles from which you know you
+can do this from like um and also like
+there comes like creativity as well like
+you know all of the stuff that you know
+people all the projects that you know a
+lot of people do are like recycled from
+what other people have done my product
+my project is accumulation of like 100
+million YouTube videos I wanted to
+eventually get to bringing it together
+right but it's like you know it's it's
+Unique and it's original but like I had
+to like learn a lot of stuff from my
+different people and figuring it out so
+like you know try to be creative and
+like you know just it doesn't have to be
+too much but make it enough um to you
+know prove the point um about your
+knowledge
+I like
+that the idea of like you don't have to
+share absolutely everything or document
+absolutely everything but you do you
+should be strategic with what you do put
+that work into and and ideally so what I
+tend to recommend people in the cloud
+space is more so have two or three
+projects or scenarios or whatever you
+want to call them that you can speak to
+when you do get the opportunity to
+interview so you can speak to them
+confidently because when you're the more
+entry level you are the more they're
+sort of just testing you of like is this
+someone that's worth giving a chance
+instead of like oh this is someone who
+actually knows what they're talking
+about that comes like as you grow and
+you Niche into your career and like
+you're sort of sought out for like your
+specific skill set but the more entry
+level you are the more wider sort of
+your your your you know knowledge is and
+whatnot which is fine like we all start
+somewhere and like hiring managers know
+this so if you have like two three
+projects that you can like you know in
+and out like you documented like you
+really understand what's going on if
+there's an issue there's a failure you
+know how to do it you know why it does
+work why it doesn't work things you want
+to improve prove you can you can have
+ways that you can like if they wanted to
+run it for some reason like you want to
+run a demo in the interview like you
+could do that like two or three that's
+not like that's not
+I mean it is a lot of work but you don't
+have to think about like oh every
+chapter of the certification I'm
+studying I gotta go and document so I
+like that advice too and it seems like
+it's very
+it's like shared advice across the
+disciplines right so you you're focused
+on security I'm more in the cloud space
+and whatnot but it's good to know that
+yeah I think that we share a lot in
+terms of like
+what it takes to land that first that
+first roll which I think is cool I I
+wanted to ask you before we move on from
+certifications how do you feel about
+Cloud security certifications like
+because Azure has security specialty the
+C the SC certifications AWS has them I
+don't know if gcp I'm sure gcp has them
+but how do you feel about them when do
+you think they're useful
+or if do you think they're useful in
+general
+so I don't have any of those clouds
+security certifications
+um and I do I hope to a plan to do
+um one I'm kind of just like in a weird
+space where I do everything and like
+it's kind of hard for me to like
+specialize on one specific one right now
+so I don't want to commit to one yeah um
+quite yet
+but I think that I think they're good to
+understand like what the cloud provider
+expects or
+um
+what the cloud providers uh based on
+expectation of security is
+um and also like just things you don't
+know right so like you know if I were to
+study for a class security certification
+now I would definitely learn things a
+lot of things I didn't know about like
+Security in the cloud environments right
+a lot of things that I know about
+security Now is just like really like
+patched knowledge you know across like
+articles or books or like YouTube videos
+or courses I've taken over time or just
+like general knowledge um but like it
+would give you like a Consolidated like
+a Consolidated
+um
+framework for learning these different
+things right but it might not go in in
+depth into other things that might be
+Cloud security related for these
+different certifications I do think
+they're valuable to learn
+um you know and get like just get an
+understanding of like what should
+security look like in this environment
+um you know
+um but I I really can't speak to them
+much I I wish
+um and I hope that in the future that
+they are a lot more practical yeah um I
+would matter of fact the entire Suite of
+cloud certifications because I think
+that's a very huge value proposition for
+having practical Cloud certifications
+because
+the skills to work in Cloud are
+practical
+um um and I think like the one I
+recently did for like the Azure one like
+it's practical you're exploiting
+vulnerabilities in Azure environments
+and stuff like that so
+um I that's kind of my thought on them I
+really can't say much because I haven't
+done any of them yeah um if I've done
+one or you know a couple of them I would
+be able to say a lot more about them but
+I do think you know it also depends on
+like the individual right so like you
+know if you're working in the AWS
+Centric environment or like a gcp or
+Azure septic environment you know it
+might be valuable to like you know you
+know take to study for a certification
+take it if you want to to kind of
+understand like you know what should I
+be what should I know in terms of
+security
+um for for my environment at least from
+the perspective of the cloud provider
+um so that that's kind of my opinion
+about them I do think though at the
+entry level I don't think like if you
+want to do Cloud security you should be
+going for any of those certifications
+quite yet yeah you should probably focus
+on like the architectural and like
+administrative ones first
+um and then once you understand those
+components then go for the security ones
+eventually
+um but there's also like a a good amount
+of like class security Labs out there as
+well that
+um you would uh that would help you
+understand certain things so my opinion
+is like kind of all the way to the place
+about it no I feel you so
+I get what you're saying where like the
+two certifications that you mentioned
+for anyone trying to get their their
+foot in the door for an insecurity makes
+more sense and then once you kind of
+find yourself working in a specific
+environment then probably go and
+specialize but I think you know with
+security it definitely is beneficial
+having like an overview of how Cloud
+works so doing like an associate level
+AWS Azure or gcp certification I think
+would be a nice bonus there in the same
+way I say this other the way or other
+way around like if you're in a cloud
+space and this is what just which is why
+I asked you to write phase five of like
+learn a cloud like Cloud security
+fundamentals like having an idea of how
+like security works in the cloud is
+always going to be even beneficial no
+matter like what like if you're Cloud
+developer Cloud admin Cloud support
+engineer whatever it is that you're
+trying to like work it's like
+yeah it's all still it's all Cloud
+because like you're either if you're
+administrating it you're securing it
+whatever you're still in the cloud so
+having an idea of it but the
+specialization
+comes like later like get your foot in
+the door I would say for sure but like I
+like I like that advice
+um I wanna so
+let's take a pause here because someone
+made
+someone made a comment that you were
+getting job offers before graduating but
+no that's I mean that is the case but
+it's also like you work
+as you're in the security space you work
+in this security space before graduating
+like when you graduate do you know yet
+so that's kind of like a sad story but
+um I I I am hoping and praying to walk
+across the stage next month
+um I had a little bit of a setback yeah
+last night after one of my classes
+um which one can you tell me it's it's a
+web development class all right all
+right yeah
+um but I I'm still like um I'm still
+trusting that I I could still do it yeah
+um so I'm working towards it
+um so hopefully uh next month how are
+you balancing man like school YouTube
+um and like let's just say content
+because it's not just YouTube work and
+then you're also like a freaking machine
+in the gym like and you know and you
+have a social life like I know you
+you're trying to underplay it but you do
+have a social like like I see you you
+were you were traveling a bit over the
+summer you know over right that was that
+was work though that was like all of it
+was I love it was worth it but it still
+counts
+it still counts though so like how how
+are you balancing that and um because
+then I want to talk to you a little bit
+about like like social media and like
+monk mode but I want to first ask you
+about these work-life balance because a
+lot of times people find themselves
+you know trying to get into Tech
+whatever space it is and they have
+full-time jobs they have families and
+whatnot so like do you have any tips on
+balancing that stuff in generalum soI would say like I think we kind of also
+covered this in like the last time we
+spoke yeah um I'm gonna have a little I
+might have a little bit more to say um
+now but I would say like it starts it
+starts with like like prioritization
+um like first of all like what what is
+like important for you to you at this
+point in time right for me like the
+important things to me right now are
+School
+work
+my tutoring job I forgot you do that too
+oh my goshthat's ridiculous
+all right but you know just like first
+of all certain priorities right so
+school work tutoring job gym and uh so
+yeah school work the tutoring job
+the school work and a tutoring job are
+my main priorities right so work that's
+my career that gives me experience and
+pays the bills in school I just it's out
+of necessity
+um and my tutoring job also like it's
+just my passion right yeah those are my
+three my top three priorities right so
+those ones like take precedence over
+everything right so like every day
+um those are top of mind then next is
+two things working out at the gym right
+working out and sleep right
+um oh my god let's go let's go all right
+yeah so working out keeps me sane um and
+just like you're just like keeping me
+healthy like you know I spend a lot of
+time sitting down for my computer like
+yeah it definitely need to like you know
+get my back straight and all that so
+like just making sure like you know I'm
+doing that and also like it just keeps
+me saying like just keeps me like
+um like just keep pushing like you know
+just having that mindset I just like
+freaking blasting like rap music in the
+gym at like 11 p.m in the night like
+just really like I need your playlist
+man do you use SpotifyI mean like apple music like is not
+perfect
+um the only thing not perfect about it
+is like this the shuffle but it just it
+just does it for me um so all right all
+right it's right because I also use
+apple music but I only use it because my
+brother sends me tracks to like shares
+stuff there but I use Spotify because
+like the random playlist on Spotify I
+love them yes but anyway I agree so
+you're talking about priorities but also
+you have this you're all right for just
+context for people that joins after day
+is 20 years old he works as a what is a
+detection engineer detection engineer at
+datadog currently a student a teacher a
+YouTuber
+a family person or a family member we
+can say
+um I probably missed something too like
+he's super fit dude you're like I I keep
+up with your products with Jim too
+stupid fit dude and you you've done all
+of this and now obviously now you're
+hanging out here with me by the age of
+20 in mindset and you're talking about
+priorities and whatnot but how does one
+how do you get there that's that's what
+like because like I feel like we have
+very similar mindsets but I'm 28 right
+I'm like you know getting closer to 30.
+at 20 dude at 20 I was like I was a
+complete idiot like there's no way I
+could have ever thought the way like you
+can't catch me at 20 being like oh you
+know what sleep sleep's important
+so how does like like tell me like where
+where did this this come from or were
+you always like this or like did
+something happen you were like you know
+what I gotta change my life or something
+like that
+I mean I guess like so I
+um like I'd say like
+[Music]
+um
+from from childhood I've I've kind of
+always been like
+serious about life right like I've
+always been the guy that's like you know
+everyone's like oh you know
+um you know let's do this let's do that
+I'm like oh like you know let's not do
+that like you know like touching always
+could be this could have some
+consequences I've always been that kid
+that's just like just a serious kid
+right I'm always like that person like
+I'm the one who like
+I don't want to say like I don't like as
+a kid I'll be the person that like you
+know everybody wants to go like do bad
+stuff and I'm like oh you guys don't do
+that like that right so like I'm just
+gonna have I'm just kind of always being
+like you know I guess like the good kid
+like in that sense right yeah um but
+like that doesn't another thing is also
+like
+um I guess the family I come from right
+so like
+um you know like my dad like is a very
+like he's a very interesting person
+um like uh you know he he used to read a
+lot I definitely took that from him
+um and like he's also like a obviously a
+serious person it's like and it was also
+someone I used to like aspire to be like
+right I had a lot of traits from him so
+like I I do I do have a lot of traits
+for my dad that I um sometimes I don't
+even realize like um you know but like
+it definitely I guess it was definitely
+something I grew up with and then you
+know
+um in 20 20 2019 no 20 2020
+um was like kind of like the like a
+breaking point for me um 2019 2020
+um so like 2019 uh I had like a car
+crash
+um so like first time I I ever had any
+like severe thing happen to me right um
+this is me like if I ever talked about
+this I guess I guess I guess today's the
+day
+um I wasn't gonna stop you so good so I
+had a car crash um and like it just
+completely changed my life so yeah uh
+what happened was um you know was it my
+fault um you know got here from behind
+from
+um person wasn't paying attention
+um so like what happened was this was
+like freshman year of college like first
+semester
+um like my my left hand like tore open
+right here yeah it's still healing till
+now
+um and like you know my car got totaled
+you know everything was just like
+everything just went downhill right
+um like and so you know I my car got
+totaled
+um so I could I couldn't like you know
+drive to work so I lost my job
+um then I I failed my I failed one of my
+classes in college there's this girl I
+liked I was talking to that time like
+she kind of dumped me I don't know what
+happened yeah like
+umthat wasn't even like it wasn't even a
+heartbreak I would say like because
+we're even dating right so like that was
+like phase one right and then phase two
+was like I just like sunk into
+depression like this is like a period I
+was just like like depression just like
+all the way down into that hole all
+right um and then like that was and that
+was towards the end of 2019 then in 2020
+like
+um I got into another uh uh relationship
+and then like
+um that also went downhill right so like
+this was me trying to like fill the
+whole of depression like by you know
+trying to like get into a relationship
+or like do things that would like all
+right you know you know pluck that hole
+so
+um but like I just and this is also the
+first time this was I know this was the
+period when I feel the a plus for the
+first time oh my God so like not the a
+plus that'll do it
+yeah every possible bad thing that could
+happen like happened between like
+October of 2019 and like
+Feb like February March April of 2020
+um so like this was appeared as like
+yeah like I have to like reset and then
+like once that I recent happened like
+you know like just like
+um like like just you know we're
+calibrating the money and everything
+like then you know things just happens
+to happen like
+um on like continuously right so good
+things started happening like really
+continuously right and that's also when
+like the self-improvement journey began
+like my self-improvement journey like
+began at the same time that my like
+career Journey began so look at that
+it's just been like working at the same
+time so like I'm still on the journey
+like you know like I have a lot of
+learning to do yeah to do but like I've
+picked up a lot you know another thing
+that you know I you know I've been doing
+a lot is just like you know watching
+content from you know YouTube or like um
+for one people that
+um kind of you know have certain
+mindsets that I embody yeah within books
+as well like books have definitely
+helped me like with my knowledge um and
+like the good thing the thing about good
+knowledge and like um you know having
+certain mindset and like
+self-development is like it's like a
+it's a huge world and like the dots just
+connect like all over the place like
+it's like once once you learn something
+new what's like a new video read a new
+book like the the dots just keep
+connecting and like the dots connect
+everywhere we're like to connect in your
+career to connect in like your like your
+physical life going to the gym or to
+connect and you're like your emotional
+life your everything like that so like
+that's kind of how it happened
+um you know like every like I I just I
+that was just kind of like the Turning
+Point
+um and it just like kept me on like you
+know trying to like apply all the things
+I've been learning um both like in my
+career and like in life in general it's
+just like bring everything together
+because like it's a whole it's a
+cohesive life yeah yeah everything about
+everything everything that I do is like
+my identity and like everything that I
+that um that I learned from you know all
+my experiences apply to everything so
+that's kind of how I became um day
+talking about sleep there's this saying
+that I this quote that I like a lot
+that's called how you do anything is how
+you do everything
+um and I I feel like you sort of embody
+that because
+you're you're very detailed and very
+like you should work really hard and I I
+can tell because like I follow like ever
+since I met you well before not meeting
+you in person but new of you I was like
+oh like I know he's putting it putting
+in the work and like you know that's
+where that's why you're at where you're
+at now
+and
+I wanted to talk to you about WGU
+because this is another big part of like
+your student you're like you're doing
+this while working full time
+uh which takes a lot of like
+I was like I remember I was on you I
+think I was on your Discord
+and I was like man I want to go to WGU
+um I want like to to for my contacts I
+have like two semesters in computer
+science so like I you know and whatnot
+and I have like work experience and
+whatnot and like WGU can use that as
+credits like towards like completing
+your your program which I think is
+awesome
+um a lot of like local community college
+would be like no you gotta start from
+zero and that's always been for me like
+I don't want to start from zero yeah but
+I remember putting in your Discord like
+man I wanna I wanna do this but I don't
+have time and you replied with something
+that just kind of stuck with me it's
+like just do it like the time will make
+itselfI was like damn it Dave why are you
+telling me the truth I don't want to
+hear that right now but no I wanna I
+wanna talk to you about WGU because I've
+looked at it a couple of times I looked
+at it before the cloud program had
+like different tracks and then I think
+earlier this year someone told me like
+WGU has different Cloud tracks whatnot
+and I was like all right now this looks
+like especially the Azure one to me
+obviously because that's like my
+ecosystem what not like and now I'm like
+this looks now it looks like oh I really
+need to do this but I want to talk I
+want to like know about like why you
+picked WGU what's your experience been
+do you recommend it for people who are
+looking into like going to college like
+you I know you've done a couple
+different programs and uh you're in like
+you're not in the same one that you
+started in right now so like talk to me
+a little bit about WGU all right so um
+also for context I have changed my major
+in the last three years like five times
+my fifth major which you can do in WGU
+which is great yeah yeah so
+um so starting with like why I chose WGU
+um so I finished my I didn't finish but
+like I was about to finish my community
+college program last year
+um so that was like after two years
+right
+um and this is after trading my major
+like two or three times because what
+happened was I you know got my
+internship right after like like right
+before the freshman year and so like I
+started working
+um and I was like okay like these
+classes are no longer making any sense
+like they don't I not I'm not trying to
+sound like proud web I'm above this like
+I already have the experience like um it
+doesn't it wasn't making any sense to
+like go credit go get credit for that
+anymore yeah like the credit I I need is
+like in the experience I'm really
+building so
+um I was like okay I'm gonna just shift
+switch to from cyber security to general
+education like just a general Bachelors
+of
+um arts or science right no major
+specifically
+um and then
+um you know I finished it I finished it
+but I had like two classes last I was
+like I told my mom I was like I don't I
+don't I don't care about the associates
+degree all I care about is bachelor's
+degree which is what you care about so I
+don't need to finish these classes let
+me just transfer these classes into WGU
+because
+WGU
+does not require me to come with classes
+uh WWE accept all my most of my
+certifications right so like
+um all the a plus never plots all of
+those certifications they transferred
+into the degree program also my credits
+from the Community College transfer as
+well and it gives me the flexibility to
+like continue my career as I I had been
+on that trajectory right because I was
+already working full-time at this point
+like I was like there's no way I can do
+a a regular four-year program like I'm
+not going to be in campus like trying to
+like work at the same time like yeah
+yeah like so
+um I so I just went I decided to go to
+WGU so like the flexibility of like
+doing that and also you also don't have
+to like like if you know if you
+understand the concepts in the class you
+don't have to like you know wait for
+like you know till the end of the
+semester you can immediately test out of
+the class right like literally like I I
+I love that about the school is so
+freaking so freaking out absolutely
+let's give a little context WGU first
+for because we just keep saying it and
+like we haven't given context so WGU is
+Western Governors University it's an
+accredited University here in the US and
+it's comp Competency Based so you take
+you pick up classes but if you feel like
+you already know you can test out of
+them like almost right away right yes
+you can you take the exam and if you
+pass whatever it is like the requirement
+you think that class is essentially
+checked off and it's it's like very like
+um sort of like popular with I think a
+lot of like I.T folks but people like
+who are already in careers and whatnot
+because they've learned a lot of skills
+gained certifications and whatnot at
+their roles and they want to be able to
+bring those in and make those count as
+credit and WGU is one of the few schools
+that actually does that they'll take
+your experience they'll take your uh
+certifications and be like all right you
+know what you don't need to do these
+classes these classes are all checked
+off to finish your degree and turn a
+bachelor's in like there's a bunch of
+different programs I know those are
+security there's cloud with different
+tracks there's like um a very like
+General like BS and I.T there's there's
+like I think there's like healthcare
+stuff there's like business stuff
+there's a whole bunch of other things
+like
+um and that's I first came across it
+maybe three four years ago and I was
+like this is interesting but because
+work was just like what I wanted to
+figure out at that time now where I'm
+like my career is pretty much like I'm
+at the company that I want to be at at
+the moment I'm in the role that I want
+to be at now I have a little bit more
+like headspace to kind of like dive into
+education which is why I've been like
+thinking about it and you're like the
+closest person I know who's doing it and
+I just love like like you you post your
+progress often too and I'm like oh man
+this guy's almost gonna graduate which I
+love but I just think like having a
+school like that here is
+it's just it's a different way of
+learning and it's a different way to
+have like a university but I feel like
+it's just more universities need to
+adopt this model because yes like you
+also posted like
+you you dislike having to do these
+classes that are just not relevant and
+so many University programs are like
+packed with so many classes that are not
+relevant so do you wanna do you wanna
+like maybe talk about like
+yeah you see you you mentioned about
+switching your majors and whatnot uh so
+what's like your mindset now you want to
+just want you want to get done with it
+and you're like you're out
+yeah so like right now so like yeah
+that's that's my mindset initially was
+like oh I could just like you know
+slowly just like chop at this right you
+know um alongside work um but now
+it it was getting to the point where
+like I so I I took so I took a six month
+break when I you know I was interviewing
+earlier in this year so I was
+interviewing with AWS and did a dog
+either this year so like I was like
+there's no way I can combine this with
+school um especially studying for those
+interviews yeah um and then when I
+started I did a dog I was like
+um I need to like get situated in here
+before I get back into school so I took
+a whole six month break and then when I
+got back as I was about to get back I
+was like I cannot continue with the
+cloud program because it would just take
+me too long because I would have to do
+all of those certifications and I know I
+can pick those certifications as I want
+to over my career they're not a pressing
+concern for me right now like I have
+other priorities which points back to my
+initial point of priorities
+um so I was like the easiest program for
+me to finish right now no excessive math
+requirements because I don't really like
+math and no excessive uh certifications
+is the IT program which is what I
+eventually settled on and I'm actually
+almost done I just I literally have just
+two classes left yeah
+um so like that's that's my mindset I
+was like I just want to just like get
+this and have have it you know now that
+I can right because it's like
+um I could just like be like Oh I'm I'm
+like I'm 20 I have my career all set for
+me I don't need a degree but of course
+that is true but it's like at the same
+time it's like I don't want to like then
+come back you know no offense to you
+like and be like 28 and be like oh maybe
+I want to you know go back and just like
+you know get this degree done yeah right
+now I still have
+yeah I mean like right now I still have
+the energy and like you know I still
+have the willpower to want to pursue it
+yeah
+um now so like might as well just like
+you know you know just Thug it out and
+just like get it done
+um that I can so that's kind of like my
+mindset around there right now because
+I'm I'll have it and I'll have it
+forever so yeah I feel yeah I think
+that is
+I don't think I regret not going
+finishing at the time that I could
+finish because I dropped out for like a
+bunch of other reasons but it is
+something that is always in the back of
+my mind definitely
+uh it is always like ah should I do it
+should I not and have I had it done and
+out of the way it would just not not
+bother me and I can't like you said I
+can feel like oh I'm set I got my career
+all set whatever like I don't have to
+care about it but
+I just don't think that way I think I'm
+always like what can I do better to like
+like to like upscale and whatnot
+um and also like parents
+my parent my mom is still like yeah I
+know you're gonna go back one day I
+could be like 60 and my mom would be
+like I know you're gonna do this and
+you're gonna graduate you're gonna bring
+me that diploma so it's another like
+pressure that I have too for that if
+that is actually something that matters
+or I don't know what but I just like to
+be able to see them have like that sense
+of Pride because it's something that you
+you will accomplish and now I might
+accomplish I think also plays a big
+impact
+um yeah but yeah no I I was like I'm
+always just in awe like how you do it
+how like how you handle it all for and
+someone asked here can
+WGU be done remotely like yeah it's all
+it's all online but it's only in the US
+right
+yes um I uh as far as I know they don't
+um do it International
+yes I think
+there was some talks about them
+extending their program at some point to
+Canada but none of that is official
+um but yeah it's all
+it's all online which is fantastic
+um absolutely yeah man yeah so we're at
+about an hour I want to dive into like
+people's questions uh because we talked
+a lot about you and and and whatnot and
+when you're in New York we'll have to do
+another catch-up again uh for sure and
+whatnot but like let's I'm gonna take
+some time to to go through these
+questions and just see but someone was
+asking about cyber security boot camps
+and if we make that like a higher level
+up how do you feel about boot camps in
+general
+um
+I think they're well intentioned
+by something I think you sound like
+you're media trained
+uh but I don't think they I don't think
+they always served a value that um you
+know they uh they should
+um there is one though that I can speak
+speak to because I do know someone who I
+respect and who went through the program
+and is doing very well in the career
+um and I you know by proxy would
+recommend it so this is not an
+endorsement it's only a recommendation
+um it's called level effect
+um and like it's um it's actually like
+you know what I like very like practical
+and all that so if you would want to
+consider that I would say go that route
+go like take a look at it but I do think
+that um again it's there's also the
+trade-off right it's like there's a
+trade-off of you know the effort and
+energy and
+looking for resources to learn on your
+own
+um versus having a curated uh curated
+resources from The Bootcamp and access
+to people you know if you have questions
+stuff like that if you're doing like the
+self-study thing like you kind of have
+to look for that on your own yeah yeah
+enjoy communities asking Twitter Reddit
+Discord all of that and not everyone is
+always helpful but like you know if
+you're paying for that service or the
+boot camp like it's kind of is an
+expectation that you get that help that
+you need yeah um as you're learning so
+that's the only one I would recommend
+not endorse um I definitely would check
+it out if you're looking to go that way
+I do think you can still go this journey
+like learning on your own and it's very
+valuable as well yeah I I share a very
+similar opinion on boot camps I I just
+don't endorse or recommend any because I
+think on average the cloud ones are
+anywhere from like 15 to 20 000 you're
+talking about like a couple months to
+like a year and program and like how
+much time you're spending and whatnot
+and I think with that amount of money
+and that amount of time with way less
+money you can teach yourself absolutely
+everything that you need to teach
+yourself you get your account in Azure
+or in Google or gcp or AWS and whatnot
+and with significantly less amount of
+money but also what you're learning is
+you're learning how to learn which in 20
+years or like let's not say 20 years
+let's say like in five years when you
+need to learn something else for your
+job are you going to go to a boot camp
+again no you need to know how to teach
+yourself these things you need to know
+how to find answers you need to know how
+to ask questions and the earlier you do
+that in your career the better it is for
+you don't get me wrong some people do
+need like guided learning and whatnot
+but I just think
+you I I really do feel like people
+should exhaust absolutely every single
+self-taught method whether that be a
+course like a video course books
+documentation YouTube whatever it is
+first and like really try to get and
+understand how people how you learn
+first and then if none of that works for
+whatever reason then like okay look into
+like guided stuff like boot camps and
+one but like
+I don't think it should be People's
+First
+decision and I also feel like boot camps
+take advantage of like oh go to our boot
+camp and we'll get you a job like job
+guarantee and it's like and there's been
+so much news out there about like how
+these promises are frauds they're fake
+so and I don't like seeing people really
+take advantage of either
+um so we share a similar a similar
+opinion there um
+someone asks us about any cyber security
+roles that you're doing programming as
+well
+cyber security was that you're doing
+programming yeah
+like programming a lot day to day
+yeah so
+um there are definitely roles like that
+um you knowso
+um a lot of roles like
+um especially like higher level ones
+um in like security engineering like
+require a little like automation
+scripting
+um so you're not necessarily like
+building a loud software yeah like a
+software engineer you're more so like
+just like automating tasks um script and
+stuff like that or maybe even maybe like
+finding bugs in code
+um so like you know might have to do
+like a lot of data like python or go
+um even
+um some rules that are not necessarily
+like that way maybe like you might have
+to write scripts to like you know for
+like validation or like for like
+um GitHub hook hooks or like commit
+checks like all those things like being
+able to like write you know scripts for
+that um definitely is valuable
+um and yeah when you when you start
+getting into like security engineering
+like that program is like really
+um beneficial which is kind of why I'm
+dedicating like the entire like first
+six months to make sure that
+um for learning python um so like python
+python and go are you know typically
+like de facto these days yeah
+um for like security
+et cetera going to like more like lower
+level stuff or like malware analysis or
+like export development that's when
+you're doing like C plus plus C shakes
+of those things so um yeah that's kind
+of yeah but it's definitely like if you
+want to like if you wanna if you wanna
+better your chances of being as a cyber
+security candidate like definitely like
+you know have like a at least like a
+scripted language like python under your
+belt like it definitely would be very
+helpful and gives you more opportunities
+for a career advancement
+all right dope so people automation
+python go cool yes uh let me see yeah
+people were like talking throughout this
+whole thing which is great uh let's seewhat's harder to get a job in cyber
+security or cloud
+huh
+I'll say cyber security yeah I would say
+cyber security as well
+um entry leveluh yeah yeah I would probably say cyber
+security just because there'sjust because the certifications alone
+are tougherI also think like expectations are
+higher
+for the can like candidates coming into
+brawls for entry level roasting cyber
+security yeah
+I haven't looked we should do some some
+kind of collab video on comparing
+i j I do agree that it's more difficult
+I just think because
+it's not like I don't I still feel like
+security is still like a space that a
+little bit
+gate gate kept like gatekeeping still
+around like everyone who I know in
+security is just like super professional
+super senior and I don't see a lot of
+these entry-level like roles or people
+in these roles that talk about it I feel
+like that is starting to change a little
+bit
+um but I would also I would agree that
+it's probably hard against cyber
+security just because it's like it's
+already like a niche in a way oh yeah
+like Cloud can be like super General and
+then you have Cloud security that's like
+a niche yeah um so I would say like yeah
+it's it's
+it would be more difficult but speaking
+about like requirements or expectations
+like what are like entry-level skill set
+security roles like sock analysts are
+expected to know
+um definitely like a strong
+understanding of networking
+um that's like
+that's
+um you know that's very important
+um specifically it's like speaking for
+stock analysis right so strong
+understanding of networking
+um General understanding of like you
+know
+popular security attacks right
+um also like like if you if if
+um requirements if if you if you want to
+meet the requirements right
+um like definitely have those skills and
+also like you know log analysis right
+um like using like a Sim or like a you
+know a log analysis tool like that
+definitely understanding that is
+important because like some of these
+tools have like their query languages
+like Splunk has like the SPL
+um I know like Sentinel uses kqr right
+so like if you if you kind of have
+understanding of one like it's a lot
+easier to kind of like apply that
+knowledge to like querying other
+um um a Sim tools so like definitely
+like getting your hands dirty with that
+um then understanding of like
+active directory like a lot of
+environments are like very active
+they're actually like focused
+um so definitely understand like how
+active directory works like your Windows
+Event codes like that's definitely a
+good one to like kind of know some of
+them I mean of course you'd have to
+memorize them but like it's going to
+know you know some of them um and also
+like maybe a little bit of cloud some
+environment most a lot of environments
+now are like you know hybrid or like
+fully Cloud environment so like just
+kind of understand like you know these
+different things in cloud like like
+basic uh Cloud
+um uh security issues or concepts um and
+this is me this is me as a fair person
+that I think are like these are the
+requirements I think should be for uh
+yeah
+a lot of times they're not necessarily
+this way
+um they're definitely having like you
+know maybe like two or three
+certifications under your belt
+um you know a couple projects um but the
+biggest thing the biggest thing the
+biggest thing I can I can put you
+through is like networking like get your
+name out there or like just get your
+name out there on Twitter LinkedIn do
+projects
+um yeah like projects are like one of
+the biggest ways do blogs oh I wanted to
+speak speak about projects your home lab
+time to talk a little bit about it
+and because I made a big impact on on
+your career right yeah uh absolutely
+absolutely
+um yeah till this day like I like like
+literally on Twitter like
+um somebody like referenced it
+um
+um on like a like a Blog about like Trey
+hunting and stuff like that and I was
+like wow like it's still relevant to
+this day you know in such a context like
+that so and it's still it's still it's
+still like this is one of my biggest
+flakes let's do number one on Google
+search for cyber security home lab like
+till this day for over a year everyone
+go Google cyber security home lab and
+then you're gonna know what we're
+talking about yeah like it's still
+number one I don't even support you
+anymore because like a lot of the
+content there's uh
+um outdated but but
+um there might be a update coming uh
+next year I'll have a little
+announcements coming next year so like
+definitely keep an eye out um like this
+it's gonna be it's gonna be next level
+but um
+um fingers crossed on that you know
+gonna do like a paid version or
+something
+um no this one is going to be free but
+there are certain things you're gonna
+have to pay for interesting interesting
+all right all right I see
+can you talk a little bit about like so
+you did you just sit down one day and
+you're like I'm gonna make a home lab
+like how did that happen um no this was
+this was this was months yeah this took
+months so I I actually had an initial
+one that's that failed
+um so um I started a series this was
+like in late 2020
+um and it was blogger YouTuber War on
+YouTube
+um it was it was initially on YouTube
+um and I was following this guide I
+still have the book um but it didn't go
+it wasn't like a lot of the things I was
+trying to do weren't working well and it
+was because I was like kind of following
+the book to the T
+um so I was like no this is like it this
+the the goal of this was to help me
+build a home lab but like
+I wanted something different
+um maybe a little something a little bit
+more original so like okay I'm gonna go
+go out there and learn about all these
+different pieces because like it's
+there's different pieces of that lab
+right if you look at the architecture
+which is like on the first page like
+just different things are interconnected
+like it's they're very intricate things
+that you need to know to build that to
+and also configure the networking for
+that lab which is also why I I'm picking
+networking so
+um you know um it took me like three or
+four months because I had to do it a
+bunch of times I had to do it first like
+bring all the pieces together get it to
+work and I have to do it again for the
+blog so like to actually you know get
+out the pro step by step for the blog
+and then the third time for the video
+series so like yeah you knew that in and
+out no like yeah 100 like and that's
+part of why I I also was doing support
+for it so like if you do if on the home
+lab there was like a link to my Discord
+if you had any issues with the lab I
+would personally support you with like
+you know fixing issues troubleshooting I
+did that for about a year yeah I just
+became unsustainable yeah um for me
+um and also like a little stuff got
+outdated but I learned a lot from that
+like it like it taught me a lot about
+like different things like in different
+like the configuration of those
+different things
+um setting it up and also like using it
+on my own like one thing people wanted
+me to do was show them how to use the
+lab I was like what I already did in
+this lab is like enough like if I were
+to start a whole series of like how to
+do this and do that like you know that
+that'll probably all be uh sustainable
+um but like it definitely taught me a
+lot it helped me a lot with my
+interviews
+um and also like kind of is I guess
+plays a weird story into like how I've
+actually got my data Dog Job indirectly
+um like
+um like it definitely like put a huge
+role like entirely So like
+um I definitely owe a lot of my
+um you know my clout and My Success
+um to that to that project so I think
+the concept of like building a like a
+core project where you kind of just
+apply everything that you're learning
+but also like as you learn something
+else you can apply to it as well like
+for Azure there's
+a project called the Azure pet store
+which is like a colleague of mine he was
+studying for the az204 certification and
+he had no idea about his his past
+experience was in a different Cloud so
+he came and joined Microsoft and then he
+was studying for that certification he's
+like I need to like put this into like
+something practical so he built this the
+set of 19 Labs called the Azure pet
+store and like
+and whenever he learned something new he
+just finds a new feature to add to it so
+there's like there's kubernetes there's
+containers there's serverless there's uh
+no code low code there's Azure devops
+there's GitHub there's Kiva there's uh
+active directory there's a whole bunch
+of things in that and he kind of just
+keeps adding to it and updating it as he
+wants to so I'm working on something
+like that for myself as well but mainly
+just to learn but I think you know now
+having all the tools that you can do
+these stuff like on your own machine you
+have your own account and like create
+these things or like in the cloud and
+whatnot it's like so doable for people
+that go out and just create these things
+and like just hack on it every single
+day and like if you get failures and
+whatnot like that's fine because it's
+like not production level like this
+isn't like you're not like running like
+Instagram servers or anything like that
+and you learned a lot from like
+troubleshooting like the skills you
+learn from like troubleshooters are so
+valuable like even like when you get
+into the like actual job like you're
+gonna run into like a bunch of Errors
+like you're gonna run into like a bunch
+of issues like the things you're not
+familiar with so the skill you learn
+from like you know researching how to
+like you know solve issues like you know
+going to a stack Overflow and yeah you
+know looking at error codes and stuff
+like that like those things are very
+valuable so like you know you'll
+definitely learn a lot from that I do
+want to do something like that again
+next year
+um but I'm I'm gonna so my plan is to
+revamp this one to a more updated
+version like really spiff it up
+um make it more updated updated I'm
+gonna do a bunch of other ones
+um for cloud
+um but these are going to be like a
+little bit more advanced but
+um more on that in the future all right
+everyone needs to like I put your links
+in the chat
+um for everyone to like keep updated
+with like
+like your your social medias I wanna but
+like what's so what's the focus for the
+rest of you I just finished school and
+like keep doing YouTube you took a break
+from YouTube though like are you back
+I'm sort of back on um I took like a
+two-month break but I'm sort of back on
+right now
+um I might have to like take a a slide
+break again just after like just you
+know uh find out this rest of school
+stuff but I'm kind of back on that I'm
+probably gonna like maybe just keep up
+the
+short film content I recycle the ones
+from Instagram to YouTube oh okay and
+um maybe do like like I like there's
+there's there's some videos of viewers
+that I like like you just do like these
+quick two or three minute videos with
+like very short and succinct content
+answering like a very specific question
+and like I probably would do like a
+couple of doubts because like there are
+some things I don't necessarily require
+like 10 minute 12 minute videos like you
+could just do like a One-Shot video
+covering something so I might do like um
+some of those for some things I've had
+I've had like lined up yeah um at the
+same time though
+um I do have this crazy thing in my head
+whereby I know that if I'm consistent
+enough
+and I keep the quality I could get a 20K
+subscribers at the end of the year oh
+heck yeah yeah easy so I'm thinking of
+like keeping the consistency so like
+it's kind of like it's kind of somewhere
+in the middle but we'll see no I feel
+you
+all right man well we've been doing this
+hour 20 we answered I feel like well we
+didn't answer that much but I feel like
+the conversation has a lot that people
+can go back to I'll make sure to have
+uh I have an editor now he's gonna go
+back and add all these time stamps yeah
+so I don't have to worry about that but
+I think all the questions that they
+answered will be in time sense so you
+can watch your recording uh man I I
+appreciate you it's always such a good
+good time to sit down and talk to you
+and like always keep up to you because
+you're like one of the realest person
+people there like you don't you're not
+out here like selling people dreams
+you're not out here like you know lying
+or whatnot you're like being honest like
+your last video about like
+yo this stuff takes like it like sucks
+it like sucks like there's a lot of work
+that you got to put in sucks and you
+don't just show up like and then you
+make it you after you make it you gotta
+show up you run harder like that's just
+like that's just the reality here's the
+last question someone asked I don't know
+if you've done a video on this are you
+comfortable answering this question
+how much your salary is at the moment uh
+I'm not ready for that conversation yet
+you want to give a range a range arrange
+yeah
+um arrange no I'm not no six figures six
+figures is good enough okay six figures
+all right people he makes six figures 20
+years old making six figures
+that's dude you're living a good life
+man
+you're living a good life for sure I'm
+still not in my final form yet though oh
+yeah I mean but this is where this is
+essentially where you you kind of got
+like your first solid step right that's
+not how you feel and this is your first
+solid step 20 years old can't even drink
+but you're making six figures and you
+and you care about sleep like I think
+you're I think you're ahead of you know
+into good into good space and whatnot
+but um for me like there's plenty of
+videos on like money stuff and I have a
+video coming out on Wednesday about how
+I spend my monthly so I go over like how
+much I save how much I invest how much I
+pay for this how much I pay for that and
+kind of like books that I've used and
+whatnot
+um so that'll be on my channel on
+Wednesday but I've had a I've talked
+about this a lot yeah so people I find
+that I I I'm definitely an advocate for
+salary transparency um I do have those
+conversations with like people in my my
+circles so like of course like you know
+like you know my friends know stuff like
+that
+um but like it's uh I'm not at the point
+where I'm really ready to give out that
+information to the world yeah um but
+eventually maybe like next year like the
+year after that
+um I'll be a lot more transparent about
+that to the world no I feel you I feel
+you I it's
+it definitely opens especially with
+publicly and especially being at a
+company where that has a lot of clout it
+can open you to up to a lot of like
+just other people's opinions that could
+potentially impact like your team
+Rapport that could impact like I don't
+know a bunch of other things and I knew
+before making any of the videos that I
+did where I spoke about salary like I
+knew that was like the potential but
+then at the end of the day like if you
+look at everything that I've put into
+like my career like the amount of money
+the raises the promotions is all
+like
+well well deserved so if anyone ever
+came at me and was like well why does
+she make this much and I didn't I would
+be like well like look at my track
+record right like it's all like
+documented here like are you working 14
+hours a day are you making videos every
+single week for two years are you
+streaming additionally on top of all
+your like your you know day to day like
+you're not so like
+I mean yeah and those things have
+happened which I think is um
+it's you know it just is but like all
+you can do is kind of like set a good
+example but it it's I wouldn't have done
+it like
+a year ago for sure now but like now
+where I'm at like whatever dude yeah
+whatever it is yeah all right man well I
+appreciate you I'm gonna cut it here
+because we're doing this for like a
+while but everyone be sure to check out
+day and next week I got
+blue I think yeah next week is Lou yeah
+we're talking getting into Cloud uh he
+owns open up the cloud and just gives
+him a lot of good uh people getting into
+Cloud kind of advice and whatnot so uh
+be sure to catch up that one and peace
+out Amanda

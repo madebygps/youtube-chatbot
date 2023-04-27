@@ -1,0 +1,241 @@
+what is going on party people today we
+are talking about this thingy here
+but also if you are looking to get
+started with azure learning azure maybe
+you're studying for the az900 which is
+the entry level
+azure certification i have some good
+good goodies i have some goodies for you
+but i'll talk about that at the end of
+this video
+um yeah let's talk about how i got this
+nothing has given me more imposter
+syndrome
+than having this award um i guess i
+should start off by saying that
+the mvp award is something that you have
+to be nominated for
+by someone at microsoft or someone who's
+an mvp already
+you can't like sign up for it or apply
+for it or you know
+i don't know it's not like a form you
+fill out or anything like that
+yeah you have to be nominated um so i
+was nominated back
+for in the for the first time back in
+i want to say like march perhaps
+and i had just started my youtube
+channel i had a couple of videos
+um the entire time of having my youtube
+channel i've been consistent with like
+at least a video or two each week
+so i had a couple of videos back then
+but i had just got gotten started
+you know each video had a blog post back
+then too so i had some content out there
+but nothing significant so i was
+nominated by someone at microsoft
+and i got rejected obviously because i
+didn't have enough
+stuff um they were like it's great but
+it's not enough for us
+to judge the quality i did feel a little
+bummed
+but it just like motivated me it was
+like now i got to keep grinding so
+um the mvp thing kind of just was like
+in the back of my mind but it wasn't
+really like
+a goal anymore because i kind of
+i did get my feelings hurt i'm not gonna
+lie but uh anyway
+yeah i kept making like a video two uh
+per week and
+come like june i think june or july
+um someone else from microsoft nominates
+me
+and um you might ask like gwen how do
+you know all these microsoft people
+and the answer is social media i've been
+sharing my stuff
+uh like all the tutorials and videos
+that i've made on reddit and twitter
+linkedin
+instagram literally anywhere that have a
+social media profile
+and you know how social media is people
+you know find it like it retweet it and
+it gets on other people's radar and just
+like that that's really
+yeah that's the only answer i have um so
+yeah anyway i get nominated again
+towards the beginning of the summer and
+it was great
+i really felt like that this time
+i'm like i definitely i'm definitely
+gonna get this but um i don't hear back
+until august 1st
+so i kind of went through the entire
+summer not knowing and
+august first i get the email like hey
+you've been awarded this and i have like
+a reaction video and an unboxing video
+of the award
+on my channel you can go look at those
+if you'd like and yeah and i got it
+and then after a couple of weeks you
+actually get this and then for each year
+you get one of these
+thingies and you also get like that
+plaque thingy up there and that thing
+has my name
+it's pretty cool actually when i got the
+award um
+my parents actually hugged me they told
+me they were proud so that was nice
+but yeah you got a couple of goodies and
+obviously the recognition and
+i'm able to put like hey i'm an mvp in
+my twitter bio and it has helped like
+landing
+um like consulting gigs and it
+definitely helped uh to land
+my role at acg now um yeah i can't lie
+it's nice it's open be up to
+you know the community of mvps and a
+couple of other resources
+and yeah it's been great but there's no
+real secret to actually getting it
+um there's no and i think i think that's
+good like there's no time requirement
+there's no like
+amount of things you have to do or
+videos you have to create or blog posts
+or podcasts or anything like that
+they really just judge you on hey are
+you creating
+consistent quality content for the
+community that's really it
+um so sorry if that wasn't the answer
+you were looking for but that's really
+how it happened for me
+and i guess the best tip i can make i
+guess the best tip i can give you all
+if you're interested in becoming an mvp
+is
+really just create content that's
+uniquely you keep in mind that
+everything that's out there has been
+done already
+my stuff isn't necessarily new but i
+think i do bring um
+i bring myself into it like you seem you
+know
+my face and my personality in my videos
+and i'm very proud of that and i think
+that helps me stick out
+so just make sure you bring you to your
+content right
+that's pretty much it um oh yes in terms
+of the goodies that i was mentioning
+mentioning at the beginning so if you're
+studying for the ac 900 maybe you're new
+to cloud
+um i remember those times they were very
+confusing very stressful
+um very anxious but anyway
+i'm going to be doing a live walkthrough
+of that exam we're going to have some
+sample questions
+and we're going to go over the answers
+we're going to talk a little bit about
+tips
+and just have fun we're going to study
+together that's going to be live on the
+acg
+youtube channel i'm going to leave the
+link in the description that's going to
+be february 2nd
+i don't remember the exact time but
+again like i said the link will be in
+the description you can come hang out in
+the chat
+ask questions uh we'll be there to help
+you out
+so let's study together right also
+i released some more azure fundamental
+videos
+on the acg youtube channel and one is
+about setting up budgets and billing
+alerts i don't know if i've ever told
+this story on the on the channel but
+when i was a junior cloud engineer um at
+that role
+uh we had like we had time to kind of
+just play around and experiment with
+stuff and just learn
+um so i had once been playing around
+with i think it was cosmos db
+and i racked up like a thousand dollars
+over i don't know if it was a month or a
+little bit over a month
+because i had forgotten to remove the
+resource after i was done playing with
+it
+and luckily my boss was you know still
+is a fantastic guy and he was like don't
+worry about it
+um but yeah if i had to end up
+uh budgets and billing alerts that would
+have never happened so now that there's
+this video
+i'm very happy to share this as a
+resource for you all there's also a
+video on securing your account with mfa
+and such
+that's also there i'll link all the
+stuff in the description
+oh and if you are studying for the az900
+the actual az900 certification course is
+free for you to take so it's an entire
+certification course
+for you to indulge in
+for free um as you can see i'm studying
+for my epic one and i'm trying to share
+more like updates on
+like you know when i'm done studying or
+you know what i covered and such
+not necessarily like full videos but
+just like posts like you'll see them in
+the community tab here on my channel
+i'll share a post like hey i just
+finished studying what are you studying
+talk to me
+um as much as i love hearing from you
+all and what you all studying about
+it really helps me keep myself
+accountable um just knowing that
+you know there's people out there who
+kind of look for uh like a gentle
+reminder like hey gwen's studying maybe
+i should study two or something like
+that
+it really helps me because i struggle
+with studying every single day um
+i sit down and i'm like man i really
+don't want to do this i'd rather like
+play like far cry or gta
+but you know it's something we all have
+to get done right so just sharing those
+little updates with y'all really does
+help me so that's been great
+and that is pretty much it um
+yeah a bunch of cool stuff we're doing a
+lot of azure stuff this month with acg
+very excited because you all know i
+freaking love azure um
+and yeah anyway that's it for this video
+if you have any questions hit me up on
+twitter at made by gps
+i will see you in the next videoyou

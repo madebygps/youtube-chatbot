@@ -1,0 +1,102 @@
+today i wanted to talk to you about the
+certification that had the most impact
+on my career
+which might be interesting to know that
+it's not actually a cloud one and it's
+not actually the first one that i took
+see the first certification i took was
+the
+aws certified developer associate and
+this was when i was in my help desk gig
+before moving into my sys admin gig
+i spent six months
+studying for that and i actually
+recently found my notes
+like the pdf that i have on the notes
+that i took for that certification
+and i was sort of surprised to realize
+that it was 61 pages long it's on learn
+to cloud if you go to phase 3 resources
+you can find them there but
+yeah i learned a lot from there but
+it didn't necessarily turn into like the
+most impactful or the one that i learned
+the most from
+because i went from setting that
+certification and moving into a gig that
+used azure
+so it did help my resume it did help me
+sort of do well in my interview and i
+did learn a lot of core concepts
+core like cloud concepts i didn't really
+put into practice any of the aws
+specific things right
+fast forward to
+i think it was the beginning of last
+year where i took my linux essentials
+certification
+and to this day the things that i've
+learned in that cert
+is are things that i use
+i can
+confidently say
+almost on the daily
+and what do i mean by this
+like the
+i've always known that understanding how
+to use commands a command line
+and
+a cli and things like that
+have been very important
+i just never learned it in the order
+that i would recommend beginners learn
+it now like i tell
+i tell everyone to sort of put becoming
+comfortable with a command line at the
+beginning of their journey into cloud
+now
+and that didn't happen for me until like
+the beginning of last year which is like
+a few years into my journey
+now you know
+just today i was working with learning
+bicep which is an infrastructure s code
+tool with azure
+and i realize that i'm doing all these
+things in the terminal i'm comfortable
+using grab i'm
+comfortably doing
+like creating pipelines and redirection
+all these things and that's only because
+i took my linux essentials and i spent a
+month studying
+making like blog posts on every single
+command practicing all these kinds of
+things
+and i learned it really inside out i did
+very very well on that certification
+and it was so rewarding so much fun it
+was just a month dedicated to learning
+like really really learning the command
+line
+different commands and such and to this
+day i use it
+so i highly recommend you study for
+it you don't necessarily have to take it
+um okay you don't necessarily have to
+study for that specific certification
+but i think the commands that you are
+required to know about for that
+certification are absolute essentials
+and that is my quick cloud tip of the
+day
+understand the power of the command line
+and it's going to change
+your your skill set and your technical
+ability
+and for the better for the rest of your
+journey here in cloud
+all right
+maybe i'll do another quick video
+tomorrow i don't know but i will see you
+in the next one

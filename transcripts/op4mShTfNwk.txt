@@ -1,0 +1,891 @@
+i don't know anything about cloud
+security so i had to get a professional
+uh but dave let's kick let's kick it off
+by asking you what do you do now and
+how long have you been doing it i
+currently work as
+a cloud threat detection engineer i did
+a dog
+um i've been there since march 2022 so
+just about
+four months now i think yeah so yeah
+that's it what were you doing before
+that so i was working in security
+operations i was a threat analyst um
+working
+something you something you would uh
+consider similar to a cell catalyst so
+pretty much through like threat analysis
+security operations and all of those
+things
+how long were you doing that for
+i did that for about a year
+and
+about a year and uh
+three four months
+sorry from like an internship got my
+first full-time job as a stock analyst
+and then pivoted to another role where i
+was working as a three analyst one got
+promoted like after four months two
+third analyst two so the whole the whole
+experience was just about a little over
+a year a year
+three four five six months
+so wait was that your first job in tech
+my first job was an internship a
+security internship so i got that like
+right after like freshman year of
+college um so i was doing the security
+operations
+basically efficient analysis uh did a
+little bit of that was my first
+introduction to azure so i did a little
+bit of like azure security endpoint
+security all of those things that was
+kind of what gave me like my
+introduction to security
+freshman in college isn't that like
+cause you're super young
+isn't that like last year i was like
+that was that was 20 so i started
+freshman year 2019 and then
+end of freshman year was 2020.
+how did you land an internship in
+security
+as a freshman see that's a really good
+question because it typically is hard to
+land internships in general and to land
+security internships specifically
+after freshman year um so
+i just saw so i was in like this
+community um and i was seeing a bunch of
+people just like getting internships it
+was like big internships like google
+microsoft i'll speak big companies it's
+like i want to get an internship and
+like i i i really like studied the
+security industry and i realized that
+um it's really hard to get into the
+industry and one of the best ways is to
+leverage internships and i was like if i
+could get an internship my freshman year
+then like i would have like if i could
+get an internship my freshman year and
+just do internships for the rest of the
+four years i would have at least three
+four years of experience by time i'm
+graduating and like i wouldn't have the
+issue of like i don't have experience so
+i can't get a job so i was like i'm
+going to do everything to get even
+started even if it was not a security
+internship if it's like a help desk job
+that i could use to get experience i was
+going to use that to leverage and get
+like a more a better job so i was like
+applying for any job and i was like
+doing training like certification just
+studying doing projects and
+like it took me like over like 150
+applications and like multiple like
+field filled interviews because i sucked
+at interviewing like i didn't know
+anything about interviewing but like
+when you feel a couple of times you
+start realizing like what is necessary
+to like pass those interviews and like
+what employers are really looking for so
+i kind of really studied the game
+understood like what exactly employers
+are looking for
+their couple interviews filled with them
+and then
+when i got the interview opportunity for
+that internship i was like
+i gotta kill this one like i gotta get
+this one this has to be the one uh study
+really hard for it um did it the
+interview
+got the job and use that as leverage to
+get my first full-time job after six
+months
+you turned a six-month internship into a
+full-time job yeah and then you did that
+for
+a little bit over a year and now you're
+at datadog yes
+crazy i hope you know that like the
+other day i found out actually how young
+you are and i'm just like
+how but okay so i get so i get it
+you you were super dedicated your first
+year like i gotta land an internship no
+matter what and no matter where i start
+which i feel like is a mindset that not
+a lot of people have because they want
+to go straight into
+straight into class straight into
+engineering software dev and they want
+to skip everything else because i don't
+know i feel like you know support roles
+get uh maybe like a bad rep or something
+like that but i feel like they close
+themselves off to a lot because if you
+put in a good year at like you know any
+kind of entry-level job that can take
+you
+anywhere
+i would agree i think like especially
+now with
+the um availability of like cloud
+support roles for aws azure or gcp i
+think
+that is a really good entryway into like
+cyber security because like you get to
+like see a lot of things like and like
+work with a lot of like services
+technologies and when you really
+understand those services
+and like those technologies or the cloud
+environment in depth it really makes the
+security aspect a lot easier because
+like you understand the fundamental like
+architecture administration all of that
+stuff and like figuring out like how an
+attacker would exploit something in that
+thing would be easier for you because
+you know how everything works about it
+and then you can okay this is how i can
+secure this or this is how i can detect
+against this particular thing i think
+like right now with the way like you can
+easily just like do a bunch of projects
+future skills and land a cloud support
+role that could be a really good way for
+people to like transition into cloud
+security yeah i feel the same way i feel
+like it's your entry level to to then
+step into what other other discipline
+and i guess that makes sense because i'm
+thinking about me like i'm trying to
+learn more about security and i guess if
+i sort of shaped it around like a niche
+that i'm good at so i use a lot of like
+serverless technologies if i might if my
+next step was like all right how do i
+secure these things that i work with
+every single day i feel like that's
+easier than just going like completely
+oh first step like broad level security
+yeah right like approaching it from
+something that i'm already familiar with
+i like that i'm gonna give that a try
+yeah so you you mentioned certifications
+what was like when you were applying for
+internships what certifications did you
+already have and then which ones do you
+have now and which ones do you think
+actually matter yeah so when i was
+applying for internships so the first
+one i got was the comptia applause right
+pretty generic right um but like for me
+it was like
+i needed to do that certification like i
+just i needed to go through that process
+because i failed my first attempt so i
+needed to go through that process of
+failing it and like getting those
+certifications going going through like
+that great of like really studying and
+trying to pass a certification for
+everything else to like just
+fall in line because that was like what
+like it wasn't even really the
+certification it was just like the
+process of like
+studying and just like really like
+getting down the methodology of like
+learning concepts and like building
+those skills that like you know built
+the foundation for everything else so
+like just that process of like studying
+so i got the a plus around like um june
+or july um
+in 20 2020 and then i got the network
+plus like 30 days after so like it just
+took me 30 days to get another applause
+like non-stop like i was right into it
+and this was like during the pandemic
+right so like i lost my job like
+december of the previous year and i was
+like i was like i was like i was mad
+i was like pretty depressed i was like i
+have to find something and it wasn't
+really about the money right it was more
+about like
+i i have to start working because i i
+just didn't feel comfortable with like
+not working and i was like i'm
+passionate about cyber security i want
+to get the experience i want to get even
+it's like a help desk job i was like the
+a plus is a good way to start like as a
+foundation for everything like it didn't
+matter if i didn't get a cyber security
+job so i was like a plus then i realized
+like
+a lot of everything is like really
+surrounded around networking like
+whether you're like you're doing cloud
+or security like networking is like
+central to all of these things so
+i was like network plus next thing right
+and that covered like the networking
+aspect for me like that's that was like
+the foundation for the rest of my career
+so
+at the time i actually got my internship
+i so i was i had plus the a plus
+i was studying for the network plus when
+i was interviewing
+for the internship
+and i just passed the number plus right
+after i got the offer for the internship
+and then literally my first day of my
+internship like one of my senior
+engineers like gave me a security plus
+textbook it was like hey this is all you
+need to pass the security plus go study
+this and go take a security plus and
+like i took that book write it cover to
+cover and like took the security plus
+like three months after so that was like
+those were my first couple of
+certifications like how they played out
+afterwards um
+i did
+whatever certification i do did i do i
+just started doing a bunch of training
+honestly after that because i was like i
+didn't just want to like just get
+certifications i was getting the skills
+but like um i really wanted to start
+doing like hands-on training so i spent
+a lot of time doing that then i got like
+the azure fundamentals i got the splunk
+core user because i wanted to join a
+company that was business splunk and i
+felt like if i had a splunk
+certification that would help me
+understand splunk better and just be
+more marketable with the skill
+that did the tscy
+zip loss which is a cyber security
+analyst one
+did aws cloud practitioner um
+linux fundamentals i know you did that
+one
+and most recently actually in january i
+did
+the blue team level one which was like a
+24-hour uh security incident response
+certification and
+for me
+thati don't want to say like that was one
+that really mattered because i don't
+want to discount like the
+level of effort and like the impact
+those other certifications had in my
+career
+but that particular certification was
+if i were to do all over again i'll
+probably just do just that one or maybe
+the network plus because that's that's
+important
+but that certification especially for if
+you want to get into like security
+operations
+it's like the best thing i can recommend
+for you because it covers everything and
+it's hands-on um i know i i did i had a
+tweet recently about like hands-on like
+cloud certifications and how they're
+valuable it's kind of it was it covered
+everything that i would want for a
+security operation certification that
+would like be necessary for me to get a
+security analyst job and um that one is
+that's the one all right everyone so
+in terms of certifications that's what
+you would recommend so if someone was
+like trying to get into security you
+would say
+put a lot more effort into like would
+you say blue team level one all right
+and said not that the other ones don't
+matter and i guess it depends on where
+everyone's at cause like if someone is
+completely new to tech i could see how
+the a plus is useful
+but i'm gonna assume that people here
+are interested in security so that's a
+good a good one to start you also
+mentioned like doing labs and projects
+and trainings and things that aren't
+necessarily tied to certifications can
+you is there any like specific projects
+that stand out to you that you think
+people can try and like maybe put on
+their resume is github important when it
+comes to
+building a portfolio or like standing
+out for for jobs and security yeah so
+that's a packed question um but like
+you know there were several things so
+personally for me it was my
+cybersecurity homeland project which to
+this day is number one if you do a
+google search for cybersecurity home lab
+it's number one on google search it's
+been that way for about a year
+so um that was like the biggest project
+that had like the most impact on like my
+entire career and like in a way was part
+of like how i got a data dog now i could
+tell that story later um but that was
+like the biggest project because i spent
+so much time on that project like it
+took me months because i had to do it
+like three times so i had to do it i had
+to figure out
+how i wanted the project to be then i
+had to document it on my blog and i had
+to do a video for it like a video series
+for it so i did it three three times
+but um it had the most impact on like
+like building my knowledge and like
+really like uh in like uh the core
+security concepts and like really
+building my skills um in general um but
+like it wouldn't be the same for
+everyone right if you're doing like
+if you're for example like that my
+experience has been like security
+operations if you're going into like
+pentesting like which is like the
+offensive side where you're like hacking
+stuff like you you might have a
+different project like your project
+might be like building a
+offensive security tool like python and
+that would be like where like your
+github would matter because like that
+would be where you install the code but
+like if you're doing something like that
+project i did it might not be github it
+might be like your blog or like your
+youtube channel or something else so
+like it really depends on like what
+you're interested in in security and if
+it was a cloud security project it would
+be different right like you'd have video
+you might even have like a github repo
+for like some code that you use or like
+you know maybe you use like terraform
+for the environment so like it really
+depends on like you know what project
+you work in but i think
+um especially when you're starting out
+like it's usually that one like project
+or that one thing or just a couple of
+things that you put so much time and
+effort into so i'd say find something
+find a problem that you think is like
+something that
+is going to help you learn multiple
+skills or even like a specific skill and
+go solve that problem
+and for me it was like
+i didn't find i didn't see
+there were so many uh cyber security
+home lab project out there but nothing
+was really consolidated and really like
+something probably my i had i was like
+i'm gonna go build this and i built it
+and like it's helped like tons of people
+like i got people telling like you know
+this project really helped me like when
+i was trying to get a security job stuff
+like that so and it doesn't matter it
+doesn't have to be cybersecurity home
+lab it could be anything right whether
+you're interested in like you know
+security operations system response
+pentestin find a problem solve it and
+document it and share it like let people
+see it like flaunt it everywhere
+i love that i'll add that project to the
+to the description the link there so
+people can check that out i think
+especially well i think in all areas of
+tech but being able to
+communicate i think especially in
+security
+uh is like a massive
+massive ability and skill and i think um
+one thing someone told me who i can't
+remember what area of security they're
+in but they were they were saying
+every time when a massive company has
+some sort of hack there are always like
+analysis what are they called like the
+next day i forget there's a specific
+name about like yeah incident and
+they'll do reports and stuff like right
+so they were telling me like if you
+really wanted to sort of become you kind
+of kind of like reverse engineer it like
+you go grab the report analyze it and
+then sort of explain it in your own ways
+but then you're going to find yourself
+going down like a bunch of rabbit holes
+because in order to like explain things
+in a concise way like those reports are
+you got to really know what you're
+talking about yeah so that might be
+another recommendation for people like
+go check out these reports that come out
+because hacks happen what every day
+yeah
+every second go go you know figure this
+out like for example i tell people
+who want to learn how to build stuff in
+the cloud like go find the architecture
+diagrams and build them out be able to
+speak to them because a lot of the stuff
+is already out there you don't really
+have to like
+invent or come up with some new original
+idea a lot of it is just like kind of
+like repetition and things that are done
+differently maybe it's a different
+service or things like that so there are
+a couple ideas for people who are trying
+to get into get a little bit more
+hands-on with security i want to talk
+about datadog what was so i want to talk
+about how you got there
+and also what the interview process was
+like yeah yeah
+so yeah it's it's quite the story um so
+it started from
+uh last year
+um
+august so this at this time i was
+sharing like all of my projects i was
+working on on twitter so i shared on
+twitter instagram youtube like i was
+everywhere like showing everything i was
+working on um so
+and then you know people follow me and
+all of that like comment my stuff and
+then my manager um he had connected with
+me on twitter and he was like really
+impressed with the project i was working
+on and it's like you know there could
+there could be a potential internship
+opportunity on their team um for that
+summer if um i was interested and then
+um i was like at that point i actually i
+had two offers so i had one offer for my
+last job for the three analyst position
+and i had to offer from intel for
+security engineering position i was
+actually like trying to like figure out
+which one i wanted to
+take a big name right there yeah so um
+but i was like you know like i i just i
+i eventually accepted the offer for my
+um last position and then um but i was
+like uh let's definitely like you know
+keep in touch you know just for just for
+future purposes so i connected with him
+on linkedin and like you know we didn't
+have any conversations for like like
+like about six months and i saw him so i
+then like six months later i was at my
+job right you know i had you know gonna
+promote it to like three hours two and i
+was like i really want to get into cloud
+security and at this time i did a video
+on my channel to share my goals and my
+plans like how i was going to transition
+to cloud security by the end of 2022
+like everything i was going to do
+and then i started talking about cloud
+security just doing projects and like
+stuff like that um and then he had
+posted a position about a security
+engineering position like for like one
+of their teams um um on linkedin and um
+i was like i reached out to him i was
+like hey like um i'd like to have a
+conversation about this position it's
+like yeah sure we had we had a zoom call
+and we talked but i wasn't really a good
+fit for that position so i actually just
+thought it was like you know i don't
+think i have the skills for this
+position but it was like there's
+actually another position coming up
+that i think he thought i would be a
+better fit for so like just sent me a
+resume so i sent my resume and like um
+after for a while there's like there was
+like some hiring like um things going on
+so like um i didn't really the the
+higher there was like a hiring phrase or
+something like that uh don't quote me on
+that because i'm not exactly sure what
+happened yeah but you know um so my my
+resume was just kind of hanging there
+for a while uh but then like after a
+while he like just reached out okay like
+you're gonna get like a recruiter reach
+out to you so it's in january so the
+whole process kicked up in january and
+so i got the recruiter call had a
+conversation um then they set me up for
+like a loop interview so like um like it
+was like four interviews back to back
+um and
+for me like it was
+the only interview that i've done
+actually not the only one but one of the
+only interviews i've done that actually
+made sense in the sense that you know
+like not people just asking you
+questions about oh what is like um you
+know cia or stuff like that like be
+asking you questions that actually
+relates to
+what you're going to be doing in your
+job and there was also like a threat
+modeling one which is really really cool
+like
+like just
+walking through a an attack scenario
+against the cloud environment and like
+how you would like you know defend
+against that or how you like compromise
+the cloud environment so like it just
+made sense because that's like what i do
+on a day-to-day basis so i've had an
+interview with my director so really
+great interview process um
+really uh challenging the process though
+but um the whole process went by and
+like after like a week got the offer and
+then started in in march um that's kind
+of the whole story yeah now it's been
+four months so your goal was to get to
+get into cloud security by the end of
+this year and you like smash it like the
+first month like literally yeah which is
+that's that's freaking awesome um
+oh i know i know
+are you still at wgu are you still doing
+wgujust paid my tuition
+after like six months of like not being
+in school
+i took a break yeah which is great about
+so i get a lot of questions about the
+wgu cloud because they have that with
+tracks for aws and azure and i get a lot
+of questions about the azure curriculum
+i i'm a fan of wgu i was considering
+going back if i had more time i don't
+know how you do dude how do you work
+full time we'll talk about that in a
+little bit but
+but and i know now you're mentioning
+that you went on a break but i'm curious
+about
+like your experience with wgu and what's
+your opinion on the but you've changed
+programs right like yeah you started did
+you start in security
+i started in network operational
+security which is different from the
+cyber security path
+and then i switched to the cloud program
+in december i was supposed to start that
+in january when i took my break but it
+didn't eventually happen but before
+starting back up this month i switched
+to the i.t program because i'm just
+trying to finish it as fast as possible
+interesting so like what's your opinion
+on on
+getting you just wanted to get the
+degree because you started already or
+like what's what's the mindset around
+that so like i was i was going to do the
+cloud program because i was like you
+know i'm trying to get into cloud i was
+trying to get into cloud at that time i
+was like the certification is the
+program is perfect for like building
+those skills and like doing those
+projects and certifications but now it's
+like i'm in cloud i just want to get the
+degree and like focus on my job
+interesting so
+but you don't have plans to like drop
+just drop it how many of how much time
+do you have left so
+it depends yeah because i know with wgu
+it's like as much as you can take on
+i've seen people fly through some of
+these programs but i plan to finish it
+in the next six months
+everything every day how many what is it
+credits like do you have no what is it
+like uh
+quitting uh units yeah how many credit
+unions you have left i think about 24
+but like i'm like 63 done okay so all
+right that's not correct because i see
+these people shove like the whole thing
+in six months and i was like oh my
+goodness i mean i guess it's it's doable
+if like you have the motivation and
+stuff like that but that leads me to to
+my last question is
+how do you because then you you're doing
+videos like every week now i think like
+you're and you have two channels you got
+your discord because you ever saw that
+your like academy dedicated channel
+where you do like just strictly
+tutorials which which i'm also going to
+link because i think those labs are
+fantastic
+so you're balancing
+full-time work
+full like i consider it full-time
+youtube because just because it's one
+video it doesn't mean like you only do
+it like
+once a day like working on videos is
+like an everyday thing
+um
+and then everything else outside of work
+because i know you're like big into
+fitness and that you're you're obviously
+you're traveling here and stuff like
+that so
+let's like give everyone your best uh i
+guess tips for
+managing time and how do you become so
+disciplined
+yeah i just i mean for me just um
+it's just about like
+you know
+i don't want to sound like cliche i
+sound like like a motivational speaker
+like all the cliche things but i mean
+just about like just um
+like prioritization um so like at every
+point in like
+every stage in life i have like specific
+priorities right like for the last six
+months school was not my priority so i
+was for focusing like um my work my job
+you know and like just you know
+understanding like certain concepts in
+relation to like cloud security and like
+how that applies to like my job and
+everything like that um so like that was
+not a priority at that time um so for me
+it's just like
+priorities and like planning your life
+and this might be where you say in like
+sprints
+so it's like it's something i started
+doing recently so basically
+like every three months or every four
+months is a sprint where you like focus
+on like specific things that you really
+want to achieve and like
+like you know smart goals right so goals
+that are like clearly defined and
+achievable
+um and then they have like a
+a pretty reasonable timeline so like
+first let's say first four months i want
+to get my solutions architect
+certification right that's a reasonable
+goal to have you know for the first four
+months and alongside that i'm going to
+be focusing on like
+one class per month in wg or one class
+every two months right um just have
+those clearly defined goals and just
+like stick to them and then like be also
+like be flexible with your goals um like
+if there's something that you can't
+achieve like
+feel free to like spread out your goals
+longer um but like also just really try
+to be dedicated and cut out
+as many distractions as possible i had a
+period in my life where i didn't have
+social media for six months and like it
+was like it helped me get so much done
+like i was like i i was able to i was
+able to get like my wgu program like at
+least like almost half of it done in
+that period of time um started getting
+into fitness at that time so if if it
+means like cutting cutting out certain
+things for a specific period of time so
+you have more time to do what really
+matters like in the other it would like
+those things like you can always get
+those things back like i could always
+get my social media back like eventually
+like you know for me like of course
+youtube is like a big priority but like
+if i have to like reduce like my my
+content like to like maybe once every
+two weeks or once every three weeks like
+i'll do that so i can focus in school so
+like just prioritizing what matters and
+like you know cut out distractions um
+and just like just try to be disciplined
+like it's really hard to like it's
+really hard to like be disciplined
+especially when you have so many things
+you're doing um but i think if you like
+just have that passion that drive um and
+like you're a hustler like you know like
+you can just like like thug it out and
+just like get things done um and another
+thing to just like
+um i don't know if it's like
+scientifically proven but like
+if you like like motivation to do stuff
+just like start going to the gym like it
+just really pushes you to like
+especially when you like you know make
+prs or like just like do harsh stuff
+like it really just like pushes you
+mentally to just be able to like have
+like grit to like go through like really
+like you know difficult periods where
+you have so much going on but you know
+like at the end of it like you just come
+out a lot more fulfilled so all of those
+things combined is what really helps me
+um and like and also
+as much as possible try to sleep um
+it might be like you might feel like oh
+like because i'm doing all these things
+like i'm gonna only sleep like two hours
+a day like sleep when you're dead yeah
+like it's not gonna work like i i found
+out the hard way getting like good seven
+six seven hours of sleep can really help
+you be productive but the key to being
+productive is like actually doing work
+when you're supposed to work so like if
+you're working like don't like
+don't be on your phone yeah like don't
+like contact switch like spend that one
+hour
+focus in the like that's that task get
+it done and move on to the next thing
+that way like you can be really
+productive so
+cut out distractions probably prioritize
+um you know start going to the gym and
+sleep well and eat well
+there you go all these things are like
+non-tech related and and i think we tend
+to focus so much on like bullet points
+on a resume or like i need to learn
+kubernetes and then tomorrow i need to
+learn this and this and that and we
+forget that our ability to do that is
+because we're humans and you know what
+makes us humans is all these things like
+you mentioned eat well
+sleep well uh you know exercise move
+frequently and have i'm sure i'm
+assuming you have a morning routine
+yeah sort of yeah i think that's super
+important like i want one like biggest
+tip for me is like start your day but
+don't immediately make it about work
+like i don't start work work until like
+nine in the morning but i'm up by seven
+so there's two hours it's just
+like i'm my priority
+i think that's important too man you
+give so much great advice it's awesome
+i'm gonna put all your links in the
+description um
+and any any last words you want to share
+this video is going to be hella long but
+i think people are going to like this so
+but any last words you want to share
+with people who want to get into i guess
+tech in general and like security yeah i
+always like to tell people this um i
+started like the last like podcast i was
+featured on like especially for people
+like me if you're yelling you know maybe
+from like a minority group or um like
+whatever it is like there's there are no
+like barriers to like breaking into tech
+whatever it is you want to do like cyber
+security cloud like
+devops whatever it is you want to get
+into like there are no barriers like
+your age is not a barrier like i got
+into this like when i was 18 like and it
+never stopped me from like you know
+working in great positions earning you
+know great salaries so like don't ever
+put any limitations on yourself for the
+possibilities of what you can do like
+you know getting into the industry like
+as a freshman like or even like right
+after right out of high school like the
+only limitation to like your progress
+and to like your
+entry into tech is yourself and like
+you're you can you only go as far as
+like whatever
+uh limits you set for yourself so like
+there are no you know barriers or there
+are no like limitations like just like
+put into work right and um you know
+be consistent and like you eventually
+like get what you want to get so
+perfect yeah i think the way we think of
+ourselves is really the only limit that
+we have
+uh all right thank you so much man we
+could go on for like a really long time
+but whenever you're back i'm gonna
+interview you every time you come to new
+york because i know you come here like
+what every
+every quarter and then we'll like we'll
+have like a playlist or something going
+on but that would be awesome but i
+appreciate this and have all his links
+in the description peace out everyone

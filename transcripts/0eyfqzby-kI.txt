@@ -1,0 +1,258 @@
+when it comes to a well-architected
+application in the cloud there are a
+couple of pillars that we need to keep
+in mind when we're designing and one of
+those is reliability
+just as a heads up in this video i'm
+going to be using architecture
+application workload system
+interchangeably essentially i'm trying
+to describe the thing that you're going
+to deploy to the cloud in order for your
+infrastructure to be considered reliable
+it has to be both resilient and
+available
+resiliency or your infrastructure being
+resilient means that it can recover from
+some sort of failure that it encounters
+and return itself back to a fully
+functioning state automatically if you
+have to manually kick off this process
+that's not resilient
+and availability is whether a user can
+access your application or not there's
+also this thing called high availability
+but we'll talk about that later in this
+video if you have any other cloud
+concepts you want me to talk about let
+me know in the comments don't forget to
+like and subscribe and all those
+youtuber thingies all that being said hi
+i'm gps i like talking about cloud
+computing and welcome to a new video all
+right so let's first talk about the goal
+of reliability and let's start off with
+for example like traditional development
+on-prem you know you want your
+application to be reliable so up front
+you would have to purchase most likely
+the more reliability you want the more
+higher-end hardware that you would need
+and your goal is to minimize
+your application going down like your
+entire application because again we're
+thinking monolith
+whereas in the cloud
+we now know that distributed patterns
+are a better way to realize the full
+potential of a cloud computing
+platform
+so
+our goal is to minimize the impact of
+failure of a single component so that's
+the goal in both ends
+in both cases
+failure is impossible to 100 avoid i
+don't care if you're running your
+infrastructure out of your closet it
+or
+at the most prestigious data center
+you can't have a hundred percent
+reliable infrastructure it just it just
+can't happen and of course in both
+scenarios in all scenarios
+the more reliability you want
+the more it's going to cost you right so
+that's the goal of reliability let's
+talk a little bit more about how that
+maps to
+a business requirement
+reliability itself is a very subjective
+concept we can't really associate a
+single number with reliability but
+remember i mentioned that in order to
+have a reliable infrastructure you have
+to have both
+it being resilient and available and
+availability is something that we often
+see a metric associated with or all the
+time and this metric is called sla
+which stands for service level agreement
+oftentimes you'll see services say like
+oh this sla for this service is
+99.99999 or 95 why not right and sla
+will tell your customer how often they
+can expect to be able to use your
+infrastructure your application your
+workload as expected
+so there's an azure example here for
+virtual machines and there's a website
+you can view all the slides for azure
+and i'll throw one example up on here on
+virtual machines but yeah these this
+business requirement is something that
+you have to meet like this number that
+you associate you have to meet or else
+you're gonna have
+unhappy customers so in terms of
+reliability we have this number uh it's
+an sla which is associated with
+availability that's very important okay
+so no we now we know the goals of
+reliability we understand the business
+requirement and i keep mentioning that
+in order to have reliable we have to
+have resiliency and availability so
+we'll talk a little bit more about those
+so we know the mindset of being in the
+cloud is we're just going to have to
+design for failure it's impossible to
+avoid failure but that doesn't mean that
+we have to sit around
+and wait for things to fail for us tack
+no no no no
+essentially there are two
+very very important things that you have
+to keep in mind to obtain reliable
+infrastructure
+those two things are
+monitoring and
+automation monitoring you need to have
+information metrics logs
+all these kinds of things coming in from
+your infrastructure that is deployed
+and into a dashboard into emails however
+it is easier for you to consume that
+information because there's no way that
+you're going to be able to
+well reliably detect
+prevent or predict issues without having
+that data
+the second part of this would be
+automation oftentimes automations in the
+cloud will kick off depending on data
+that's provided to you by your
+infrastructure through your monitoring
+dashboard and whatnot
+and these two things put together
+is what enables us to have
+a couple of other things i'm going to
+mention here that we need to design for
+when it comes to reliable infrastructure
+so this first part here is designing for
+self-healing
+your infrastructure should be able to
+put itself back into a functioning state
+when it has
+been notified that it is failing it
+doesn't know that it's failing without
+monitoring data so remember i said it's
+important and it doesn't know which
+process to kick off to put itself back
+into
+a functioning state without automation
+so you need those two things you cannot
+have self healing infrastructure without
+monitoring without automation alongside
+designing for self healing you also have
+designing for redundancy
+redundancy or for your infrastructure to
+be redundant it needs to be able to
+route around failure so as your
+infrastructure is self-healing it might
+be down for a few minutes
+something might fail completely and it
+won't be able to put itself up
+you need to be able to route around that
+failure so a really easy example here to
+use is a load balancer in virtual
+machines so let's say i have five
+virtual machines and i have a load
+balancer in front of them
+the virtual machines have health checks
+that are reporting to the load balancer
+and the load balancer detects that one
+machine is down
+it's in a stop
+routing traffic to that machine and
+distribute that traffic amongst the
+other virtual machines as soon as that
+machine says hey i'm back up ready to go
+the load balancer will then
+verify with the health check it's backup
+back normal business and what so right
+again this is thanks to monitoring and
+automation so we need we know we need to
+design for self-healing and we know we
+need to design for redundancy and there
+are a few more things here we need to
+cover
+yeah the next thing i want to mention is
+scaling your infrastructure should be
+able to scale itself in parallel
+horizontal growth you're not supposed to
+scale an individual one virtual machine
+again we'll stick to the virtual machine
+example here
+you need to be able to grab that virtual
+machine and replicate it and then have
+essentially various units of that
+machine
+so it can match the demand of traffic
+once traffic is back to normal it should
+scale back in
+parallel horizontal growth is the key to
+scaling correctly not individually okay
+and again that scaling will happen
+because of monitoring and because of
+automation the last thing i wanted to
+add here is of course
+high availability so let's say you have
+all these things implemented you've got
+your redundancy you've got your design
+for self-healing you've got everything
+it scales properly and whatnot
+but if all of this lives in a single in
+a single physical location like one
+availability zone for example when it
+comes to azure if that goes down
+then
+you out of luck right so making your
+infrastructure it's it's essentially is
+going to be available
+with whatever uptime or whatever sla
+that you're saying but to improve that
+number and to make it highly available
+to make your infrastructure highly
+available you need to take advantage of
+different geographies different
+locations different availability zones
+different regions different cloud
+platforms we'll call them these like
+physical locations
+with different names and sometimes
+specific services will have
+on top of these different geographies
+locations availability zones itself
+settings that you can adjust as well to
+improve your high availability so
+taking it from available to highly
+available will actually require you to
+have it physically located in different
+places that way if some sort of
+failure happens with one location
+you'll be fine because you have a
+different location right so this was a
+brief summary of some concepts when it
+comes to reliability in cloud computing
+infrastructure if there are any other
+concepts you want me to talk about leave
+them in the comments don't forget to
+like and subscribe and i will see you in
+the next one i'll have some recommended
+reading
+in the description but i'm actually a
+big fan of this architecture kind of
+stuff so
+you know give it a read all right i'll
+see you next video

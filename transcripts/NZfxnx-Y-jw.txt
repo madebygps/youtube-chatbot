@@ -1,0 +1,222 @@
+hi everyone today we are going to be
+talking about boot camps and if I
+believe they are worth it and who they
+actually are worth going through I'm not
+100 anti-boot camp but I do have some
+strong opinions in this space and with
+all that being said hi I'm GPS and
+welcome to a new video let's switch back
+into the how to get a cloud job diagram
+if you want a high resolution of this
+diagram I think I price it at like ten
+dollars or something like that or you
+could just pause the video and take a
+screenshot but if you want to support
+the channel and help me avoid sponsors
+and help me avoid talking about random
+vpns and during the Middle videos uh go
+and get yourself a copy of this diagram
+so we'll talk about someone who's in
+prereq land which is essentially where I
+get a lot of these our bootcamps worth
+of questions from
+uh let's let's say we have a someone who
+is making at the moment 60k in a
+different field and they want to shift
+into Cloud but they have a bunch of
+factors maybe they have family maybe
+they have parents that take care of
+whatever it is where they can't make
+less than 60k but they want to make the
+shift into cloud and usually what I
+recommend most people is do a year in a
+support type role and upskill in that
+year and then in two years you could be
+over here in the cloud exposure land
+which the majority of these roles you're
+finding are going to be
+60 60k and above but those entry level
+Attack rules you know some of them can
+be like Kev Tech shout out kevtech just
+told me about I helped us roll in New
+York City that's 150 000 base salary so
+there are some of those fluke rules out
+there but generally I would say
+these entry-level Tech roles are
+probably going to be around that or less
+uh so if you have you know if you're
+someone who for whatever reason is it
+could be a bunch of factors can't go
+through this the space here and you want
+to accelerate through it I would say a
+boot camp is worth it if you find a boot
+camp that is
+100 upfront and honest like you can pop
+that they have publicly the amount that
+it costs you don't have to go through
+multiple uh like like Zoom calls or
+anything like that like up front you can
+see how much it costs that way you can
+make you know sit down make your budget
+see financially it's going to work for
+you
+two if they have a lot of public reviews
+testimonials and things like that three
+if they have their curriculum that's
+public uh
+I haven't found a boot camp that hits
+all these things that I feel like I
+would need to know before I could be
+comfortable going through a boot camp
+but I think you also don't have to
+expect to get the best
+content I don't I don't think boot camps
+are worth it from the learning
+perspective I think they are only worth
+it from their connections that they can
+bring in and if you you can essentially
+put yourself through a three-month
+program or yeah some I think the
+majority of them are three to six months
+three to six month program paying I
+think I've seen anywhere from like 15
+000 to up to thirty thousand dollars you
+know paying that a money amount of money
+uh putting yourself through through the
+program
+and you know you end up and they will
+essentially guarantee you a job or they
+have connections for so you can land
+that job I think it's worth it there
+I've yet to see a boot camp like that
+which is why I overall just don't
+generally enjoy them but I don't think
+the instruction the content or anything
+like that that the majority of them have
+is any unique I think everything that
+you need to learn you can essentially
+learn on your own and we'll talk about
+that a little bit
+but
+yeah if you if you can accelerate
+through it pay this fee essentially
+accelerate through it and then leverage
+their connections to land a role then it
+could be worth it if you can't stomach
+the
+the the year to two years again I say
+two years Max but I realistically do
+believe that people can get through this
+phase in a year a year to two years in
+in this phase of you know entry level
+attack role and teaching yourself
+for everyone else I really don't think
+boot camps are worth it I don't see how
+they don't have unique unique
+uh curriculums they don't really have
+unique ways of teaching or anything like
+that but I think the the biggest one
+that I
+I can like the biggest point for me is
+the earlier you can teach yourself how
+to learn a new concept
+the the better your the rest of your
+career is going to develop into because
+you know you you go to school or you you
+go to a boot camp or whatever and
+essentially you get your foot in the
+door
+but that's just like the first step
+then when you need to go and you want to
+go for a promotion you want to switch
+into another role you want to search
+companies you're gonna have to teach
+yourself and throughout the entire time
+you're gonna have to teach yourself as
+well the other you learn how to do it
+the the you know you're just going to be
+better off
+I think another big thing to kind of
+keep in mind is that the the
+fundamentals of cloud computing the
+fundamentals of of Landing a role in
+Cloud are so publicly available like
+learner cloud is available but there's
+also so many course makers out there so
+many teachers out there who you know
+have their courses for I want to say on
+average less than a hundred dollars and
+they have like professional experience
+backing up uh the the content that they
+are delivering
+they and they're like much more
+affordable they're much more at your
+pace uh I mean the mentality is at your
+pace and it's just so
+publicly obvious what you need to learn
+so really the hardest part is finding
+the discipline and scheduling in that
+time but again the earlier you can do
+that the better off you are going to be
+for the rest of your career
+and we can't deny the the aspect of how
+much money they cost
+I think the cheapest one I did some
+research on this but the cheapest one I
+saw I seen was ten thousand and it was
+for a three month Pro and a 90-day
+program and it was essentially just
+content no like job guarantee or
+anything like that but ten thousand
+dollars for Content that wasn't unique
+for curriculum so aren't unique for I
+can't really say on the instructors
+because I didn't really see them
+delivering anything
+but everything is so publicly available
+for her
+for you that I just don't see how it's
+worth it
+instead of spending the money on
+going because I have nothing against
+spending money to learn but you can
+spend it on a bunch of courses from
+Individual course makers independent
+course makers you could spend it on
+subscriptions to things like a cloud
+Guru or plural site or there's a bunch
+of other academic platforms out there
+you can
+you know spend money on actually putting
+you know paying for your your Azure
+subscription like put yourself a 20
+minute 20 minute a 20 budget every month
+that is more than enough I I showed
+everyone on the Stream
+I think it was two three weeks ago that
+my my Azure resume which is probably one
+of the most the ones I get like one of
+the most traffic because it's the
+example in the video
+is costing me like 11 a month uh I know
+a year to run so putting in that money a
+month is is
+way more worth it than paying for
+the the boot camp in my opinion
+But ultimately it does come down to
+whatever people want to do if you feel
+like a boot camp is worth it then go for
+it I just feel like learning
+on your own pace tenfold just paste 10
+full you you
+put that money back into
+other educational resources into your
+own cloud accounts and subscriptions and
+things like that and you're gonna be
+good
+but yeah that's how I feel about that
+and
+I'll see you in the I want to know your
+opinion again this is all my opinion
+um but leave it in the comments below
+and I'll see in the next one

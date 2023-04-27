@@ -1,0 +1,2413 @@
+welcome
+thank you thank you for being here I
+had mentioned to you well I guess the
+idea of you in my solution architect
+confuses me video and then
+uh really glad that you reached out and
+you're like hey I think you're talking
+about me and I was like yeah I'm totally
+talking about you but I don't want to
+mention youtrying to respect privacy but I
+appreciate you you hopping on and
+chatting with me about
+your role and all that kind of stuff but
+we can start from the beginning and
+people have plenty of questions which
+we'll try to address as many as possible
+uh but how about you start us off with
+just an introduction what do you do what
+makes your name
+what do you do stuff like that like
+what's your elevator pitch for yourself
+sure
+um my name is Kathy Lee I am a woman
+and an engineer
+um I live in Portland Oregon I have been
+uh with Microsoft for almost five years
+I hit five years in September
+um and yeah I uh I was hired uh at
+Microsoft uh in 2018
+uh as a software engineer for an org
+called commercial software engineering
+and uh I was in that org for uh I don't
+know two three years or something like
+that before I moved into uh the customer
+success unit the CSU where I am now as a
+Cloud solution architect
+um before I was at Microsoft I spent uh
+almost a decade at the department of
+energy
+um working for the federal government is
+not fun
+um and uh yeah I mean and before that I
+sort of ping-ponged around to different
+jobs I entered the job market
+um in 2000 so it's really easy for me to
+you know count back how many years I've
+been working as a professional 22 23 oh
+my gosh 23. your first job
+as I guess professional adult was a
+techra
+yes what role was it do you remember
+yeah yeah I was a software engineer
+um for a startup that started off named
+gulfgateway.com and then they changed
+their name to greens.com
+um and they were like doing like online
+tea times
+so you could you could you could book
+your tea times online so like you know
+our our software would be implemented at
+different golf courses and then these
+golf courses would be able to let people
+schedule their Tea Times online okay so
+you've been pretty much your entire
+career software engineer or software
+engineer related
+so we got years of experience did you
+23. you remember I mean we've so for
+context people we've had a couple of
+conversations before I know we first
+spoke maybe I was a couple months at
+Microsoft
+uh we had like a like afraid I feel like
+we did but we had like a conversation or
+something yeah I remember yep we did
+yeah I remember that and then we had one
+more recently over the fall I believe
+and then now again but I'm very much
+always in the know
+of what you're up to because of social
+media and I think it's vice versa right
+um yeah yeah definitely that's kind of
+the context of our
+uh relationship work friendship whatever
+it is
+um yeah so I I we have spoken before and
+that's why I think you were like the
+exact person to have on for this type of
+interview because I think you
+very easy to talk to but also
+um whenever I've asked you stuff about
+your role about tech in general it's
+never been like an intimidating
+conversation it's always felt like very
+friendly uh so I really appreciate that
+and I think people who are watching it
+appreciate that too
+um what if we we start first
+talking about like educational
+background and how did you land your
+first software engineering gig
+sure
+um I have a pretty sort of
+I don't know
+checkered past maybe is a way to put it
+um
+so
+uh my parents uh are immigrants they
+immigrated here from Taiwan
+um and that particular wave of
+immigration uh was sort of like that
+Highly Educated
+um like wave and um so my dad was a
+professor at Michigan State University
+my mom had her Masters in botany
+um and they were like 100 the tiger
+parents everyone has heard of my parents
+were totally like terrifying tiger
+parents
+um in the sense of like you know I could
+not bring home anything less than an a
+without like feeling scared for my lifeum and so I you know towed the line for
+a really long time and I did my best and
+I you know oh Kitty and I got you know
+Straight A's
+um until my junior year of high school
+um I think this is probably not uncommon
+in
+um you know people who are raised in
+this kind of environment I just had a
+mental breakdown when I was 16. like I
+at 16 I was like
+Prime to be like valedictorian of my
+high school and like you know I was
+involved in uh music and like
+not sports
+but like I I had like a lot of things
+going on when I was 18. yeah yeah and
+then um and then I had a meltdown and I
+didn't I wasn't interested in school
+anymore and to be honest I almost didn't
+graduate from high school
+like that's how epically I melted down
+like I went from almost valedictorian
+I was like I didn't oh like yeah
+graduated from high schools because my
+twin sister intervened for me and begged
+um the government teacher to just give
+me a D minus and let me graduate
+um because we had to have that like half
+semester government class we had to pass
+it to graduate from high school and I
+was 100 failing that class I don't think
+I even went to it once
+like I think I spent that entire class
+like in the parking lot of the high
+school sleeping in my car
+yeah
+okay okay interesting and then um so my
+dad was a professor at Michigan State
+and
+um he was pretty like opinionated that
+we should all go there he was like it
+doesn't matter where you go for
+undergrad what really matters is where
+you go for for grad school and you you
+see how he did that
+school yeah you have to go to there's
+like the expectation of course you will
+go to grad school right he's like it
+doesn't matter where you go to undergrad
+so I went to undergrad at Michigan State
+Kicking and Screaming by the way I told
+my parents I did not want to go to
+college and they were like you're nuts
+if you think you're not going to college
+so I matriculate I get into college and
+um surprise surprise I flunk out like
+repeatedly okay like I think I think I
+flunked out three times
+wow
+did you I don't really know a college
+Workshop but do you pick a major going
+in
+okay did you did you pick something or
+yeah I picked English literature okay
+um because I really liked reading and
+writing
+um and so but I didn't go down my
+classes so it's not like it really
+mattered what my major was okay okay
+right
+um and hilariously so I used to like at
+Michigan State they're on the semester
+system so the semesters are very long
+like four months long right so that's a
+long time to like lose your
+concentration and just stop going to
+class which like I did like every
+semester I went to Michigan State but
+the Summers had really short semesters I
+think those were like eight weeks long
+okay and so I would always take summer
+school when I was in college and I'd
+always get my GPA up by taking math
+classes okay it's a little happy because
+I knew I knew I could get an A in math
+even though I was an English literature
+major like that was my that was my like
+hack to try and like
+not have them kick me out balance it out
+I don't like it yeah yeah so
+um anyway I I did that for like you know
+four years or whatever like you know
+almost flunking out flanking out
+bringing my GPA up by taking math
+um and then finally uh when I was 21
+um
+my uh counselor at the time like you
+know the person who's like helping you
+figure out when you can graduate was
+like okay here's the deal
+you've done so badly
+that you you kind of have to start over
+like if you if you wanna if you want to
+stay at Michigan State you just kind of
+have to start over you can't like
+there's there's nothing we can bring
+with us here really um yeah and I was
+like
+well
+if that's the case then I may as well
+just start over someplace else okay what
+I mean like why the heck am I in
+Michigan have you been there it sucks
+sorry sorry for anyone who's from
+Michigan but like or still lives in
+Michigan but like it's cold it's humid
+in the summertime the mosquitoes are
+trying to kill you like it's just not a
+nice place so that's when I moved to
+Portland okay wait you were so living in
+Michigan right oh yeah so okay okay now
+that makes a lot of sense all right yeah
+my dad was a professor at Michigan State
+I went to Michigan State therefore I was
+living like five miles from my parents
+house so you're like the majority of
+your life you were living in Michiganum and up until I was 20 I was 22 when I
+moved to Portland but up until 22 like I
+had lived my whole life in like pretty
+much 10 square miles
+okay yeah okay
+okay I see I see the decision now yeah
+yeah so I was like get me out of here
+um I I need a like a totally fresh start
+so I moved to Portland uh so I I decided
+at 21 that I was gonna move but I didn't
+move until I was 22. this is 1997.
+um and uh I uh start going to Portland
+State University which is sort of like a
+like an urban University that will
+accept pretty much anybody it's it's
+like a community college but a four-year
+school okay what I mean okay
+um like there are harder car loan
+applications that you have to fill out
+than like the application to go to
+Portland State like it's that kind of
+University
+um and so I at that point I was like
+well I don't really know what I want to
+do okay right
+um I had kind of come to the conclusion
+that I couldn't really stick with
+English literature as much as I love to
+you know read and to write because
+you know my parents raised me upper
+middle class and it just didn't do me
+any favors
+like I was not good at being poorI also don't want to like depend on
+someone else for like my lifestyle right
+I like I should fund my own lifestyle no
+I know so okay yeah so I was like okay
+what what what skills do I have what do
+I have here like I sort of like did you
+know what am I working with exactly and
+so I kind of did an audit of like my
+skills and I was like you know what you
+know my dad actually forced me to learn
+about computers when I was growing up
+um and he made us like like program
+little programs like on five and a
+quarter inch floppy disks like whoa what
+does that look like what what what
+language or
+I think it was basic okay I honestly
+don't know Gwen I was like eight
+like I don't know it was just like I was
+just like a little like terminal and I
+would just like you know be like go
+um but I was like you know I I felt like
+a pretty strong
+um
+I guess affinity for that like I'm like
+it's not a struggle for me to grok
+computer stuff okay right and at that
+age it was just like literally computer
+stuff to do right and do you remember
+enjoying it
+yeah okay it was it was like it was fun
+it was easy I almost didn't consider it
+like for work because it didn't seem
+like work okay do you know what I mean
+yeah it's just like fun okay so I was
+like okay yeah I have I I have this let
+me let me do this and uh Portland State
+had a um an information systems and
+qualitative analysis program which is
+basically like computer science for
+business people or something like this
+um and so I
+did that program
+um there were CS classes that were
+required I think you had to take like
+three CS classes
+um and they were just like so fun like
+for me like an absolute like breeze okay
+see what I mean like just like
+like this is this is coming easy this is
+coming naturally it's way easier than
+English yeah
+it's way easier than trying to like
+write like a 20-page paper I can imagine
+right
+nobody likes that so
+um yeah I uh I I was I guess it was like
+1999 and
+um I remember going to like you know
+another sort of graduation audit and
+um my counselor telling me hey you need
+to take this Logistics class okay or you
+can't graduate
+and I was like are you freaking kidding
+me right now I totally took that class
+at Michigan State I didn't do great at
+it but I certainly did not fail it okay
+um and I got a million parking tickets
+for that class too
+so like I definitely you got that class
+yeah yeah yeah you got to get the the
+value out of it come on yeah totally and
+they were like well you have to take it
+it's not we're not accepting it as an
+equivalent so you have to take it and I
+just sort of took a stand and I was like
+I'm not wow
+college so
+you did College pretty much twice and
+you still didn't graduate you didn't
+want to graduate exactly and you know my
+uh that counselor was kind of laughing
+at me because she was like
+um your uh transcript reads like someone
+who couldn't figure anything out for
+themselves because like I had taken so
+many classes over like gosh was it like
+six or seven years at this point
+um I failed a lot of them I didn't fail
+all of them okay um and they were from
+all over the place right I would just be
+like oh that class looks interesting
+I'll take it oh that class looks
+interesting I'll take it I wasn't like
+focused you didn't have like an end goal
+or or like oh I definitely want to go do
+this after I graduate kind of thing yeah
+yeah I just was like oh I don't know
+um and so she was like you have enough
+credits like to like graduate for sure
+you just don't have enough concentration
+of credits in any one place okay to
+graduate
+okay so because I'm guessing it's like
+because you need to graduate in some
+specific program or something like that
+yeah yeah
+you're just okay that's I don't think
+I've ever heard of that situation but I
+do feel I feel like that there's a lot
+of pressure to kind of figure out what
+you want to do for school at such an
+early age they think about being yeah
+like I remember being 18 and I wanted to
+be uh
+a journalist so I wanted to get into
+the journal as journalism is a major I
+think it is a communication something
+like that yeah something like that and I
+was like this is just like the best
+decision for my life and then I sat down
+with my mom and she's like you're not
+gonna make any money so then there goes
+that and then you know when you're a kid
+it's like what else are you gonna decide
+because that's what you are at that age
+you're pretty much a kid it's a lot of
+pressure uh coming to high school and
+trying to figure out everything you want
+to do I don't see why more people don't
+come out with just like a bunch of
+random classes like more often
+well
+that was my experience I wanted to be a
+high school English teacher that's why I
+started off as an English literature
+major so the the idea was I get my
+undergrad and English lit and then I do
+a master's in education and then I'd be
+able to teach but again my parents
+raised me to upper middle class and I
+just really did not want to be poor you
+were um yeah you were used to you I
+guess a lifestyle
+and you have to at least maintain it
+yeah yeah exactly makes sense yeah so
+you don't graduate from college and and
+I don't how does but how do you get a
+song you have to think about the timing
+yes I know think about the timing I know
+that's important
+so this is 19.99 slash 2000 right yeah
+and what's happening during this time
+right it's the.com boom everyone has a
+right tech company
+yeah and people are like you hear
+stories like during that time like I got
+a I got a Porsche as a siding bonus
+right I didn't know that oh yeah that
+was that was stuff that happened back
+then a Porsche back in 1999 as a signing
+yeah yeah yeah yeah people were people
+were getting like crazy deals
+um and at that point if you could Spell
+visual bases they were like when can you
+start right and I I had I had like you
+know lots of these classes right so
+um I applied for this job at the startup
+golfgateway.com greens.com whatever it
+was
+um and they hired me well and they were
+like you know we would like you to get
+your degree so please work on that and I
+was like okay but then I didn't what was
+what was that interview process like
+oh God I don't even remember yeah like
+this was
+almost 25 years ago now but like
+it must have been nerve-wracking yeah I
+had no idea
+you got it yeah I would love to know
+like how did you answer the questions or
+what the questions look like or or like
+all of that like do you remember like
+you know struggle or anything like that
+like this this is for sure what I know
+about that job it was all in C plus plus
+okay did you have any any experience
+with C plus at all before like maybe any
+college oh yeah I mean well well see see
+okay not C plus plus okay um because
+like all of our computer science classes
+in college were in C
+um so
+like I at least was familiar with like
+the basic constructs of the language
+um yeah absolutely yeah that that job
+was all in C plus plus I mean this will
+date me severely but like
+I was at least two years into my career
+before c sharp came out okay interesting
+so that's so funny how old it's a fun
+fact
+do you feel like so you learned all your
+programming knowledge in college or did
+you learn oh hell no outside of you
+don't know you don't learn anything in
+college let's be honest
+no no no no no no college does not
+prepare anyone for professional work to
+be fair I learned C plus plus the two
+semesters that I wasn't in college okay
+not C plus plus the basics to program I
+would say
+I think I had a really cool teacher
+though and he was the only one who kind
+of saw any potential in me and
+and he would just give like the hardest
+homework like once you were out of class
+just for his class you would literally
+spend every single because I had the
+class Maybe
+like four times a week
+um you would spend like six hours doing
+his homework because it was like you
+have to go code the exercise and even if
+it was as simple as like oh code a
+program that will calculate I don't know
+some formula like you had to rock that
+right documentation so they would write
+a word doc like table of contents um
+glossary and like oh screenshots uh FAQ
+all that kind of stuff even if the
+program was like five lines so he really
+like
+kicked their butts with that class but I
+felt like I learned a lot because of
+that but then again that sounds the bass
+sounds useful yeah yeah the basics
+absolutely and obviously I picked up
+more later on working but I guess I have
+to be fair give give credit where Chris
+do but I didn't go to college here I
+went to college in Ecuador well you know
+the two semesters so maybe there's I've
+from what I've known that educational
+system is a little bit more difficult
+even though it's like such a small and
+unknown country
+um
+but yeah gotta get credit where credits
+do
+we'll we'll get into this a little bit
+later when we talk about my job but my
+experience was all Engineers from Latin
+America is they are
+a plus okay so there must be something
+going on that's crazy there must be
+something going on in those Educational
+Systems okay but yeah we'll touch on
+that later yeah so so what's this first
+gig like like how long did you last like
+what what was your day-to-day life I
+lasted as long as the company lasted
+which was six months
+they went belly up in six months so and
+you know the the funny thing is like
+I've seen your videos where you talk
+about the progression of your salary
+um and that job
+um offered me 35 000 a year which I felt
+like was a million dollars you're good
+yeah yeah yeah yeah I was like holy holy
+crap I have so much money
+um so with that six months of experience
+um I moved on to another startup okay
+right okay and that other startup
+offered me sixty thousand dollars I was
+like
+if at 35 you're rich oh you could like
+retire I like this that like I almost
+doubled my salary in like six months
+right I was just like what's going on
+this is amazing how much time was there
+between like the other company like I
+guess you leaving or you know ending the
+job at the first company to the second
+one well this was still the.com boom
+even though greens.com went Belly Up
+Like This was still like you know the
+bot the the Boom is happening and so I
+was snatched up pretty quickly
+um there was hardly any time off between
+jobs I and I want to say maybe there
+wasn't any time off between jobs okay
+um and I I worked there for a year I
+think at this next startup
+at this next startup okay
+um and then this startup went Belly Up
+as well
+um and it was a um it was sort of like a
+financial services application
+um and so after that
+um I got a job at um a company called
+carillion
+um which did like online banking
+software so because I already had had
+the experience with like the financial
+system software they hired me
+um as again software engineer
+um and uh that was I think in like 2001
+um so and I worked there for two years
+um and that was where uh well I
+shouldn't say that the job before that
+was where I met Scott Hanselman that's
+another fun fact I guess our
+uh how we first got to talk to each
+other was through having that Mutual
+connection with Scott uh you have a warm
+introduction the warm handoff the warm I
+don't know what it's called the worm
+introduction yeah yeah that um you
+obviously have many many more years of
+Friendship with Scott and uh it was
+something that was I guess interesting
+uh how
+and I guess we have that in common
+um what what was the what was like
+like the perks and stuff like that at
+these kinds of jobs back then because
+you know now that's like a big thing
+about working in techs like sign on
+bonuses free lunches stuff like that no
+perks nothing just like kind of like
+stand up jokes
+no perks
+um
+at greens uh uh yeah no perks we were in
+like Suburban hell uh like strip mall
+kind of area
+um and and then the financial services
+startup
+um
+definitely no perks
+the biggest perk was that the office
+building was next to a really good
+Cambodian restaurantso
+what what's what's the scene like is it
+very much you know now like the
+stereotypical ping pong tables arcade
+games in the offices none like
+it was just cute
+land all right okay that's just cute
+land there's there's no there's there's
+no common area there's no nothing it's
+just Cube Land
+um and at carillion
+um
+it was like they had an uh an actual
+kind of like campus where they had I
+think like three buildings
+um and so they had like more like a
+better sort of like
+I don't know common area space but
+there's still no ping pong table there's
+no free beverages there's no like free
+lunch there's none of that like actually
+the biggest perk of that company was um
+when I got a puppy they let me bring my
+puppy to workall right cool what what's the uh what
+was the work-life balance like was that
+a thing back then was that like you know
+how that's like a buzzword now I guess
+um
+do you feel like people were working
+extra
+uh was it like sort of accepted like
+that type of thing or I don't know I
+feel like at that point
+um you know the whole uh I.T people
+working too hard thing hadn't really
+crested
+um
+I can only speak from my experience like
+I have a 20-something person yeah what
+do you know about making money for the
+first time
+I was not about work
+like I did my work I got it done okay I
+feel like I was pretty good employee but
+like like when it was time to go home it
+was time to go buy a puppy at home I had
+friends you know we had to go to the
+clubit's funny to think about now but that's
+that's
+what I did back then more important
+things to dothen was was that second gig C plus plus
+as well
+yes okay all right so now you've got
+some pretty
+pretty good like what like a over a year
+two about two years of these plus plus
+experience that's that's got to be good
+for the resume
+that doesn't matter anymore but sure I
+haven't touched C plus plus since then
+okay interesting all right so let's so
+after this this gig
+what what comes after that
+so I was at carillion for uh like a
+couple years so this is now my third job
+out of school okay
+um and then that's when the bust
+happened
+right the.com bust okay
+so that was that long I thought it was
+quicker to be honest
+oh yeah no I mean it kind of like slowly
+busted but when it busted it like really
+bust okay
+um so there was a period of time 2002
+2003 where like I remember I was a party
+um
+and you know the party is like a whole
+bunch of like 20-something I.T
+professionals like myself you know and
+um like no one at this party had a job
+unemployedokay that's how bad it was that's how
+bad it was I feel like
+might be
+get to that I was about to ask you like
+that kind of sounds like it feels it
+starts to feel familiar
+yeah because I was starting to we were
+talking about this before but I was like
+I'm starting to freak out what where
+we're at but then again I haven't been
+through anything
+similar at all
+um but then I wanted to ask you like
+what what does it feel like now compared
+to what you've been through before
+well it feels familiar because all the
+signals are all the same oh my God right
+you get the same like economic signals
+you get the same like
+um like Rumor Mill going crazy kind of
+stuff like when the when the rumor world
+starts going crazy you know it's like
+for a reason like like when I was early
+in my career I might have like been like
+oh that's just a rumor like there's
+there's nothing concrete so why
+speculate
+um but now that I've been through this a
+couple of times like
+I I don't I still don't take it as
+anything concrete yeah but you know that
+when those rumors are happening it's
+like a sign that something's really yeah
+going on okay um they don't they don't
+start for no reason
+um is I guess what I mean but um
+yeah no uh it it all fell apart in 2002
+2003. I think I was unemployed for like
+six months
+were you after curling trying to get
+gigs like you were just oh I was okay
+okay oh I was what about likewise was
+there like um indeed or stuff like that
+then there was dice no
+dice.com was around there was no indeed
+um
+there were you know recruiters
+um about was been around
+um
+so you could work with different
+recruiting companies
+um
+you know you could you could troll dice
+um and because pretty much everyone I
+knew was unemployed as well like we were
+all just trying to like help each other
+out yeah you know like hey I found this
+posting it looks like something you
+could do or you know someone would send
+me something similar
+um I actually have some like friends
+from that time that like like stick with
+me to this very day because we all sort
+of went through that together and it was
+very like it was very hard yeah
+um yeah six months unemployed like I had
+no no one like to depend on you know I
+was single
+um
+my parents were like you're an adult
+so rightly so we are not going to give
+you money
+um
+and yeah so I was just like on my own
+and it just felt really scary
+um but I did find something eventually
+um there was a few like weird things in
+there I'm not even gonna talk about that
+because it was so weird but um I did
+eventually and end up at this place that
+was pretty hilarious called Blackwell
+book Services okay
+um we called it the Blackwellum it was a very depressing place like
+very depressing
+um like even like the work environment
+was like old do you know what I mean
+like old acoustic ceilings everything
+just kind of looked a little dirty like
+it was just like just just a sad
+depressing place
+but at the time I was just like I just
+need to work I just need to make money
+so I was like thrilled with that job I
+had it for I think like two or three
+years C plus plus as well
+no that one was Visual Basic so this is
+your introduction into Microsoft land
+well curling was also Microsoft it was
+also visual based okay okay and we did
+start
+um because Scott worked at carillion
+um at the time he wasn't working for
+Microsoft but he was the regional
+director
+um for uh like the Portland area I think
+maybe the Pacific Northwest anyway
+um so he he was like pushing you know
+Microsoft stuff and um we all sort of
+like learned C sharp together on that
+job so you have
+a lot of c-sharp experiences then now
+too yes okay cool yes cool
+um before we move on I wanted to ask I
+guess for myself like you know that time
+of going through like not having a job
+like if you look back at it can you
+think of any advice you'd give someone
+who might go through that
+I don't know maybe someone listening
+this is going through a layoff or
+something
+yeah uh the the number one thing I will
+say is you have no idea how long this
+will last okay so don't blow all of your
+Severance money on drinking too much
+because you need to blow off steam which
+is what I did
+which is what I did I love I love the
+realness of this I mean I was in my 20s
+yeah everyone I know was laid off like
+we were drinking so much what was the
+seventh like it was a couple months pay
+yeah it wasn't much I think I got like a
+month oh okay yeah okay yeah but I blew
+it I blew it all like so fast on
+drinking so how did you survive like a
+cup of noodles and some bread or
+something pretty much so you know you
+get unemployment yeah right yeah yeah
+and unemployment was just about enough
+for me to pay my rent
+um paying my car payment and buy
+groceries but my groceries were like
+Ramen yeah ketchup yeah
+yeah like beans and rice rough kind of
+diet all right yeah I like yeah
+I like the the I guess be smart with
+your money generally yeah yeah just you
+I mean you you have no idea how long the
+season will last right like I remember
+thinking at the time
+um that I don't know however people
+watched Seinfeld but I was like I could
+have a summer of Georgeyou've ever seen it but uh George
+Costanza gets laid off and he's like so
+excited he's like I'm gonna have to
+Summer of George so I was like yeah I'm
+gonna have the summer of George I got
+laid off I think in the summer and so I
+was like I'm just gonna like
+have a good time spend my Severance
+money like drink with my friends party
+like whatever and then the dark winter
+months hit and I realized that I'm broke
+I'm hungry I'm hungry I haven't eaten
+like a decent meal in Forever
+um and I have no idea how long this is
+gonna last like my my thought when I was
+initially laid off was
+um to that point you know all of my job
+experience had been like I find a job
+really fast yeah right so why would that
+be different right I was just like oh
+I'll find a job whenever I whenever I'm
+ready to find one like it'll just be
+like they're waiting for me and I may as
+well just enjoy the summer take the
+summer off and then when the Summer's
+over then I'll start looking for a job
+do you and do you recommend people just
+if it does happen just immediately get
+to trying to find another thing
+I mean I think it depends on a lot of
+things yeah right
+um it depends on how much Severance you
+get like some people I know who have
+been laid off recently have gotten like
+months and months and months of
+severance like I would tell those people
+take a freaking vacation yeah try and
+get the burnout off of you right feel
+like refreshed and ready to work yeah
+excited to work not like dreading okay
+right you want to wait until you have
+that feeling of okay now I'm ready I'm
+excited I want to work
+um
+but those are also the people who tend
+to have more experience and so those are
+the people easier for them generally
+yeah yeah have less trouble finding a
+job but I would say that if you're a
+junior person and you have the horrible
+luck of being laid off in this
+environment yeah get on it like get like
+like press your network immediately
+like be relentless yeah I mean Juniors
+tend to have the energy to do that
+anyway so I guess that kind of works in
+their favor
+um yeah yeah but Juniors also have a lot
+of things working again against them
+right like I have I have almost 25 years
+of a network to Leverage
+do you know what I mean I'm gonna call
+you if something happens to me
+a lot of people call me when things
+happen to them for that reason because I
+know a lot of people yeah
+um and I've been in the industry a
+really long time and
+um
+so yeah like
+but if you're a junior then you know
+you're going to tend to have a much
+smaller Network yeah I think the reality
+is like it is just gonna suck like I
+don't want to put like a fake positivity
+spin to it it's just just it's better to
+be real than kind of get let down or
+yeah there's going to be a lot of pain
+yeah um already or like it's already
+happening
+yeah there has been pain and there's
+more pain to come yeah and we don't know
+when the pain will stop we'll end yeah
+but we do know it will end at some point
+okay there's a nice positive spin to it
+yeah yeah
+so this this what did you say this is a
+book place Blackwell Blackwell's
+Blackwell book services using visual
+studio already on a Visual Basic
+and you were there for I think you
+mentioned a couple years two three years
+something like that two three years did
+you enjoy the work
+no no but you're just doing it
+absolutely not we were we were replacing
+a mainframe system
+and it was like an it was like an Erp
+so it's like ordering bookslike this is not exciting work yeah no I
+mean like a startup or anything riveting
+or like you're changing no no and um
+yeah it was like I said it was a very
+depressing place to work
+um
+there are people there who had been
+working there for like 30 years though
+so it was one of those kinds of places
+you know what I mean like one of those
+like smaller companies where people just
+like stay forever and they like never
+leave
+um and I was very worried
+about being sucked into the Blackwell
+okay yeah you're very aware of like you
+can't you can't stay there too long or
+you will be sucked into the blood
+forever become one of those people who
+just stay there
+yeah okay interesting what um
+did you did this place close as well or
+did you leave
+no I I left because at that point the
+economy had recovered
+and I had other options right so this is
+what I'm saying do you remember around
+it's like 2004 or five-ish
+yes because then isn't there like
+another economy downfall a few years
+after like 2008
+2008 8 was when I was already working
+for the federal government and the
+federal government's pretty shielded
+from that kind of like recession cycle
+okay okay
+um
+so yeah I left I left the Blackwell to
+work for a company called TransCore
+which does like Logistics software and
+it's also not fun at all like it was
+social how can I get my truck from A to
+B to pick up another thing like yeah
+that's what it was and it was it was uh
+c-sharp okay okay C sharp did you like
+because you now you have like C plus
+plus C sharp Visual Basic was did you
+having worked with all them would you
+starting to grow like a preference for
+one or you didn't care oh my God C sharp
+all the way okay okay I'm still I'm
+still c-sharp all the way it continually
+like frustrates me that I am a c-sharp
+developer and at Microsoft the company
+that created the language I never get to
+use it yeah I was I when you mentioned
+that last time we spoke I was somewhat
+surprised I know you keep telling me
+that you keep waiting for like a.net
+engagement to come up and it just
+doesn't happen to you
+I'm still waiting yeah
+but the
+so this company that you're at you're
+doing C sharp in
+like what does that look likeum it's mostly back endthis is before rest uh was releasing
+um so yeah we're just we're just writing
+like back-end Services
+um we also had like a Java team that
+also wrote some back-end services that
+we had to integrate with Integrations I
+think are always fun I always love
+Integrations what is what does that look
+like then though like because you know
+how you know microservices are a big
+thing now was what were is it primarily
+just like monoliths things like that
+yeah yeah yep do you do a lot of
+microservices stuff now
+yes do you have a preference yeah a lot
+of my job is uh breaking up monoliths
+okay into into microservices yeah that's
+a lot of people's like modernization
+plan do you
+so you know having worked you know in
+these jobs with all monoliths I'm
+assuming that experience really helps
+you now with what you do now
+yeah I mean it's all additive so yeah
+yeah like it I love it love it okay so
+have you have you used Java did you use
+Java back then have you I didn't use
+Java back then but I have had to use it
+at work here you don't sound too excited
+a lotJava Man
+it's something
+it's something it Compares it gets
+Compares a lot to c-sharp I mean it gets
+compared I don't know if it's fair but
+it does yeah
+um
+yeah I once like it was like 7 p.m and I
+was still working and I was working on a
+an engagement that uh was Java Centric
+and um I just needed to add one hour to
+an hour
+how the freaking hard can this be
+do you know what I mean like this cannot
+be that hard I spent an hour trying to
+figure this out before I finally was
+just like you know what I don't even
+care how stupid I'm gonna sound but I'm
+gonna ask one of my co-workers for help
+even though it's like 8 p.m at this time
+they're still working
+because we're we can be bad about
+work-life balance during customer
+engagements but I was like help me
+how do I add an hour to an hour in Java
+like I like in.net this is like
+literally a dot yeah you know ad
+parentheses one like like this should it
+should be this easy like I don't know
+why this is so hard
+um and it made me feel a little bit
+better that it did take him like a
+little bit of time to figure it out as
+well we just couldn't figure out that we
+couldn't find the right Library we
+needed to get us what we wanted you did
+a library for that interesting yeah yeah
+I'm assuming he has like more job
+experience that's like his thing no I
+think he just has better Google okay
+love it love it we'll get into more
+about like
+um
+battle Dynamic of because I remember I
+was talking about your your role and how
+it's like you kind of always have
+someone who can help you out
+on your team which I really like
+um and you have like maybe similar skill
+sets but you might shine a little bit
+more in one area someone might have like
+something else and I think that's really
+cool we can get more into that when we
+talk about your current role so all
+right so you leave this um what's up
+what's the job right now so you left
+Blackwell TransCore the transportation
+thing and then yeah you get into the
+government after
+yep
+what was that like every you know I get
+a lot of questions about government work
+people for some reason have a lot of
+interest in it so I would love to hear
+more about it yeah I mean there's
+there's there's a lot of reason to be
+interested in it which I have already
+mentioned which is uh mostly immune to
+yeah economic Cycles right which would
+include recession so if you're looking
+for a job that is like extremely stable
+like extremely stable then the
+government is the place for you yeah
+yeah like
+um
+I uh like if you're a government
+employee like you get a pension
+who gets pensions anymore do what I mean
+um it's like it's like bizarre like that
+but yeah I mean when I was working at
+the government I I would often joke with
+people that it would take an act of
+Congress for me to lose my job
+and that wasn't 100 false
+yeah so I can imagine it also wasn't 100
+true but it wasn't 100 policy therewhat how hard was it to land the job
+pretty hard okay but also why
+why did you want to go
+I guess into that set like
+sector after
+you know going through some professional
+turmoil
+it was appealing okay to work for a
+place that's stable
+um
+and
+yeah so I started off as a contractor
+which was pretty easy for me to get that
+job
+um it would be similar to like you know
+people starting at Microsoft as like a
+v-dash right and then you know if you're
+a contractor or a vdash then you just
+Aspire for that you know like full badge
+right like I think at Microsoft it's a
+blue badge a BPA was like a green badge
+um but you just want that badge that
+shows like yeah I'm like legit like I
+really work here
+um and
+it took me a long time to convert to
+um a full-time employee what are we
+talking with the government a couple
+years
+yeah okay is that yeah typical
+some people like my friend Michelle I
+just saw on LinkedIn she finally got
+converted
+she's been working there for like 20
+years oh my goodness contractorwow yeah yeah it can take forever some
+people never convert is the is the
+stability also extended to contractors
+or is it just like no no yeah okay
+absolutely not so that the goal is if
+you're a contractor yeah yeah if you're
+a contractor you're constantly living on
+a knife's edge
+okay that's gonna be tough
+yeah
+okay so you you you land the so to land
+the contract what did you just apply or
+like pretty much yeah I was like through
+a like you know contracting company I
+think it was like
+uh Tech Systems yeah it was Tech Systems
+um tech systems and
+yeah I feel like that sounds familiar
+have they been around for a while yes
+right yeah yeah yeah yeah okay they're
+Nationwide they may even be
+International I don't know
+um but yeah they've been around for a
+long time and um
+they were they were like BPA used like a
+whole bunch of vendors
+um Tech system was was just one of them
+okay so uh yeah I worked as a contractor
+for uh yeah two three years something
+like that before I converted
+um and then once I converted uh it was
+seven and a half years almost exactly
+before going on moving on to your next
+next thing before moving on to Microsoft
+okay so the at this government gig was
+it c-sharp
+yes the whole time
+yes and to get to Contra from contractor
+to full time did you have to like work
+really hard what was it was it luck what
+what do you think
+um
+let's just say this it's not
+particularly hard to differentiate
+yourself at the government okay
+interesting okay yeah most people are
+just phoning it ininteresting to know what what can you
+say about the work there like and like
+now that you've worked you know you've
+worked a startups you worked the
+government now at like a big company
+what do you think is like the major
+difference working there versus the
+others
+well you know the government is very
+locked down in terms of like tools you
+can use right so like I couldn't just
+like download something off the internet
+and be like let me try this and see how
+it works like you know I don't know
+exactly what would have happened if I
+had like downloaded something but like
+probably
+like sirens would have started and like
+helicopter security would have showed up
+yeah just like escort me out of the
+building like
+um yeah it was like it was pretty it was
+pretty locked down
+um and Innovation is not it's not a
+thing that exists
+they're working on Ancient decrepit
+Legacy systems that they're just keeping
+aliveand after a while you start to feel like
+a dinosaur yourself did you care about
+that did you care about not working on
+like the latest and greatest did okay I
+did okay did you always or just was it
+at that job that you realized that you
+cared
+job if I realized that I cared
+because I was like
+you know at a certain point if you're a
+government employee
+you have to look yourself in the face
+and be like
+do I intend to stay here for my entire
+career or not
+right am I going to be a lifer or am I
+going to be someone who like leaves and
+I knew that I was never going to be a
+lifer like I just could not turn into
+some of those zombies that I saw okay
+like like
+the place is crawling with them
+and you know that did you know that
+going into it or is it something that
+you realized once you were in no I did
+because I was a contractor right so I
+saw it as a contractor I just didn't
+realize it would bother me so much as an
+employee right yeah because some people
+it's probably fine for them it's like
+what they want
+yeah yeah but
+so yeah I I was like
+I'm not gonna stay here forever
+and whenever it is that I want to leave
+my skills will be
+irrelevant
+to like the modern workplace okay right
+like yes I was doing c-sharp development
+um but we couldn't do anything new
+so we couldn't use any new tools so what
+were you using
+do you remember
+um
+also nice
+but it it ends up being like not so nice
+so like um like
+you know we're using c-sharp visual
+studio uh TFS we switched um
+we switched from Source safe to TFS when
+I was working there like they were using
+Source safe
+like okay so
+was that switch like a big thing was it
+a big deal
+oh it was it's a huge migration oh my
+God it was it was intense
+um and like you know there are things
+like um
+like there we would ask questions like
+hey can we can we try to modernize some
+of these like newer services that we're
+building by like making them like
+restful services or like you know we
+have this like quick little like
+application we need to write that's like
+internal only can we like maybe try to
+do like angular or a single page
+application like something fun like
+anything can you give us anything and
+people be like no
+just the answer to any question like
+that was no
+because and it was just because I guess
+because he's
+like these web Frameworks were newer
+that's pretty much it why they
+they said no okay yep
+fear fear of anything new
+yeah yeah I mean I guess stability plays
+a thing there
+or
+I mean I can't see what what else it
+would be
+performance no
+I really don't know I don't know why
+they were the way that they were to be
+honest I really don't and then oh I was
+going to tell you because I commented on
+one of your videos because you did that
+rejection video
+right so when I was working at
+Bonneville
+um I hated it like I hated it I hate
+every day I hated it I was like this
+place I'm gonna turn into one of these
+zombies like government
+yeah okay yeah okay yeah yeah
+um and so I applied for a job at GitHub
+how many years in to the government job
+I think
+gosh I want to say four okay so about
+halfway let's say yeah halfway halfway I
+apply for this job at GitHub
+um and
+I wanted this job so was it sulfur
+sulfur Dev
+okay yeah it was working on their Visual
+Studio integration okay the GitHub
+integration with Visual Studio cool
+um and uh God I wanted this job I
+it was one of those things where like
+my dream was so big like you could see
+it
+it was such this big dream
+um and I could taste it like how bad I
+wanted it
+um and I got so far like I I talked to
+someone who
+works or worked at the time for GitHub
+they don't anymore but um I talked to
+them and they were like
+if you get an interview like it like you
+know the the whole like panel interview
+thing you know not just like the first
+or second interview but the interview
+they really spend like a lot of time
+with you he was like if you get that far
+you're pretty much guaranteed the job
+okay like they don't let people in that
+far unless they're pretty sure about
+that yeah okay okay
+um and so I got that far
+and so like my hopes are like way up
+you're like right yeah I was like I'm
+gonna I'm gonna get this job like I can
+feel it I'm gonna get this job
+um did I feel like I aced the interview
+absolutely not
+but I did I was like well I got this far
+so like this is gonna be good and um
+you know I had a few conversations with
+the hiring manager and you know she was
+like I have to say like we're really
+really conflicted about you
+um and we don't really know how to
+proceed okay and
+they
+hamdenhud went back and forth with me
+for I want to say like six months and
+then finally they were just like yeah
+it's not gonna happen six months why
+it's a long time I don't know
+but was there like constant
+communication or it was like maybe every
+month no I mean I
+you know how it is as a job Seeker you
+don't want to seem like too eager yeah
+yeah right it's like it's almost kind of
+like dating yeah should I text her oh I
+don't know I don't know I don't wanna I
+don't want to seem desperate right so
+you don't want to seem desperate at the
+same time you want to keep the the lines
+of communication open right there's like
+a fine line between like keeping the
+lines of communication open but not
+seeming desperate yeah yeah um so I I
+would try and ping like you know at
+first I pinged like once a week and then
+after a while I think I just like slowed
+down to once a month and then after I
+think like the last email I sent like
+was like probably like two months and I
+I it was mostly just like a verification
+like I just wanted I wanted them to say
+confirmed we are rejecting you yeah no
+yeah um and they did they're like
+they're like confirmed we are rejecting
+you and I was like okay but that whole
+time probably you're still working in at
+the back of your mind it's like any day
+now I'm out of here any day now kind of
+thing no I mean maybe at first okay
+maybe at first but like you know like a
+month a month of waiting you're like
+yeah you know what's happening yeah yeah
+maybe means no
+okay right interesting
+yeah do you feel that like with every
+kind of I guess job
+opportunity I mean Oprah says that so I
+feel like it's just it's just something
+that's true
+I mean it comes back to the dating thing
+if someone's not sure about you it's
+kind of like an obvious answer type of
+thing okay I like interesting so
+you apply to GitHub and how many
+I guess you have like what two three
+years left that you do at the government
+gig and then why do you apply to
+Microsoft or why and how
+Okay so
+we had
+um
+someone coming to uh Bonneville for like
+a TFS training or something okay right
+to give and to get to give us to give us
+training okay right and um I saw the
+email come into my inbox hey you know we
+we want everyone to go to this thing
+and and I was like oh
+Microsoft
+I want to work there
+but I was like but they would never hire
+me okay okay why would they ever hire me
+yeah yeah so so and then I was like they
+probably don't even have any jobs in
+Portland anyway so I you know the like I
+go home at the end of that night and
+just like on a lark
+I look up you know Microsoft jobs in
+Portland Oregon and I find one
+and Commercial software Engineers
+software engineer gig okay
+so
+um I text our friend Scott Hanselman
+and I asked him yeah
+should I apply for this job I send him
+the link should I apply for this job and
+Scott replies hell yeah
+apply for that job and he was like and I
+know the hiring manager so I can give
+you that warm introduction right I love
+a good one direction
+and like within like
+few days I was talking on the phone with
+the hiring manager and he was fast
+tracking Me For Hire what so um
+I think I had that first conversation
+with him in July
+and my first day at Microsoft was like
+September 3rd
+okay pretty pretty CR uh like two months
+like two months two months yeah yeah and
+I'm assuming a lot of that is like
+background check and stuff like that yep
+exactly
+was he was the interview process long do
+you remember
+it wasn't long at all I had three
+interviews
+um all like on teams
+um and
+they were all like like one person kind
+of asked me like maybe one hard question
+because
+like uh was like a technical thing or
+okay yeah like one one technical
+question but like mostly they just asked
+me about my experience right well you
+have a lot like a lot of it by then
+yeah so they're just like tell me about
+your experience so I told them about my
+experience and you know they they asked
+you the typical things like you know
+what was challenging about that and of
+course you lived through it so you can
+answer that pretty easily but like it
+wasn't any like live coding it wasn't
+any like did you do any of it none of
+that
+zeroyes okay
+interesting different approaches there
+yes yes
+um and then my last interview I'll never
+forget this was this guy who spent the
+entire interview just talking
+it's like about the day or something
+I've ever had
+we ran out of time withit I haven't asked you anything do you
+have any questions for me and I was like
+well we're out of time so yeah I got I
+got another thing I guess if I start at
+Microsoft I'll ask you there
+all right so do you do you hear back
+pretty
+I was like soon like right after your
+interview
+yeah I feel like it was like
+days later like maybe three days later
+um I got the phone call
+um that you know they want to give me a
+verbal offer yeah cool when you yeah
+when you saw the the like the post of
+job posting and you saw the like the
+description the response like nobody
+they call it requirements
+responsibilities whatever they're called
+did you feel like you met the majority
+of them
+but you applied anyway
+Scott told me okay
+yeah Scott told me something hilarious
+actually
+he was like you need a channel you're a
+mediocre your inner mediocre white dude
+and apply for a job you're not qualified
+for
+I think I've heard him say something
+similar to that as well
+um
+yeah I think I mean it's it's pretty
+real advice
+yeah so you went for it and you got it
+which is yeah I went for it I mean I was
+just like this is this is absolutely
+ridiculous right because like I'm
+applying for a job in commercial
+software engineering and Commercial
+software engineering
+um you know helps customers like onboard
+Azure right
+um
+had I ever used Azure no
+did I know anything about Azure no like
+of course like before my interviews I
+did my due diligence and I kind of like
+studied as quickly as I could just like
+just get some like basic concepts but
+they were very basic yeah I can imagine
+I can imagine like very very very basic
+I was like I know a C sharpall right so so you you start you start
+the new gig
+um
+do you like hit the hit the ground
+running with with work what is it what
+is
+what is the role even like what did you
+do what did it look like
+when I first started yeah
+um I was what was known then as a
+software engineer
+in industry or SEI
+um okay so so this this was Glenn this
+is kind of the funny part so like
+I left the government because I hated it
+so much right yeah and so I start
+in Microsoft in the government industry
+did you know that that's where they
+that's where they decide to put me I
+mean
+I knew when they offered it to me okay
+and I wasn't gonna like turn it down
+yeah no do what I mean yeah but I was
+like you've got to be kidding me it
+follows like I wanted to escape from the
+government and you're giving me a job
+basically like
+like still working with governmentum
+but yeah so we were we were working with
+government
+um you know we we I did a lot of proof
+of concepts for customers like I did a
+lot of like devops demos and um some
+cool sort of like cognitive Services
+demos
+um and
+um a lot of it was like
+um like you because we were assigned an
+industry and not really like a solution
+area right so like I'm I'm I would
+characterize myself as more like an
+applications developer and like I know
+very little about things like networking
+right like
+to this day I really struggle with
+networking I was just talking to some
+friends about that I was like oh
+um but I'm not a networking like CSA now
+so like it's not like part of my job but
+anyway
+um but I had like this this big
+um
+customer like within government that
+like needed a lot of like networking
+like Express routes and like v-nuts and
+all this stuff
+um and and like I didn't know anything
+about it so like you know I had to like
+find someone in CSE that had that
+expertise and then and then you know
+organize things enough to bring them in
+and give them the context and like you
+know have them work with the customer
+and like all that stuff so a lot of my
+job was uh actually like not even that
+technical because if I couldn't
+technically do the work then at least I
+had to orchestrate it orchestrate the
+that the people okay that could do the
+technical work did that mean that you
+would still have to come up with like a
+con like the concept or like the
+solution and kind of give it to someone
+else or
+no I mean what what could I say about a
+network topology so you would have to go
+find someone to do it yeah I think okay
+interesting
+how
+how frequent how common was that for I
+guess amongst the team
+pretty common I mean most often you were
+not given you know an engagement that
+had anything to do with like your
+particular skill set so a lot of the
+seis were just like we spent a lot of
+our time not actually doing
+implementations but actually like
+running around trying to find people to
+help us
+um but we also got to do like a lot of
+really fun group of Concepts so I really
+liked that that was my favorite part of
+that job proof of Concepts means
+you just built like okay so what does
+that process look like like making a
+proof concept where do you get the idea
+from is do you have like an initial
+conversation with a customer for that
+gather required yeah so like one of the
+most fun proof of Concepts I did was
+actually for Warner Brothers Warner
+media
+um and they have like you know tons of
+like video assets as you can imagine
+right and they distribute these video
+assets internationally and when they do
+that they have to you know put foreign
+subtitles right
+on on their on their uh video assets
+um and they had no real automated way of
+doing this it was all very like manually
+like done and like painstaking
+um
+and what they really wanted was to
+leverage cognitive services to
+um give them like an 80 there right they
+knew it wasn't going to be perfect right
+out of the gate
+um idioms will be messed up you you know
+you've watched probably movies with like
+that are in Spanish and you're reading
+the crappy English subtitles you're like
+yeahyeah yeah who came up with this like I I
+do the same thing when I watch Chinese
+movies with English subtitles I'm like
+like someone's talking for like two
+minutes and you get like a one sentence
+translation right like it's like never
+really what they said but anyway
+um but I get it they wanted something
+yeah yeah they want something like 80
+there
+um so they they um I had a meeting with
+a customer they they
+um they told me like hey we have this
+problem where we have all these assets
+we need to subtitle them we don't have
+an automated way to do it
+Azure has cognitive Services we would
+like to see a demonstration of this in
+action okay
+um and so I was like okay that sounds
+great it would be awesome if you could
+give me like you know some
+um sample of like some shorter video
+assets that I can subtitle for you
+um using cognitive services and they
+gave me like I think like 10
+um and
+yeah I just ran them through cognitive
+Services
+um translated them fed them back through
+a player
+um and when I showed them
+the subtitles in action like they were
+like
+whoa mind blown
+that's so cool did that lead to uh like
+a full I don't know what you call it
+like deal yeah full like real it's like
+a real thing yeah okay so they're out
+using that now did you were you part of
+the actual solution sadly no okay
+interesting so before we move on I have
+questions about that because the
+conversations with customers
+is do they all pretty much go
+the same way like or or is it like
+really like customer by customer like
+the questions that you have to ask like
+even like are some more formal than
+others like I just like what what does
+that look like
+I think like there are some people who
+are really really really good at this
+okay like I'm not gonna say I'm one of
+them okay but there are some people who
+are really good at just like asking the
+right best questions to get to the real
+root of the problem
+right like what is what is truly the
+problem you're trying to solve
+um
+and once the problem has been like
+clearly identified
+um then the trick
+is to not do what Engineers love to do
+which is just to like jump to Solutions
+right right like oh well we could do
+this we do that we could do this other
+thing like let me let me build this for
+you like let me run off and do it right
+like that's that's always what we want
+to do but
+just because you understand the problem
+doesn't mean that you really understand
+how they would like to see the solution
+right so though you have solutions that
+you can think of that would solve this
+problem you still have to ask more
+questions to be like
+you know asking things like
+okay so this uh solution that we build
+like does it have to integrate with any
+other systems I told you I love
+Integrations
+I love Integrations so like you just
+have to like integrate with anything
+else
+um
+like is there is there like you know any
+constraints that we should know about
+like for instance cost yeah right
+um and yeah so there there are these
+kinds of things that you need to sort of
+like you know explore and ask and be
+curious
+um and uh my team calls this the
+envisioning phase
+so we have like the envisioning phase
+for engagements which is followed by the
+architectural design sessions which is
+Then followed by like weeks of uh
+execution and implementation okay is
+that it was that how it was handled at
+your previous role because you had a
+different role now that sounds kind of
+similar but it's still different role
+it's pretty much exactly the same okay
+so but what what's what what's the
+difference like it's a different team
+different org it's so my team was like
+um
+spin-off okay of commercial software
+engineering so that's why we have a lot
+of the same sort of practices what my
+team did was we cherry-picked the good
+and we threw away the bad
+of the role I'm saying of like yeah yeah
+yeah yeah okay so you got the you're a
+little bit more niche
+okay I would say yeah do you enjoy it
+more this way
+yes okay
+interesting so but your title also
+changed
+yes okay so that's I guess that's where
+we come full circle because you are now
+uh
+senior CSA right CSA Cloud solution
+architect but
+use
+are really a software engineer
+with the solution architect title
+yes okay now this is the interesting
+part is here's what I want to dive more
+into a little bit more of what like the
+role looks like do do you feel like do
+you see that customers
+I want to talk about like the tech part
+of it like do customers come in knowing
+what tech they want to use
+usually typically like customers will
+come in with like they they'll they'll
+come in with like their um Tech stack
+right like we already use jira we
+already use GitHub we already use
+um GitHub actions for pipelines
+um but and where we come in is with okay
+so that's your Tech stack we can work
+with that now they want to like move
+some workloads to Azure or develop new
+workloads in Azure right so um
+we help them with that part like within
+their Tech stack
+so like we don't we don't come in and
+say sorry you're a Java shop we don't do
+Java okay or sorry like for God's sake
+the engagement that I'm on soonish is
+using
+um
+like
+bamboo
+pipelines I have not heard of that
+I hadn't heard of it either I thought it
+was an HR software what is this what is
+this like I've never seen it or heard of
+it at all
+um we're going with it yeah yeah we're
+not we're not saying no no no no you
+have to use Azure devops pipelines you
+know or you have to use terraform or you
+have to use bicep or you have to use
+this you have to use that or not we're
+not prescriptive about that kind of
+thing yeah all like pretty much the only
+rule that we have is
+you have to be implementing Azure
+workloads okay like we're not we're not
+going to help you like with your AWS or
+gcp stuff AWS or whatever we did have
+one um engagement that had a really
+interesting integration with gcp but we
+were just we just did the integration
+piece and it was just like a small piece
+so it's not like the entire engagement
+was like trying to figure out that
+integration but um uh yeah like that's
+pretty much your only role like it has
+to be azure do
+have you ever come across uh an
+engagement where like your team saw like
+oh
+like a recommendation that
+customer didn't want to implement but
+you thought was
+like a better option for them
+yes how does that go and they just don't
+want to do it for whatever reason and
+then you kind of have to just do what
+they want
+we will we will uh it's it's a it's a
+it's a fine line right because you don't
+want to seem too pushy right because
+like something we have to be very
+careful about is um
+you know we're Engineers we're not
+trying to come off as sales people yeah
+right so
+um if you push too hard on something
+then people will start to think that
+you're trying to sell them something and
+we're not we're not trying to sell them
+something see we just we um we have this
+really cool uh process that we call
+um
+I don't even know what ADR stands for to
+be to be honest but we we write these
+documents called I think it's like an
+architect architectural design record
+okay that's what it is cool
+architectural design record ADR
+um and uh we have like a like a like a
+markdown template for these kinds of
+um like files but basically uh you know
+if the customer is like I don't know if
+I want to use event hubs or I don't know
+if I want to use Kafka right we would
+write an ADR and we would go through the
+pros and the cons of each approach
+um and the document has a decider we're
+never the deciders right the customer is
+a designer so the customer will review
+this document and like you know a pull
+request right
+um because it's code
+um
+and they'll they have to read like the
+pros and cons they have to review this
+document and at the end of it if they
+decide we don't want to use event hubs
+we want to use Kafka well
+that's it that's it I'm gonna go for
+yeah that's it I understand that do you
+have you ever seen engagement where
+you just knew they could get better
+performance or I don't know cost
+optimization from one way but they ended
+up not going that way but you still have
+to implement
+yeah what happens
+yeah for whatever reason people have
+their reasons yeah I mean yeah that's
+true as well yeah I um
+I'm also super curious about the the
+team dynamic because
+um I guess
+can you explain a little bit what a
+customer what an engagement actually
+looks like because I have an idea but I
+feel like people would be interested in
+knowing a little bit more
+yeah sure so they they come to us
+um as
+um so we're in the customer success unit
+um and so we have account teams that are
+working with customers and
+um when they feel like they you know
+have you know some qualified opportunity
+um then at that point they have to like
+orchestrate teams to to execute the
+solution play for that qualified
+opportunity
+um and we're one of the teams
+that gets orchestrated okay um we focus
+on a region we are not
+um
+you know we're not too dotted line to an
+industry okay right so we work with all
+customers in Latin America we don't care
+what industry you're in for some reason
+we seem to keep getting FSI customers
+but that's not on purpose FSI what is
+that oh Financial Services industry okay
+okay cool yeah
+um so uh but we're not we're not we're
+not like any industry yeah we are any
+any customer in Latin America okay cool
+um
+and um so you know the account team will
+will contact our team and be like hey
+you know we have this thing it feels
+like it could be a pretty good Dev Squad
+engagement right and at that point you
+know my manager and his like manager
+peer will like meet with a customer and
+they'll start you know some sort of like
+General sense of the problem space like
+this is like very very high level
+ideation right
+um and if they're like okay yeah there's
+something here right
+um then at that point
+um they'll put it we have like a board
+they'll put it on our Board and they'll
+you know move it across the different
+stages
+um and we're our team can run two
+parallel engagements at once okay so we
+don't scale very well yeah
+scaling is not our Forte so
+um you know based on like where we are
+you know sometimes we we lose some of
+these engagements because they just
+can't wait for us right
+um but if a customer can wait for us and
+then when it gets to us you know we have
+some sense of like the general problem
+space and then we'll have you know a
+week-long envisioning where you know I
+sort of already talked about that
+um we try to really drill into like what
+is the problem
+and what do you want your solution to
+look like like what
+problems does it have to solve what
+constraints are we dealing with
+um and then we move on to the
+architectural design session another
+week
+um where that's when we actually start
+like drawing architecture
+um and you know
+just figuring out the entire landscape
+of what it is that we're going to be
+implementing and then after that we have
+six weeks of
+execution
+um and we do one-week Sprints which it
+took me a long time to get on board with
+this to be honest
+but yeah one week
+um
+it feels
+like a Mad Dash I can imagine the whole
+time the whole time yeah you're just you
+just feel like you're like literally
+like like the crazed person seeing the
+train coming and like laying the tracks
+down
+but there's like the speeding locomotive
+coming and you're just like I have to
+fill this train uh train track
+um so yeah it's uh it's it's pretty
+intense uh but yeah for those six weeks
+we do one week Sprints um we we do
+weekly demos
+um we are working towards that sort of
+finished
+um architecture that we drew the second
+week
+um and of course like the architecture
+changes as the engagement goes on
+because you have to make
+um adjustments as you go but like
+generally speaking that's like what we
+are aiming for yeah but at what point is
+there like uh
+I'm assuming I have to sign some sort of
+agreement or a contract or for this
+engagement to happen or what does that
+look like
+[Laughter]
+it's just something that you don't worry
+about you just do you just build the
+stuff out pretty much at some point
+someone's probably signed something
+illegal's been involved but I don't know
+how that works but that's yeah that's
+cool because that's the part that
+worries me about the like social Arctic
+World in general is I don't really want
+to have to get bogged down with oh we
+got to get you to sign this we got to
+get you to get hit this number or
+something like that yeah yeah the good
+thing for my team is that we don't have
+to worry about like quotas yeah right I
+don't have to hit some number of you
+know consumed Revenue
+I don't have any Targets like that
+um and so again
+um you know I feel like I helped confuse
+you about solution architect roles
+absolutely I'm still confused
+and the the honest thing is that like
+though my title is solution architect
+I'm I don't act like one yeah so it's I
+only have this title because I'm in the
+CSU and there's no other title they
+could really give us yeah and that's for
+what we do but that's more like a like a
+paperwork kind of issue than actually
+like what you do it's not like yours you
+call the Social architect because that's
+what you're doing
+yeah yeah they'd probably have to like
+do some sort of policy change to change
+your the team's title yeah and I I did I
+did worry about that a lot when
+um I was looking at this particular role
+um I was also looking at another role
+within Microsoft which would have given
+me an engineering title
+um and I would have been
+um
+like in Scott Guthrie's organization
+okay so that feels like oh yeah
+like aligned right I'm an engineer
+you're in I'm doing engineering work my
+title is engineering like all all lined
+up
+um
+ironically that role was very little
+Hands-On keyboard coding yeah see this
+is the thing but I think
+Tech in general is like roles are just
+all over the place
+yeah there's like no you like when you
+target something it's like you can't
+just say I'm preparing for this role and
+it's going to be universally applied
+like no it really is it can be like
+company and in our case team to team
+or or to order no I guess to the team
+might be a good description yeah yeah I
+mean there there are csas in Latin
+America for sure that would look at me
+and look at what I do for my job and be
+like wow that's not what I do yeah it's
+like it's not a CSA yeah fascinating I
+well we've been chatting for a while now
+and I'll keep you on too too much longer
+I really appreciate the the conversation
+I wanted to see if there's anything that
+I feel like we covered like a lot here
+um
+and someone asked like oh if we wanted
+to roll simmer to what you do like what
+to look for at Microsoft but again I
+think it's just
+just read the descriptions because
+I couldn't tell you I mean I'm a
+software engineer but like you mentioned
+like there might be some engineering
+gigs that
+don't Implement as much or aren't as
+Hands-On as like your role as a CSA
+uh oh here's a fun question
+how important is Bash
+for for your role
+extremely okay interesting script like I
+guess we could say scripting if we want
+to make it as like General as possible
+but it's something extremely you use
+every single engagement
+yes okay every day every day ah see this
+is everything I love to hear
+have you every day in that has that only
+been at Microsoft did you use it
+previously
+it's only a Microsoft and um because
+like you know previous to working at
+Microsoft I was always on Windows and
+you know I had to do some like
+Powershell stuff but like you know I
+didn't I I had a vague understanding of
+what bash was like but very very very
+vague yeah and only in the like God I
+hope I never have to do that
+do you like it
+I do okay I do but um when I started
+working at Microsoft and um
+you know I mean so much of what we do
+is like running on Linux yeah if you
+want to avoid Linux and work at
+Microsoft
+like there are very few jobs you can
+actually do yeah I mean in an
+engineering sense right yeah I mean I
+saw a stat recently and this was from
+2020 so it's definitely more than that
+like of customers who have workloads in
+Azure more than 50 of those like when it
+comes to compute obviously are running
+on Linux
+so you know and that's that's that's got
+to be higher now so you can't really
+Escape it do you off the top of your
+head like what are some things that you
+use bash for
+well I run Windows
+um and I use WSL
+um and
+like
+windows I use for Outlook teams
+and Internet Explorer okay and one note
+okay one note
+that's it I do love OneNote
+um all of my other work happens in WSL
+okay so you're like all of my
+development happens in WSL
+um like all like pretty much all my work
+happens over there so like you know gosh
+I mean as soon as I open it like I have
+to like you know even code dot yeah or
+even just move them around yeah yeah
+yeah yeah okay so I'm assuming yeah
+pretty comfortable working with like
+different clis and like stuff like that
+in general yeah I mean like you know we
+use terraform a lot
+okay okay I guess I should ask you like
+what is like the absolute basic skill
+set that someone who wanted to go and
+come into a role or get into a role like
+yours need
+I would say like for my team
+um
+like really all you need is the hunger
+to learn
+and this is like a dream
+open-mindedness to tackle anything yeah
+right so like I think that
+when new people join our team and we've
+had a number of new people start on our
+team since I've been on which like uh
+almost two years now and um
+I've I found that you can
+split people into two groups
+people who just immediately jump into
+the pool okay
+and people who stand by the side of the
+pool and stare at it for a long time
+and I only want to work with the people
+who jump into the pool okay
+so like that's what I'm looking for I'm
+not looking for someone who knows python
+Java bash like Azure workloads I want
+someone who will just jump into the pool
+okay like that's that's that's the
+quality that I would look for like in
+anyone that I work with someone who's
+just like you know like the the last
+engagement that I worked on we had to
+use API management
+um and uh it was such a big part of this
+engagement we had a whole work stream
+around API management and I led to that
+work stream prior to this engagement I
+had never even known what it was
+you have I didn't even know it was a
+thing
+with engagements there's there's time
+factored into to upskill I mean you only
+have six weeks so what does that look
+like it's like literally that's what I
+said you're like crazy you feel like a
+crazy person laying down the tracks for
+a steaming locomotive coming straight
+for you that's what it's like you just
+but the cool thing is so like our team
+has this model that we call code with so
+we are coding with our customers like
+hand in hand
+um they bring their own like business
+and domain knowledge and we bring the
+Azure knowledge and we work together
+right okay so after we engage they can
+just take over where we left off there's
+no there's no maintenance tale for us
+right so that's the whole idea yeah but
+the cool thing about uh you know when
+we're like
+okay you're going to be using you know
+these workloads we're not like though we
+are uh you know the Microsoft experts
+um you know we we can be really open and
+transparent about like our own like
+lack of knowledge about them and we can
+just say let's learn together
+and so they can they get the experience
+of like learning hand in hand and coding
+hand in hand
+um and that and knowing that it's all
+okay
+right so it's like it's okay to not know
+it's part of the the role to an extent
+yeah like just embrace it between
+engagements is there is there down timethere has to be yeah because these
+engagements are so intense
+okay I I feel like when I'm in the
+execution phase of an engagement I'm
+just sitting here at my desk sweating
+non-stop for six straight weeks
+that's what it feels like I'm literally
+like sweating
+for six weeks
+it's just it feels like that much like
+stress and pressure
+but it's also fun like I don't wanna
+I don't want to make it sound like that
+it is fun I feel like yeah
+I mean I can tell you enjoy it
+definitely just tell that you you thrive
+like that's the thing you wanted to do
+do you is this like
+the type of stuff you want to keep doing
+with your career long term
+yeah I mean the cool thing about
+the dev Squad is um like I was I was
+talking to someone
+um who is relatively new
+um to Microsoft and like is a recent
+grad
+um and they're already kind of feeling
+bored with their job interesting and
+I was like
+I mean I know how that feels
+and that's not good yeah but the cool
+thing about my job is that it literally
+can never really be that boring are all
+the do you see any similarities across
+engagements or is it really everything
+just completely different
+I mean
+one thing that seems to repeat
+constantly is kubernetes oh my God okay
+maybe that's something so much
+kubernetes
+every time we're doing like an
+envisioning and I'm like oh my God there
+it is again
+that icon
+I remember you commented on on something
+like when no one knows kubernetes
+they're lying yeah
+that's true okay maybe that's something
+for people to look out
+on on if they are interested do you feel
+like your role
+is entry-level friendly I don't think so
+but I would like to hear your opinion
+I think it is you do okay what do we
+consider entry level like someone who
+spends six months learning the skills no
+Tech experience
+yeah I mean like I said the quality I am
+looking for is someone who is
+open-minded and willing to learn this is
+what I this is what I cannot stand
+I cannot stand it when someone is like
+oh I'm an expert in XYZ therefore I
+cannot do ABC okay okay good to know
+that kind of like I mean like at
+Microsoft we talk about this all the
+time the whole like growth mindset thing
+right so someone who is just like this
+is what I do I don't do that they have a
+very fixed mindset right they're
+unwilling to
+make a leap or do something different or
+whatever
+um and so for me I just want someone who
+is willing to take a risk yeah okay just
+try just try it sounds like people might
+have more of a more of a problem
+actually Landing the interview then
+figuring out the role because if they do
+get into the role it sounds like they're
+pretty much set up for success as long
+as they have the right mindset
+and I guess yeah I mean our team
+yeah our team is like I've talked to you
+about our team like we are all like
+very supportive
+you know experience can vary right
+across our team like some people have
+more some people have less it doesn't
+seem to matter we all just support each
+other so like you know if I can see that
+you know you're trying
+and you're learning and like you need
+help like help will be there okay it's
+good to know it's good to know all right
+I want to wrap it up there I think we
+can generalize the advices of you know
+go for it just apply as cliche as it
+sounds I mean you just applied I mean
+you got it you got it you got it I I
+still have no idea why they hired meI love it I I appreciate you taking it I
+took so much of your time but I could
+talk to you for hours about this such
+interesting stuff
+um I'm sure we're gonna get I can come
+back no I I was about to say people are
+gonna have more questions I feel like
+they're really gonna appreciate this
+conversation and maybe you'll be like a
+recurring friend of the channel or
+something like that uh but thank you
+and everyone leave your questions in the
+comments and then we'll see if we get
+another another one of these out
+and uh peace out

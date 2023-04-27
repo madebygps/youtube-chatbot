@@ -1,0 +1,260 @@
+hey everyone today we are covering three
+cloud roles i'm going to try to outline
+a potential career path into these roles
+certifications that might be helpful and
+sort of skills and responsibilities
+you'll be using day-to-day
+i'm going to try to cover like the most
+popular ones that i get asked about but
+if you have more suggestions for roles
+that you want to see me cover that
+aren't in this video let me know in the
+comments
+uh two things i want to mention before
+we dive into it i know cloud engineer is
+probably the most popular role out there
+i just want to say that cloud engineer
+is extremely generic at one point in my
+career i was a cloud engineer all it
+really means is that to some capacity
+you're going to be working with cloud
+infrastructure and cloud platform and it
+could end up being any one of the roles
+in this video or even roles that i don't
+mention in this video
+so yeah keep that in mind and second
+your potential in landing any one of
+these roles will increase exponentially
+if your people skills are on point
+if you can interview well if you can
+communicate your technical skill set to
+a technical audience and to say like a
+business team or to a team that doesn't
+interact with the tech stack every day
+overall if you're just someone who
+people enjoy working with
+you're going to have a better chance at
+landing these roles right
+all right with all that out of the way
+hi i'm gps and welcome to a new video
+all right let's kick things off with
+cloud administrator so if you're a cloud
+admin you're someone who's focused on
+maintaining already existing
+infrastructure
+that your company or has in place maybe
+it's been developed or built by a
+different team and then your goal is
+really to just be there and making sure
+everything's smooth sailing on the
+day-to-day in terms of a career path if
+you're already sort of like maybe a sys
+admin a network engineer in some sort of
+operations role you can 100 leverage
+your existing skills and talent into a
+cloud admin role uh helpful
+certifications would be the aws
+solutions architect associate level
+the azure administrator az az104 and
+then google has the google cloud
+engineer
+this is the only associate level uh
+certification that they have available
+so i'd recommend taking a look at that
+pick the one for the cloud platform that
+you're interested in
+when it comes to administration related
+certifications it's more about sort of
+having a wide range of knowledge a bunch
+of different cloud services instead of
+going in depth with any of them
+cloud admin roles tend to be more entry
+level friendly
+which is great for people are looking to
+break into
+the space but that's also why they
+expect you to have sort of wide range of
+a bunch of different services instead of
+being like an absolute expert in maybe
+like a smaller range or things like that
+right
+you're going to need to be able to uh
+like you know understand infrastructure
+and application monitoring uh things
+like new relic data dog azure monitor
+aws cloudwatch et cetera
+in your day to day you could find
+yourself reviewing or querying
+monitoring data making sure
+infrastructure your applications are
+running smoothly and as expected
+you're going to need to script tasks
+with some sort of scripting language
+python bash
+or powershell
+you know things like creating new user
+accounts new cloud accounts
+with the proper permissions or uh
+perhaps creating infrastructure that
+someone else or some other team has
+provided for you
+you're going to also need to be able to
+work with other you know other team
+members or maybe it's a different team
+things like that to understand how you
+should maintain new infrastructure
+that's being built or implemented
+and things like that and you're going to
+need to know how to work with cost
+management and budgets
+implement new budgets for new projects
+and generate reports on
+costs if someone asks you hey like how
+much did this service cost
+the past two weeks you need to be able
+to generate that report
+uh i think that's pretty much
+what a cloud admin does
+all right on to the next cloud architect
+so a cloud architect is someone who is
+focused on planning
+a
+well-built
+cloud solution cloud project uh they're
+often
+i would say maybe like i don't know 90
+of the time people with years and years
+of experience and people who have
+on other projects been like the
+developers the the administrators or you
+know what not
+because when it comes to architecting
+you need to be able to answer the
+question like what's the best tool for
+this job and if you haven't worked with
+like a bunch of different services on a
+bunch of different projects you won't
+know it's just like inexperiencing right
+so they're not as
+entry-level friendly as other cloud
+roles so just keep that in mind so in
+terms of a career path you could
+probably leverage if you're already in a
+cloud role uh your years in a cloud role
+into a cloud architect
+uh role but again
+it's probably gonna be hard if this is
+something you're interested in as
+someone who's new to the space but some
+helpful certifications would be the
+microsoft certified azure solutions
+architect expert i believe it's two
+certifications and then there's the
+google professional cloud architect
+and then there's the aws solutions
+architect pro i think all of these
+actually require two certifications the
+google one may not i
+google it i'm not 100 sure
+that one but yeah you're going to need
+to like design monitoring design
+security solutions to kind identity
+design storage design business
+continuity design infrastructure
+everything so if someone tells you hey i
+have this application i need to deploy
+everything that goes around it how
+people access it how do you just secure
+it where just where is the storage going
+to be like what regions do we need to
+deploy and what yeah like what are our
+disaster recovery plans all of those
+things you need to be able to design
+those things right
+so this is why it's sort of necessary to
+have a good knowledge of an entire cloud
+platform like in and out you need to
+know that thing in and out on to the
+last one for this video which is cloud
+developer uh so a cloud of air player is
+someone who is focused on sort of
+building solutions using cloud services
+uh and if you
+like to program and code and things like
+that this is the role for you
+in terms of a career path if you're
+already say a software dev or in a role
+that you program a lot you could
+definitely leverage those skills and i
+would also say that developer roles are
+entry level friendly maybe not as much
+as admin roles but
+so pretty friendly
+so some helpful certifications for here
+would be the aws certified developer
+associate and the azure developer which
+is the 204
+and i think
+google professional
+developer cloud developer or something
+like that they don't have an associate
+level one i don't know why google's like
+that that's just the way they are um but
+yeah you have those certification
+options pick the one for the platform
+that you want to learn
+you're gonna need to
+understand uh
+application monitoring so similar to the
+admin that the admin is a little bit
+more focused on infrastructure you're
+going to need to be more focused on
+application because in your code when
+you're developing solutions you're going
+to need to be able to code things that
+will send
+logs and data to your monitoring things
+like that uh you're gonna have to be
+able to work with
+i said that weird you're gonna need to
+work with
+uh command line tools so your cloud
+platform via command line tools
+and uh also work with your cloud
+platform and your cloud services with
+sdks software development kits
+all cloud platforms have different sdks
+whether that be java c sharp python
+javascript things like that uh build
+server solutions so getting hands-on
+with something like aws lambda azure
+functions it's definitely a plus low
+code and no code solutions is also
+something i would recommend looking into
+things like logic apps or the power
+platform when it comes to azure
+i think aws has like
+step functions or cloud functions
+something like that
+but yeah low code and no code is sort of
+definitely something that you can
+leverage here uh storage and messaging
+solutions like you need to be able to
+save data somewhere get data from
+somewhere and messaging is sort of the
+services that will connect all your
+things together so understanding
+messaging uh and database services as
+well
+and of course you're gonna have to build
+your solutions in a secure manner so
+understanding how applications can
+implement security uh to like log in or
+access other cloud services is important
+for you to know as well
+and that is it for this video i've
+covered three if you want me to cover
+more maybe we'll turn this into a series
+or something like that just let me know
+in the comments thank you for watching
+and i'll see you in the next one

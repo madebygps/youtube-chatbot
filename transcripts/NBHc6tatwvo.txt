@@ -1,0 +1,123 @@
+all right so the simplest way i can
+define a cloud engineer is you're the
+person who makes
+sure a solution is running efficiently
+in the cloud now
+how early on in the life cycle of a
+solution you're involved
+in really depends on how your cloud team
+is allocated and structured
+at your company so say it's a small
+company
+and there's just you as a cloud person
+then you're going to be involved from
+the very beginning you're going to be
+solution architecting you're going to be
+provisioning development and staging
+and production environments and testing
+and all the cicd pipelines and once
+it's time to deploy the solution you're
+going to make sure that
+all the administration and monitoring
+tasks are set up
+for success and it's running well and
+then as there are updates
+to the solution you're going to be
+making sure that it still runs the way
+it's supposed to run
+right now being a cloud engineer at
+company a
+could look very different than being a
+cloud engineer at company b
+and it's just the nature of the field at
+the moment you know the role is still
+relatively new we're also trying to
+figure out
+who does what but at the end of the day
+in every role
+there's a lot of like even roles outside
+of cloud engineering just think like
+software devs
+software dev company a will look
+different than a software dev
+a company b but you can use this to your
+advantage because
+if say your work at a small company and
+you end up working on every stage of
+what a cloud engineer should be doing
+say you do some solution architecting
+say you do some administration
+um then you get that hands-on experience
+and you kind of get a feel for what you
+like doing i know this was my case
+i worked at a place where i got to do a
+little bit of everything and
+i ended up realizing that i really like
+solution architecting
+and now that i'm on my own i'm picking
+up clients where i could specifically do
+situations and problems and solutions
+where i'm
+solution architecting um so yeah use it
+to your advantage
+it could be sometimes frustrating but
+you know it is what it is right
+in terms of certifications that i
+recommend it's hard to give
+super general advice but what i will say
+is if you're brand new to the cloud
+get whatever the entry level
+certification is so for example for
+azure it's the azure fundamentals for
+aws it's the certified cloud
+practitioner
+from there i recommend looking into
+the and the associate level uh
+administrator exam so
+for azure would be the az-104 and for
+aws it would be i believe it's the
+solution architect
+associate because those certifications
+give you
+a wide level of high level knowledge
+so you get to play around with a bunch
+of services without necessarily focusing
+on anything too much but
+while you're studying for that
+certification kind of get a feel for
+which services you enjoyed
+and then which ones you would want to
+focus in on a little more so maybe you
+take the az-104 and you realize i really
+like learning about the developer tools
+or i really liked learning about
+security or i really liked learning
+about the solution architecting part so
+from there
+you can pick the next certification and
+really
+like focus in on the material that you
+enjoy again
+for giving general advice it's kind of
+hard everyone's in a different stage at
+their career but that's i guess
+the most general advice i can give and
+you don't have to follow it
+exactly i know personally i'm not
+following my own advice
+i had a few years of hands-on with azure
+and i knew that i really wanted to learn
+about solution architecting more
+so i'm studying for the 303 and then i
+plan on circling back to the 104
+up so that's just how i'm working but if
+i were to do it again
+i would do 104 and three other if you
+want to talk cloud
+hit me up on twitter madebygps
+or catch me on a live stream i've been
+studying a bunch of different topics
+right here on my youtube channel live
+and yeah
+i will see you in the next video thanks
+for watching

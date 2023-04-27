@@ -1,0 +1,267 @@
+cloud architects are the people that are
+in charge of translating business needs
+into
+cloud solution blueprints while
+implementing best practices when it
+comes to cloud computing and also
+respecting the needs and requirements
+and limitations that customers have and
+on top of that offering recommendations
+that customers might not even think
+about right
+so this is why
+whenever someone asks me hey gwen i'm a
+complete beginner to cloud and i'm
+looking to land a cloud architect role i
+tend to tell them that architect roles
+typically require years of experience
+and aren't really beginner friendly i'm
+not here to discourage you if you feel
+like you meet the requirements by all
+means go ahead and apply
+i just feel like beginners get confused
+because of two reasons one cloud rolls
+are
+extremely vague and not very well
+defined and and two i think one of the
+most popular certifications out there
+for cloud beginners is the aws solution
+architect associate and once they pass
+the the certification they think like oh
+i have to go get a role that has that
+architect name in it right um but anyway
+in this video i'm gonna explain what
+architect does and some resources that
+you can use to improve your architecting
+skills
+with all that being said hi i'm gps and
+welcome to a new video all right so in
+the intro i gave you a definition of
+what a cloud architect is uh so let me
+give you an example now so let's pretend
+that i am the cloud architect on my team
+my manager comes along and she tells me
+hey gwen we've been told that there are
+two team members on a different team
+that currently spend about two to three
+hours downloading some files that are
+generated from a product that we own and
+then submitting those files to an
+external website
+and we've been tasked with automating
+this can you please come up with a
+solution on how to implement this right
+so right right now what i want you to do
+is pause this video and kind of think
+about what would be your next step right
+and while you're at it make sure to like
+and subscribe and share this video with
+someone who is interested in cloud
+computing okay
+so anyway let's get back on track here
+um
+if your first thought is like oh i could
+probably code something i could probably
+containers cicd pipelines all these
+kinds of things and you know slow your
+role right because let's think about
+what we know here we know that files are
+generated from a product that we have so
+we know where the files come from and
+then we have two team members that are
+grabbing those files in manually uh
+submitting them to an external website
+right so we know where the files come
+from so we know point a and then we know
+point b where they need to end but we
+don't know anything about the middle
+ground there right and that's our task
+as a cloud architect is to have these
+conversations ask the right questions
+and to pair project requirements with
+cloud services that are out there right
+so for example
+cloud there are i think 10 container
+services that you can use to deploy
+containers on azure and that's just
+azure alone how do you know which one is
+the right one for your solution
+half of that is understanding all the
+the possible services that are out there
+and you know understanding the pros and
+cons use cases and all those kinds of
+things and part of those and the other
+half is understanding the requirements
+of your project right so for example
+let's say we've decided that what we're
+going to end up doing is having the
+product that we own that generates the
+files
+save those files to a blob container
+that has a hot access tier right then
+we're going to have two azure functions
+one azure function is going to process
+file submitted to the external website
+and then the second azure function is
+going to grab the processed file and
+move it to a blob container that has an
+archive accessed here because we want to
+save money of course now
+we've figured that out but what we need
+to now figure out is what is going to be
+in the middle of those two functions
+that are going to allow them to
+communicate
+typically this is implemented with a
+messaging service and when it comes to
+messaging services one of the first
+questions we should ask is are we
+working with messages or are we working
+with events and this isn't something
+specific to azure this is specific to or
+general for all messaging services out
+there right so messages typically
+contain some kind of raw data and these
+this raw data is either going to be
+stored or is used to tell the
+application that's going to consume the
+message how to consume it or what to do
+with it right and then events are more
+like lightweight messages and they're
+usually just used to like signal that
+something's happened the state has
+changed the status has changed and they
+don't really care about how they're
+consumed right so in this case when we
+think about our function our first one
+is going to tell our second one hey this
+file is ready to be moved to archive
+this is the name so we're going to stick
+with messages here now through our sort
+of triaging and having conversations and
+figuring out what exactly needs to be
+automated we've also learned that we
+don't care about the order of these
+files
+we just care about them being processed
+at some point right then being moved to
+storage archive once they've been
+processed at one point at some point
+right this is important because
+services messaging services that have
+these ordered guaranteed features first
+in for style fifo fifo tend to be more
+expensive
+so in our case something like azure
+service bus which uh guarantees order is
+probably or overkill for a solution so
+we can save some money if we use
+something like azure storage queues
+which guarantees delivery delivery at
+least once well messing up my words
+there anyway so this is the kind of
+mindset and the kind of questions that
+you have to learn to ask half of that is
+you know understanding the services and
+half of that is understanding the
+requirements and these are things that
+you just kind of pick up along the way
+using different projects using different
+services and things like that right but
+then you have to multiply that across
+not just you know which messaging
+service which compute service uh which
+storage service which networking service
+all these kinds of things right if your
+customer wants a traditional model and
+you figure out that using a service
+model not only meets the requirements
+but saves them money you should be also
+able to
+advise that recommendation so this is
+why
+cloud architect roles tend to require
+years of experience now again following
+up with what i mentioned that cloud
+rules aren't really defined
+a cloud architect at a large company
+might be really just tasked with
+architect tasks while a cloud developer
+at a small team might be doing the
+architecting a cloud architect that a
+small team might be also doing the
+development and the implementation
+things like that yeah so
+it's a very gray area there um
+but
+all this to say arctic rules tend to
+require years of experience
+anyway so now that we understand what a
+cloud architect does and sort of what
+you can expect in terms of like things
+that you should know how do you go about
+building this skill set well yes i think
+there's maybe three or four things i can
+probably say here one is that every
+single cloud platform out there is going
+to have an architecture center go spend
+a lot of time in them i was recently
+just looking at one
+right before i was working on this video
+because i wanted to see some
+architectures that implement uh
+container apps
+oftentimes these architectures will have
+diagrams alternatives considerations
+even steps on how to implement
+architecture
+go take a look at that two is read lots
+and lots and lots and lots of
+documentation for example in that
+container
+service like 10 options for containers
+that i mentioned for azure you could
+read documentation of all the 10
+container services there are also like
+comparison docs which will say when to
+use for example this one on on like when
+to use aks azure kubernetes service over
+azure container instances over container
+apps and then you can sort of dial it
+down and then go read the documentation
+on the specific service but hey if you
+have downtime
+by all means go and read just random
+documentation it's great um the third
+thing here would be to experiment on
+your own in terms of like if you have
+projects that you've already built and
+you you know how it works and you know
+the expected behavior grab one of the
+services that you're using there and
+just swap it out for a different service
+and see what changes is the
+is it more expensive is it least
+expensive is it not as efficient what
+anything that you can sort of figure out
+and learn from that
+learn and document this is my fourth
+recommendation here
+write write a lot because your ability
+to communicate ask questions and to
+express and explain your solutions is
+going to matter as a solutions architect
+and of course get certified i'm a big
+fan of certifications uh azure has
+solution architects certifications so
+does aws go and take oh so is gcp sorry
+i don't use gcp much as an example
+because i don't have any experience with
+it um
+but it's it's just less important right
+so go get certified um yeah that's
+really all the recommendations i have uh
+i want to make more videos about cloud
+rules so let me know which ones you're
+looking for
+and that's it for this video

@@ -1,0 +1,282 @@
+alright hello everybody today I'm gonna
+show you how to integrate as your
+functions with your key ball I'm going
+to try to keep it super simple not
+wasting anybody's time so let's get
+right into it
+thing i need to do is actually create a
+folder
+and then we're just gonna open that up
+in visual code perfect and first thing
+we got to do is create an azure function
+so we'll click this create function and
+we'll use the current folder that we're
+in perfect I'm gonna use c-sharp because
+it's my favorite this of course will
+work in any language you decide to use
+and all these defaults are fine so I'm
+just going to hit the default options
+that are selected when you create a
+function and I guess we have to fix
+these visual code errors that I have I'm
+gonna have to reinstall visual code or
+something because I get these errors all
+the time
+I still love visual code don't get me
+wrong all right so you know when you
+have an application you typically have
+somewhere to save environment variables
+for C sharp and dotnet you have the
+local that settings that JSON so I'm
+gonna give you an example here if I
+create the value called let's actually
+call it first name and then we'll say
+this is Gweneth just going first name so
+if you go back to the code itself and
+we're actually going to erase all of
+this because we don't need any of it we
+can create a variable called string
+first name equals system dot and fireman
+dot get environment variable and just
+get the environment variable named first
+and then we're just gonna print out the
+variable perfect so let's run this and
+let's see what happens when we actually
+execute the function this should give us
+a URL shortly then we can command click
+on it and get right to the function
+perfect and we see we're opening up the
+function and we see
+Gweneth perfect so let's go back to the
+function and we're gonna stop this now
+the issue here we have two things when
+you deploy and as your function actually
+to Azure to a production and by
+this file local that settings that JSON
+does not get pushed this only stays on
+your local machine where your locally
+developing and that's for good reason
+because you would never want to push
+something that actually has these
+environment variables easily accessible
+so that's where key Balt falls into
+place so what we're gonna do right now
+is just deploy this function to measure
+so we're gonna do deploy to function app
+and we're gonna select create a new
+function and we're just gonna call
+integrative kv func - we call it -
+because i think i was messing around
+with this before then it just asks for
+the location so let's go to cue ball
+we're gonna create one of those we're
+gonna create a new key vault and we're
+going to create a new resource group
+integrate kv func
+shin research group and then we're gonna
+call the integrate the key ball
+integrate kv funk
+perfect east us to is best for me
+standard okay
+you can leave everything else as is hit
+review and create and create that hit
+create awesome now your deployment is
+underway perfect let's see what the
+status of the deployment of the function
+is it's on step five out of five ok so
+right now it's just a waiting gamealrighty so back in the function it
+looks like it deployed and we're gonna
+go over to Safari and the keyboard also
+so let's finish up the setup in the key
+ball so keep all this cool read up on
+the documentation you can store keys and
+secrets and certificates and all that
+board just interested in secrets right
+now so we're gonna go up here and create
+a new secret we're gonna name it first
+name and the value is just going to be
+my first name
+we don't need any of that we're just
+gonna hit create right now perfect
+we're gonna hit refresh and if you
+actually click in there you'll see you
+have a current version and if it's
+enabled and all the other details that
+you need every time you create or you
+update secret you're gonna get a new
+version so we actually click click into
+the current version we see we have some
+details here but the most important
+property is this URL that we're going to
+need soon but we don't need it at the
+moment so we're gonna let that be we're
+gonna open up another another tab into
+Azure and we're actually going to go to
+the function the function that we just
+deployed so let's go to function app and
+I remember it's number two so we're
+clicking to number two and I'm going to
+show you where you would see your
+application settings so you go in to
+make sure you're at the plan level and
+then you're gonna hit function app
+settings and then you're going to go to
+manage application settings once you're
+in here you can see that you have a very
+similar value to the local dot settings
+a JSON file you have a name and value
+and if you click on advanced edit you'll
+have a format that's a lesson right so
+right now what we need to do is update
+the variable that it's going to put that
+the function is actually pulling so
+first name and it's Gweneth right so
+before I actually save this we're going
+to I'm gonna access the URL of the
+function and show you that it doesn't
+pull any value because it doesn't know
+it doesn't have that name and value pair
+set anywhere so if you go into the
+function itself you can pull the URL you
+can grab the URL here and just paste and
+go and you see that it returns no value
+because it doesn't know what to do it
+doesn't have anything to return so back
+into the application settings again we
+added first-name goeth and we're gonna
+hit save continue so this should update
+andwe're gonna do yeah I think this is
+right now we're load and load and load
+in come on I think every time you update
+your application settings it restarts
+the function so it takes a little longer
+to get called once it's starting up so
+you see now we see the value on earth if
+we were to change this it would update
+it as well
+now the only issue here is again you
+have all this information sort of just
+displayed all the person who's working
+on this has to do is click into
+application settings of the function and
+you'd be able to see this value but this
+isn't as secure as we could make it what
+if we were able to abstract it one level
+more and that's what we're actually
+going to do now so let's go back to the
+function app itself and we're gonna go
+into platform features and we're gonna
+go into identity under system identity
+you're going to select the status and
+you're gonna turn that on save what this
+is enabling the function to do is it's
+allowing itself to have the feature to
+have policies assigned to itself so you
+see here you can control its access to
+services like resource manager key ball
+etc right awesome so now we have
+everything that the function needs to be
+able to work with the policy we just
+have to assign a policy to itself who is
+going to give the policy the Keeble so
+now we're gonna go to the key vault did
+I have the key vault open yes I do so
+we're gonna go over to the key Balt
+overview and in the keyboard itself
+you're gonna go to access policies and
+you're going to add an access policy
+configure from template yes we've only
+wanted to have access to secrets
+so that'll already check these off here
+and then you're going to select the
+principal principal just means which
+identity is assuming this policy and
+it's going to be our function it's a
+great and it's number two here and then
+just hit select
+and then ya hit add awesome then you hit
+save great so now we have that
+connection there the function can listen
+to the policy and the policy has been
+assigned by the key ball perfect so next
+up we have to actually do is get into
+the secret remember I told you that
+we're going to need the URL inside of
+the properties well now we're going to
+use it so the secret identifier
+you're gonna copy that and you're gonna
+go actually back to the functionsapplication settings so we'll go to
+function app again settings and then
+we're going to go to manage application
+settings come on manage application
+settings and we're gonna do an advanced
+edit just because I like this editor
+better than this one so in here the
+value isn't going to be going it anymore
+we're gonna need to paste in the URL but
+Microsoft actually has a format that
+you're supposed to follow I'm gonna
+leave this link which is the just an
+official Microsoft documentation page
+and they give you the URL that you're
+supposed to format things in so if you
+see it says at Microsoft key what secret
+you are you are I and then just the URL
+that we copied so I'm just gonna copy up
+until here a copy and then we're just
+going to paste that in so here we go
+paste that in there and we just have to
+close that perfect we're gonna hit OK
+and then we're gonna hit save hit
+continue
+awesome so again that has to save and
+restart the function so we're gonna
+close these what we're gonna keep that
+one open we're gonna close that and
+we're going to keep looks like updating
+web app settings was successful so if we
+refresh this it's pulling gwyneth but
+let me show you one thing is what if we
+want it to update all right so let's go
+back into the key ball
+and the secret we're going to add a new
+version we're gonna say it's now GPS my
+initials and then we're gonna hit create
+now the one thing that's a little
+tedious is every time you update a
+secret you have to manually update the
+URL in the application settings
+I know Microsoft is working on how to
+work with like the rotation of keys and
+secrets but I don't think it's been
+implemented yet so we just have to do it
+manually so we'll go into that and then
+we'll update the URL and then hit OK
+then hit save then hit continue come on
+come on
+awesome so now if we refresh this page
+oh I think it's restarting we didn't
+give it enough time so we'll see it's
+sort of stuck loading there there we go
+and now we see GPS can you see that yes
+awesome so what does this all mean this
+means that in your application settings
+you no longer need to provide the value
+you just need to provide where the
+secret is located inside of key vault
+again as long as your function has an
+identity and the function is assigned a
+policy from the key vault you can get
+these working fine and I think it
+abstracts the certain responsibilities
+of security like you don't have to hard
+code any important credentials or
+anything into your code you can just put
+it in key ball and I think it's a very
+helpful and useful tool to have yeah I
+try to keep this as short and sweet as
+possible and I would like to continue
+making more videos on Azure so you have
+any recommendations please just let me
+know and I will maybe see you in the
+next video I don't know

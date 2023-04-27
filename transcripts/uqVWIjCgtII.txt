@@ -1,0 +1,265 @@
+hey what's going on everybody today i
+want to list five mistakes that i've
+seen that are sort of like popular or
+common um when people are getting into
+cloud
+i sort of just based this on my
+experience of being i guess part of the
+community but also working in the space
+for almost like five years now uh with
+all that being said hi i'm gps and
+welcome to a new video
+alright so the first one is not using
+budgets i have several videos about
+budgets talking about how to implement
+them and i think like the biggest
+mistake that i made in my cloud
+engineering career was i think i got a
+bill over
+over like a grand maybe a grand two
+grand because i forgot to
+uh delete resources and i would have
+been alerted if i had budgets in place
+but i didn't have budgets in place right
+so here we are but i would say yes
+absolutely make sure no matter like what
+quantity of like this is like a
+an account that you use just
+for development just for playing around
+or anything like that no matter what it
+is
+make sure you
+uh have a budget in place i'll have a
+video i'll throw it up somewhere um
+and you will know how to do that
+but yeah definitely make sure you
+understand how to
+implement budgets implement budgets and
+have them in place as well right
+the next one i would say is not using a
+cli or not having linux skills or
+command line skills in general like so
+let me show you let's switch to my
+screen here yeah so this is the cli and
+i want to just delete this group delete
+this uh rbac demo that i just used for a
+demo right that's literally all i had to
+provide
+goodness
+as i make a mistake right uh let's go
+back here i just need to do n i think
+all right then i hit yes and then
+that'll delete the group versus actually
+me having to go into like
+portal.azure.com
+portalportal.azure.com
+then signing in
+then going to
+my actual resource groups
+then finding the resources you know make
+sure it's filtered correctly all that
+stuff blah blah blah blah right you get
+what i'm trying to say make sure you
+have uh you know everything that you're
+implementing with tutorials and when
+you're getting learned like you're just
+getting started with cloud and you know
+maybe you're saying for certification
+whatever it might be any examples of
+things that you see done in the portal
+look up the commands and how to do them
+on a terminal on a command line and use
+those okay solid i have a bunch of
+sessions that i've done for the past
+almost two months that use a lot of cli
+things take a look at those alrighty
+mistake number three that i see is
+not documenting your projects
+i wish i would have had blog posts or
+videos on every single thing
+that i did when i got started
+because i look back now as like a
+technical content creator i look back at
+all the beginner content that i could
+have created that has so much value
+because
+it's extremely weird rare to find
+beginners creating big content on like
+their beginner level like beginner level
+content is always by people who are like
+intermediate or higher up there
+uh but like documenting your projects
+and the things that you're getting
+started with or doing is extremely
+valuable and it's also a way for you to
+look back
+on your progress share with others you
+know develop a portfolio and sort of
+grow your online presence which i tell
+you all this all the time i got my job
+at microsoft because of this youtube
+channel because of the things that have
+happened around this youtube channel and
+i highly recommend you have a blog or or
+uh you know twitch channel or a youtube
+channel whatever it might be whichever
+platform you're comfortable with maybe
+it's tick-tock maybe it's instagram
+whatever it is
+just document your stuff in some sort of
+way right
+um
+yeah do that i have a i have a github
+repo that sort of has this outline of
+how to start your own channel in seven
+days i'll link that somewhere somewhere
+and it's sort of just like this i guess
+day by day kind of program i guess
+um well it divides up
+like all the tasks that you need to do
+over the goal is to get you from nothing
+to a chan to one video published on your
+channel in seven days so if you are
+interested in youtube take a look at
+that
+but yeah document things like
+why you're learning this what challenges
+what didn't work what did work things
+that you want to improve all that kind
+of stuff it's fantastic or maybe explain
+some concepts whatever you might be
+right
+um
+the next mistake i see a lot that
+beginners make is not consuming
+non-tutorial content and this sort of
+goes into
+the topic of developing who you are as a
+like with your people skills like a
+human being who's a professional in
+cloud right um i mean by like uh like
+reading books
+are not necessarily tutorials but maybe
+more about like the business side of
+cloud or um something like i don't know
+the phoenix project the unicorn project
+tools and weapons um
+just books around technology in general
+um in cloud in general
+or podcasts like the cloudcast or
+there's also
+every single cloud platform has podcasts
+as well um consuming that kind of saw
+that isn't something that you just have
+to like step by step by step like
+tutorial but sort of it gives you more
+context as to like why services matter
+what things or what news things have
+happened as well it's going to make you
+more of a well-rounded professional i'm
+not saying that every single minute you
+have to sort of fill with this
+non-tutorial type content but i've been
+i've gotten a lot of value from
+like podcasts and news and staying up to
+date with just what's happening and it
+also helps me
+fear feel fear feel less fomo when it
+comes to topics around cloud because
+it's like i'm in the know of what's
+going on i don't necessarily um i'm not
+going to spend time learning it i'm not
+going to become a professional every
+single thing that happens but i'm in the
+know when there's an update uh when
+there's new tech or stuff like that
+right
+so that i think i would say i would
+highly recommend you not just go down
+a rabbit hole of tutorials but you know
+diversify okay all right the last
+mistake i feel a lot of y'all make um or
+a lot of us when
+or when i ma i made as well as a
+beginner right i'm not trying to put the
+blame on you i'm just trying to give you
+a heads up uh it's not participating in
+community
+i'm not saying you have to become like a
+tech twitter influencer or anything like
+that but you know sharing your stuff
+providing feedback sort of networking
+with your peers building sort of this um
+network of people that you
+are like close with online or in the
+cloud space things like that is is
+genuinely very valuable and it's not
+just like oh the job opportunities that
+you could get which i've gotten several
+because of my presence on like twitter
+and youtube but also like the friends
+and and the colleagues that you can make
+like for example learntocloud.guide
+which we're now turning into a web app
+is being built by with two friends of
+mine antonio and rishab and we all met
+through twitter right um a lot of
+colleague people who are now my
+colleagues from microsoft i met them on
+twitter and things like that right so i
+think you're sort of doing yourself a
+disservice if you're not at least in the
+know of these communities that are
+available there's like there's reddit
+there's uh twitter there's linkedin
+there's tick talk there's there's so
+many sort of cloud communities out there
+that you can become part of
+and i feel like not not only just like
+knowing more people but like sort of
+getting your eyes more eyes on your
+stuff um it's for free it's just
+available for you to do out there why
+not
+i'm going to throw a sixth one sixth
+thing to this list which is umnot
+wanting to learn to program
+i think when a lot of people sort of try
+to get into i've heard from beginners
+like i want to get into cloud because i
+don't want to code or i don't want to
+like
+learn how to program and i think you're
+only doing yourself a disservice um by
+not understanding like the fundamentals
+of a programming language
+mainly because the things that you can
+build with code is just amazing of
+course there's other things like low
+code no code and those kinds of
+solutions and i'm not saying it's not
+worth learning those things but really
+when it comes to like cloud and
+automating things you're going to be
+using something like bash or powershell
+or python to script your tasks anyway
+and you're going to learn a lot of
+fundamentals that can lead you into
+programming from there and taking like
+an extra step i know it takes a lot of
+time i'm currently sort of re-learning
+how to program with russ i told you on
+the last video
+um yeah it takes a lot of time but then
+when you can sort of build literally
+anything because you're not a program
+it's going to set you up for success
+right um so i would say like don'tdon't not want to learn how to program
+right um but yeah anyway those are sort
+of my five or six uh things i want you
+all to watch out for
+um
+and yeah if you have any questions
+recommendations comments any of those
+kinds of things you know where to leave
+them i will see you in the next video

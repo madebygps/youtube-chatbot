@@ -1,0 +1,123 @@
+what's going on everybody so i was just
+remembering this
+story so i figured why not share it with
+all of you so if i could prevent
+this from happening to any of you i'm
+totally down for that so anyway
+i was a junior cloud engineer and i was
+just assigned my first task where i was
+actually going
+to own the solution end to end up until
+then i was used to working with
+you know other engineers and working on
+projects that were led by
+you know led by them obviously they had
+more experience and more knowledge
+than me so i would just work on pieces
+of their projects but i didn't have to
+make any
+decisions necessarily on architecture or
+which service to use or anything like
+that
+so i'm assigned my first task and i'm
+excited of course
+and since i was new i was given a little
+bit more time to actually research
+stuff so i remember sitting down with a
+list of services that i wanted to try
+out
+and i log into my azure portal to my dev
+test subscription
+and i didn't set up budget or billing
+alerts on
+the subscription beginner's mistake uh
+honestly this whole thing was
+preventable if i actually had done that
+but i did so anyway
+i remember playing around with azure
+service bus which if you're not familiar
+it's a messaging service
+in azure and it's quite expensive um
+i mean at least it was back then um but
+anyway yeah i played around with it for
+like an hour or two
+and then i you know logged off and a
+couple of days go by maybe a week i
+can't remember exactly the timeline
+and i get an email from my boss and it's
+something like hey there's this charge
+on our invoice that i don't recognize
+can you log into cost management and
+take a look
+get more details and i'm like sure i
+didn't think much of it i really didn't
+think it was going to be my fault really
+so anyway i realized that that charge is
+associated with my dev test
+the subscription so i get more details
+and i realize that it's that's
+that uh resource that azure service bus
+resource that i never erased
+typically i'm careful even from the
+beginning i've always been careful with
+like removing resources when i don't use
+them
+nowadays every cloud tutorial that you
+look at there's always a disclaimer
+there that tells you hey
+i'd like at the bottom like hey remove
+this resource when you're done
+i just didn't so i emailed my boss right
+away
+hey i'm so sorry take full
+responsibility feel free to deduct the
+charge from my salary or whatever
+um and then you know send the email and
+then from the time i get a response
+uh i it was probably like a couple
+minutes but it felt like an eternity to
+me
+and i was thinking like man i'm gonna
+get fired how could i do this such a
+silly mistake
+um you know i just got promoted like you
+know all that kind of stuff so
+uh my boss pretty much was like hey
+don't worry about it just go implement
+billing alerts and budgets
+uh in your subscription and you know
+beginner's mistake that's pretty much it
+uh so shout out to that boss
+for turning this mistake into a learning
+experience
+uh thumbs up for that uh but yeah again
+super silly mistake easy to prevent uh
+and if you are all getting started with
+projects or learning cloud
+i highly recommend to take just some
+time to look into
+cost management and whatever cloud
+platform that you're using right
+so yeah anyway uh don't forget we have
+the az900 live stream
+come hang out learn about azure study
+with us i'll make sure to leave that
+link
+in the description also i'm doing
+an azure study hour every friday for the
+next month
+on twitter on the icloud guru twitter so
+you can come and ask me anything related
+to azure i will have time to sit down
+and answer all of your questions
+uh so that's gonna be a fantastic time i
+can't wait to read all those tweets
+and that's pretty much it if you enjoy
+these kind of like short stories about
+experiences that i've had in my cloud
+career
+let me know i'd love to share more and
+yeah
+if you want to talk cloud hit me up on
+twitter at made by gps
+i will see you in the next videoyou

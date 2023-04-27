@@ -1,0 +1,1037 @@
+[Music]foreign
+[Music][Music][Music][Music]
+foreign[Music][Music]foreign[Music][Music]foreign[Music][Music]what up everybodythis camera's way too close
+um actually
+maybe not that badhow we doinguh mic check two two oneBennett
+Christopher what's going ontime to do a little workso this is what I got going on here
+what up JPum
+here we go so
+you all are probably familiar with the
+cloud Rosemary challenge here's mine
+and then the counter's not working so
+we're getting an error not name not
+resolved
+I also want to add a project section
+here
+so
+let's see what we can dolook at that JP and
+Christopher in Brazil that's awesomeall rightlet's take a look here one second y'allI don't even think I have this code on
+this machine like I haven't worked on
+this project in a whileuh resume Azure is no easy dude
+no I don't think I have thisit's time to go to GitHubuh
+share with my stories I don't even
+remember resume let me see it's one of
+these
+I don't know if it's this one or this
+oneresume it's yeah it's probably this one
+it's a refactor
+to.net.net sixyeah I should be this one all right so
+let's get this code hereI get clonealso what we can do is do like a z
+group listuh not let's do AZ group list
+output table
+and
+strg
+it's not in this subscription
+let's do AZ account setI don't know hold onI have to find the right subscription
+because I don't think I'm working on
+that one
+when I joined Microsoft they gave us
+like monthly credits
+um so there's like a certain amount of
+credits that you can use every month for
+like your own things to learn and
+whatnot
+um and I remember that that subscription
+was a different one than the exist like
+I had to create a new subscription or
+something like that
+so now I gotta go find what the name of
+that isuh it's called it's called Microsoft
+Azure okayall right so easy account set dash dash
+subscription
+and then we'll do that
+so if I do a z group lists output table
+Cloud resume challenge here we go all
+right so AZ function app
+um
+function app list
+and the resource Group actually G
+Cloud resumeit's made challengeokay so there's no function in there
+that's probably what's going onum
+all right so I have the code and I think
+I just have to getI think I just have to provision
+the CI CD to a new function appso let's take a look hereCD Azure resumeum
+let's open this up in codeI'm looking forward to that video from
+earlier I haven't gotten a chance to
+watch it yeah yeah
+the developer CLI is awesome
+I
+want to package
+this project this resume into that oneumso it'll be a lot easier so people can
+just do like ACD
+up dashes template and then use like
+this template and then they'll have like
+a full implementation in their cloud
+uh hold on let me answer some work stuffif you all are on Twitter did you all
+see that that boot camp boot camp
+scandalhey GPS how much do you spend monthly to
+maintain your projects online I'm an
+absolute beginner following your video
+about how to be a cloud engineer
+um so for example this this resume
+project runs for like less than a dollar
+a month
+um
+I probably I'm looking to run the the
+cloud dictionary too that's probably
+going to be some like 10.
+20 a month
+with like moderate amount of traffic
+um
+yeah but I don't really so the
+difference is I don't run
+stuff too much
+like I'll deploy them and then once it's
+done like for whatever use case or what
+demo or whatever it is I'm using
+then I'll tear it down and then I'll
+have just infrastructure that's code so
+I can bring it back up wheneverokay back in region done at six we're
+using Windows function app
+um so that's why I don't really spend a
+lot monthlybut the goal is to make the cloud
+dictionary project to be one that runs
+every month to have like a real product
+in production
+and like my hero project uh so yeah
+let's see done at six so we just need a
+Windows function app
+I'm going to use a portal for thatuh
+go uhresource groups I have this open another
+one another one uh just because I don't
+want to switch this
+yeah create
+function appfunction app create
+uh I would highly recommend
+serverless projects
+uh let me see if I can get the same name
+here
+back in six what's the name of thisget visitor counter so we're going to
+call it the same thing get visitor
+counter
+uh
+runtimestack.net.net six ISO
+is this isolated yes this this is
+isolated right hold on is this isolated
+uh I mean if I did it it's probably
+isolated
+let's take a look here back and API six
+to get counter yeah this is isolated
+okay cool
+East us2 Windows consumption
+all rightmtbf yeah that mtbf
+boot camp
+like I just keep reading more and more
+tweets about it and I just I'm just like
+so surprised of how much fraud and scam
+went into that boot camp it's crazyum that the book The this is I'll put
+this in chat
+here
+uh so this is the cloud resume challenge
+but if you're looking for the serverless
+resume API
+um that's I'll give you this one too
+serious resume API
+this one I and this one is cool because
+the resume API is built in a way that
+you just follow the steps and you'll
+have it deployed whereas a cloud resume
+is more so just an implementation that
+isn't documented in that way and this is
+also using Code spaces so you don't even
+need to download anything locally I've
+provided a
+um a Dev container configuration with
+everything that you'll need so it
+installs and then restores everything
+for you
+so I think this is actually a pretty
+good project for like if you want to
+spend a couple of hours on a weekend or
+something like that getting some
+Hands-On stuff
+so do check that out
+uh all right so what was I doing I was
+creating a functionso what's going on here is I erased that
+the subscription where the function for
+my counter because here it's supposed to
+have like a counter uh
+I erased it on purpose
+um like the the descript the
+subscription is disabled or it got
+disabled on purpose
+so now what I'm going to do is just
+deploy a new function to a subscription
+that is enabled
+um and this is better too because I was
+before I had multiple resource groups so
+now I'm just going to have one Resource
+Group
+um
+which I think is better
+it's a little more organizeduh hold onokay so let me see here deployment is in
+progress looks good
+all right let's give that a secondeasy night wait hold on taking my easy
+900 this week that's awesome
+that's a great first step
+I constantly tell people that the 900 is
+not like some people try to undervalue
+it but I remember taking that one and
+barely passing and that was with like
+two years of azure experience so so
+great it gives you like I was talking
+with Lucy about this when we were
+streaming the other day but more than
+anything it just introduces you to
+learning cloud and how to study for
+certifications how to take
+certifications and I think that is a
+valuable skill set on its own
+what up Jay
+what's going on everyone all right so
+I've deployed my
+I've deployed my function app
+cool so now if I run that same command
+that I did before which is this
+This Cloud this thing you see I get a
+result here I can probably even do
+something like
+hold on there's so much information I
+don't need all this information I just
+need the name of itwhat is the name of this thing let's see
+app service plan do do enable host host
+type
+it's probably just name right oh yeah
+yeah okay so then if we did something
+like
+query Dash Dash
+querythen we'll do do do name
+name
+close this close this
+we're gonna get that visitor counter
+here
+clear I'll do that but one more I'm
+telling you y'all so understanding James
+path
+so like the reason that this query here
+works
+this this works like what to put in this
+double quotes once I understood how to
+actually do that it's such a better and
+more efficient experience using a CLI
+when you can actually filter through
+what you're looking for
+and then you could probably do something
+like
+I'll put tsv
+and then assign that to our variable
+which I'm going to do so I'm going to do
+font actually can I
+how do I assign variables here I don't
+think I can do that
+can I do because I'm not in bash
+technically I don't know if this will
+work yeah I don't know how to do it in
+the windows one
+I'll probably have to do it in like WSL
+let's do this hereuh what framework did you use for the
+front end application
+I don't remember let me see
+front end is probablyoh it's just HTML
+HTML is good old HTML and CSS that's it
+and some JavaScript that's itset oh you can do set okay sweet let's
+do that then let's do set
+function
+oh sweet how do I print this out though
+it's not Echo right
+okay can we do
+is it like dollar sign function
+no oh my goodness hold on
+how do I Echo
+function is it like that no how do I
+Echo itwhat up Garcia Echo function that's not
+working in I'm in Windows terminal
+I I I need to be in Bash that's my
+problem
+hold on AZ account
+set subscriptionit's called like
+what's it called it's called like
+Microsoft Azure subscription
+so oh goodness hold on setokay clear so now if I do
+the same commands that I was trying to
+do here
+uh this year
+I can do this here
+but I want to do
+uh function equals and then put this all
+inside of
+um
+and I do Echo
+function
+oh no I did this wrong hold on I just
+want it to d uh
+[Music]
+I think I have to do this
+how does it just return
+like thatthere we go perfect
+look at my bash skills I'm getting
+better at this
+okay so nowlet me take a look here my workflow my
+back end I got that good visitor counter
+check out Azure credentials your secrets
+credentials work sign and version find
+under version five Azure function
+package path that's fine
+Azure function app name Azure function
+app name is fine Azure function package
+path Azure functions
+I probably need to update the publish
+profile so go herea secret actions
+to do credentials is probably fine I
+need this
+so let's get that
+um I have I actually have that here I
+have the command that I need to use
+uh this one here
+all right we're gonna paste that in
+there and I just need to change
+the resource Group is cloud resumechallenge Dash Resource Group
+uh and then the function name is
+whatever I saved in the function
+variableah what did I do wrong hereCloud resume oh my easy group list
+what is the name here
+oh it has dashes in it okay
+cloudresume
+challenge like that
+okay cool that works and I copy this
+here
+and then I go to my actionsupdate that secret
+my security key
+this is what I use
+for
+authenticating so much easier I mean so
+much better than MFA I mean like
+authenticator appsit would be nice if you review our Cloud
+resumes and give us some tips send them
+send them
+learn to Cloud guide gmail.com send them
+and I'll review themokay cool
+soI actually don't think I'm I didn't make
+any changes here did I I think I'm cool
+with everything that's here
+probably what I'll need to change
+eventually is
+the app settingsokay let's go into actions
+deploy backend.net6uh uh we'll just we'll can I run this
+from here no can I where can I run this
+from
+oh no there's no like on workflow okay
+we're gonna have to go tohere actually nolet's go here code workflow backend six
+and then I'm just gonna add
+onworkflow what is it workflow dispatch
+this patchoh no this goes up hereI think that's the right one that might
+not be the right one I know I configured
+something similar to this up herecode good for close Builds on we'll
+follow this patch okay I'm just missing
+this year
+start commit commit okay
+[Applause]
+let's see if this worksuh done at six now we can do a run
+workflow see so adding that workflow
+underscore dispatch to the on which will
+allow you to have this run workflow here
+so let's see if it actually worksthe code should work
+though the code probably needs to be
+refactored like if I'm looking at this
+like I'm pretty sure I could make it
+like clean it because my.net skills are
+definitely significantly better now
+so we'll take a look
+so if you are sending me your resumes
+make sure to remove any data
+that you don't want me to publicly show
+like you don't want to dock yourself
+remember that soall rightso it's running let's see if this runs
+successfully I don't think I've ever ran
+a GitHub workflow GitHub actions
+workflow successfully on first tryso how's everyone doing let me see Echo
+probably I got so I got tired of trying
+to figure out the windows terminal
+proper command to print out a variable I
+just went I just switched into WSL
+W cell is
+freaking awesome I love it I love it
+uh also good news good news I finished
+my rough draft on my outline for my
+Linux bash course
+right now it's looking to be around 25
+videos and I ran it by my potential
+co-host so we're going back and forth to
+kind of like Define it it's so hard to
+pick what should be
+what should be in like a beginner
+curriculum
+um
+but that's kind of where we're at at the
+moment
+but that's going wellall right let's take a lookjust a random question what is your
+internet upload speed I don't know let
+me take a look I'll do I'll run a speed
+test railuh
+well it's going
+W still stopped me from buying a Mac I
+have a Mac
+I have an M1 Pro
+that I just feel so bad that I bought
+because I don't use it because just
+Windows is perfect for everything
+I think I'm gonna sell it
+umI don't know
+yeah it's just like sitting there it's I
+just feel like it feels like and I hate
+wasting money so
+it's kind of like one of those purchases
+that pisses me off that I made
+umwhat up udx uh my bad Echo oh you need
+the percentage signs you're right you're
+right that's how you do itmy download is 142 my upload is 0.09I don't know if that's good or bad but
+that's what I gotuh so let's see if this works I like
+doing these one-off Cloud projects with
+y'all
+um
+that's cool because I don't really know
+if it's gonna work but we're gonna debug
+it live all of us together
+uh we're running the functions action
+I wonder if this needs to be updated
+we'll seelet's take a look look so another
+Improvement I want to do with this
+workflow is right now it's deploying to
+a Windows Azure function I want to
+deploy it to a Linux
+functionbut I can I can do that pretty
+straightforward I don't know if I'll do
+that today but I do want to do it
+maybe your streaming's eating that
+upload by the way 0.09 my voice is Tiny
+probably
+but hey it's working
+yeah
+umwhat laptop are you using for day to day
+I have a custom PC
+I have a um
+I have a 2060 card AMD ryzen 5 32 gigs
+of RAM two terabytes of storage
+uh I've got like a water cooler those
+kinds of things
+um
+I just think for the amount of money oh
+my goodness it worked I just think for
+the amount of money uh it makes more
+sense for me to
+put it into a custom PC because I don't
+move around a lot for work I have a
+think pad I have a p14 that thing is a
+beast so that's the laptop that I use
+when I go to the office I'm actually
+going to go to the office tomorrow do
+you all want an office tour video
+but I'm gonna be there tomorrow so I'm
+going to take my laptop with me but when
+I'm like here here I have like multiple
+display got a custom PC over here
+um
+I'll probably do like a new setup Tour
+on my Vlog Channel
+um so yeah all right uh it looks like it
+works let me look at this here
+hereuh overview refresh
+so something came in there's some
+activity hereuh let me show you all this
+so there's some activity here so if I go
+toleft side functions we should see it
+here here we go get visitor counter
+but this probably doesn't workbecauseit doesn't have
+uh
+uh the configuration
+so this probably needs
+access the cosmos DB it probably also
+needs access toum let's take a look
+so let's go back into our good old codeTor would be cool yeah
+um I'll do I'll do I'll record maybe I
+don't know no promises
+API net six uh let's look at our
+okay uh give us their counter and let's
+see which ones are they referencing
+so we need a connection string cool so
+let me add that
+where did my
+I'm going to add them in here
+I'm going to move this over herewhat up doorsuh okay
+like thisuh application and then I need to go
+find my Cosmos DBconnection string
+anyone have experience with Cosmos DB
+so I've used both the SQL API and then
+the mongodb onethere's pros and cons to both of them uh
+I think I like working more with the SQL
+API specific to Cosmos DB because it's
+sort of like a native experience the
+cosmos DBA API I find that it lacks from
+like the actual like up-to-date Cosmos
+DB
+uh where are my keys here copy this here
+okay and then I also need
+okay that connection string that's fine
+uh I wonder if we need storage I don't
+think we need storage
+let's see go back in here counter
+I don't think this is referencing
+anything collection name because we're
+we're hard coding in which I shouldn't
+do but for now that's fineum
+anyone else here in Seattle area
+sometimes I wish I lived in Seattle
+because I would have access to so many
+just Microsoft people like to just work
+with in person I think that'd be so cool
+but I don't really like
+Seattle weather or
+the area in general
+uh okay so now if I goall right it works people so now I have
+this hereum that looks like C sharp this is C
+Sharp I am a C sharp developer you are
+correct
+so if I refresh thislet's see if it works oh hold on I think
+I might
+need to enablecourse some more tools developer tools
+yep I knew it so I need to go here here
+uh hold on here
+if we search for if we search for course
+oh it's right here
+I need to add it from
+this pagehere here submitoh wait wait wrong one wrong
+that's the wrong one we need to go to
+the function
+go to Resource course search it hereuh uh where where to gowhy is it not showing at me oh here it
+is
+boom
+there
+save okayuh I agree wait wait what is it are your
+chats live typically available on your
+channel after you finish them yeah
+the the live the full lives are
+available
+publicly but then I get I get um
+I have my editor do like summarized
+versions that but those are available
+only to members but the full thing the
+all the content
+um is available publicly after Okay cool
+so now if I do let me put this over here
+if I refresh this here let's take a look
+uh
+website called oh here we go it works
+huh
+so a couple of things I want to add I
+want to add a projects section here
+and then just showcase like two or three
+projects perhaps
+but I'm not gonna do that now at least I
+know that this works so that's coolthat's a little a little Cloud
+[Music]
+um
+a little Cloud action for today
+so yeah people I'm gonna send this over
+for y'all if you want to build your own
+highly recommend it and then I also
+recommend you do this one the serverless
+resume APIum
+boom
+uh probably start with this one because
+it's like a smaller scope
+uh the serverless system my API has a
+smaller scope but you're getting
+Hands-On with similar services
+but this one I also built it in a way
+that you can follow it as a workshop
+um
+and like you have like you're using a
+bunch of commands and all those good
+things here all right so let's now
+switch intofull screenuhlet's seeokay coolwhat happened let me close this let me
+close this
+I hear my girlfriend talking really loud
+on the phone in the background it's kind
+of distracting
+uhuh okay coolall right let's answer some questions
+people
+what do we got what do we got did
+everyone see the boot camp fraud scam
+going up on Twitter do you use it did
+you use a template
+um
+wait hold on
+oh my they're doing another mtvf space
+right now I don't like I can't be in
+Twitter spaces for more than like
+20 minutes because then it took us too
+chaotic for me and I'm like I gotta
+bounce
+anyway did you take your resume style
+idea from some website uh I believe I
+did I believe it's a template that I
+mentioned somewhere
+um like in the instructions oh at the
+bottom it says template by CV
+uh and then that links to the template
+there so if you go to the footer of my
+page you'll find it there
+uh let me go back here yep yes I use the
+template yes yes I did because I have no
+skills when it comes to CSS or design in
+general so
+let's see how do people learn what
+constant changes and updates so for me
+I'm kind of like in the flow I'm in the
+flow already of just always doing
+something in Azure so it's easy for me
+to kind of like be like okay today I'm
+learning this service the next week I'm
+like doing this but it's all like very
+related
+like I will like and I can always
+like so like for example functions Azure
+functions is a service that has several
+Integrations with other Azure services
+so
+it was it kind of easier it makes it
+easier for me to learn other Azure
+services in relation to functions
+um so it makes it easier to pick up
+something new
+so I'm kind of kind of just in that flow
+of like every all the time just working
+on something
+but it's definitely like a it's like
+you've got to take it easy you gotta
+like become comfortable with thatlast night they kept muting folks
+talking over each otherthat that that boot camp scam is like
+just crazy I mean I stand by
+my opinion of I just don't recommend
+boot camps in general
+unless I have
+done them firsthanduh what did I miss hereI just started studying for my aac900 on
+CBT really excited that's awesomeI just found the ACG video for build my
+resume is that a first group Club
+project I have in ACG sub yeah it's a
+good first Cloud project
+um I'm the host of that one the Azure
+resume one when I worked at umwhen I worked at a cloud Guru I did the
+the Azure version there's some updates
+obviously because that was like you know
+over
+two over a year and a half ago
+but if you keep if you look at my GitHub
+repo all the codes up to date so that
+would be good
+hey I discovered your YouTube channel
+like a week ago how I became an itvid
+thank you a lot for your work I've
+already learned a lot it's awesome
+by any chance you have a video on your
+OS setup no that is like a good I got
+I've gotten that request too
+like my kind of like developer setup uh
+the tools and things that I use
+so I could potentially do that I mean
+I'm just like I'm a big
+WSL so via's code okay let's do
+WSL vs code
+um I guess okay Ubuntu and WSL vs code
+Azure CLI
+and then and Asher that's kind of like
+my stack
+um
+I use a thunder client inside of vs code
+a lot for like API calls
+if I need more features I use insomnia
+but thunderclient tends to do like the
+majority of the workyeah I've been playing around with using
+def containers a lot more too
+so I'm not installing stuff locally
+yeah
+Ubuntu is great
+uh
+uh what is the name of the boot camp
+that did the scam it's called like
+MB MB something and be something my tech
+best friend mtbf there we go
+my tech best frienduh yeah I got tired of this college name
+here boot camps on Twitter ad so I wrote
+a post to drive them shared it on the
+MTV after
+oh I gotta check that out
+Ubuntu is great it is great
+why does Ubuntu why does everyone like
+Ubuntu because of its compatibility
+I feel like a super user user friendly
+and I think as like a first distro
+and actually not just first distro I
+think just as like if you wanted it to
+be your day-to-day your daily driver
+it's a great distro for that
+um there's like a lot of documentation a
+lot of just Community around it too
+personally like my top tier like my
+absolute favorite is pop OS but I don't
+think there's a pop OS option for WSLwhy does every oh hold on
+I can't leave the light oh yeah hello
+are you afraid of recession layoffs will
+start hitting Cloud devops jobs they
+already have like Microsoft like my
+employer laid off like 2 000 people in
+August 1 000 people recently I'm pretty
+sure more are coming
+um every day I kind of feel like oh
+today I might get an email and I might
+not have a job anymore
+um but you know I as you can see from my
+financed videos like how I spend my
+salary in those kind of videos I'm
+pretty smart with saving so if something
+did happen
+um I would have a backup plan for a
+couple of months
+what's up yeahsuper great compatibility how do you
+like hold on hold on hold on how do you
+like the.net ecosystem
+so funny story with net I first was sort
+of obligated to learn it when I was
+working as a CIS admin because it was a
+small company and they needed some help
+on
+I think it was like an MVC project and I
+didn't
+want to I don't know because I I had
+done some like research on like C
+sharpen.net and then
+um I think I just saw a lot of
+like people saying it's Legacy is old
+don't learn it you're not going to get
+anywhere
+but and then I was like oh can I I want
+to do like python like Python's the
+coolest thing like I wanted to do it
+but
+then I kind of sat down and I thought to
+myself like oh well if you're don't want
+to do.net you're not going to get this
+project and you're not going to get the
+experience
+so I ended up obviously learning doing
+there but it wasn't like my first choice
+it was sort of
+like an opportunity brought on to me
+so
+yeah and ever since then it's just like
+the tool that I've been leaning into
+more and more mainly because it's like I
+already have experience with it and if I
+have the option to pick a language I
+already know
+and then I can spend time upskilling in
+other services instead of having to
+worry about the programming language and
+that's what I'm going to do
+I'm not in a field where like the
+specific language or like the
+performance or the optimization or
+anything like that matters
+um so yeah
+but if I didn't know if I wasn't leaning
+more into.net I would probably want to
+become a rust developer
+super a great compatibility in the best
+region fruit boot into it yeah it just
+works it works fantastic
+like it just and that's what you want
+with an operating system
+how often is degree required for it I'm
+I'm with a company at 19 as an
+apprentice
+I mean it can become a hurdle but
+you can get into it with that oneuh
+uh what made you choose Azure over AWS
+because the place that I was working at
+so I studied for AWS first so I spent
+six months studying for also I spent six
+months which is unheard of nobody these
+days spends six months studying for
+certifications
+but I spent six months studying for my
+AWS certified developer associate
+and then I landed a job at an Azure shop
+and they were like you can get as much
+Cloud as experience as you want but you
+got to learn Azure you got to do it
+Azure I was like all right cool so then
+again it's the same thing I had momentum
+and I was able to lean more into Azure
+as I continued like moving in up and up
+in my career so yeah that's why
+uh let's see herewhy doesn't the language and performance
+matter in your space because
+I do a lot of
+umhow do I explain it like I do a lot of
+demos
+um or like or events or product work
+where the language is already kind of
+selected so I'm not like a technical
+lead or a solution architect defining
+anything
+so I kind of just come in and tag in or
+on projects.net is already what's being
+used
+um
+and they have selected.net for whatever
+reason is so I mean the re so I probably
+should reward that
+I'm not in like you know when you're
+building like command lines or you're
+building like underlying infrastructure
+or you're building like I don't know
+these tools that are meant to or
+projects apps whatever that are meant to
+be super lightweight like like rust as a
+language comes to mind that's used a lot
+for that type of work
+then you would probably have to go with
+a different language
+[Music]
+um
+so that's why I say it doesn't matter
+for meuh
+uh so so about the school thingif you have the opportunity to go to
+school and you can afford it and you
+feel like that way of learning is the
+best for you go for it absolutely
+but if you have the slight hesitation
+you're like I don't feel like this is
+for me then just know there are other
+options for you to learn okay you don't
+have to absolutely go to school
+there are benefits from going to school
+like networking and obviously having a
+degree does still have some value
+but you can definitely get into it
+without ityou learn a cloud inspired me to host my
+owntrue Nas on KVM
+hype Liberty hypervisor hosted on my
+Ubuntu Server current to play next Cloud
+on true Nas then offside backside on
+blob storage that's awesome that's a
+sick project right there
+Anyway by some blog posting completely
+new but I know I know I will regret not
+blogging or documenting on my cloud home
+lab projects just been knocking them out
+to be honest
+that is sick so I I would say if you
+already have any projects that are like
+you're done with
+um take take a take a second to like
+reverse engineer it in like blog or use
+videos
+um and kind of just speak to
+how you put it together any challenges
+you encountered any things you would do
+differently any things you want to
+improve
+um for further projects like I think it
+would be really sick if you had like the
+approach of oh like this I'm building
+this and this week I did this Pro
+progress next week you know it's kind of
+like as you go I think that would be
+super sickuh but like don't feel like one blog
+post needs to cover absolutely
+everything like it can be as specific or
+as general as you need it to be
+um but definitely if you set out to
+create blog posts I would say if it's a
+series try to complete it
+um
+yeah
+and just don't have like these massive
+goals for each post I would say that toouh wait where are we this is so awesome
+I was literally just trying to do this
+challenge a couple of weeks ago yeah so
+once this live is done you can go back
+to the beginning of of the recording and
+see what I fixed what essentially what
+had was broken was I deleted my phone no
+my subscription got disabled that my
+function lived into it but I had been
+meaning to move that function into the
+new Resource Group where all the other
+resources for the challenge live so
+today what I did was just create a new
+function and then make sure the GitHub
+the GitHub actions workflow was
+deploying to the correct one
+I want to do another stream where I'm
+working through the code and making
+improvements because I've learned a lot
+more.net and functions since I
+originally created thisyeah sowe're using azda on your Cloud resume
+not no not yet
+um that was actually something that I
+mentioned that I want to put this all
+into
+easy D all I really would have to do is
+Define the infrastructure as code with
+bicep
+and I have already a lot of bicep files
+that deploy to blob storage that deploy
+to because the static sites on blob
+storage and that deploy to functions the
+only hard part I think I'm going to
+encounter it's probably going to be a
+pain is the front door stuff
+but I've been considering moving it from
+Azure front door
+because I got an email saying like oh
+Azure front door classic is getting
+retired so I'm gonna have to move stuff
+anyway uh moving it to something like
+Cloud Fair flare
+so we'll see
+how that goes but yeah I would love to
+make this an Azure developer template
+that way people can do azd template
+Azure resume and then have their own
+implementation ready to gouh I'm gonna use your suggestion as
+video blog posting with weekly progress
+updates easier to particularly my words
+than spilling my thoughts on blog yeah
+and don't feel like you have to be too
+polished
+um
+like I wish I would have documented more
+of my career earlier on
+but I was so scared of coming off like
+if I would have documented my help desk
+days my Sid to admin days and like early
+class engineer days
+I feel like that content would have been
+so much more useful
+than
+like any of the technical stuff that I
+do now
+not to say that the technical stuff that
+I do now doesn't have any use but I just
+feel like there's a lot of stuff that
+one figures out in their career that you
+take how you kind of take for granted
+and would be very valuable to look back
+on but also to share with othersuh let me see here okay awesome well for
+sure I think let's see bicep is the
+thing that kicks my butt mind if I check
+out the infra directories let me drop
+you some some URLs here that are like
+that'll give you uh insight as to what
+so I have some in front in here
+um
+so I said in friend here so if you take
+a look at this one
+this one's just deploying functions and
+storage application insight
+boom but let me also show you theum hold on the azd
+template
+where are you
+to do C sharp SQL
+playlists hold on
+sequel Funk yeah take a look at this one
+here too
+this one's deploying a lot I think this
+is the playing on static web apps
+uh so you have front end and back end
+here
+so that's a good one
+yeah but I think
+bicep was a little tough for me to to
+learn but it wasn't untilum like working on the Azure developer
+template like the to do SQL SWA Funk one
+that I was like okay I finally
+understand this
+you're using Main and resource I saw
+some of the templates like yeah use that
+SEC look at that second one like when I
+worked on that
+um there's a bunch in there there's like
+app there's core
+um they have parameter files
+and this one doesn't have a resource but
+it opts to have a bunch of different
+modules there's a lot in that one that
+was a tough one tough oneyeah it's like with with bicep or with
+infrastructure is code it's like
+if if you can have so much like the goal
+is to have so much abstraction
+like it's like oh can I make this it's
+sort of like the way I think about it is
+like when you're when you're developing
+like a website and you're using like a
+component based framework and your
+mindset is like oh should this be a
+component or should this group of things
+be one componentlike it's like the same concept that I
+have with like bicep and modules like
+so yeah but anyway take a look at thatI'm a simple man give me three services
+and I'm out yeah
+the good thing is like once you figure
+out like a massive thing like this like
+you're gonna reuse a lot of it
+like I never
+from scratch do a deploy a bicep uh
+fashion functional device like I'll
+always just reuse it I'll just copy
+paste
+uh I'll try to I'll try to look I'll try
+to do the azd that would be a good video
+though
+Azure developer template for the cloud
+resume
+it's just it's just the front door stuff
+that's gonna kick my buttyeah
+let me see how long have we been
+streaming for 53 minutes all right
+I'm gonna sign off y'all because it's
+been an hour and it's family time I
+recently adopted a cat
+let me show y'all a picture
+of my cute cat uh I recently adopted a
+cat yes yes so I gotta go give my cat
+some attention
+hold on this picture here
+look
+that's my cat her name is ZoeI gotta go give her attention she's
+actually on the couch right now which is
+right behind my camera
+um but yeah I have to go give my cat and
+my partner attention very important so
+whenever I do my next stream maybe then
+we'll put together some bicep
+infrastructure
+peace out everyone
+oh and don't get scammed by boot camps
