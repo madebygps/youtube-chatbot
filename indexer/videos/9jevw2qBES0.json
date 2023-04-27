@@ -1,0 +1,28 @@
+{
+  "id": "9jevw2qBES0",
+  "title": "How to query CLI output in Azure #shorts",
+  "transcript": "so let's say we were looking for all the\nresource groups in Azure that contained\nthe word Ubuntu in the name for this we\ncan use AZ group list followed by the\nquery parameter which will allow us to\nprovide James path Expressions we're\ngoing to use the contains function which\nallows us to search a string for a\nspecific substring in this case the\nstring will be that name property and\nthe substring would be Ubuntu followed\nby the function part we're going to\nactually Define the expression that\nfirst value is going to be the display\nname so what it shows on the output of\nthe CLI and then that second value is\ngoing to be the actual property that\nwe're looking for so in this case name\nas well awesome this will probably be a\nlittle bit more useful if there's no\nformatting so let's do Dash o tsv which\nwill move that formatting for us and you\ncan actually use this to save it into a\nvariable\nand there you have it",
+  "key_phrases": [
+    "AZ group list",
+    "James path Expressions",
+    "resource groups",
+    "query parameter",
+    "first value",
+    "second value",
+    "actual property",
+    "name property",
+    "display name",
+    "specific substring",
+    "function part",
+    "case name",
+    "Azure",
+    "word",
+    "Ubuntu",
+    "output",
+    "CLI",
+    "formatting",
+    "Dash",
+    "tsv",
+    "variable"
+  ]
+}
