@@ -14,6 +14,10 @@
 transcript*.txt
 /transcripts
 
+# json files in indexer/videos folder
+indexer/videos/*.json
+
+
 # env
 *.env
 
