@@ -12,6 +12,7 @@
 
 # transcripts
 transcript*.txt
+/transcripts
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
